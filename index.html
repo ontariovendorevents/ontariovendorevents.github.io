@@ -1,0 +1,1492 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="color-scheme" content="light dark" />
+  <link rel="icon" href="data:," />
+  <title>Ontario Vendor Events</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,600;6..72,700&display=swap');
+
+    :root {
+      color-scheme: light dark;
+      --bg: #f4f7f3;
+      --surface: #ffffff;
+      --surface-2: #e9efe8;
+      --ink: #14231a;
+      --muted: #506057;
+      --placeholder: #46564d;
+      --line: #cbd7cd;
+      --brand: #165a37;
+      --brand-strong: #0d4227;
+      --brand-soft: #dbeade;
+      --accent: #d9692c;
+      --focus: #17794a;
+      --shadow: 0 18px 48px rgba(24, 56, 34, .10);
+      --durham: #2d7c50;
+      --ajax: #2678a4;
+      --courtice: #b34d32;
+      --pickering: #826318;
+      --whitby: #8b4c70;
+      --clarington: #5c618e;
+      --oshawa: #176b73;
+      --bowmanville: #915c23;
+      --port-perry: #566d2f;
+      --scugog: #7a5f35;
+      --cambridge: #28766d;
+      --mississauga: #9b4f31;
+      --mono: #6a5840;
+      --orangeville: #7e6820;
+      --scarborough: #315f8d;
+      --tobermory: #23717a;
+      --toronto: #914253;
+      --wasaga-beach: #526b9d;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #101713;
+        --surface: #18221c;
+        --surface-2: #223027;
+        --ink: #f0f6f1;
+        --muted: #b4c3b8;
+        --placeholder: #c4d0c7;
+        --line: #35483b;
+        --brand: #69bc86;
+        --brand-strong: #9fd8b2;
+        --brand-soft: #254732;
+        --accent: #f19a63;
+        --focus: #83d59e;
+        --shadow: 0 18px 48px rgba(0, 0, 0, .28);
+        --durham: #69bc86;
+        --ajax: #67b7df;
+        --courtice: #ef9278;
+        --pickering: #d7b65c;
+        --whitby: #d496b7;
+        --clarington: #a8abe0;
+        --oshawa: #72c5cb;
+        --bowmanville: #e7ad69;
+        --port-perry: #a9c86d;
+        --scugog: #d8b77a;
+        --cambridge: #70c5b7;
+        --mississauga: #ed9c7f;
+        --mono: #c9ad87;
+        --orangeville: #d3ba69;
+        --scarborough: #8db8e4;
+        --tobermory: #72c9d1;
+        --toronto: #e398aa;
+        --wasaga-beach: #a8b8e4;
+      }
+    }
+
+    * { box-sizing: border-box; }
+    [hidden] { display: none !important; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      min-width: 320px;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "DM Sans", sans-serif;
+      line-height: 1.5;
+    }
+    button, input, select { font: inherit; }
+    button, a, select, input { -webkit-tap-highlight-color: transparent; }
+    :focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
+
+    .page {
+      width: min(1180px, calc(100% - 40px));
+      margin: 0 auto;
+      padding: 48px 0 64px;
+    }
+
+    .intro {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      align-items: end;
+      gap: 32px;
+      padding-bottom: 28px;
+      border-bottom: 1px solid var(--line);
+    }
+    h1, h2 { font-family: "Newsreader", Georgia, serif; }
+    h1 {
+      max-width: 760px;
+      margin: 0;
+      font-size: clamp(2.6rem, 6vw, 5.8rem);
+      line-height: .94;
+      letter-spacing: -.045em;
+      font-weight: 700;
+    }
+    .intro-copy {
+      max-width: 640px;
+      margin: 22px 0 0;
+      color: var(--muted);
+      font-size: 1.06rem;
+    }
+    .intro-copy strong { color: var(--ink); }
+    .intro-actions { display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-end; }
+    .kofi-button { display: flex; align-items: center; min-height: 46px; }
+    .kofi-button a {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      min-height: 38px;
+      padding: 0 14px;
+      border: 1px solid #d54a48;
+      border-radius: 9px;
+      background: #ff5e5b;
+      color: #1c211e;
+      font-weight: 800;
+      text-decoration: none;
+    }
+    .kofi-button a:hover { background: #ff716e; border-color: #bd3836; }
+    .kofi-button svg { width: 22px; height: 22px; flex: none; }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 46px;
+      padding: 0 18px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: var(--surface);
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 700;
+      transition: background .18s ease, border-color .18s ease, color .18s ease;
+    }
+    .btn:hover { border-color: var(--brand); color: var(--brand); }
+    .btn-primary { background: var(--brand-strong); border-color: var(--brand-strong); color: #fff; }
+    .btn-primary:hover { background: var(--brand); border-color: var(--brand); color: #fff; }
+
+    .toolbar {
+      position: sticky;
+      top: 0;
+      z-index: 5;
+      margin: 24px 0 32px;
+      padding: 16px;
+      border: 1px solid var(--line);
+      background: color-mix(in srgb, var(--bg) 90%, transparent);
+      backdrop-filter: blur(14px);
+      border-radius: 16px;
+      box-shadow: var(--shadow);
+    }
+    .filters {
+      display: grid;
+      grid-template-columns: minmax(220px, 1.35fr) repeat(2, minmax(150px, .7fr)) minmax(230px, 1fr);
+      gap: 10px;
+    }
+    .control {
+      position: relative;
+      display: grid;
+      gap: 5px;
+      min-width: 0;
+    }
+    .field-label {
+      color: var(--ink);
+      font-size: .76rem;
+      font-weight: 800;
+    }
+    .input-shell { position: relative; display: block; }
+    .input-shell svg {
+      position: absolute;
+      top: 50%;
+      left: 14px;
+      width: 19px;
+      height: 19px;
+      color: var(--muted);
+      transform: translateY(-50%);
+      pointer-events: none;
+    }
+    .control input,
+    .control select {
+      width: 100%;
+      min-height: 48px;
+      border: 1px solid var(--line);
+      border-radius: 9px;
+      background: var(--surface);
+      color: var(--ink);
+    }
+    .control input { padding: 0 14px 0 42px; }
+    .control select { padding: 0 38px 0 14px; appearance: none; }
+    .control input::placeholder {
+      color: var(--placeholder);
+      opacity: 1;
+    }
+    .select-wrap::after {
+      content: "";
+      position: absolute;
+      right: 16px;
+      bottom: 20px;
+      width: 8px;
+      height: 8px;
+      border-right: 2px solid var(--muted);
+      border-bottom: 2px solid var(--muted);
+      transform: rotate(45deg);
+      pointer-events: none;
+    }
+    .fee-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 10px;
+    }
+    .fee-value {
+      color: var(--brand-strong);
+      font-size: .76rem;
+      font-weight: 800;
+      white-space: nowrap;
+    }
+    .fee-sliders {
+      --fee-start: 0%;
+      --fee-end: 100%;
+      position: relative;
+      height: 26px;
+      margin-top: 1px;
+    }
+    .fee-track {
+      position: absolute;
+      top: 11px;
+      left: 0;
+      right: 0;
+      height: 5px;
+      border-radius: 999px;
+      background: linear-gradient(to right,
+        var(--surface-2) 0 var(--fee-start),
+        var(--brand) var(--fee-start) var(--fee-end),
+        var(--surface-2) var(--fee-end) 100%);
+      box-shadow: inset 0 0 0 1px var(--line);
+      pointer-events: none;
+    }
+    .control .fee-sliders input[type="range"] {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 26px;
+      min-height: 0;
+      margin: 0;
+      padding: 0;
+      border: 0;
+      border-radius: 0;
+      background: transparent;
+      appearance: none;
+      pointer-events: none;
+    }
+    .fee-sliders input[type="range"]::-webkit-slider-runnable-track { height: 5px; background: transparent; }
+    .fee-sliders input[type="range"]::-webkit-slider-thumb {
+      width: 20px;
+      height: 20px;
+      margin-top: -7.5px;
+      border: 2px solid var(--surface);
+      border-radius: 50%;
+      background: var(--brand-strong);
+      box-shadow: 0 0 0 1px var(--brand-strong);
+      appearance: none;
+      pointer-events: auto;
+      cursor: grab;
+    }
+    .fee-sliders input[type="range"]::-moz-range-track { height: 5px; background: transparent; }
+    .fee-sliders input[type="range"]::-moz-range-thumb {
+      width: 17px;
+      height: 17px;
+      border: 2px solid var(--surface);
+      border-radius: 50%;
+      background: var(--brand-strong);
+      box-shadow: 0 0 0 1px var(--brand-strong);
+      pointer-events: auto;
+      cursor: grab;
+    }
+    .fee-sliders input[type="range"]:focus-visible { outline: none; }
+    .fee-sliders input[type="range"]:focus-visible::-webkit-slider-thumb { outline: 3px solid var(--focus); outline-offset: 3px; }
+    .fee-sliders input[type="range"]:focus-visible::-moz-range-thumb { outline: 3px solid var(--focus); outline-offset: 3px; }
+    .fee-min { z-index: 2; }
+    .fee-max { z-index: 3; }
+    .fee-unlisted-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      width: fit-content;
+      min-height: 28px;
+      color: var(--ink);
+      font-size: .76rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .control .fee-unlisted-toggle input {
+      width: 17px;
+      min-height: 17px;
+      height: 17px;
+      margin: 0;
+      padding: 0;
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      accent-color: var(--brand-strong);
+      cursor: pointer;
+    }
+    .fee-note {
+      color: var(--muted);
+      font-size: .69rem;
+      line-height: 1.2;
+    }
+    .quick-filters {
+      position: relative;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+      padding-top: 12px;
+    }
+    .specific-date {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      min-height: 36px;
+      padding: 0 5px 0 12px;
+      border: 1px solid var(--line);
+      border-radius: 9px;
+      background: var(--surface);
+      color: var(--muted);
+      font-size: .88rem;
+      font-weight: 700;
+    }
+    .specific-date input {
+      min-width: 112px;
+      width: 112px;
+      min-height: 32px;
+      padding: 0 4px;
+      border: 0;
+      background: transparent;
+      color: var(--ink);
+    }
+    .specific-date input::placeholder {
+      color: var(--placeholder);
+      opacity: 1;
+    }
+    .specific-date input:focus-visible { outline-offset: 0; }
+    .date-picker-toggle {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 32px;
+      height: 32px;
+      padding: 0;
+      border: 0;
+      border-radius: 6px;
+      background: transparent;
+      color: var(--brand-strong);
+      cursor: pointer;
+    }
+    .date-picker-toggle:hover { background: var(--brand-soft); }
+    .date-picker-toggle svg { width: 19px; height: 19px; }
+    .date-error {
+      flex-basis: 100%;
+      color: #a52e29;
+      font-size: .78rem;
+      font-weight: 700;
+    }
+    .date-error:empty { display: none; }
+    .date-picker-panel {
+      position: absolute;
+      right: 0;
+      top: calc(100% + 6px);
+      z-index: 10;
+      width: min(310px, calc(100% - 32px));
+      padding: 14px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--surface);
+      box-shadow: var(--shadow);
+    }
+    .date-picker-head {
+      display: grid;
+      grid-template-columns: 36px minmax(0, 1fr) 36px;
+      align-items: center;
+      gap: 6px;
+      margin-bottom: 10px;
+    }
+    .date-picker-head strong { text-align: center; }
+    .date-picker-head button {
+      width: 36px;
+      height: 36px;
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      background: var(--surface-2);
+      color: var(--ink);
+      cursor: pointer;
+    }
+    .date-grid {
+      display: grid;
+      grid-template-columns: repeat(7, minmax(0, 1fr));
+      gap: 3px;
+    }
+    .date-grid span {
+      padding: 4px 0;
+      color: var(--muted);
+      font-size: .72rem;
+      font-weight: 800;
+      text-align: center;
+    }
+    .date-grid button {
+      aspect-ratio: 1;
+      min-width: 0;
+      padding: 0;
+      border: 1px solid transparent;
+      border-radius: 6px;
+      background: transparent;
+      color: var(--ink);
+      cursor: pointer;
+    }
+    .date-grid button:hover { border-color: var(--brand); background: var(--brand-soft); }
+    .date-grid button[aria-current="date"] { border-color: var(--brand); font-weight: 800; }
+    .date-grid button[aria-selected="true"] { background: var(--brand-strong); color: #fff; }
+    @media (prefers-color-scheme: dark) {
+      .date-error { color: #ffaaa6; }
+    }
+    .chip {
+      min-height: 36px;
+      padding: 0 14px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      font-weight: 700;
+    }
+    .chip:hover { color: var(--ink); border-color: var(--brand); }
+    .chip[aria-pressed="true"] { background: var(--brand-soft); border-color: var(--brand); color: var(--brand-strong); }
+
+    .signup-band {
+      position: relative;
+      margin: -8px 0 34px;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: var(--surface);
+      box-shadow: 0 10px 30px rgba(24, 56, 34, .07);
+    }
+    .signup-toggle {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      width: 100%;
+      min-height: 52px;
+      padding: 15px clamp(14px, 2vw, 20px) 11px;
+      border: 0;
+      background: transparent;
+      color: var(--ink);
+      font-size: 1rem;
+      font-weight: 700;
+      text-align: left;
+      cursor: pointer;
+    }
+    .signup-toggle:hover { color: var(--brand-strong); }
+    .signup-toggle::after {
+      content: "";
+      flex: none;
+      width: 9px;
+      height: 9px;
+      margin-right: 3px;
+      border-right: 2px solid currentColor;
+      border-bottom: 2px solid currentColor;
+      transform: rotate(45deg);
+      transition: transform .18s ease;
+    }
+    .signup-toggle[aria-expanded="true"]::after { transform: translateY(3px) rotate(225deg); }
+    .signup-panel { padding: 2px clamp(10px, 2vw, 18px) clamp(10px, 2vw, 18px); }
+    .signup-band::before {
+      content: "";
+      position: absolute;
+      inset: 0 0 auto;
+      height: 6px;
+      background: linear-gradient(90deg,
+        var(--durham) 0 16.66%,
+        var(--ajax) 16.66% 33.33%,
+        var(--courtice) 33.33% 50%,
+        var(--pickering) 50% 66.66%,
+        var(--whitby) 66.66% 83.33%,
+        var(--oshawa) 83.33% 100%);
+    }
+    .signup-band .formkit-form {
+      max-width: 100% !important;
+      margin: 0 auto !important;
+      box-shadow: none !important;
+    }
+
+    .results-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 20px;
+      margin-bottom: 16px;
+    }
+    .results-head h2 { margin: 0; font-size: clamp(1.65rem, 3vw, 2.25rem); }
+    #count { color: var(--muted); font-weight: 600; white-space: nowrap; }
+
+    .event-list { display: grid; gap: 12px; }
+    .event-card {
+      display: grid;
+      grid-template-columns: 108px minmax(0, 1fr) auto;
+      align-items: center;
+      gap: 22px;
+      padding: 20px;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: var(--surface);
+      box-shadow: 0 8px 24px rgba(24, 56, 34, .05);
+    }
+    .date-block {
+      align-self: stretch;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 14px 10px;
+      border-radius: 10px;
+      background: var(--surface-2);
+      text-align: center;
+    }
+    .date-block .month { color: var(--brand); font-size: .78rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+    .date-block .day { font-family: "Newsreader", Georgia, serif; font-size: 2.6rem; line-height: .95; font-weight: 700; }
+    .date-block .weekday { color: var(--muted); font-size: .84rem; }
+    .date-block .year { color: var(--muted); font-size: .72rem; font-weight: 700; }
+    .event-info { min-width: 0; }
+    .event-info h3 { margin: 0 0 6px; font-size: clamp(1.12rem, 2vw, 1.34rem); line-height: 1.24; }
+    .event-toggle {
+      display: inline;
+      margin: 0;
+      padding: 0;
+      border: 0;
+      background: transparent;
+      color: inherit;
+      font: inherit;
+      line-height: inherit;
+      text-align: left;
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 4px;
+      text-decoration-color: transparent;
+      cursor: pointer;
+    }
+    .event-toggle:hover,
+    .event-toggle[aria-expanded="true"] { color: var(--brand); text-decoration-color: currentColor; }
+    .event-toggle::after {
+      content: "";
+      display: inline-block;
+      width: 7px;
+      height: 7px;
+      margin: 0 0 3px 9px;
+      border-right: 2px solid currentColor;
+      border-bottom: 2px solid currentColor;
+      transform: rotate(45deg);
+      transition: transform .18s ease;
+    }
+    .event-toggle[aria-expanded="true"]::after { transform: translateY(3px) rotate(225deg); }
+    .meta { display: flex; flex-wrap: wrap; gap: 6px 16px; color: var(--muted); }
+    .event-details {
+      margin-top: 16px;
+      padding-top: 15px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: .94rem;
+      overflow-wrap: anywhere;
+    }
+    .detail-summary {
+      display: grid;
+      gap: 6px;
+      margin-bottom: 12px;
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    .detail-summary:empty { display: none; }
+    .detail-summary p { margin: 0; }
+    .detail-theme {
+      margin: 0 0 10px;
+      color: var(--ink);
+    }
+    .detail-theme strong { margin-right: 5px; }
+    .vendor-types {
+      margin: 0 0 12px;
+      color: var(--ink);
+    }
+    .vendor-types h4 {
+      margin: 0 0 5px;
+      font-size: .94rem;
+    }
+    .vendor-types ul {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px 18px;
+      margin: 0;
+      padding-left: 19px;
+      color: var(--muted);
+    }
+    .event-tags {
+      margin: 12px 0 0;
+      color: var(--muted);
+      font-size: .78rem;
+      line-height: 1.4;
+    }
+    .detail-list {
+      display: grid;
+      gap: 0;
+      margin: 0;
+      border-top: 1px solid color-mix(in srgb, var(--line) 70%, transparent);
+    }
+    .detail-row {
+      display: grid;
+      grid-template-columns: 112px minmax(0, 1fr);
+      gap: 14px;
+      padding: 9px 0;
+      border-bottom: 1px solid color-mix(in srgb, var(--line) 70%, transparent);
+    }
+    .detail-row dt {
+      color: var(--ink);
+      font-weight: 700;
+    }
+    .detail-row dd { margin: 0; }
+    .event-details a {
+      color: var(--brand-strong);
+      font-weight: 700;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 3px;
+    }
+    .detail-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 13px;
+    }
+    .calendar-link {
+      display: inline-flex;
+      align-items: center;
+      min-height: 38px;
+      padding: 0 13px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--surface-2);
+      text-decoration: none;
+    }
+    .calendar-link:hover { border-color: var(--brand); }
+    .meta span { display: inline-flex; align-items: center; gap: 6px; }
+    .meta svg { width: 16px; height: 16px; flex: none; }
+    .city-tag {
+      --tag: var(--durham);
+      justify-self: end;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 7px 11px;
+      border-radius: 999px;
+      background: color-mix(in srgb, var(--tag) 15%, transparent);
+      color: var(--tag);
+      font-size: .84rem;
+      font-weight: 800;
+      white-space: nowrap;
+    }
+    .city-tag::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--tag); }
+    .ajax { --tag: var(--ajax); }
+    .courtice { --tag: var(--courtice); }
+    .pickering { --tag: var(--pickering); }
+    .whitby { --tag: var(--whitby); }
+    .clarington { --tag: var(--clarington); }
+    .oshawa { --tag: var(--oshawa); }
+    .bowmanville { --tag: var(--bowmanville); }
+    .port-perry { --tag: var(--port-perry); }
+    .scugog { --tag: var(--scugog); }
+    .cambridge { --tag: var(--cambridge); }
+    .mississauga { --tag: var(--mississauga); }
+    .mono { --tag: var(--mono); }
+    .orangeville { --tag: var(--orangeville); }
+    .scarborough { --tag: var(--scarborough); }
+    .tobermory { --tag: var(--tobermory); }
+    .toronto { --tag: var(--toronto); }
+    .wasaga-beach { --tag: var(--wasaga-beach); }
+
+    .more-wrap {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 9px;
+      margin-top: 22px;
+    }
+    .more-btn { min-width: 220px; min-height: 50px; font-size: 1rem; }
+    .more-status { color: var(--muted); font-size: .9rem; font-weight: 600; }
+
+    .empty {
+      display: none;
+      padding: 48px 24px;
+      border: 1px dashed var(--line);
+      border-radius: 14px;
+      text-align: center;
+      color: var(--muted);
+      background: var(--surface);
+    }
+    .empty strong { display: block; color: var(--ink); font-size: 1.1rem; margin-bottom: 4px; }
+
+    .footer-note {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto auto;
+      gap: 24px;
+      align-items: center;
+      margin-top: 30px;
+      padding: 22px 0 0;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: .92rem;
+    }
+    .legend { display: flex; flex-wrap: wrap; gap: 8px 16px; }
+    .legend span { display: inline-flex; align-items: center; gap: 7px; }
+    .legend i { width: 9px; height: 9px; border-radius: 50%; background: var(--dot); }
+    .footer-note .kofi-button { min-height: 38px; }
+    .snapshot { text-align: right; }
+    .disclaimer {
+      grid-column: 1 / -1;
+      margin: 0;
+      padding-top: 12px;
+      border-top: 1px solid color-mix(in srgb, var(--line) 65%, transparent);
+      font-size: .78rem;
+      line-height: 1.45;
+    }
+    .credit {
+      grid-column: 1 / -1;
+      margin: -12px 0 0;
+      font-size: .78rem;
+      line-height: 1.45;
+      white-space: nowrap;
+    }
+    .credit a {
+      color: inherit;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 3px;
+    }
+    .credit a:hover { color: var(--brand-strong); }
+    .version-link {
+      display: inline-flex;
+      margin-top: 8px;
+      padding: 0;
+      border: 0;
+      background: transparent;
+      color: var(--brand-strong);
+      font-weight: 700;
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 3px;
+      cursor: pointer;
+    }
+    .version-link:hover { color: var(--brand); }
+    .changelog-dialog {
+      width: min(680px, calc(100% - 32px));
+      max-height: min(760px, calc(100dvh - 32px));
+      padding: 0;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: var(--surface);
+      color: var(--ink);
+      box-shadow: var(--shadow);
+    }
+    .changelog-dialog::backdrop { background: rgba(8, 16, 11, .68); }
+    .changelog-head {
+      position: sticky;
+      top: 0;
+      z-index: 1;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      padding: 20px 22px 16px;
+      border-bottom: 1px solid var(--line);
+      background: var(--surface);
+    }
+    .changelog-head h2 { margin: 0; font-size: clamp(1.5rem, 4vw, 2rem); }
+    .changelog-close {
+      flex: none;
+      min-height: 38px;
+      padding: 0 13px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--surface-2);
+      color: var(--ink);
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .changelog-close:hover { border-color: var(--brand); color: var(--brand-strong); }
+    .changelog-body {
+      padding: 20px 22px 26px;
+      overflow-wrap: anywhere;
+    }
+    .changelog-note { margin: 0 0 20px; color: var(--muted); font-size: .88rem; }
+    .changelog-entry { padding: 16px 0; border-top: 1px solid var(--line); }
+    .changelog-entry:first-of-type { padding-top: 0; border-top: 0; }
+    .changelog-entry h3 { margin: 0 0 7px; font-size: 1rem; }
+    .changelog-entry ul { margin: 0; padding-left: 20px; color: var(--muted); }
+    .changelog-entry li + li { margin-top: 5px; }
+
+    @media (max-width: 900px) {
+      .filters { grid-template-columns: 1fr; }
+      .search-control { grid-column: auto; }
+    }
+
+    @media (max-width: 800px) {
+      .page { width: min(100% - 28px, 680px); padding-top: 30px; }
+      .intro { grid-template-columns: 1fr; align-items: start; }
+      .intro-actions { justify-content: flex-start; }
+      .event-card { grid-template-columns: 78px minmax(0, 1fr); gap: 15px; padding: 14px; }
+      .city-tag { grid-column: 2; justify-self: start; }
+      .date-block { padding: 10px 6px; }
+      .date-block .day { font-size: 2.15rem; }
+      .footer-note { grid-template-columns: 1fr; }
+      .kofi-button { justify-self: start; }
+      .snapshot { text-align: left; }
+    }
+
+    @media (max-width: 680px) {
+      .event-card { grid-template-columns: 1fr; }
+      .date-block {
+        align-self: auto;
+        flex-direction: row;
+        justify-content: flex-start;
+        gap: 8px;
+        padding: 9px 12px;
+      }
+      .date-block .day { font-size: 1.35rem; }
+      .city-tag { grid-column: 1; }
+    }
+
+    @media (max-width: 520px) {
+      .page { width: min(100% - 20px, 680px); padding-top: 22px; }
+      h1 { font-size: clamp(2.65rem, 14vw, 4.2rem); }
+      .intro { gap: 20px; }
+      .intro-actions { display: grid; grid-template-columns: 1fr; width: 100%; }
+      .intro-actions .kofi-button { justify-self: start; }
+      .toolbar { position: static; margin-top: 18px; padding: 12px; border-radius: 12px; }
+      .filters { grid-template-columns: 1fr; }
+      .search-control { grid-column: auto; }
+      .quick-filters { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .chip { width: 100%; }
+      .chip:first-child { grid-column: 1 / -1; }
+      .specific-date { grid-column: 1 / -1; justify-content: space-between; }
+      .specific-date input { min-width: 0; }
+      .results-head { align-items: center; }
+      .event-card { gap: 12px; }
+      .meta { display: grid; gap: 5px; }
+      .date-block .month { font-size: .7rem; }
+      .date-block .day { font-size: 1.35rem; }
+      .city-tag { font-size: .78rem; }
+      .detail-row { grid-template-columns: 1fr; gap: 2px; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <section class="intro" aria-labelledby="page-title">
+      <div>
+        <h1 id="page-title">Find your next local market.</h1>
+        <p class="intro-copy"><strong>Browse craft shows, vendor markets, and maker events across Ontario</strong> by region, city, month, or keyword.</p>
+      </div>
+      <div class="intro-actions" aria-label="Calendar actions">
+        <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfi4jFs74WjrxqpPmFfuGv8PPKfEK3W8HMbOb4BrLlKFjr3gQ/viewform" target="_blank" rel="noopener noreferrer">Submit an event</a>
+        <a class="btn" href="https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com" target="_blank" rel="noopener noreferrer">Open full calendar</a>
+        <div class="kofi-button"><a href="https://ko-fi.com/evergreenember" target="_blank" rel="noopener noreferrer" aria-label="Support me on Ko-fi (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none"><path fill="#fff" d="M3 6.5h13.5v7A5.5 5.5 0 0 1 11 19H8.5A5.5 5.5 0 0 1 3 13.5v-7Z"/><path stroke="#1c211e" stroke-width="1.8" d="M16.5 8h1.25a3.25 3.25 0 0 1 0 6.5H16"/><path fill="#ff5e5b" d="M9.75 15.1 6.5 12a2.15 2.15 0 0 1 3.25-2.8A2.15 2.15 0 0 1 13 12l-3.25 3.1Z"/></svg><span>Support me on Ko-fi</span></a></div>
+      </div>
+    </section>
+
+    <section class="toolbar" aria-label="Filter events">
+      <div class="filters">
+        <label class="control search-control">
+          <span class="field-label">Search</span>
+          <span class="input-shell">
+            <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+            <input id="search" type="search" placeholder="Search markets, cities, venues…" autocomplete="off" />
+          </span>
+        </label>
+        <label class="control select-wrap">
+          <span class="field-label">Region</span>
+          <select id="region">
+            <option value="all">All Ontario</option>
+            <option value="Durham Region">Durham Region</option>
+          </select>
+        </label>
+        <label class="control select-wrap">
+          <span class="field-label">City</span>
+          <select id="city">
+            <option value="all">All cities</option>
+            <option value="Oshawa">Oshawa</option>
+          </select>
+        </label>
+        <div class="control fee-control" role="group" aria-labelledby="fee-label">
+          <div class="fee-head">
+            <span class="field-label" id="fee-label">Table fee</span>
+            <output class="fee-value" id="fee-value">Any listed fee</output>
+          </div>
+          <div class="fee-sliders" id="fee-sliders">
+            <span class="fee-track" aria-hidden="true"></span>
+            <input class="fee-min" id="fee-min" type="range" min="0" max="120" step="5" value="0" aria-label="Minimum table fee" />
+            <input class="fee-max" id="fee-max" type="range" min="0" max="120" step="5" value="120" aria-label="Maximum table fee" />
+          </div>
+          <label class="fee-unlisted-toggle"><input id="fee-hide-unlisted" type="checkbox" /> <span>Hide events with no listed fee</span></label>
+          <span class="fee-note">Events without a published fee stay visible unless hidden above.</span>
+        </div>
+      </div>
+      <div class="quick-filters" role="group" aria-label="Date range">
+        <button class="chip" type="button" data-range="all" aria-pressed="true">All dates</button>
+        <button class="chip" type="button" data-range="weekend" aria-pressed="false">This weekend</button>
+        <button class="chip" type="button" data-range="2026-10" aria-pressed="false">October</button>
+        <button class="chip" type="button" data-range="2026-11" aria-pressed="false">November</button>
+        <button class="chip" type="button" data-range="2026-12" aria-pressed="false">December</button>
+        <div class="specific-date">
+          <label for="specific-date">Specific date</label>
+          <input id="specific-date" type="text" inputmode="numeric" placeholder="mm/dd/yyyy" autocomplete="off" aria-describedby="date-error" />
+          <button class="date-picker-toggle" id="date-picker-toggle" type="button" aria-label="Show date picker" aria-haspopup="dialog" aria-expanded="false" aria-controls="date-picker"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="16" rx="2"></rect><path d="M16 3v4M8 3v4M3 10h18"></path></svg></button>
+        </div>
+        <span class="date-error" id="date-error" aria-live="polite"></span>
+        <div class="date-picker-panel" id="date-picker" role="dialog" aria-label="Choose a date" hidden>
+          <div class="date-picker-head">
+            <button id="date-prev" type="button" aria-label="Previous month">‹</button>
+            <strong id="date-picker-month"></strong>
+            <button id="date-next" type="button" aria-label="Next month">›</button>
+          </div>
+          <div class="date-grid" id="date-grid"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="signup-band" aria-label="Subscribe for weekly opportunities">
+      <button class="signup-toggle" id="signup-toggle" type="button" aria-expanded="false" aria-controls="signup-panel">Get weekly opportunities by email</button>
+      <div class="signup-panel" id="signup-panel" hidden>
+        <script async data-uid="825798cb7a" src="https://evergreen-ember.kit.com/825798cb7a/index.js"></script>
+      </div>
+    </section>
+
+    <section aria-live="polite" aria-labelledby="results-title">
+      <div class="results-head">
+        <h2 id="results-title">Upcoming events</h2>
+        <span id="count">0 events</span>
+      </div>
+
+      <div class="event-list" id="event-list"></div>
+
+      <div class="more-wrap" id="more-wrap" hidden>
+        <button class="btn btn-primary more-btn" id="show-more" type="button">Show more</button>
+        <span class="more-status" id="more-status"></span>
+      </div>
+
+      <div class="empty" id="empty">
+        <strong>No events match those filters.</strong>
+        Try another city, month, or search term.
+      </div>
+    </section>
+
+    <footer class="footer-note">
+      <div class="legend" aria-label="Coverage">
+        <span id="legend-regions">0 regions</span>
+        <span id="legend-cities">0 cities</span>
+        <span id="legend-events">0 events</span>
+      </div>
+      <div class="kofi-button"><a href="https://ko-fi.com/evergreenember" target="_blank" rel="noopener noreferrer" aria-label="Support me on Ko-fi (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none"><path fill="#fff" d="M3 6.5h13.5v7A5.5 5.5 0 0 1 11 19H8.5A5.5 5.5 0 0 1 3 13.5v-7Z"/><path stroke="#1c211e" stroke-width="1.8" d="M16.5 8h1.25a3.25 3.25 0 0 1 0 6.5H16"/><path fill="#ff5e5b" d="M9.75 15.1 6.5 12a2.15 2.15 0 0 1 3.25-2.8A2.15 2.15 0 0 1 13 12l-3.25 3.1Z"/></svg><span>Support me on Ko-fi</span></a></div>
+      <div class="snapshot">Calendar snapshot · October 24, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v25 · Changelog</button></div>
+      <p class="disclaimer">We do our best to check all of the events, but it still remains on each individual to do their due diligence.</p>
+      <p class="credit">Ontario Vendor Events is built and curated by <a href="https://linktr.ee/evergreen.n.ember" target="_blank" rel="noopener noreferrer">Evergreen &amp; Ember</a></p>
+    </footer>
+
+    <dialog class="changelog-dialog" id="changelog-dialog" aria-labelledby="changelog-title">
+      <div class="changelog-head">
+        <h2 id="changelog-title">Ontario Vendor Events — Changelog</h2>
+        <button class="changelog-close" id="changelog-close" type="button">Close</button>
+      </div>
+      <div class="changelog-body">
+        <p class="changelog-note">Page features and improvements. New event listings aren't logged here — the page always shows the latest from the calendar.</p>
+        <section class="changelog-entry"><h3>v25 — Oct 24, 2026</h3><ul><li>The page has a new home on GitHub Pages, so the public link works for everyone — the old shared link had stopped opening for visitors. Same page, same listings (342 future events), still refreshed daily from the calendar.</li></ul></section>
+        <section class="changelog-entry"><h3>v24 — Oct 17, 2026</h3><ul><li>Fixed region filing for Trenton-area events: Trenton now files under Kingston and Area (5 events were showing under Rest of Ontario).</li><li>Listing wording refresh: “removed” phrasing in how-to-apply and organizer lines replaced with plain pointers to the source post.</li><li>Refreshed listings from the calendar: 287 future events.</li></ul></section>
+        <section class="changelog-entry"><h3>v23 — Oct 15, 2026</h3><ul><li>Restored the collapsible Kit email signup: the always-expanded form below the filters is again a slim tap-to-open bar labeled "Get weekly opportunities by email", collapsed by default so the market listings start sooner. The Kit form itself is unchanged and opens only when the bar is tapped (restoring the v16 behaviour lost in v19).</li><li>Refreshed listings from the calendar: 269 future events.</li></ul></section>
+        <section class="changelog-entry"><h3>v22 — Oct 14, 2026</h3><ul><li>Refreshed listings from the calendar: 251 future events, including four new markets — Tait Street Public School Holiday Night Market (Cambridge, Nov 19), Callander Community Centre Christmas Market (Nov 14), Magic of Giving Holiday Market (Brantford, Nov 21), and St. Robert 4th Annual Christmas Market (North York, Dec 3).</li><li>Kept the Kit signup form below the filters and the uniform six-field event details.</li><li>Application and source links remain inside each listing’s description, with unpublished details shown as TBD.</li></ul></section>
+        <section class="changelog-entry"><h3>v21 — Oct 13, 2026</h3><ul><li>The page now shows future events only: 247 listings remain after 22 past events were removed.</li><li>Kept the Kit signup form below the filters and the uniform six-field event details.</li><li>Application and source links remain inside each listing’s description, with unpublished details shown as TBD.</li></ul></section>
+        <section class="changelog-entry"><h3>v20 — Oct 13, 2026</h3><ul><li>Rebuilt the page with all 269 listings, including nine events added from the October 13 morning scan.</li><li>Kept the Kit signup form below the filters and the uniform six-field event details.</li><li>Application and source links remain inside each listing’s description, with unpublished details shown as TBD.</li></ul></section>
+        <section class="changelog-entry"><h3>v19 — Oct 12, 2026</h3><ul><li>Restored the Kit email signup form below the filters.</li><li>Listings now publish without personal contact details (emails, phone numbers, contact names removed); every listing keeps its link back to the source post. Full details remain on the calendar.</li><li>Every event card now shows the same detail fields in the same order — Theme, Hours, Fee, Vendor types wanted, How to apply, and Source — with TBD where the organizer hasn't published the information.</li></ul></section>
+        <section class="changelog-entry"><h3>v18 — Oct 12, 2026</h3><ul><li>Fixed the table fee showing twice on event cards — it now appears in just one place.</li></ul></section>
+        <section class="changelog-entry"><h3>v17 — Oct 12, 2026</h3><ul><li>Removed the email signup section from the page.</li></ul></section>
+        <section class="changelog-entry"><h3>v16 — Oct 12, 2026</h3><ul><li>The email signup is now a slim tap-to-open bar ("Get weekly opportunities by email") — the Kit form opens only when tapped, so the market listings start sooner on the page.</li></ul></section>
+        <section class="changelog-entry"><h3>v15 — Oct 11, 2026</h3><ul><li>The page now opens showing the first 20 listings, with a "Show more" button to reveal the rest — faster first load instead of rendering every listing at once. Search and filters still cover all listings.</li></ul></section>
+        <section class="changelog-entry"><h3>v14 — Oct 10, 2026</h3><ul><li>New "Subscribe for weekly opportunities" email signup section (powered by Kit): pick a region and a send day, get a weekly digest of new vendor calls.</li></ul></section>
+        <section class="changelog-entry"><h3>v13 — Oct 4, 2026</h3><ul><li>New checkbox under the fee slider: tick it to hide events with no published fee.</li></ul></section>
+        <section class="changelog-entry"><h3>v12 — Oct 4, 2026</h3><ul><li>New table-fee filter: a min/max slider next to the other filters; each event card shows its published fee. Events with no listed fee always stay visible.</li></ul></section>
+        <section class="changelog-entry"><h3>v11 — Oct 4, 2026</h3><ul><li>Footer now shows the version number with a link to this changelog.</li></ul></section>
+        <section class="changelog-entry"><h3>v4 — Oct 3, 2026</h3><ul><li>Keyword search now looks inside full event details, not just titles.</li></ul></section>
+        <section class="changelog-entry"><h3>v3 — Oct 3, 2026</h3><ul><li>Expanded event cards now show Theme, Tags, and "Vendor types wanted".</li></ul></section>
+        <section class="changelog-entry"><h3>v2 — Oct 2, 2026</h3><ul><li>Clicking an event expands its details inline on the page (previously it opened Google Calendar).</li></ul></section>
+        <section class="changelog-entry"><h3>v1 — Oct 2, 2026</h3><ul><li>Initial launch: filter by region, city, keyword, and date, with region color-coding. Submission form linked for organizers.</li></ul></section>
+        <section class="changelog-entry"><h3>Other page improvements along the way</h3><ul><li>Footer credit: "built and curated by Evergreen &amp; Ember" with link.</li><li>Ko-fi support links, vendor due-diligence note, accessibility improvements, specific-date picker.</li></ul></section>
+      </div>
+    </dialog>
+  </main>
+
+  <script src="events.js"></script>
+  <script>
+    (function () {
+      var EVENTS = window.EVENTS_REFRESH || [];
+
+      var search = document.getElementById('search');
+      var region = document.getElementById('region');
+      var city = document.getElementById('city');
+      var feeMin = document.getElementById('fee-min');
+      var feeMax = document.getElementById('fee-max');
+      var feeValue = document.getElementById('fee-value');
+      var feeSliders = document.getElementById('fee-sliders');
+      var feeHideUnlisted = document.getElementById('fee-hide-unlisted');
+      var specificDate = document.getElementById('specific-date');
+      var dateError = document.getElementById('date-error');
+      var datePickerToggle = document.getElementById('date-picker-toggle');
+      var datePicker = document.getElementById('date-picker');
+      var datePickerMonth = document.getElementById('date-picker-month');
+      var dateGrid = document.getElementById('date-grid');
+      var datePrev = document.getElementById('date-prev');
+      var dateNext = document.getElementById('date-next');
+      var pickerMonth = new Date(2026, 9, 1);
+      EVENTS = EVENTS.slice()
+        .sort(function (a, b) { return a.date.localeCompare(b.date); });
+      while (region.options.length > 1) region.remove(1);
+      Array.from(new Set(EVENTS.map(function (event) { return event.region; })))
+        .sort(function (a, b) { return a.localeCompare(b); })
+        .forEach(function (regionName) {
+          var option = document.createElement('option');
+          option.value = regionName;
+          option.textContent = regionName;
+          region.appendChild(option);
+        });
+      while (city.options.length > 1) city.remove(1);
+      Array.from(new Set(EVENTS.map(function (event) { return event.city; })))
+        .sort(function (a, b) { return a.localeCompare(b); })
+        .forEach(function (cityName) {
+          var option = document.createElement('option');
+          option.value = cityName;
+          option.textContent = cityName;
+          city.appendChild(option);
+        });
+      var legendRegions = document.getElementById('legend-regions');
+      var legendCities = document.getElementById('legend-cities');
+      var legendEvents = document.getElementById('legend-events');
+      if (legendRegions) legendRegions.textContent = new Set(EVENTS.map(function (event) { return event.region; })).size + ' regions';
+      if (legendCities) legendCities.textContent = new Set(EVENTS.map(function (event) { return event.city; })).size + ' cities';
+      if (legendEvents) legendEvents.textContent = EVENTS.length + (EVENTS.length === 1 ? ' event' : ' events');
+      var list = document.getElementById('event-list');
+      var cards = [];
+      var chips = Array.prototype.slice.call(document.querySelectorAll('.chip'));
+      var count = document.getElementById('count');
+      var empty = document.getElementById('empty');
+      var moreWrap = document.getElementById('more-wrap');
+      var showMore = document.getElementById('show-more');
+      var moreStatus = document.getElementById('more-status');
+      var PAGE_SIZE = 20;
+      var visibleLimit = PAGE_SIZE;
+      var changelogOpen = document.getElementById('changelog-open');
+      var changelogDialog = document.getElementById('changelog-dialog');
+      var changelogClose = document.getElementById('changelog-close');
+      var activeRange = 'all';
+      var regionClasses = {
+        'Durham Region': 'durham', 'York Region': 'whitby', 'Toronto': 'toronto',
+        'Peel Region': 'mississauga', 'Halton Region': 'pickering', 'Hamilton': 'oshawa',
+        'Niagara Region': 'courtice', 'Ottawa': 'scarborough', 'Simcoe County': 'wasaga-beach',
+        'Waterloo Region': 'cambridge', 'London & Area': 'bowmanville',
+        'Kingston & Area': 'tobermory', 'Rest of Ontario': 'mono'
+      };
+      var clockIcon = '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"></circle><path d="M12 7v5l3 2"></path></svg>';
+      var pinIcon = '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 10c0 5-8 11-8 11S4 15 4 10a8 8 0 1 1 16 0Z"></path><circle cx="12" cy="10" r="2.5"></circle></svg>';
+      var feeIcon = '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 7.5V5h16v14H4v-2.5"></path><path d="M7 9.5h-3a2.5 2.5 0 0 0 0 5h3M15.5 9.5h.01M15.5 14.5h.01"></path></svg>';
+
+      function escapeHTML(value) {
+        return String(value).replace(/[&<>"']/g, function (char) {
+          return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char];
+        });
+      }
+
+      function formatInline(value, context) {
+        var result = '';
+        var cursor = 0;
+        var linkIndex = 0;
+        var matcher = /(https?:\/\/[^\s<>"']+|[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,})/gi;
+        var match;
+
+        while ((match = matcher.exec(value)) !== null) {
+          var token = match[0];
+          var trailing = '';
+          result += escapeHTML(value.slice(cursor, match.index));
+
+          if (/^https?:\/\//i.test(token)) {
+            while (/[.,;:!?]$/.test(token)) {
+              trailing = token.slice(-1) + trailing;
+              token = token.slice(0, -1);
+            }
+            linkIndex += 1;
+            var precedingText = value.slice(0, match.index);
+            var label = /original post\s*:?\s*$/i.test(precedingText) ? 'Original post' :
+              /source/i.test(context) ? 'View source' :
+              /(apply|application|register|vendor info)/i.test(context) ? 'Open application' : 'Open link';
+            if (linkIndex > 1 && label !== 'Original post') label += ' ' + linkIndex;
+            result += '<a href="' + escapeHTML(token) + '" target="_blank" rel="noopener noreferrer" aria-label="' + escapeHTML(label + ' (opens in a new tab)') + '">' + label + ' ↗</a>' + trailing;
+          } else {
+            result += '<a href="mailto:' + escapeHTML(token) + '">' + escapeHTML(token) + '</a>';
+          }
+          cursor = match.index + match[0].length;
+        }
+
+        return result + escapeHTML(value.slice(cursor));
+      }
+
+      function parseFeeValue(value) {
+        var feeText = String(value || '').trim();
+        if (/^(?:free|no (?:table )?fee)\b/i.test(feeText)) return 0;
+        var match = feeText.match(/\$\s*([\d,]+(?:\.\d{1,2})?)/);
+        return match ? Number(match[1].replace(/,/g, '')) : null;
+      }
+
+      function parseLabeledDescription(description) {
+        var details = { description: [], theme: '', vendorTypes: [], tags: [], feeLabel: '', feeValue: null, apply: '', source: '', hours: '' };
+        var raw = String(description || '');
+        raw
+          .replace(/\s+(?=(?:Admission|Attractions|Vendors expected|Attendee info sources?):)/gi, '\n')
+          .split(/\r?\n/).forEach(function (line) {
+          var trimmed = line.trim();
+          var match = trimmed.match(/^Fee:\s*(.*)$/i);
+          if (match) {
+            details.feeLabel = match[1].trim();
+            details.feeValue = parseFeeValue(details.feeLabel);
+            return;
+          }
+          match = trimmed.match(/^Theme:\s*(.*)$/i);
+          if (match) {
+            if (match[1].trim()) details.theme = match[1].trim();
+            return;
+          }
+          match = trimmed.match(/^Vendor types wanted:\s*(.*)$/i);
+          if (match) {
+            details.vendorTypes = match[1].split(',').map(function (item) { return item.trim(); }).filter(Boolean);
+            return;
+          }
+          match = trimmed.match(/^Tags:\s*(.*)$/i);
+          if (match) {
+            details.tags = match[1].split(',').map(function (item) { return item.trim(); }).filter(Boolean);
+            return;
+          }
+          match = trimmed.match(/^How[-\s]to[-\s]apply:\s*(.*)$/i);
+          if (match) {
+            if (!details.apply && match[1].trim()) details.apply = match[1].trim();
+            return;
+          }
+          match = trimmed.match(/^Apply:\s*(.*)$/i);
+          if (match) {
+            if (!details.apply && match[1].trim()) details.apply = match[1].trim();
+            return;
+          }
+          match = trimmed.match(/^Source:\s*(.*)$/i);
+          if (match) {
+            if (!details.source && match[1].trim()) details.source = match[1].trim();
+            return;
+          }
+          match = trimmed.match(/^Hours:\s*(.*)$/i);
+          if (match) {
+            if (!details.hours && match[1].trim()) details.hours = match[1].trim();
+            return;
+          }
+          if (trimmed) details.description.push(trimmed);
+        });
+        if (!details.apply) {
+          var applyMatch = raw.match(/(?:How[-\s]to[-\s]apply|Vendor applications?|Vendor registration|Apply):\s*(https?:\/\/[^\s]+)/i);
+          if (applyMatch) details.apply = applyMatch[1].replace(/[.)]+$/, '');
+        }
+        if (!details.source) {
+          var sourceMatch = raw.match(/Source:\s*(https?:\/\/[^\s]+)/i) || raw.match(/Original post:\s*(https?:\/\/[^\s]+)/i);
+          if (sourceMatch) details.source = sourceMatch[1].replace(/[.)]+$/, '');
+        }
+        return details;
+      }
+
+      function formatDetails(event) {
+        var parsed = parseLabeledDescription(event.description);
+        var feeText = String(event.fees || '').trim() || parsed.feeLabel;
+        var hoursText = parsed.hours || (event.time && event.time !== 'Time not listed' ? event.time : '');
+        var sourceHTML = 'TBD';
+        var sourceURLMatch = parsed.source ? parsed.source.match(/https?:\/\/[^\s]+/) : null;
+        if (sourceURLMatch) {
+          sourceHTML = '<a href="' + escapeHTML(sourceURLMatch[0].replace(/[.)]+$/, '')) + '" target="_blank" rel="noopener noreferrer">Open original listing ↗</a>';
+        } else if (parsed.source) {
+          sourceHTML = formatInline(parsed.source, 'Source');
+        }
+        var rows = [
+          { label: 'Theme', value: parsed.theme ? formatInline(parsed.theme, 'Theme') : 'TBD' },
+          { label: 'Hours', value: hoursText ? escapeHTML(hoursText) : 'TBD' },
+          { label: 'Fee', value: feeText ? escapeHTML(feeText) : 'TBD' },
+          { label: 'Vendor types wanted', value: parsed.vendorTypes.length ? parsed.vendorTypes.map(escapeHTML).join(', ') : 'TBD' },
+          { label: 'How to apply', value: parsed.apply ? formatInline(parsed.apply, 'How to apply') : 'see the source post' },
+          { label: 'Source', value: sourceHTML }
+        ];
+        var html = '<dl class="detail-list">' + rows.map(function (row) {
+          return '<div class="detail-row"><dt>' + escapeHTML(row.label) + '</dt><dd>' + row.value + '</dd></div>';
+        }).join('') + '</dl>';
+        if (parsed.description.length) {
+          html += '<div class="detail-summary">' + parsed.description.map(function (line) {
+            return '<p>' + formatInline(line, 'Details') + '</p>';
+          }).join('') + '</div>';
+        }
+        html += '<div class="detail-actions"><a class="calendar-link" href="' + escapeHTML(event.url) + '" target="_blank" rel="noopener noreferrer">' + (/calendar\/embed/.test(event.url) ? 'Open full calendar ↗' : 'Open event in calendar ↗') + '</a></div>';
+        if (parsed.tags.length) {
+          html += '<p class="event-tags">Tags: ' + parsed.tags.map(escapeHTML).join(', ') + '</p>';
+        }
+        return html;
+      }
+
+      function renderCards() {
+        list.innerHTML = EVENTS.map(function (event, index) {
+          var date = new Date(event.date + 'T12:00:00');
+          var month = date.toLocaleDateString('en-CA', { month: 'short' });
+          var day = date.toLocaleDateString('en-CA', { day: '2-digit' });
+          var weekday = date.toLocaleDateString('en-CA', { weekday: 'long' });
+          var year = date.toLocaleDateString('en-CA', { year: 'numeric' });
+          var parsed = parseLabeledDescription(event.description);
+          var feeLabel = String(event.fees || '').trim();
+          var feeValue = parseFeeValue(feeLabel);
+          var searchText = [
+            event.title, event.location, event.city, event.region,
+            event.description, event.fees, event.apply, event.contact,
+            parsed.theme, feeLabel, parsed.tags.join(' '), parsed.vendorTypes.join(' ')
+          ].join(' ');
+          var tagClass = regionClasses[event.region] || 'durham';
+          var detailsId = 'event-details-' + index;
+          var feeDisplay = feeLabel ? 'Fee: ' + feeLabel : 'Fee not listed';
+          return '<article class="event-card" data-title="' + escapeHTML(searchText) + '" data-region="' + escapeHTML(event.region) + '" data-city="' + escapeHTML(event.city) + '" data-date="' + event.date + '" data-fee="' + (feeValue === null ? '' : feeValue) + '">' +
+            '<div class="date-block"><span class="month">' + month + '</span><span class="day">' + day + '</span><span class="weekday">' + weekday + '</span><span class="year">' + year + '</span></div>' +
+            '<div class="event-info"><h3><button class="event-toggle" type="button" aria-expanded="false" aria-controls="' + detailsId + '">' + escapeHTML(event.title) + '</button></h3>' +
+            '<div class="meta"><span>' + clockIcon + escapeHTML(event.time) + '</span><span>' + pinIcon + escapeHTML(event.location) + '</span><span>' + feeIcon + escapeHTML(feeDisplay) + '</span></div>' +
+            '<div class="event-details" id="' + detailsId + '" hidden>' + formatDetails(event) + '</div></div>' +
+            '<span class="city-tag ' + tagClass + '">' + escapeHTML(event.city) + '</span></article>';
+        }).join('');
+        cards = Array.prototype.slice.call(list.querySelectorAll('.event-card'));
+      }
+
+      function initializeFeeFilter() {
+        var knownFees = EVENTS.map(function (event) {
+          return parseFeeValue(event.fees);
+        }).filter(function (value) { return value !== null; });
+        var ceiling = knownFees.length ? Math.max.apply(null, knownFees) : 0;
+        ceiling = Math.max(5, Math.ceil(ceiling / 5) * 5);
+        feeMin.max = ceiling;
+        feeMax.max = ceiling;
+        feeMax.value = ceiling;
+        updateFeeFilter();
+      }
+
+      function updateFeeFilter(changedInput) {
+        var min = Number(feeMin.value);
+        var max = Number(feeMax.value);
+        if (min > max) {
+          if (changedInput === feeMin) {
+            feeMax.value = min;
+            max = min;
+          } else {
+            feeMin.value = max;
+            min = max;
+          }
+        }
+        var ceiling = Number(feeMax.max) || 1;
+        feeSliders.style.setProperty('--fee-start', (min / ceiling * 100) + '%');
+        feeSliders.style.setProperty('--fee-end', (max / ceiling * 100) + '%');
+        feeValue.textContent = min === 0 && max === ceiling ? 'Any listed fee' :
+          min === max ? '$' + min : '$' + min + '–$' + max;
+        feeMin.setAttribute('aria-valuetext', '$' + min + ' minimum');
+        feeMax.setAttribute('aria-valuetext', '$' + max + ' maximum');
+      }
+
+      function isThisWeekend(dateString) {
+        var now = new Date();
+        var day = now.getDay();
+        var daysUntilSaturday = day === 0 ? -1 : (6 - day + 7) % 7;
+        var saturday = new Date(now.getFullYear(), now.getMonth(), now.getDate() + daysUntilSaturday);
+        var sunday = new Date(saturday.getFullYear(), saturday.getMonth(), saturday.getDate() + 1);
+        var eventDate = new Date(dateString + 'T12:00:00');
+        return eventDate.toDateString() === saturday.toDateString() || eventDate.toDateString() === sunday.toDateString();
+      }
+
+      function parseSpecificDate(value) {
+        var trimmed = value.trim();
+        if (!trimmed) return '';
+        var match = trimmed.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
+        if (!match) return null;
+        var month = Number(match[1]);
+        var day = Number(match[2]);
+        var year = Number(match[3]);
+        var date = new Date(year, month - 1, day);
+        if (date.getFullYear() !== year || date.getMonth() !== month - 1 || date.getDate() !== day) return null;
+        return String(year) + '-' + String(month).padStart(2, '0') + '-' + String(day).padStart(2, '0');
+      }
+
+      function renderDatePicker() {
+        var year = pickerMonth.getFullYear();
+        var month = pickerMonth.getMonth();
+        var firstDay = new Date(year, month, 1).getDay();
+        var daysInMonth = new Date(year, month + 1, 0).getDate();
+        var selected = parseSpecificDate(specificDate.value);
+        var today = new Date();
+        datePickerMonth.textContent = pickerMonth.toLocaleDateString('en-CA', { month: 'long', year: 'numeric' });
+        var html = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'].map(function (dayName) {
+          return '<span aria-hidden="true">' + dayName + '</span>';
+        }).join('');
+        for (var blank = 0; blank < firstDay; blank += 1) html += '<span aria-hidden="true"></span>';
+        for (var day = 1; day <= daysInMonth; day += 1) {
+          var iso = String(year) + '-' + String(month + 1).padStart(2, '0') + '-' + String(day).padStart(2, '0');
+          var dateLabel = new Date(year, month, day).toLocaleDateString('en-CA', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
+          var isToday = today.getFullYear() === year && today.getMonth() === month && today.getDate() === day;
+          html += '<button type="button" data-date="' + iso + '" aria-label="' + dateLabel + '"' +
+            (isToday ? ' aria-current="date"' : '') + (selected === iso ? ' aria-selected="true"' : '') + '>' + day + '</button>';
+        }
+        dateGrid.innerHTML = html;
+      }
+
+      function closeDatePicker() {
+        datePicker.hidden = true;
+        datePickerToggle.setAttribute('aria-expanded', 'false');
+      }
+
+      function applyFilters(resetLimit) {
+        if (resetLimit) visibleLimit = PAGE_SIZE;
+        var query = search.value.trim().toLowerCase();
+        var regionValue = region.value;
+        var cityValue = city.value;
+        var minimumFee = Number(feeMin.value);
+        var maximumFee = Number(feeMax.value);
+        var specificDateValue = parseSpecificDate(specificDate.value);
+        var invalidDate = specificDateValue === null;
+        dateError.textContent = invalidDate ? 'Enter a valid date as mm/dd/yyyy.' : '';
+        specificDate.setAttribute('aria-invalid', invalidDate ? 'true' : 'false');
+        var visible = 0;
+
+        cards.forEach(function (card) {
+          var textMatch = !query || card.dataset.title.toLowerCase().indexOf(query) !== -1;
+          var regionMatch = regionValue === 'all' || card.dataset.region === regionValue;
+          var cityMatch = cityValue === 'all' || card.dataset.city === cityValue;
+          var hasListedFee = card.dataset.fee !== '';
+          var feeMatch = hasListedFee ?
+            Number(card.dataset.fee) >= minimumFee && Number(card.dataset.fee) <= maximumFee :
+            !feeHideUnlisted.checked;
+          var dateMatch = invalidDate ? false : specificDateValue ? card.dataset.date === specificDateValue :
+            activeRange === 'all' ||
+            (activeRange === 'weekend' && isThisWeekend(card.dataset.date)) ||
+            card.dataset.date.indexOf(activeRange) === 0;
+          var match = textMatch && regionMatch && cityMatch && feeMatch && dateMatch;
+          if (match) visible += 1;
+          card.hidden = !(match && visible <= visibleLimit);
+        });
+
+        count.textContent = visible + (visible === 1 ? ' event' : ' events');
+        empty.style.display = visible ? 'none' : 'block';
+        moreWrap.hidden = visible <= visibleLimit;
+        moreStatus.textContent = 'Showing ' + Math.min(visible, visibleLimit) + ' of ' + visible + (visible === 1 ? ' event' : ' events');
+      }
+
+      list.addEventListener('click', function (event) {
+        var toggle = event.target.closest('.event-toggle');
+        if (!toggle) return;
+        var details = document.getElementById(toggle.getAttribute('aria-controls'));
+        var willOpen = toggle.getAttribute('aria-expanded') !== 'true';
+        toggle.setAttribute('aria-expanded', willOpen ? 'true' : 'false');
+        details.hidden = !willOpen;
+      });
+
+      search.addEventListener('input', function () { applyFilters(true); });
+      region.addEventListener('change', function () { applyFilters(true); });
+      city.addEventListener('change', function () { applyFilters(true); });
+      feeMin.addEventListener('input', function () {
+        updateFeeFilter(feeMin);
+        applyFilters(true);
+      });
+      feeMax.addEventListener('input', function () {
+        updateFeeFilter(feeMax);
+        applyFilters(true);
+      });
+      feeHideUnlisted.addEventListener('change', function () { applyFilters(true); });
+      showMore.addEventListener('click', function () {
+        visibleLimit += PAGE_SIZE;
+        applyFilters(false);
+      });
+      datePickerToggle.addEventListener('click', function () {
+        var parsed = parseSpecificDate(specificDate.value);
+        if (parsed) {
+          var parts = parsed.split('-');
+          pickerMonth = new Date(Number(parts[0]), Number(parts[1]) - 1, 1);
+        }
+        var willOpen = datePicker.hidden;
+        datePicker.hidden = !willOpen;
+        datePickerToggle.setAttribute('aria-expanded', willOpen ? 'true' : 'false');
+        if (willOpen) {
+          renderDatePicker();
+          datePicker.querySelector('button[data-date]')?.focus();
+        }
+      });
+      datePrev.addEventListener('click', function () {
+        pickerMonth = new Date(pickerMonth.getFullYear(), pickerMonth.getMonth() - 1, 1);
+        renderDatePicker();
+      });
+      dateNext.addEventListener('click', function () {
+        pickerMonth = new Date(pickerMonth.getFullYear(), pickerMonth.getMonth() + 1, 1);
+        renderDatePicker();
+      });
+      dateGrid.addEventListener('click', function (event) {
+        var button = event.target.closest('button[data-date]');
+        if (!button) return;
+        var parts = button.dataset.date.split('-');
+        specificDate.value = parts[1] + '/' + parts[2] + '/' + parts[0];
+        activeRange = 'all';
+        chips.forEach(function (item) { item.setAttribute('aria-pressed', 'false'); });
+        closeDatePicker();
+        applyFilters(true);
+        specificDate.focus();
+      });
+      document.addEventListener('keydown', function (event) {
+        if (event.key === 'Escape' && !datePicker.hidden) {
+          closeDatePicker();
+          datePickerToggle.focus();
+        }
+      });
+      specificDate.addEventListener('input', function () {
+        activeRange = 'all';
+        chips.forEach(function (item) {
+          item.setAttribute('aria-pressed', !specificDate.value && item.dataset.range === 'all' ? 'true' : 'false');
+        });
+        applyFilters(true);
+      });
+      var signupToggle = document.getElementById('signup-toggle');
+      var signupPanel = document.getElementById('signup-panel');
+      signupToggle.addEventListener('click', function () {
+        var willOpen = signupToggle.getAttribute('aria-expanded') !== 'true';
+        signupToggle.setAttribute('aria-expanded', willOpen ? 'true' : 'false');
+        signupPanel.hidden = !willOpen;
+      });
+      changelogOpen.addEventListener('click', function () {
+        changelogDialog.showModal();
+      });
+      changelogClose.addEventListener('click', function () {
+        changelogDialog.close();
+        changelogOpen.focus();
+      });
+      changelogDialog.addEventListener('click', function (event) {
+        if (event.target === changelogDialog) changelogDialog.close();
+      });
+      chips.forEach(function (chip) {
+        chip.addEventListener('click', function () {
+          activeRange = chip.dataset.range;
+          specificDate.value = '';
+          chips.forEach(function (item) { item.setAttribute('aria-pressed', item === chip ? 'true' : 'false'); });
+          applyFilters(true);
+        });
+      });
+
+      renderCards();
+      initializeFeeFilter();
+      applyFilters(true);
+    })();
+  </script>
+</body>
+</html>
