@@ -455,6 +455,19 @@
     }
     .chip:hover { color: var(--ink); border-color: var(--brand); }
     .chip[aria-pressed="true"] { background: var(--brand-soft); border-color: var(--brand); color: var(--brand-strong); }
+    .coll-chip {
+      min-height: 36px;
+      padding: 0 14px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      font-weight: 700;
+    }
+    .coll-chip:hover { color: var(--ink); border-color: var(--brand); }
+    .coll-chip[aria-pressed="true"] { background: var(--brand-soft); border-color: var(--brand); color: var(--brand-strong); }
+    .collections-label { font-weight: 800; color: var(--muted); font-size: .88rem; }
 
     .signup-band {
       position: relative;
@@ -933,6 +946,7 @@
           <span class="fee-note">Events without a published fee stay visible unless hidden above.</span>
         </div>
       </div>
+      <div class="quick-filters collections-row" id="collection-chips" role="group" aria-label="Collections" hidden></div>
       <div class="quick-filters" role="group" aria-label="Date range">
         <button class="chip" type="button" data-range="all" aria-pressed="true">All dates</button>
         <button class="chip" type="button" data-range="weekend" aria-pressed="false">This weekend</button>
@@ -989,7 +1003,7 @@
         <span id="legend-events">0 events</span>
       </div>
       <div class="kofi-button"><a href="https://ko-fi.com/evergreenember" target="_blank" rel="noopener noreferrer" aria-label="Support me on Ko-fi (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none"><path fill="#fff" d="M3 6.5h13.5v7A5.5 5.5 0 0 1 11 19H8.5A5.5 5.5 0 0 1 3 13.5v-7Z"/><path stroke="#1c211e" stroke-width="1.8" d="M16.5 8h1.25a3.25 3.25 0 0 1 0 6.5H16"/><path fill="#ff5e5b" d="M9.75 15.1 6.5 12a2.15 2.15 0 0 1 3.25-2.8A2.15 2.15 0 0 1 13 12l-3.25 3.1Z"/></svg><span>Support me on Ko-fi</span></a></div>
-      <div class="snapshot">Calendar snapshot · October 24, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v26 · Changelog</button></div>
+      <div class="snapshot">Calendar snapshot · October 24, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v27 · Changelog</button></div>
       <p class="disclaimer">We do our best to check all of the events, but it still remains on each individual to do their due diligence.</p>
       <p class="credit">Ontario Vendor Events is built and curated by <a href="https://linktr.ee/evergreen.n.ember" target="_blank" rel="noopener noreferrer">Evergreen &amp; Ember</a></p>
     </footer>
@@ -1001,6 +1015,7 @@
       </div>
       <div class="changelog-body">
         <p class="changelog-note">Page features and improvements. New event listings aren't logged here — the page always shows the latest from the calendar.</p>
+        <section class="changelog-entry"><h3>v27 — Oct 24, 2026</h3><ul><li>New Collections row above the date filters: one-tap seasonal picks (Halloween, Christmas &amp; Holiday, Fall &amp; Harvest, and more as their seasons come) with live counts, built from the listings themselves. Collections combine with the search, region, city, fee and date filters.</li></ul></section>
         <section class="changelog-entry"><h3>v26 — Oct 24, 2026</h3><ul><li>Added a privacy-friendly visit counter (GoatCounter) so we can see how many people use the page and where they found it. No cookies, no personal data collected.</li></ul></section>
         <section class="changelog-entry"><h3>v25 — Oct 24, 2026</h3><ul><li>The page has a new home on GitHub Pages, so the public link works for everyone — the old shared link had stopped opening for visitors. Same page, same listings (342 future events), still refreshed daily from the calendar.</li></ul></section>
         <section class="changelog-entry"><h3>v24 — Oct 17, 2026</h3><ul><li>Fixed region filing for Trenton-area events: Trenton now files under Kingston and Area (5 events were showing under Rest of Ontario).</li><li>Listing wording refresh: “removed” phrasing in how-to-apply and organizer lines replaced with plain pointers to the source post.</li><li>Refreshed listings from the calendar: 287 future events.</li></ul></section>
@@ -1088,6 +1103,51 @@
       var changelogDialog = document.getElementById('changelog-dialog');
       var changelogClose = document.getElementById('changelog-close');
       var activeRange = 'all';
+      var activeCollection = '';
+      var COLLECTIONS = [
+        { key: 'halloween', label: '\u{1F383} Halloween', test: function (text) { return /halloween|haunted|spooky|trick[ -]?or[ -]?treat|ghoul/.test(text); } },
+        { key: 'christmas', label: '\u{1F385} Christmas & Holiday', test: function (text, month) { return /christmas|santa|yuletide|noel|winter wonderland|mistletoe/.test(text) || ((month === 11 || month === 12) && /holiday|festive/.test(text)); } },
+        { key: 'fall', label: '\u{1F342} Fall & Harvest', test: function (text) { return /fall fair|fall festival|fall market|fall bazaar|harvest|autumn|pumpkin|thanksgiving|oktoberfest/.test(text); } },
+        { key: 'winter', label: '\u2744\uFE0F Winter', test: function (text, month) { return /winter/.test(text) && (month === 12 || month === 1 || month === 2); } },
+        { key: 'valentines', label: '\u{1F49D} Valentine\u2019s', test: function (text) { return /valentine/.test(text); } },
+        { key: 'easter', label: '\u{1F423} Easter', test: function (text) { return /easter|egg hunt/.test(text); } },
+        { key: 'mothers-day', label: '\u{1F490} Mother\u2019s Day', test: function (text) { return /mother'?s day/.test(text); } },
+        { key: 'canada-day', label: '\u{1F341} Canada Day', test: function (text) { return /canada day/.test(text); } }
+      ];
+      function collectionKeysFor(card) {
+        var text = (card.dataset.title || '').toLowerCase();
+        var month = Number((card.dataset.date || '').slice(5, 7));
+        return COLLECTIONS.filter(function (c) { return c.test(text, month); }).map(function (c) { return c.key; });
+      }
+      function buildCollectionChips() {
+        var wrap = document.getElementById('collection-chips');
+        if (!wrap) return;
+        var counts = {};
+        cards.forEach(function (card) {
+          card._collections = collectionKeysFor(card);
+          card._collections.forEach(function (key) { counts[key] = (counts[key] || 0) + 1; });
+        });
+        var shown = COLLECTIONS.filter(function (c) { return counts[c.key]; });
+        if (!shown.length) { wrap.hidden = true; return; }
+        wrap.hidden = false;
+        wrap.innerHTML = '<span class="collections-label">Collections</span>';
+        shown.forEach(function (c) {
+          var button = document.createElement('button');
+          button.type = 'button';
+          button.className = 'coll-chip';
+          button.dataset.collection = c.key;
+          button.setAttribute('aria-pressed', 'false');
+          button.textContent = c.label + ' \u00B7 ' + counts[c.key];
+          button.addEventListener('click', function () {
+            activeCollection = activeCollection === c.key ? '' : c.key;
+            Array.prototype.forEach.call(wrap.querySelectorAll('.coll-chip'), function (item) {
+              item.setAttribute('aria-pressed', item.dataset.collection === activeCollection ? 'true' : 'false');
+            });
+            applyFilters(true);
+          });
+          wrap.appendChild(button);
+        });
+      }
       var regionClasses = {
         'Durham Region': 'durham', 'York Region': 'whitby', 'Toronto': 'toronto',
         'Peel Region': 'mississauga', 'Halton Region': 'pickering', 'Hamilton': 'oshawa',
@@ -1376,7 +1436,8 @@
             activeRange === 'all' ||
             (activeRange === 'weekend' && isThisWeekend(card.dataset.date)) ||
             card.dataset.date.indexOf(activeRange) === 0;
-          var match = textMatch && regionMatch && cityMatch && feeMatch && dateMatch;
+          var collectionMatch = !activeCollection || (card._collections || []).indexOf(activeCollection) !== -1;
+          var match = textMatch && regionMatch && cityMatch && feeMatch && dateMatch && collectionMatch;
           if (match) visible += 1;
           card.hidden = !(match && visible <= visibleLimit);
         });
@@ -1485,6 +1546,7 @@
       });
 
       renderCards();
+      buildCollectionChips();
       initializeFeeFilter();
       applyFilters(true);
     })();
