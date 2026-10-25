@@ -22,105 +22,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "Haunted Museum Weekend — Craft Vendors (Oct 23)",
-  "date": "2026-10-23",
-  "time": "Time not listed",
-  "location": "Wallaceburg & District Museum, Jeanne Gordon Hall, 505 King St, Wallaceburg, ON",
-  "city": "Wallaceburg",
-  "region": "Rest of Ontario",
-  "description": "Haunted Museum Weekend craft vendor night at the Wallaceburg & District Museum (inside the Jeanne Gordon Hall); funds raised support the museum. Event time not published in the post — contact organizer. Vendor fee: $35 per night or $120 for all four nights. How to apply: scan to apply via the QR code in the flyer (application link not published in the post). Organizer: see the source post.\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28139289509075543/",
-  "fees": "$35/$120",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "2nd Annual Fall Craft Showcase",
-  "date": "2026-10-24",
-  "time": "9 a.m.–3 p.m.",
-  "location": "400 Niagara St, St. Catharines",
-  "city": "St. Catharines",
-  "region": "Niagara Region",
-  "description": "see the source post link for how to apply. \nHours: 9:00 AM – 3:00 PM\nAttractions: Silent auction, food trucks\nVendors expected: Over 30 vendors\nSource: https://facebook.com/groups/145130302589219/permalink/2627383977697160/\n",
-  "fees": "not stated by organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "2nd Annual Pumpkin Patch Peddlers Market",
-  "date": "2026-10-24",
-  "time": "11 a.m.–5 p.m.",
-  "location": "Dundas Legion, 280 King St W, Dundas, ON",
-  "city": "Dundas",
-  "region": "Hamilton",
-  "description": "Get into the spirit of Fall at the 2nd annual Pumpkin Patch Peddlers Market. Vendor fee: $105 + HST (chairs included, indoor event). Payment: EFT or credit card. Application deadline Oct 10. Theme: Fall / autumn. Tags: Fall, witchy, handmade. Vendor types wanted: Handmade Crafts — Woodworking, Glasswork, Metalwork & Blacksmithing, Leather Goods, Textiles & Fiber Arts, Paper Goods & Stationery; Fashion & Apparel — Handmade Clothing, Upcycled & Vintage Clothing, Accessories, Children & Baby Apparel; Jewelry — Artisan & Costume Jewelry, Upcycled/Vintage Jewelry; Home & Living — Candles & Home Fragrance, Home Decor; Health, Beauty & Wellness — Skincare & Bath, Cosmetics & Haircare, Holistic Wellness; Kids & Toys — Handmade Toys, Games & Puzzles, Educational & Sensory Play Goods; Pet Products — Pet Treats & Food; Seasonal & Holiday — Halloween/Autumn Decorations; Services & Interactive Booths — Tarot Card / Psychic Readings. How to apply: online registration at www.eventsinsynergy.ca/upcoming events; Facebook event: www.facebook.com/events/1761848021752599. Organizer: Events In Synergy. Source: organizer form submission.\nHours: 11:00 AM – 5:00 PM\nAdmission: Free\nAttractions: Free swag bags for the first 20 adult guests, pumpkin-carving workshop ($15, 12 PM & 2 PM), $25 Market Bucks giveaway\nSource: https://www.facebook.com/EventsInSynergy/posts/pfbid02a7SBWX2tgP8QJuGdu7asyDcwZYaC7Fv2AZZPXP8cu1TJqfMaFsaHMYA7CutmRA2hl",
-  "fees": "$105",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "9th Annual Fall Trick or Treat at the WFCU Craft Show",
-  "date": "2026-10-24",
-  "time": "10 a.m.–2 p.m.",
-  "location": "WFCU Centre, 8787 McHugh St, Windsor, ON",
-  "city": "Windsor",
-  "region": "Windsor-Essex",
-  "description": "9th Annual Fall Trick or Treat at the WFCU Craft Show — a busy, high-traffic fall craft show hosted by UP Media, running for over ten years with 40+ local vendors. Kids trick-or-treat with the vendors in costume, with activities and food options on site.\nTheme: Halloween / Fall\nVendor types wanted: Local vendors and crafters\nHow to apply: https://www.surveymonkey.com/r/5WHXD\nHours: 10:00 AM – 2:00 PM\nSource: https://facebook.com/groups/222210128370316/permalink/2174684729789503/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Autumn Colors Bazaar",
-  "date": "2026-10-24",
-  "time": "12 p.m.–8 p.m.",
-  "location": "Dovercourt Recreation Centre, 411 Dovercourt Ave, Ottawa, ON",
-  "city": "Ottawa",
-  "region": "Ottawa",
-  "description": "Fall bazaar by Nogori Group: handmade crafts & artisan goods, cultural fashion, food vendors, family activities. Free entry for shoppers. Vendor fee $100+ (per organizer submission); table, chair, power included; indoor. Theme: Fall / autumn. Tags: fall bazaar, arts, craft, clothing, jewellery, food. Vendor types wanted: fine art, sculpture & ceramics, digital art & graphic design, handmade crafts (per submission). How to apply: https://forms.gle/fBAY9ngNjFe7mvzYA. Contact: Nogori Group\\. Organizer calls it \"Autumn Colors Bazaar\" (submitted as \"Autumn Fall Bazaar\"). Source: organizer form submission (2026-10-04).\nHours: 12:00 PM – 8:00 PM\nAdmission: Free\nAttractions: Local brands, handmade treasures and food vendors\nSource: https://facebook.com/groups/524928052267953/permalink/1572671020826979/",
-  "fees": "$100",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Condor Lounge first Market",
-  "date": "2026-10-24",
-  "time": "12 p.m.–8 p.m.",
-  "location": "Condor Lounge & Golf Bar, 470 Charlemagne Blvd, Ottawa, ON",
-  "city": "Ottawa",
-  "region": "Ottawa",
-  "description": "First-time market at Condor Lounge & Golf Bar. Vendor fee: FREE. How to apply: DM the organizer. Organizer: Condor Lounge.\nHours: 12:00 PM – 8:00 PM\nAttractions: DJ follows at 10:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1564914781602603/",
-  "fees": "free",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Costa Crafted Events: 3rd Annual Halloween Vendor Show",
-  "date": "2026-10-24",
-  "time": "10 a.m.–4 p.m.",
-  "location": "St Pauls Highschool, 15 Tripp Blvd, Trenton, ON",
-  "city": "Trenton",
-  "region": "Kingston & Area",
-  "description": "3rd annual Halloween vendor show by Costa Crafted Events. Vendor fee not published — see application form. Theme: Halloween. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form. Attractions: trick or treating at all booths, best costume contest with prize, free raffles, kids' Halloween coloring contest. Attendee info source: https://www.instagram.com/p/DdgaAnfRRby/\nSource: https://www.instagram.com/p/DdgaAnfRRby/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Craft Sale & Trick or Treat",
-  "date": "2026-10-24",
-  "time": "10 a.m.–2 p.m.",
-  "location": "Delhi Polish Hall, Delhi, ON",
-  "city": "Delhi",
-  "region": "Rest of Ontario",
-  "description": "Craft sale at Delhi Polish Hall in Delhi, with vendors and trick-or-treating for kids. Hours: Sat Oct 24, 10 AM–2 PM.\nTheme: Halloween\nAdmission: $2 or a food donation\nHow to apply: email the organizer\nAttractions: Trick-or-treating for kids\nSource: https://facebook.com/groups/145130302589219/permalink/2636673353434889/",
-  "fees": "not stated by organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Diwali & Karwa Chauth Bazaar 2026",
-  "date": "2026-10-24",
-  "time": "12 p.m.–9 p.m.",
-  "location": "Noor Convention Centre, 2084 Steeles Ave E, Brampton",
-  "city": "Brampton",
-  "region": "Peel Region",
-  "description": "Theme: Diwali\nHours: 12:00 PM – 9:00 PM\nAdmission: Free (free parking)\nAttractions: Live singing, magic show, kids' entertainment, free henna 4–5 PM, DJ and dance floor, free gifts for guests\nSource: https://facebook.com/groups/1190141658320918/permalink/1969958890339187/\n",
-  "fees": "not stated by organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Fall Harvest Market (vendor call)",
   "date": "2026-10-24",
   "time": "12 p.m.–8 p.m.",
@@ -129,17 +30,6 @@ window.EVENTS_REFRESH = [
   "region": "Hamilton",
   "description": "Fall festival market at Lime Ridge Mall seeking vendors; runs every October weekend. Vendor fee: not published - contact organizer. How to apply: https:///thehammer. Organizer: The Hammer. Admission: Tickets starting at $6.99. Attractions: unlimited train rides, bouncy castles, children's hay maze, trucks and tractors, face painting, pumpkin bowling, character meet-and-greets, giant lawn games, axe throwing, live music, pumpkin painting, 35-foot walk-in tree attraction, marshmallow fire pits, artisan vendors, beer garden, fall food and beverages (Sat & Sun 12-8 PM; food, beer garden, fire pits and pumpkin painting cost extra). Attendee info sources: https://limeridgemall.ca/events/lime-ridge-mall-fall-harvest-market-at-lime-ridge-this-october/?shem=aimgspe and https://urbanicity.com/hamiltons-street-eats-market-transforming-into-fall-harvest-market-for-autumn-vibes/\nSource: https://facebook.com/groups/524928052267953/permalink/1564685448292203/",
   "fees": "not published - contact organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Ghouls & Goblin's Market",
-  "date": "2026-10-24",
-  "time": "11 a.m.–3 p.m.",
-  "location": "Fireside Haven Studio, Cambridge",
-  "city": "Cambridge",
-  "region": "Waterloo Region",
-  "description": "Halloween market in Cambridge; last-minute vendor spot posted Oct 21.\nListing type: Vendor call\nHow to apply: PM or comment on the source post (poster is the contact for Fireside Haven events)\nSource: https://facebook.com/groups/524928052267953/permalink/1590062382421176/",
-  "fees": "$45 bring your own 6ft table / $50 rent a table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -154,17 +44,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "Hamilton Craft Market",
-  "date": "2026-10-24",
-  "time": "10 a.m.–3 p.m.",
-  "location": "St. Michael's Hungarian Hall, 521 West 5th St, Hamilton",
-  "city": "Hamilton",
-  "region": "Hamilton",
-  "description": "How to apply: https://forms.gle/Agha9H3Dn4JReomU6\nHours: 10:00 AM – 3:00 PM\nAdmission: Free\nAttractions: Free door-prize ballot, penny sale raffles, sweets and treats; non-perishable food drive\nSource: https://facebook.com/groups/524928052267953/permalink/1579547646805983/\n\n",
-  "fees": "$60 (indoor, 6ft x 5ft space, table & chairs included)",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Haunted Museum Weekend — Craft Vendors (Oct 24)",
   "date": "2026-10-24",
   "time": "Time not listed",
@@ -173,83 +52,6 @@ window.EVENTS_REFRESH = [
   "region": "Rest of Ontario",
   "description": "Haunted Museum Weekend craft vendor night at the Wallaceburg & District Museum (inside the Jeanne Gordon Hall); funds raised support the museum. Event time not published in the post — contact organizer. Vendor fee: $35 per night or $120 for all four nights. How to apply: scan to apply via the QR code in the flyer (application link not published in the post). Organizer: see the source post.\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28139289509075543/",
   "fees": "$35/$120",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "RRCC Fall Family Festival",
-  "date": "2026-10-24",
-  "time": "11 a.m.–4 p.m.",
-  "location": "Rice Road Community Church, 305 Rice Road, Welland, ON",
-  "city": "Welland",
-  "region": "Niagara Region",
-  "description": "Vendor call for the RRCC Fall Family Festival – family-friendly fall celebration seeking food vendors, desserts & sweets, baked goods, crafters and local makers. Vendor setup 8:30–9:30 AM; free public parking. Vendor fee: not published - contact organizer. How to apply: PM the organizer on Facebook for the event form. Registration closes Oct 9, 2026. Organizer: Rice Road Community Church.\nHours: 11:00 AM – 4:00 PM\nAttractions: Family-friendly activities and seasonal treats\nSource: https://facebook.com/groups/524928052267953/permalink/1571051244322290/",
-  "fees": "not published - contact organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Rave to Your Grave artist market",
-  "date": "2026-10-24",
-  "time": "11 a.m.–4 p.m.",
-  "location": "62 King St W, Bowmanville, ON",
-  "city": "Bowmanville",
-  "region": "Durham Region",
-  "description": "Halloween-themed artist market with DJ. Admission: not published. Source: https://facebook.com/groups/durhamregionevents/permalink/2085085752147470/\nHours: 11:00 AM – 4:00 PM\nAttractions: DJ and Halloween party/rave\nSource: https://facebook.com/groups/durhamregionevents/permalink/2085085752147470/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Reptilia Creepy Crawly Market",
-  "date": "2026-10-24",
-  "time": "10 a.m.–6 p.m.",
-  "location": "Reptilia, 785 Wonderland Rd S, London, ON",
-  "city": "London",
-  "region": "London & Area",
-  "description": "First-ever Reptilia Creepy Crawly Market — a spooky, family-friendly fall market inside Reptilia London, surrounded by reptiles, pumpkins, and Halloween fun. Hours: Sat Oct 24, 10 AM–6 PM, with optional Crocs After Dark 7–9 PM at no extra charge. Vendor acceptance is based on product uniqueness — the organizer does not accept multiple vendors selling the same or similar items. Application cutoff: October 19 at 2 PM.\nTheme: Halloween\nHow to apply: Email your application — the copy-and-paste application form and email address are in the source post\nAttractions: Market inside the Reptilia reptile zoo; Crocs After Dark evening event 7:00 PM – 9:00 PM\nSource: https://facebook.com/groups/ontariocanadavendorevents/permalink/4456145678029100/",
-  "fees": "$75 with a table / $50 if you bring your own",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Scugog Kids Clothing & Toy Sale",
-  "date": "2026-10-24",
-  "time": "8 a.m.–12 p.m.",
-  "location": "Scugog Community Centre, 1655 Reach St, Port Perry, ON",
-  "city": "Port Perry",
-  "region": "Durham Region",
-  "description": "Consignment sale with 50+ consignors: gently used kids clothing, toys, books, baby gear, winter wear, sports equipment. Admission: $5 early-bird hour (8-9 AM), $2 general admission (9 AM-12 PM), children free. Portion of proceeds supports Big Brothers Big Sisters of North Durham. Cash, debit and credit accepted; bring reusable bags. Note: consignment sale, not a craft/vendor market. Source: https://facebook.com/groups/841558929280202/permalink/27543033902039342/\nHours: 8:00 AM – 12:00 PM\nVendors expected: 50+ consignors\nSource: https://facebook.com/groups/841558929280202/permalink/27543033902039342/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Something New Saturday Vendor Market",
-  "date": "2026-10-24",
-  "time": "9 a.m.–4:30 p.m.",
-  "location": "Something New, 416 Concession Street, Hamilton, ON",
-  "city": "Hamilton",
-  "region": "Hamilton",
-  "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
-  "fees": "$45",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Spooky & Sparkly Shopping Market",
-  "date": "2026-10-24",
-  "time": "10 a.m.–2 p.m.",
-  "location": "Komoka Community Centre, 133 Queen Street, Komoka, ON",
-  "city": "Komoka",
-  "region": "London & Area",
-  "description": "MHH Events & Entertainment. First holiday market of the season: Halloween treats, Christmas gifts, handmade goods. Spaces limited.\n\nTheme: Halloween / Christmas\nTags: holiday, indoor\nApply: via Facebook group www.facebook.com/groups/mhhevents (apply today — no direct form link)\nHours: 10:00 AM – 2:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1575146237246124/\n\nAttractions: family-friendly holiday-season kickoff with unique vendors, handmade treasures, and seasonal treats. Attendee info source: https://allevents.in/mount-brydges/spooky-and-sparkly-holiday-market/200029576534318",
-  "fees": "$50+HST, includes 8-ft table",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Toploaders Anonymous Card Show",
-  "date": "2026-10-24",
-  "time": "9 a.m.–3 p.m.",
-  "location": "Meridian Community Centre, 100 Meridian Way, Fonthill, ON",
-  "city": "Fonthill",
-  "region": "Niagara Region",
-  "description": "Monthly trading card show — calling all card collectors, Pokemon fans, sports card lovers, and TCG addicts. Buy, sell, trade, hunt for your next big pull, or just talk cards. Organizer: Toploaders Anonymous. Note: submitted on the organizer's behalf.\nSource: organizer\\'s Facebook post",
-  "fees": "$75 Attractions: prize giveaways and raffles at the show. Attendee info source: https://www.instagram.com/p/DdsMepaR9zV/",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
