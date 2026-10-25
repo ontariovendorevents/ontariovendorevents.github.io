@@ -6,8 +6,8 @@ window.EVENTS_REFRESH = [
   "location": "Brawley Woods, 1320 Brawley Rd W, Whitby, ON",
   "city": "Whitby",
   "region": "Durham Region",
-  "description": "Brawley Woods Haunted Halloween Walk vendor call — vendors of all kinds wanted (handmade goods, Halloween & fall vendors, artists and all things unique). Haunted forest walk with 24 movie-like scenes, live actors and animatronics. Walk hours: Fri & Sat 7 PM–11 PM, Sun 7 PM–10 PM (vendor hours not published — confirm with organizer). Vendor fees: $70/day, $200/weekend (3 days), $600 for the last three weekends — confirm with organizer. NOTE: the vendor application includes a release agreement requiring a Certificate of Insurance for Commercial General Liability ($5M) with Brawley Woods and the City of Whitby named as additional insureds. Apply: https://docs.google.com/forms/d/e/1FAIpQLSfabCrx9hWMA4-OewJGE1qR2Wo0ipvAhhHPWQXEkViJd3ro2g/viewform. see the source post link for how to apply.\nTheme: Halloween\nTags: vendors wanted, haunted walk, fall vendors, artisan vendors\nVendor types wanted: All vendor types\nSource: https://www.facebook.com/groups/1275920009575497/permalink/2550637795437039/",
-  "fees": "$70/$200/$600",
+  "description": "Brawley Woods Haunted Halloween Walk vendor call — vendors of all kinds wanted (handmade goods, Halloween & fall vendors, artists and all things unique). Haunted forest walk with 24 movie-like scenes, live actors and animatronics. Walk hours: Fri & Sat 7 PM–11 PM, Sun 7 PM–10 PM (vendor hours not published — confirm with organizer). Vendor fees: $70/day, $200/weekend (3 days), $600 for the last three weekends — confirm with organizer. NOTE: the vendor application includes a release agreement requiring a Certificate of Insurance for Commercial General Liability ($5M) with Brawley Woods and the City of Whitby named as additional insureds. Apply: https://docs.google.com/forms/d/e/1FAIpQLSfabCrx9hWMA4-OewJGE1qR2Wo0ipvAhhHPWQXEkViJd3ro2g/viewform. see the source post link for how to apply.\nTheme: Halloween\nTags: vendors wanted, haunted walk, fall vendors, artisan vendors\nVendor types wanted: All vendor types\nFee: $70/$200/$600\nSource: https://www.facebook.com/groups/1275920009575497/permalink/2550637795437039/",
+  "fees": "$70/day; $200/weekend (3 days); $600 for last three weekends",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -29,7 +29,7 @@ window.EVENTS_REFRESH = [
   "city": "Hamilton",
   "region": "Hamilton",
   "description": "Fall festival market at Lime Ridge Mall seeking vendors; runs every October weekend. Vendor fee: not published - contact organizer. How to apply: https:///thehammer. Organizer: The Hammer. Admission: Tickets starting at $6.99. Attractions: unlimited train rides, bouncy castles, children's hay maze, trucks and tractors, face painting, pumpkin bowling, character meet-and-greets, giant lawn games, axe throwing, live music, pumpkin painting, 35-foot walk-in tree attraction, marshmallow fire pits, artisan vendors, beer garden, fall food and beverages (Sat & Sun 12-8 PM; food, beer garden, fire pits and pumpkin painting cost extra). Attendee info sources: https://limeridgemall.ca/events/lime-ridge-mall-fall-harvest-market-at-lime-ridge-this-october/?shem=aimgspe and https://urbanicity.com/hamiltons-street-eats-market-transforming-into-fall-harvest-market-for-autumn-vibes/\nSource: https://facebook.com/groups/524928052267953/permalink/1564685448292203/",
-  "fees": "not published - contact organizer",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -39,8 +39,8 @@ window.EVENTS_REFRESH = [
   "location": "Madison Ave & Dupont St, Toronto, ON (below Casa Loma, near Dupont Station)",
   "city": "Toronto",
   "region": "Toronto",
-  "description": "Curated October makers markets near Dupont Station and Casa Loma, Toronto. Seeking handmade/ceramics, illustration, textiles, crochet, skincare, candles, pet goods, specialty food, original homeware and creative workshops (handmade only; small market, limited repeat categories). Vendor fee: $50 per market date (includes one 4-foot table and one chair, plus event promotion including TTC advertising). How to apply: https://gleammakers.com/vendors/. Organizer: Gleam Makers Collective (Gleam & Sip Matcha Catering + Cafe).\nHours: 10:00 AM – 5:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1570297551064326/",
-  "fees": "$50 Vendors expected: handmade ceramics, jewellery, leather goods, fibre art, illustration, stationery, skincare, concrete design, accessories, gifts. Attendee info source: https://gleammakers.com/",
+  "description": "Curated October makers markets near Dupont Station and Casa Loma, Toronto. Seeking handmade/ceramics, illustration, textiles, crochet, skincare, candles, pet goods, specialty food, original homeware and creative workshops (handmade only; small market, limited repeat categories). Vendor fee: $50 per market date (includes one 4-foot table and one chair, plus event promotion including TTC advertising). How to apply: https://gleammakers.com/vendors/. Organizer: Gleam Makers Collective (Gleam & Sip Matcha Catering + Cafe).\nFee: $50 Vendors expected: handmade ceramics, jewellery, leather goods, fibre art, illustration, stationery, skincare, concrete design, accessories, gifts. Attendee info source: https://gleammakers.com/\nHours: 10:00 AM – 5:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1570297551064326/",
+  "fees": "$50 per market date (incl. 4-ft table + chair)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -50,8 +50,8 @@ window.EVENTS_REFRESH = [
   "location": "Wallaceburg & District Museum, Jeanne Gordon Hall, 505 King St, Wallaceburg, ON",
   "city": "Wallaceburg",
   "region": "Rest of Ontario",
-  "description": "Haunted Museum Weekend craft vendor night at the Wallaceburg & District Museum (inside the Jeanne Gordon Hall); funds raised support the museum. Event time not published in the post — contact organizer. Vendor fee: $35 per night or $120 for all four nights. How to apply: scan to apply via the QR code in the flyer (application link not published in the post). Organizer: see the source post.\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28139289509075543/",
-  "fees": "$35/$120",
+  "description": "Haunted Museum Weekend craft vendor night at the Wallaceburg & District Museum (inside the Jeanne Gordon Hall); funds raised support the museum. Event time not published in the post — contact organizer. Vendor fee: $35 per night or $120 for all four nights. How to apply: scan to apply via the QR code in the flyer (application link not published in the post). Organizer: see the source post.\nFee: $35/$120\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28139289509075543/",
+  "fees": "$35 per night / $120 all four nights",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -61,7 +61,7 @@ window.EVENTS_REFRESH = [
   "location": "Noor Convention Centre, 2084 Steeles Ave E, Brampton",
   "city": "Brampton",
   "region": "Peel Region",
-  "description": "Theme: Diwali\nHours: 12:00 PM – 9:00 PM\nAdmission: Free (free parking)\nAttractions: Live singing, magic show, kids' entertainment, free henna 4–5 PM, DJ and dance floor, free gifts for guests\nSource: https://facebook.com/groups/1190141658320918/permalink/1969958890339187/\n",
+  "description": "Theme: Diwali\nFee: not stated by organizer\nHours: 12:00 PM – 9:00 PM\nAdmission: Free (free parking)\nAttractions: Live singing, magic show, kids' entertainment, free henna 4–5 PM, DJ and dance floor, free gifts for guests\nSource: https://facebook.com/groups/1190141658320918/permalink/1969958890339187/\n",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -72,7 +72,7 @@ window.EVENTS_REFRESH = [
   "location": "River Road Nature School, Cayuga",
   "city": "Cayuga",
   "region": "Rest of Ontario",
-  "description": "Free Halloween fun fair in Cayuga, hosted by the Special Needs Resource Centre with Balance Support & Self Care Studios and Fundamental Life Services. Outdoor event; vendors are asked to bring candy for trick-or-treaters at their booths.\nListing type: Vendor call\nHow to apply: message the poster via the source post for details\nSource: https://facebook.com/groups/524928052267953/permalink/1589092669184814/",
+  "description": "Free Halloween fun fair in Cayuga, hosted by the Special Needs Resource Centre with Balance Support & Self Care Studios and Fundamental Life Services. Outdoor event; vendors are asked to bring candy for trick-or-treaters at their booths.\nListing type: Vendor call\nFee: Free vendor spaces\nHow to apply: message the poster via the source post for details\nSource: https://facebook.com/groups/524928052267953/permalink/1589092669184814/",
   "fees": "Free vendor spaces",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -94,8 +94,8 @@ window.EVENTS_REFRESH = [
   "location": "Motorista Studio, 25 Commercial Rd, Toronto, ON",
   "city": "Toronto",
   "region": "Toronto",
-  "description": "Vendor call: MACABRISTA — A Halloween Feast + Fair (Oct 25-29, 2 PM-12 AM daily). Curated artisan market + live fire feast, music, entertainment, sponsor activations. Booth pricing: 1 day Standard $130 / Premium+Power $150; 2 days $240 / $270; 5 days $500 / $550. Includes ~45 sq ft booth, free parking, Wi-Fi; power with Premium. How to apply: vendor intake form https://forms.gle/EirQSdrnvSk86iaC6. Organizer: The Grateful Market x Motorista Studio.\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28278391371832022/",
-  "fees": "$130/$150 Admission: Free walk-in daily 2 PM-midnight; the feast is ticketed at $35/person (or $100 for four), drinks not included. Attractions: 50-vendor nocturnal market, art and light installations, live musicians from 8 PM, Toronto Ghostbusters' giant inflatable and Ecto-6IX car, goodie bag to take home (all ages, free parking). Attendee info source: https://macabrista.com/",
+  "description": "Vendor call: MACABRISTA — A Halloween Feast + Fair (Oct 25-29, 2 PM-12 AM daily). Curated artisan market + live fire feast, music, entertainment, sponsor activations. Booth pricing: 1 day Standard $130 / Premium+Power $150; 2 days $240 / $270; 5 days $500 / $550. Includes ~45 sq ft booth, free parking, Wi-Fi; power with Premium. How to apply: vendor intake form https://forms.gle/EirQSdrnvSk86iaC6. Organizer: The Grateful Market x Motorista Studio.\nFee: $130/$150 Admission: Free walk-in daily 2 PM-midnight; the feast is ticketed at $35/person (or $100 for four), drinks not included. Attractions: 50-vendor nocturnal market, art and light installations, live musicians from 8 PM, Toronto Ghostbusters' giant inflatable and Ecto-6IX car, goodie bag to take home (all ages, free parking). Attendee info source: https://macabrista.com/\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28278391371832022/",
+  "fees": "1 day $130 Standard / $150 Premium+Power; 2 days $240/$270; 5 days $500/$550",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -103,10 +103,10 @@ window.EVENTS_REFRESH = [
   "date": "2026-10-25",
   "time": "10 a.m.–4 p.m.",
   "location": "244 Killaly St W, Port Colborne (Mrs. Bubbles Pet Spa & Doggie Daycare)",
-  "city": "Port Colborne",
-  "region": "Niagara Region",
-  "description": "Vendor call: Halloween vendor event, indoor & outdoor spots.\n\nTheme: Halloween\nTags: halloween, spooky, indoor, outdoor\nHours: 10:00 AM - 4:00 PM (vendor setup 8:30-9:30 AM)\nHow to apply: see the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2626352091133682/\nAttractions: costume contest & parade at 1 PM, treat bags for kids, bouncy castle, on-the-spot mini tattoos.\n\n",
-  "fees": "indoor $75; outdoor $50",
+  "city": "",
+  "region": "Rest of Ontario",
+  "description": "Vendor call: Halloween vendor event, indoor & outdoor spots.\n\nTheme: Halloween\nTags: halloween, spooky, indoor, outdoor\nHours: 10:00 AM - 4:00 PM (vendor setup 8:30-9:30 AM)\nFee: indoor $75; outdoor $50\nHow to apply: see the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2626352091133682/\nAttractions: costume contest & parade at 1 PM, treat bags for kids, bouncy castle, on-the-spot mini tattoos.\n\n",
+  "fees": "Indoor $75; outdoor $50",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -117,7 +117,7 @@ window.EVENTS_REFRESH = [
   "city": "Barrie",
   "region": "Simcoe County",
   "description": "Fall fair at Roberta Place Retirement Lodge in Barrie; flyer says no entry fee.\nListing type: Vendor call\nHow to apply: message the poster via the source post, or call the lodge and ask for the Recreation Coordinator\nSource: https://facebook.com/groups/524928052267953/permalink/1589735219120559/",
-  "fees": "",
+  "fees": "No entry fee (per flyer)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -128,7 +128,7 @@ window.EVENTS_REFRESH = [
   "city": "Ottawa",
   "region": "Ottawa",
   "description": "Ottawa Rock N' Gem Show — a four-day show (Thu Oct 29 – Sun Nov 1) drawing rockhounds, families, collectors, and shoppers from across the region. The organizer is looking to expand the vendor lineup with fresh, unique businesses. Show hours and vendor fee not published — confirm with the organizer.\nTheme: TBD\nVendor types wanted: Crystals, gems & minerals; fossils & geological items; handcrafted jewelry; metaphysical supplies; art, decor & unique creations; rock/geo-themed goods\nHow to apply: see the source post\nSource: https://facebook.com/groups/723619655265936/permalink/1930948284533061/",
-  "fees": "",
+  "fees": "Not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -138,8 +138,8 @@ window.EVENTS_REFRESH = [
   "location": "Brawley Woods, 1320 Brawley Rd W, Whitby, ON",
   "city": "Whitby",
   "region": "Durham Region",
-  "description": "Brawley Woods Haunted Halloween Walk vendor call — vendors of all kinds wanted (handmade goods, Halloween & fall vendors, artists and all things unique). Haunted forest walk with 24 movie-like scenes, live actors and animatronics. Walk hours: Fri & Sat 7 PM–11 PM, Sun 7 PM–10 PM (vendor hours not published — confirm with organizer). Vendor fees: $70/day, $200/weekend (3 days), $600 for the last three weekends — confirm with organizer. NOTE: the vendor application includes a release agreement requiring a Certificate of Insurance for Commercial General Liability ($5M) with Brawley Woods and the City of Whitby named as additional insureds. Apply: https://docs.google.com/forms/d/e/1FAIpQLSfabCrx9hWMA4-OewJGE1qR2Wo0ipvAhhHPWQXEkViJd3ro2g/viewform. see the source post link for how to apply.\nTheme: Halloween\nTags: vendors wanted, haunted walk, fall vendors, artisan vendors\nVendor types wanted: All vendor types\nSource: https://www.facebook.com/groups/1275920009575497/permalink/2550637795437039/",
-  "fees": "$70/$200/$600",
+  "description": "Brawley Woods Haunted Halloween Walk vendor call — vendors of all kinds wanted (handmade goods, Halloween & fall vendors, artists and all things unique). Haunted forest walk with 24 movie-like scenes, live actors and animatronics. Walk hours: Fri & Sat 7 PM–11 PM, Sun 7 PM–10 PM (vendor hours not published — confirm with organizer). Vendor fees: $70/day, $200/weekend (3 days), $600 for the last three weekends — confirm with organizer. NOTE: the vendor application includes a release agreement requiring a Certificate of Insurance for Commercial General Liability ($5M) with Brawley Woods and the City of Whitby named as additional insureds. Apply: https://docs.google.com/forms/d/e/1FAIpQLSfabCrx9hWMA4-OewJGE1qR2Wo0ipvAhhHPWQXEkViJd3ro2g/viewform. see the source post link for how to apply.\nTheme: Halloween\nTags: vendors wanted, haunted walk, fall vendors, artisan vendors\nVendor types wanted: All vendor types\nFee: $70/$200/$600\nSource: https://www.facebook.com/groups/1275920009575497/permalink/2550637795437039/",
+  "fees": "$70/day; $200/weekend (3 days); $600 for last three weekends",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -149,8 +149,8 @@ window.EVENTS_REFRESH = [
   "location": "The Latcham Centre, 121 Queen St, Port Perry",
   "city": "Port Perry",
   "region": "Durham Region",
-  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Friday, October 30, 5–9 PM. Table fees: 8-ft $65, bring-your-own-table $60. To apply: DM the organizer on Facebook.\nHours: 5:00 PM – 9:00 PM\nSource: https://www.facebook.com/groups/1013767978664673/posts/38839227885691875/",
-  "fees": "$60/$65",
+  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Friday, October 30, 5–9 PM. Table fees: 8-ft $65, bring-your-own-table $60. To apply: DM the organizer on Facebook.\nFee: $60/$65\nHours: 5:00 PM – 9:00 PM\nSource: https://www.facebook.com/groups/1013767978664673/posts/38839227885691875/",
+  "fees": "$50–$80 (range — confirm with organizer)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -161,7 +161,7 @@ window.EVENTS_REFRESH = [
   "city": "Hamilton",
   "region": "Hamilton",
   "description": "Fall festival market at Lime Ridge Mall seeking vendors; runs every October weekend. Vendor fee: not published - contact organizer. How to apply: https:///thehammer. Organizer: The Hammer. Admission: Tickets starting at $6.99. Attractions: unlimited train rides, bouncy castles, children's hay maze, trucks and tractors, face painting, pumpkin bowling, character meet-and-greets, giant lawn games, axe throwing, live music, pumpkin painting, 35-foot walk-in tree attraction, marshmallow fire pits, artisan vendors, beer garden, fall food and beverages (Sat & Sun 12-8 PM; food, beer garden, fire pits and pumpkin painting cost extra). Attendee info sources: https://limeridgemall.ca/events/lime-ridge-mall-fall-harvest-market-at-lime-ridge-this-october/?shem=aimgspe and https://urbanicity.com/hamiltons-street-eats-market-transforming-into-fall-harvest-market-for-autumn-vibes/\nSource: https://facebook.com/groups/524928052267953/permalink/1564685448292203/",
-  "fees": "not published - contact organizer",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -171,8 +171,8 @@ window.EVENTS_REFRESH = [
   "location": "Madison Ave & Dupont St, Toronto, ON (below Casa Loma, near Dupont Station)",
   "city": "Toronto",
   "region": "Toronto",
-  "description": "Curated October makers markets near Dupont Station and Casa Loma, Toronto. Seeking handmade/ceramics, illustration, textiles, crochet, skincare, candles, pet goods, specialty food, original homeware and creative workshops (handmade only; small market, limited repeat categories). Vendor fee: $50 per market date (includes one 4-foot table and one chair, plus event promotion including TTC advertising). How to apply: https://gleammakers.com/vendors/. Organizer: Gleam Makers Collective (Gleam & Sip Matcha Catering + Cafe).\nHours: 10:00 AM – 5:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1570297551064326/",
-  "fees": "$50 Vendors expected: handmade ceramics, jewellery, leather goods, fibre art, illustration, stationery, skincare, concrete design, accessories, gifts. Attendee info source: https://gleammakers.com/",
+  "description": "Curated October makers markets near Dupont Station and Casa Loma, Toronto. Seeking handmade/ceramics, illustration, textiles, crochet, skincare, candles, pet goods, specialty food, original homeware and creative workshops (handmade only; small market, limited repeat categories). Vendor fee: $50 per market date (includes one 4-foot table and one chair, plus event promotion including TTC advertising). How to apply: https://gleammakers.com/vendors/. Organizer: Gleam Makers Collective (Gleam & Sip Matcha Catering + Cafe).\nFee: $50 Vendors expected: handmade ceramics, jewellery, leather goods, fibre art, illustration, stationery, skincare, concrete design, accessories, gifts. Attendee info source: https://gleammakers.com/\nHours: 10:00 AM – 5:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1570297551064326/",
+  "fees": "$50 per market date (incl. 4-ft table + chair)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -193,8 +193,8 @@ window.EVENTS_REFRESH = [
   "location": "Something New, 416 Concession Street, Hamilton, ON",
   "city": "Hamilton",
   "region": "Hamilton",
-  "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
-  "fees": "$45",
+  "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nFee: $45\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
+  "fees": "$45/table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -205,7 +205,7 @@ window.EVENTS_REFRESH = [
   "city": "St. Catharines",
   "region": "Niagara Region",
   "description": "Vendor call: Trick or Treat Halloween Market (few spots left). Vendor fee: not published — contact organizer. How to apply: vendor application on the organizer website https://eventsconnectedcanada.ca/vendors-apply-here. Organizer: Events Connected Canada.\nHours: 10:00 AM – 6:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28228048553532971/",
-  "fees": "not published — contact organizer",
+  "fees": "not published - contact organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -213,7 +213,7 @@ window.EVENTS_REFRESH = [
   "date": "2026-10-31",
   "time": "10 a.m.–5 p.m.",
   "location": "Crystal Cave",
-  "city": "South River",
+  "city": "",
   "region": "Rest of Ontario",
   "description": "Halloween handmade vendor day at Crystal Cave (town not stated in the source post); vendors decorate their tents and dress up.\nListing type: Vendor call\nHow to apply: comment on the source post with what you sell\nSource: https://facebook.com/groups/1913011498920304/permalink/4787526624802096/",
   "fees": "",
@@ -259,7 +259,7 @@ window.EVENTS_REFRESH = [
   "location": "Howard Johnson by Wyndham, 354 Lindsay St S, Lindsay",
   "city": "Lindsay",
   "region": "Kawarthas and Peterborough",
-  "description": "Theme: Christmas\nHours: 5 PM – 9 PM\nHow to apply: application link not captured from post\nSource: https://facebook.com/groups/145130302589219/permalink/2627649787670579/\n",
+  "description": "Theme: Christmas\nFee: not stated by organizer\nHours: 5 PM – 9 PM\nHow to apply: application link not captured from post\nSource: https://facebook.com/groups/145130302589219/permalink/2627649787670579/\n",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -281,7 +281,7 @@ window.EVENTS_REFRESH = [
   "location": "Kortright Hills Public School Gym, 23 Ptarmigan Dr, Guelph, ON",
   "city": "Guelph",
   "region": "Rest of Ontario",
-  "description": "Theme: Holiday\nAdmission: Free entry\nHow to apply: see the source post\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/609827307950034/permalink/1434373652162058/",
+  "description": "Theme: Holiday\nFee: not published\nAdmission: Free entry\nHow to apply: see the source post\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/609827307950034/permalink/1434373652162058/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -292,8 +292,8 @@ window.EVENTS_REFRESH = [
   "location": "Grand Trunk Market, 28 McMaster Road, Trenton, Ontario",
   "city": "Trenton",
   "region": "Kingston & Area",
-  "description": "Outdoor country Christmas market weekend, part of A Country Christmas Gathering Tour. Vendor fee: $40/day or $60 for both days. Application deadline: October 15, 2026. How to apply: see the source post link for how to apply. Organizer: Marshland Creations.\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1569077401186341/",
-  "fees": "$40/$60",
+  "description": "Outdoor country Christmas market weekend, part of A Country Christmas Gathering Tour. Vendor fee: $40/day or $60 for both days. Application deadline: October 15, 2026. How to apply: see the source post link for how to apply. Organizer: Marshland Creations.\nFee: $40/$60\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1569077401186341/",
+  "fees": "$40/day or $60 for 2 days",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -314,8 +314,8 @@ window.EVENTS_REFRESH = [
   "location": "Chestnut Hill Developments Recreation Complex, 1867 Valley Farm Road, Pickering",
   "city": "Pickering",
   "region": "Durham Region",
-  "description": "Christmas craft market at Pickering Recreation Center. $100 for one day / $150 for both days. Crochet and baking spots are full (per organizer). Contact the organizer via Facebook DM (per public post).\nHours: 10:00 AM – 4:00 PM\nSource: https://www.facebook.com/groups/1746193395565570/posts/3472384706279755/",
-  "fees": "$100/$150",
+  "description": "Christmas craft market at Pickering Recreation Center. $100 for one day / $150 for both days. Crochet and baking spots are full (per organizer). Contact the organizer via Facebook DM (per public post).\nFee: $100/$150\nHours: 10:00 AM – 4:00 PM\nSource: https://www.facebook.com/groups/1746193395565570/posts/3472384706279755/",
+  "fees": "$100 for one day / $150 for both days",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -326,7 +326,7 @@ window.EVENTS_REFRESH = [
   "city": "Port Colborne",
   "region": "Niagara Region",
   "description": "Christmas Fair with 60+ vendor tables for Christmas shopping. Refreshments, penny sale, photos with Santa, lunch available. Run by a non-profit organization. Vendor fee: not published — contact organizer for information. Theme: Christmas / holiday season. Source: Facebook vendor call https://facebook.com/groups/826831985759557/permalink/1636095678166513/ (posted 2026-09-26).\nHours: 9:00 AM – 3:00 PM\nAttractions: Santa visit 12:00 PM – 1:00 PM, pony rides 11:00 AM – 12:00 PM, penny sale, lunch available\nVendors expected: 60+ vendor tables\nSource: FB vendor call (2026-09-26): https://facebook.com/groups/826831985759557/permalink/1636095678166513/",
-  "fees": "not published — contact organizer for information",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -336,8 +336,8 @@ window.EVENTS_REFRESH = [
   "location": "Gage Park, Hamilton, ON (between the greenhouse and bandshell)",
   "city": "Hamilton",
   "region": "Hamilton",
-  "description": "Outdoor Christmas sale - holiday decor, vintage finds, handmade gifts. Vendor fee: $25 per 10 ft x 10 ft space (includes event insurance, city park permit, advertising). How to apply: scan QR code on flyer or message organizer. Organizer: see the source post.\nHours: 9:00 AM – 1:00 PM\nVendors expected: 25 vendors\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28196960079975152/",
-  "fees": "$25",
+  "description": "Outdoor Christmas sale - holiday decor, vintage finds, handmade gifts. Vendor fee: $25 per 10 ft x 10 ft space (includes event insurance, city park permit, advertising). How to apply: scan QR code on flyer or message organizer. Organizer: see the source post.\nFee: $25\nHours: 9:00 AM – 1:00 PM\nVendors expected: 25 vendors\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28196960079975152/",
+  "fees": "$25 per 10' x 10' space",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -347,8 +347,8 @@ window.EVENTS_REFRESH = [
   "location": "Cooksville United Church, 2500 Mimosa Row, Mississauga",
   "city": "Mississauga",
   "region": "Peel Region",
-  "description": "Fall bazaar. Vendor fee: $75 per table. Contact the organizer via the original post.\nHours: 10:00 AM – 2:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1569192311174850/",
-  "fees": "$75",
+  "description": "Fall bazaar. Vendor fee: $75 per table. Contact the organizer via the original post.\nFee: $75\nHours: 10:00 AM – 2:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1569192311174850/",
+  "fees": "$75/table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -358,8 +358,8 @@ window.EVENTS_REFRESH = [
   "location": "CLE Heritage Building, Thunder Bay, ON",
   "city": "Thunder Bay",
   "region": "Rest of Ontario",
-  "description": "Fall vendor show in Thunder Bay: food, teas, baked goods, home decor, woodwork, art, crafts and custom products. Vendor fee: $40 per table. How to apply: send the organizer an email stating your business name and what you sell to receive a contract (email address not listed in the post — message the poster on Facebook). Organizer: see the source post.\nHours: 8:00 AM – 1:30 PM\nAdmission: Free\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28111197418551419/",
-  "fees": "$40",
+  "description": "Fall vendor show in Thunder Bay: food, teas, baked goods, home decor, woodwork, art, crafts and custom products. Vendor fee: $40 per table. How to apply: send the organizer an email stating your business name and what you sell to receive a contract (email address not listed in the post — message the poster on Facebook). Organizer: see the source post.\nFee: $40\nHours: 8:00 AM – 1:30 PM\nAdmission: Free\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28111197418551419/",
+  "fees": "$40 per table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -367,10 +367,10 @@ window.EVENTS_REFRESH = [
   "date": "2026-11-07",
   "time": "10 a.m.–2 p.m.",
   "location": "Guelph Community Christian School, 195 College Ave W, Guelph N1G 1S6",
-  "city": "Guelph",
+  "city": "",
   "region": "Rest of Ontario",
-  "description": "Vendor call: Christmas vendor market; proceeds support the Grade 8 grad trip.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, school, fundraiser\nHours: 10:00 AM - 2:00 PM\nHow to apply: via the organizer's Facebook post (no application link published)\nsee the source post link for how to apply.\nAttractions: Bake sale; free parking\nVendors expected: 30+ vendors\nSource: https://facebook.com/groups/609827307950034/permalink/1429919429274147/\nNote: 30+ vendors, bake sale, free parking.\n\n",
-  "fees": "not published (TBD)",
+  "description": "Vendor call: Christmas vendor market; proceeds support the Grade 8 grad trip.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, school, fundraiser\nHours: 10:00 AM - 2:00 PM\nFee: not published (TBD)\nHow to apply: via the organizer's Facebook post (no application link published)\nsee the source post link for how to apply.\nAttractions: Bake sale; free parking\nVendors expected: 30+ vendors\nSource: https://facebook.com/groups/609827307950034/permalink/1429919429274147/\nNote: 30+ vendors, bake sale, free parking.\n\n",
+  "fees": "Not published (TBD)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -380,7 +380,7 @@ window.EVENTS_REFRESH = [
   "location": "North Hastings Inspiration Place, 6 Cleak Ave, Bancroft, ON",
   "city": "Bancroft",
   "region": "Rest of Ontario",
-  "description": "Inaugural Harvest & Holiday Market at the new North Hastings Inspiration Place community hub in Bancroft, hosted by North Hastings Inspiration Place (Town of Bancroft) — a harvest and holiday-season market showcasing local vendors, artisans, makers, growers and small businesses. Free admission.\nTheme: Harvest / holiday season\nVendor types wanted: local vendors, artisans, makers, growers, and small businesses\nHours: from 10:00 AM; end time not published — confirm with organizer\nHow to apply: https://forms.gle/D8TTP6WJKfLfwRMy6 (vendor application deadline: Oct 26, 2026)\nAdmission: Free\nSource: Facebook vendor call (2026-10-15)",
+  "description": "Inaugural Harvest & Holiday Market at the new North Hastings Inspiration Place community hub in Bancroft, hosted by North Hastings Inspiration Place (Town of Bancroft) — a harvest and holiday-season market showcasing local vendors, artisans, makers, growers and small businesses. Free admission.\nTheme: Harvest / holiday season\nVendor types wanted: local vendors, artisans, makers, growers, and small businesses\nHours: from 10:00 AM; end time not published — confirm with organizer\nHow to apply: https://forms.gle/D8TTP6WJKfLfwRMy6 (vendor application deadline: Oct 26, 2026)\nFee: $20 + HST\nAdmission: Free\nSource: Facebook vendor call (2026-10-15)",
   "fees": "$20 + HST",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -391,8 +391,8 @@ window.EVENTS_REFRESH = [
   "location": "RCL Branch 58, 1180 Barton St E, Hamilton",
   "city": "Hamilton",
   "region": "Hamilton",
-  "description": "2nd Annual Hecate's Witchy Wares market — handmade, mystical, witchcraft-inspired, gothic, vintage and unusual wares. Vendor fee: $115–$130 + HST by space (8x7 wall $125+HST, wall w/ electricity $130+HST, inner corner $120+HST, inner $115+HST); chairs included, bring own table. How to apply: website application only — https://www.eventsinsynergy.ca/hecates-witchy-wares-vendor-page (organizer notes they never send applications through social media). Organizer: Events In Synergy.\nHours: 11:00 AM – 5:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28156658737338620/",
-  "fees": "$115/$130",
+  "description": "2nd Annual Hecate's Witchy Wares market — handmade, mystical, witchcraft-inspired, gothic, vintage and unusual wares. Vendor fee: $115–$130 + HST by space (8x7 wall $125+HST, wall w/ electricity $130+HST, inner corner $120+HST, inner $115+HST); chairs included, bring own table. How to apply: website application only — https://www.eventsinsynergy.ca/hecates-witchy-wares-vendor-page (organizer notes they never send applications through social media). Organizer: Events In Synergy.\nFee: $115/$130\nHours: 11:00 AM – 5:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28156658737338620/",
+  "fees": "$115-$130 + HST by space type",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -413,7 +413,7 @@ window.EVENTS_REFRESH = [
   "location": "Lions Centre, 347 Burnham St, Peterborough",
   "city": "Peterborough",
   "region": "Kawarthas and Peterborough",
-  "description": "Theme: Christmas\nHours: 9 AM – 3 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1577583183669096/\n",
+  "description": "Theme: Christmas\nFee: tables $40\nHours: 9 AM – 3 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1577583183669096/\n",
   "fees": "tables $40",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -424,7 +424,7 @@ window.EVENTS_REFRESH = [
   "location": "Howard Johnson by Wyndham, 354 Lindsay St S, Lindsay",
   "city": "Lindsay",
   "region": "Kawarthas and Peterborough",
-  "description": "Theme: Christmas\nHours: 5 PM – 9 PM\nHow to apply: application link not captured from post\nSource: https://facebook.com/groups/145130302589219/permalink/2627649787670579/\n",
+  "description": "Theme: Christmas\nFee: not stated by organizer\nHours: 5 PM – 9 PM\nHow to apply: application link not captured from post\nSource: https://facebook.com/groups/145130302589219/permalink/2627649787670579/\n",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -435,8 +435,8 @@ window.EVENTS_REFRESH = [
   "location": "St. Luke's Parish Hall, 1382 Ontario St, Burlington, ON",
   "city": "Burlington",
   "region": "Halton Region",
-  "description": "Curated holiday market presented by Curious Machine Events and hosted by the organizer Resin, kicking off the holiday shopping season with local artisans; limited to 28 vendors. Vendor fee: $100 per table ($80 for returning vendors). How to apply: see the source post link for how to apply. Organizer: Bright Bits Resin; point of contact: the organizer (flyer warns only the organizer is authorized to accept applications/payments).\nHours: 10:00 AM – 3:00 PM\nVendors expected: Up to 28 vendors\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28111096645228163/",
-  "fees": "$80/$100",
+  "description": "Curated holiday market presented by Curious Machine Events and hosted by the organizer Resin, kicking off the holiday shopping season with local artisans; limited to 28 vendors. Vendor fee: $100 per table ($80 for returning vendors). How to apply: see the source post link for how to apply. Organizer: Bright Bits Resin; point of contact: the organizer (flyer warns only the organizer is authorized to accept applications/payments).\nFee: $80/$100\nHours: 10:00 AM – 3:00 PM\nVendors expected: Up to 28 vendors\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28111096645228163/",
+  "fees": "$100 per table ($80 returning vendors)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -479,8 +479,8 @@ window.EVENTS_REFRESH = [
   "location": "Rona Garden Center, 1899 Brock Rd, Pickering",
   "city": "Pickering",
   "region": "Durham Region",
-  "description": "3rd Annual Puppy Love Fundraiser benefiting the Pickering Animal Shelter — indoors at the Rona Garden Center (unheated). Vendor fee: $25 plus 10% of sales donated back to the shelter; 10x10 spots, bring own tables/chairs, no duplicate vendors. How to apply: DM the organizer. Organizer: see the source post.\nHours: 10:00 AM – 4:00 PM\nAttractions: Fundraiser market supporting Pickering Animal Shelter\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28157483817256112/",
-  "fees": "$25 + 10% of sales donated",
+  "description": "3rd Annual Puppy Love Fundraiser benefiting the Pickering Animal Shelter — indoors at the Rona Garden Center (unheated). Vendor fee: $25 plus 10% of sales donated back to the shelter; 10x10 spots, bring own tables/chairs, no duplicate vendors. How to apply: DM the organizer. Organizer: see the source post.\nFee: $25 + 10% of sales donated\nHours: 10:00 AM – 4:00 PM\nAttractions: Fundraiser market supporting Pickering Animal Shelter\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28157483817256112/",
+  "fees": "$25 + 10% of sales donated to shelter",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -501,8 +501,8 @@ window.EVENTS_REFRESH = [
   "location": "Something New, 416 Concession Street, Hamilton, ON",
   "city": "Hamilton",
   "region": "Hamilton",
-  "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
-  "fees": "$45",
+  "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nFee: $45\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
+  "fees": "$45/table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -523,8 +523,8 @@ window.EVENTS_REFRESH = [
   "location": "MontHill Golf & Country Club (ballroom), Caledonia",
   "city": "Caledonia",
   "region": "Rest of Ontario",
-  "description": "Vendor call: Christmas market, free entry, family-friendly.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, free entry, family\nHours: 11:00 AM - 3:00 PM\nVendor types wanted: local vendors & makers\nHow to apply: linktr.ee/loveoflocalmarkets\nSource: https://facebook.com/groups/609827307950034/permalink/1429588429307247/\nAdmission: free entry. Attractions: free swag bag (while supplies last), pop-up bistro, bar.\n\n",
-  "fees": "not published (TBD)",
+  "description": "Vendor call: Christmas market, free entry, family-friendly.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, free entry, family\nHours: 11:00 AM - 3:00 PM\nFee: not published (TBD)\nVendor types wanted: local vendors & makers\nHow to apply: linktr.ee/loveoflocalmarkets\nSource: https://facebook.com/groups/609827307950034/permalink/1429588429307247/\nAdmission: free entry. Attractions: free swag bag (while supplies last), pop-up bistro, bar.\n\n",
+  "fees": "Not published (TBD)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -534,8 +534,8 @@ window.EVENTS_REFRESH = [
   "location": "Chestnut Hill Developments Recreation Complex, 1867 Valley Farm Road, Pickering",
   "city": "Pickering",
   "region": "Durham Region",
-  "description": "Christmas craft market at Pickering Recreation Center. $100 for one day / $150 for both days. Crochet and baking spots are full (per organizer). Contact the organizer via Facebook DM (per public post).\nHours: 10:00 AM – 4:00 PM\nSource: https://www.facebook.com/groups/1746193395565570/posts/3472384706279755/",
-  "fees": "$100/$150",
+  "description": "Christmas craft market at Pickering Recreation Center. $100 for one day / $150 for both days. Crochet and baking spots are full (per organizer). Contact the organizer via Facebook DM (per public post).\nFee: $100/$150\nHours: 10:00 AM – 4:00 PM\nSource: https://www.facebook.com/groups/1746193395565570/posts/3472384706279755/",
+  "fees": "$100 for one day / $150 for both days",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -545,8 +545,8 @@ window.EVENTS_REFRESH = [
   "location": "Odessa Fairgrounds (outdoor rink), Odessa",
   "city": "Odessa",
   "region": "Kingston & Area",
-  "description": "Markers Market Outdoor Christmas Market has joined up with the Odessa Agricultural Society Festival of Trees. Over 30 vendors, wood-fire pizza truck, a visit from Santa and more. From Jennifer Collins / Markers Market.\nHours: 11am-3pm\nHow to apply: see the source post\nSource: https://facebook.com/groups/732585956822792/permalink/28451727157815299/\n",
-  "fees": "not stated by organizer",
+  "description": "Markers Market Outdoor Christmas Market has joined up with the Odessa Agricultural Society Festival of Trees. Over 30 vendors, wood-fire pizza truck, a visit from Santa and more. From Jennifer Collins / Markers Market.\nFee: not stated by organizer\nHours: 11am-3pm\nHow to apply: see the source post\nSource: https://facebook.com/groups/732585956822792/permalink/28451727157815299/\n",
+  "fees": "Not published - contact organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -556,8 +556,8 @@ window.EVENTS_REFRESH = [
   "location": "The Latcham Centre, 121 Queen St, Port Perry",
   "city": "Port Perry",
   "region": "Durham Region",
-  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Sunday, November 8, 12–4 PM. Table fees range from $50 to $80 depending on table — confirm with organizer. To apply: DM the organizer on Facebook.\nHours: 12:00 PM – 4:00 PM\nSource: Organizer's flyer via Paul",
-  "fees": "$50–$80",
+  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Sunday, November 8, 12–4 PM. Table fees range from $50 to $80 depending on table — confirm with organizer. To apply: DM the organizer on Facebook.\nFee: $50–$80\nHours: 12:00 PM – 4:00 PM\nSource: Organizer's flyer via Paul",
+  "fees": "$50–$80 (range — confirm with organizer)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -567,8 +567,8 @@ window.EVENTS_REFRESH = [
   "location": "See-Scape, 347 Keele St, Toronto",
   "city": "Toronto",
   "region": "Toronto",
-  "description": "Spooky vendor call. Creepy vendors wanted for the Addams Family Christmas Bazaar: odd crafts and gifts, rune, fire and tarot, psychic readings. Live DJ, take a picture with Krampus, food and drinks, costume contest with prizes up to $50 value, first 20 visitors get free swag bags.\nVendor types wanted: spooky/creepy vendors, odd crafts and gifts, tarot and psychic readers\nAdmission: $2 entry\nHours: 3pm-8pm\nHow to apply: https://forms.gle/AvdgKcbYXtHMQB4m7\nAttractions: Live DJ, photos with Krampus, food and drinks, costume contest, free swag bags for the first 20 visitors\nSource: https://facebook.com/groups/145130302589219/permalink/2632639333838291/\n",
-  "fees": "$50 per 6ft table",
+  "description": "Spooky vendor call. Creepy vendors wanted for the Addams Family Christmas Bazaar: odd crafts and gifts, rune, fire and tarot, psychic readings. Live DJ, take a picture with Krampus, food and drinks, costume contest with prizes up to $50 value, first 20 visitors get free swag bags.\nVendor types wanted: spooky/creepy vendors, odd crafts and gifts, tarot and psychic readers\nAdmission: $2 entry\nFee: $50 per 6ft table\nHours: 3pm-8pm\nHow to apply: https://forms.gle/AvdgKcbYXtHMQB4m7\nAttractions: Live DJ, photos with Krampus, food and drinks, costume contest, free swag bags for the first 20 visitors\nSource: https://facebook.com/groups/145130302589219/permalink/2632639333838291/\n",
+  "fees": "$50/6ft table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -578,7 +578,7 @@ window.EVENTS_REFRESH = [
   "location": "Port of Whitby Marina, 301 Watson St W, Whitby, ON",
   "city": "Whitby",
   "region": "Durham Region",
-  "description": "Vendor market series by Willow & Wildflower Events. $85. Port of Whitby Marina, 301 Watson St W, Whitby. Vendor applications: https://forms.gle/jqTyu66CjFmAs7CM6 —\nHours: 10:00 AM – 4:00 PM\nSource: https://www.facebook.com/groups/1746193395565570/posts/3466330410218518/",
+  "description": "Vendor market series by Willow & Wildflower Events. $85. Port of Whitby Marina, 301 Watson St W, Whitby. Vendor applications: https://forms.gle/jqTyu66CjFmAs7CM6 —\nFee: $85\nHours: 10:00 AM – 4:00 PM\nSource: https://www.facebook.com/groups/1746193395565570/posts/3466330410218518/",
   "fees": "$85",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -587,9 +587,9 @@ window.EVENTS_REFRESH = [
   "date": "2026-11-12",
   "time": "4 p.m.–8 p.m.",
   "location": "St. Kateri Tekakwitha CS",
-  "city": "Oshawa",
-  "region": "Durham Region",
-  "description": "Theme: Christmas\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/1013767978664673/permalink/39005295195751809/\n\n",
+  "city": "",
+  "region": "Rest of Ontario",
+  "description": "Theme: Christmas\nFee: tables $40\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/1013767978664673/permalink/39005295195751809/\n\n",
   "fees": "tables $40",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -600,8 +600,8 @@ window.EVENTS_REFRESH = [
   "location": "Distillery Historic District, 55 Mill St, Toronto, ON",
   "city": "Toronto",
   "region": "Toronto",
-  "description": "Toronto's world-famous Christmas market in the Distillery Historic District — cobblestone streets, Canada's most iconic Christmas tree, artisan vendor cabins, seasonal food and drinks, carollers, Santa and his elves. Tree lighting on opening night, Thu Nov 12 at 6:00 PM (ticketed; profits benefit the Village's charity partners). Closed Christmas Day, Dec 25.\n\nHours: The District opens 10:00 AM daily. Vendor cabins 12:00 PM – 9:00 PM Sun–Thu and 12:00 PM – 10:00 PM Fri–Sat.\nAdmission: Free at non-ticketed times — all day Mon–Wed through Dec 13, before 4:00 PM daily, and Thursdays in November (except opening night). Tickets required on opening night, from 4:00 PM every Fri, Sat and Sun, from 4:00 PM every Thursday in December, and from 4:00 PM daily Dec 14–31: General Admission $16, Flex $18, Express $30 (plus HST and service fee); children 9 and under free. Tickets online only — no on-site box office.\nSource: https://www.thedistillerywintervillage.com/",
-  "fees": "TBD (vendor applications for the 2026 season are closed; no fee published)",
+  "description": "Toronto's world-famous Christmas market in the Distillery Historic District — cobblestone streets, Canada's most iconic Christmas tree, artisan vendor cabins, seasonal food and drinks, carollers, Santa and his elves. Tree lighting on opening night, Thu Nov 12 at 6:00 PM (ticketed; profits benefit the Village's charity partners). Closed Christmas Day, Dec 25.\n\nHours: The District opens 10:00 AM daily. Vendor cabins 12:00 PM – 9:00 PM Sun–Thu and 12:00 PM – 10:00 PM Fri–Sat.\nAdmission: Free at non-ticketed times — all day Mon–Wed through Dec 13, before 4:00 PM daily, and Thursdays in November (except opening night). Tickets required on opening night, from 4:00 PM every Fri, Sat and Sun, from 4:00 PM every Thursday in December, and from 4:00 PM daily Dec 14–31: General Admission $16, Flex $18, Express $30 (plus HST and service fee); children 9 and under free. Tickets online only — no on-site box office.\nFee: TBD (vendor applications for the 2026 season are closed; no fee published)\nSource: https://www.thedistillerywintervillage.com/",
+  "fees": "TBD",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -611,7 +611,7 @@ window.EVENTS_REFRESH = [
   "location": "Downtown Whitby, Whitby, ON",
   "city": "Whitby",
   "region": "Durham Region",
-  "description": "Save the date — the Downtown Whitby BIA's 8th annual Christmas Market, held in Downtown Whitby. Hours: Fri Nov 13, 4–9 PM; Sat Nov 14, 10 AM–8 PM. This is a save-the-date announcement — vendor details (fees and applications) have not been announced yet; more details to come from the Downtown Whitby BIA.\nTheme: Christmas / holiday season\nSource: Organizer's post via Paul",
+  "description": "Save the date — the Downtown Whitby BIA's 8th annual Christmas Market, held in Downtown Whitby. Hours: Fri Nov 13, 4–9 PM; Sat Nov 14, 10 AM–8 PM. This is a save-the-date announcement — vendor details (fees and applications) have not been announced yet; more details to come from the Downtown Whitby BIA.\nTheme: Christmas / holiday season\nFee: not stated by organizer\nSource: Organizer's post via Paul",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -633,7 +633,7 @@ window.EVENTS_REFRESH = [
   "location": "Caledon East Community Complex, 6215 Old Church Rd, Caledon ON L7C 1J7 (indoor)",
   "city": "Caledon",
   "region": "Peel Region",
-  "description": "Theme: Christmas\nHours: not stated by organizer\nHow to apply: letsbecrafty.ca\nSource: https://facebook.com/groups/609827307950034/permalink/1431705825762174/\nNote: 6x8 ft space incl. table + chair\n\n",
+  "description": "Theme: Christmas\nFee: $70 early bird before Oct 24 / $85 regular\nHours: not stated by organizer\nHow to apply: letsbecrafty.ca\nSource: https://facebook.com/groups/609827307950034/permalink/1431705825762174/\nNote: 6x8 ft space incl. table + chair\n\n",
   "fees": "$70 early bird before Oct 24 / $85 regular",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -644,8 +644,8 @@ window.EVENTS_REFRESH = [
   "location": "Union Sports Club and Community Center, 6068 Bell St, Union, Ontario",
   "city": "Union",
   "region": "London & Area",
-  "description": "Friday night market (indoor and outdoor) by Braffs Events; proceeds go to the Lidup4branden teen toy drive. Vendor fees: inside single 6ft table $40, double $70; outside BYO table and tent $30; kitchen rental $60. Organizer advertises via billboard (St Thomas-London corridor) and paid Facebook ads. How to apply: contact the organizer via Facebook.\nHours: 5:00 PM – 9:00 PM\nAttractions: Teen toy drive in support of Lidup4Branden — bring a toy to donate\nSource: https://facebook.com/groups/524928052267953/permalink/1567386381355443/",
-  "fees": "$30/$40/$70",
+  "description": "Friday night market (indoor and outdoor) by Braffs Events; proceeds go to the Lidup4branden teen toy drive. Vendor fees: inside single 6ft table $40, double $70; outside BYO table and tent $30; kitchen rental $60. Organizer advertises via billboard (St Thomas-London corridor) and paid Facebook ads. How to apply: contact the organizer via Facebook.\nFee: $30/$40/$70\nHours: 5:00 PM – 9:00 PM\nAttractions: Teen toy drive in support of Lidup4Branden — bring a toy to donate\nSource: https://facebook.com/groups/524928052267953/permalink/1567386381355443/",
+  "fees": "Inside: $40 single 6ft / $70 double; outside BYO table+tent $30; kitchen rental $60",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -655,7 +655,7 @@ window.EVENTS_REFRESH = [
   "location": "Ullswater Hall, 1503 Old Parry Sound Rd, Ullswater",
   "city": "Ullswater",
   "region": "Rest of Ontario",
-  "description": "Theme: Christmas\nHours: 9 AM – 3 PM\nSource: https://facebook.com/groups/1559725434912476/permalink/2124672448417769/\n",
+  "description": "Theme: Christmas\nFee: $25\nHours: 9 AM – 3 PM\nSource: https://facebook.com/groups/1559725434912476/permalink/2124672448417769/\n",
   "fees": "$25",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -666,8 +666,8 @@ window.EVENTS_REFRESH = [
   "location": "Monora Park Pavilion, 500 Monora Park Drive, Mono ON",
   "city": "Mono",
   "region": "Rest of Ontario",
-  "description": "Christmas bazaar run by the Town of Mono. Vendor fee: $80/table (8-ft table + 2 chairs). Payment only after an approved application. Organizer: Town of Mono. Confirmed via the Town of Mono Facebook page and townofmono.com.\nSource: https://townofmono.com",
-  "fees": "$80",
+  "description": "Christmas bazaar run by the Town of Mono. Vendor fee: $80/table (8-ft table + 2 chairs). Payment only after an approved application. Organizer: Town of Mono. Confirmed via the Town of Mono Facebook page and townofmono.com.\nFee: $80\nSource: https://townofmono.com",
+  "fees": "$80/table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -678,7 +678,7 @@ window.EVENTS_REFRESH = [
   "city": "Woodstock",
   "region": "London & Area",
   "description": "44th annual craft show in Woodstock. Vendors - first come, first served; table spaces only. Vendor fee: not published - contact organizer. Hours not published - confirm with organizer. Organizer contact via public Facebook post.\nAttractions: Door prize giveaway, special prize draw for visitors 12 and younger, Christmas music, kitchen serving light meals\nVendors expected: 95 to 112 vendors from across Southern and Central Ontario (curated to avoid too many similar creations)\nSource: https://facebook.com/groups/524928052267953/permalink/1570021194425295/",
-  "fees": "not published - contact organizer",
+  "fees": "Not published - contact organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -688,8 +688,8 @@ window.EVENTS_REFRESH = [
   "location": "Grand Trunk Market, 28 McMaster Road, Trenton, Ontario",
   "city": "Trenton",
   "region": "Kingston & Area",
-  "description": "Outdoor country Christmas market weekend, part of A Country Christmas Gathering Tour. Vendor fee: $40/day or $60 for both days. Application deadline: October 15, 2026. How to apply: see the source post link for how to apply. Organizer: Marshland Creations.\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1569077401186341/",
-  "fees": "$40/$60",
+  "description": "Outdoor country Christmas market weekend, part of A Country Christmas Gathering Tour. Vendor fee: $40/day or $60 for both days. Application deadline: October 15, 2026. How to apply: see the source post link for how to apply. Organizer: Marshland Creations.\nFee: $40/$60\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1569077401186341/",
+  "fees": "$40/day or $60 for 2 days",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -699,8 +699,8 @@ window.EVENTS_REFRESH = [
   "location": "Purple Hill Country Hall, 20903 Purple Hill Rd, Thorndale, ON",
   "city": "Thorndale",
   "region": "Rest of Ontario",
-  "description": "Country Christmas market at the Purple Hill barn, organized by the organizer Events — 30+ vendors, food trucks, Santa at the photobooth (kids and pets welcome), unique Christmas gifts and local shopping. Free admission; donations to Ronald McDonald House Southwestern Ontario are greatly appreciated. Vendors wanted — applications are still open, but spaces are very limited.\nTheme: Christmas / holiday season\nApply: https://elevenelevenevents.ca\nHours: 10:00 AM – 4:00 PM\nAdmission: Free (donations support Ronald McDonald House)\nAttractions: Santa photobooth (pets welcome), food trucks, live music\nVendors expected: 30+ vendors\nSource: https://facebook.com/groups/145130302589219/permalink/2634887813613443/",
-  "fees": "not stated by organizer",
+  "description": "Country Christmas market at the Purple Hill barn, organized by the organizer Events — 30+ vendors, food trucks, Santa at the photobooth (kids and pets welcome), unique Christmas gifts and local shopping. Free admission; donations to Ronald McDonald House Southwestern Ontario are greatly appreciated. Vendors wanted — applications are still open, but spaces are very limited.\nTheme: Christmas / holiday season\nApply: https://elevenelevenevents.ca\nFee: not stated by organizer\nHours: 10:00 AM – 4:00 PM\nAdmission: Free (donations support Ronald McDonald House)\nAttractions: Santa photobooth (pets welcome), food trucks, live music\nVendors expected: 30+ vendors\nSource: https://facebook.com/groups/145130302589219/permalink/2634887813613443/",
+  "fees": "Not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -721,8 +721,19 @@ window.EVENTS_REFRESH = [
   "location": "Amberlea Church, 1820 Whites Road, Pickering",
   "city": "Pickering",
   "region": "Durham Region",
-  "description": "Christmas Market at Amberlea Church, 1820 Whites Road, Pickering. Saturday, November 14, 10 AM–2 PM. Vendor fee: $45 per table, $50 table with electricity. Open to crafters, artisans, and entrepreneurs; vendor spaces are limited. Register at www.amberleachurch.ca. \nHours: 10:00 AM – 2:00 PM\nSource: organizer\\'s Facebook post",
-  "fees": "$45/$50",
+  "description": "Christmas Market at Amberlea Church, 1820 Whites Road, Pickering. Saturday, November 14, 10 AM–2 PM. Vendor fee: $45 per table, $50 table with electricity. Open to crafters, artisans, and entrepreneurs; vendor spaces are limited. Register at www.amberleachurch.ca. \nFee: $45/$50\nHours: 10:00 AM – 2:00 PM\nSource: organizer\\'s Facebook post",
+  "fees": "$45/table; $50 with electricity",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Annual Brant Rod & Gun Christmas Bazaar",
+  "date": "2026-11-14",
+  "time": "8 a.m.–2 p.m.",
+  "location": "Brant Rod & Gun Club, 54 Henderson Rd, Burford, ON",
+  "city": "Burford",
+  "region": "Rest of Ontario",
+  "description": "Annual Brant Rod & Gun Christmas Bazaar in Burford - vendors wanted.\nVendor fee: $40 (includes 1 table & 2 chairs)\nListing type: Vendor call\nHours: 8:00 AM - 2:00 PM\nHow to apply: Email vendors@brgc.ca\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28578899305114559/",
+  "fees": "$40 (incl. table & 2 chairs)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -732,8 +743,8 @@ window.EVENTS_REFRESH = [
   "location": "166 Lynden Rd, Brantford, ON",
   "city": "Brantford",
   "region": "Rest of Ontario",
-  "description": "Christmas vendor call at Aspira Brants Landing Retirement Living. No vendor fees; unique one-of-a-kind products and treats welcome. Time not published (TBD). Vendor fee: $0. How to apply: see the source post link for how to apply. Organizer: Aspira Brants Landing Retirement Living.\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28167508626253631/",
-  "fees": "free",
+  "description": "Christmas vendor call at Aspira Brants Landing Retirement Living. No vendor fees; unique one-of-a-kind products and treats welcome. Time not published (TBD). Vendor fee: $0. How to apply: see the source post link for how to apply. Organizer: Aspira Brants Landing Retirement Living.\nFee: free\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28167508626253631/",
+  "fees": "No vendor fees",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -743,8 +754,8 @@ window.EVENTS_REFRESH = [
   "location": "Aspira Hygate Waterloo Retirement Living, 215 Lexington Rd, Waterloo, ON",
   "city": "Waterloo",
   "region": "Waterloo Region",
-  "description": "‘Merriest of Markets’ holiday craft market and open house at Aspira Hygate Waterloo — local vendors, hot chocolate and apple cider, unique gifts and crafts. Call for vendors: looking for local vendors to join for a festive afternoon of holiday shopping.\nTheme: Christmas / holiday season\nVendor types wanted: handmade candles & décor, baked goods, jewelry & accessories, unique gifts\nHow to apply: see the source post\nHours: 1:00 PM – 4:00 PM\nAttractions: Hot chocolate and apple cider\nSource: https://facebook.com/groups/609827307950034/permalink/1437094411889982/",
-  "fees": "not stated by organizer",
+  "description": "‘Merriest of Markets’ holiday craft market and open house at Aspira Hygate Waterloo — local vendors, hot chocolate and apple cider, unique gifts and crafts. Call for vendors: looking for local vendors to join for a festive afternoon of holiday shopping.\nTheme: Christmas / holiday season\nVendor types wanted: handmade candles & décor, baked goods, jewelry & accessories, unique gifts\nHow to apply: see the source post\nFee: not stated by organizer\nHours: 1:00 PM – 4:00 PM\nAttractions: Hot chocolate and apple cider\nSource: https://facebook.com/groups/609827307950034/permalink/1437094411889982/",
+  "fees": "Not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -776,7 +787,7 @@ window.EVENTS_REFRESH = [
   "location": "Chelmsford Community Centre & Arena, 215 Edward Ave, Chelmsford",
   "city": "Chelmsford",
   "region": "Rest of Ontario",
-  "description": "Christmas market relocated from Azilda to Chelmsford Arena. Free entry for patrons. Insurance required.\nTheme: Christmas\nAdmission: Free entry\nHow to apply: Apply via the Google Form linked in the post — https://docs.google.com/forms/d/e/1FAIpQLSc446lIPyTmYewDl2AAtQFPPeP6oOo_rBWhVfDdnDweqzWEeg/viewform\nHours: 10:00 AM – 4:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1567124368048311/",
+  "description": "Christmas market relocated from Azilda to Chelmsford Arena. Free entry for patrons. Insurance required.\nTheme: Christmas\nFee: $40 per 8ft spot\nAdmission: Free entry\nHow to apply: Apply via the Google Form linked in the post — https://docs.google.com/forms/d/e/1FAIpQLSc446lIPyTmYewDl2AAtQFPPeP6oOo_rBWhVfDdnDweqzWEeg/viewform\nHours: 10:00 AM – 4:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1567124368048311/",
   "fees": "$40 per 8ft spot",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -798,7 +809,7 @@ window.EVENTS_REFRESH = [
   "location": "Kemptville Campus, 75 Campus Drive, Kemptville, ON",
   "city": "Kemptville",
   "region": "Rest of Ontario",
-  "description": "Outdoor market (7th year). Overnight security provided on site so vendors can leave booths set up.\nTheme: Christmas\nAttractions: Live music, Santa, and family activities; fundraiser supporting the Beth Donovan Hospice\nHow to apply: Register via the linked form; once accepted, you will receive an invoice and vendor info — https://forms.gle/TKQi7u4krCNPSmfDA\nHours: 11:00 AM – 4:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1576020960491985/",
+  "description": "Outdoor market (7th year). Overnight security provided on site so vendors can leave booths set up.\nTheme: Christmas\nFee: not published\nAttractions: Live music, Santa, and family activities; fundraiser supporting the Beth Donovan Hospice\nHow to apply: Register via the linked form; once accepted, you will receive an invoice and vendor info — https://forms.gle/TKQi7u4krCNPSmfDA\nHours: 11:00 AM – 4:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1576020960491985/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -809,8 +820,8 @@ window.EVENTS_REFRESH = [
   "location": "King St. Community Church, 611 King St W, Oshawa, ON",
   "city": "Oshawa",
   "region": "Durham Region",
-  "description": "Mannahelp's annual fundraiser — holiday marketplace and 6th anniversary celebration, a family-friendly community event at King St. Community Church in Oshawa. Vendor fee includes one table provided by Mannahelp. Vendor spaces are confirmed only after approval and receipt of the vendor fee.\nTheme: Christmas / holiday season\nHow to apply: https://mannahelp.com/cookies-cocoa-community-2026-vendor-application/\nHours: 2:00 PM – 5:00 PM\nSource: https://mannahelp.com/cookies-cocoa-community-2026-vendor-application/",
-  "fees": "$50",
+  "description": "Mannahelp's annual fundraiser — holiday marketplace and 6th anniversary celebration, a family-friendly community event at King St. Community Church in Oshawa. Vendor fee includes one table provided by Mannahelp. Vendor spaces are confirmed only after approval and receipt of the vendor fee.\nTheme: Christmas / holiday season\nFee: $50\nHow to apply: https://mannahelp.com/cookies-cocoa-community-2026-vendor-application/\nHours: 2:00 PM – 5:00 PM\nSource: https://mannahelp.com/cookies-cocoa-community-2026-vendor-application/",
+  "fees": "$50 (includes one table provided)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -820,7 +831,7 @@ window.EVENTS_REFRESH = [
   "location": "Forest View P.S., 285 Grandview St S, Oshawa",
   "city": "Oshawa",
   "region": "Durham Region",
-  "description": "Theme: Winter\nVendor types wanted: Local makers and artisans\nHow to apply: see the source post\nSource: https://www.facebook.com/groups/1746193395565570/posts/3454654354719457/",
+  "description": "Theme: Winter\nVendor types wanted: Local makers and artisans\nFee: $60 per table\nHow to apply: see the source post\nSource: https://www.facebook.com/groups/1746193395565570/posts/3454654354719457/",
   "fees": "$60 per table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -831,7 +842,7 @@ window.EVENTS_REFRESH = [
   "location": "Listowel Kin Station, Listowel, ON",
   "city": "Listowel",
   "region": "Rest of Ontario",
-  "description": "Theme: Girls' day out — shopping, sipping, creating, self-care\nVendor types wanted: Boutiques & clothing; jewelry & accessories; candles & home goods; treats & baked goods; beauty & self-care; handmade & creative businesses; florals & gifts; unique small businesses\nAttractions: Drinks, crafts, wellness, photo ops, sweet treats, live music (per flyer OCR)\nHow to apply: Apply via the linked Google Form — https://forms.gle/JLEvU1PfE988YMTH7\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1564057295021685/",
+  "description": "Theme: Girls' day out — shopping, sipping, creating, self-care\nVendor types wanted: Boutiques & clothing; jewelry & accessories; candles & home goods; treats & baked goods; beauty & self-care; handmade & creative businesses; florals & gifts; unique small businesses\nFee: not published\nAttractions: Drinks, crafts, wellness, photo ops, sweet treats, live music (per flyer OCR)\nHow to apply: Apply via the linked Google Form — https://forms.gle/JLEvU1PfE988YMTH7\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1564057295021685/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -842,7 +853,7 @@ window.EVENTS_REFRESH = [
   "location": "Blessed Sacrament School, Burford, ON",
   "city": "Burford",
   "region": "Rest of Ontario",
-  "description": "Theme: Christmas\nVendor types wanted: Local makers, crafters, bakers, artisans, and small businesses offering homemade products\nHow to apply: see the source post\nHours: 9:00 AM – 3:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1566544784772936/",
+  "description": "Theme: Christmas\nVendor types wanted: Local makers, crafters, bakers, artisans, and small businesses offering homemade products\nFee: $35 per vendor table\nHow to apply: see the source post\nHours: 9:00 AM – 3:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1566544784772936/",
   "fees": "$35 per vendor table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -853,7 +864,7 @@ window.EVENTS_REFRESH = [
   "location": "Polish Club Cambridge, 265 Avenue Rd, Cambridge, ON",
   "city": "Cambridge",
   "region": "Waterloo Region",
-  "description": "Theme: Christmas — multicultural food, culture and shopping festival\nTags: InternationalFestCanada, Cambridge, ChristmasMarket, FoodVendors, VendorCall\nVendor types wanted: Food vendors — restaurants, caterers, food trucks, bakers, specialty food businesses\nAdmission: Free entry; free parking\nAttractions: International food, live performances, face painting, toy drive, kids zone, Santa Claus visits Sat 3:00-7:00 PM / Sun 12:00-5:00 PM\nHow to apply: see the source post\nApplication deadline: October 8, 2026 (food vendor application deadline)\nHours: Saturday 11:00 AM–9:00 PM; Sunday 11:00 AM–7:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1571549430939138/.",
+  "description": "Theme: Christmas — multicultural food, culture and shopping festival\nTags: InternationalFestCanada, Cambridge, ChristmasMarket, FoodVendors, VendorCall\nVendor types wanted: Food vendors — restaurants, caterers, food trucks, bakers, specialty food businesses\nFee: not published\nAdmission: Free entry; free parking\nAttractions: International food, live performances, face painting, toy drive, kids zone, Santa Claus visits Sat 3:00-7:00 PM / Sun 12:00-5:00 PM\nHow to apply: see the source post\nApplication deadline: October 8, 2026 (food vendor application deadline)\nHours: Saturday 11:00 AM–9:00 PM; Sunday 11:00 AM–7:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1571549430939138/.",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -864,7 +875,7 @@ window.EVENTS_REFRESH = [
   "location": "Newmarket Community Centre, 200 Doug Duncan Drive, Newmarket, ON",
   "city": "Newmarket",
   "region": "York Region",
-  "description": "Theme: Christmas\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1566291291464952/",
+  "description": "Theme: Christmas\nFee: $120 for a 6' table and 2 chairs\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1566291291464952/",
   "fees": "$120 for a 6' table and 2 chairs",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -875,7 +886,7 @@ window.EVENTS_REFRESH = [
   "location": "Lakeside Dance, Innisfil",
   "city": "Innisfil",
   "region": "Simcoe County",
-  "description": "Theme: Holiday / Christmas\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1578461770247904/",
+  "description": "Theme: Holiday / Christmas\nFee: not published\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1578461770247904/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -886,7 +897,7 @@ window.EVENTS_REFRESH = [
   "location": "Wiarton Arena, Wiarton, ON",
   "city": "Wiarton",
   "region": "Rest of Ontario",
-  "description": "Theme: Early Christmas\nAdmission: Food bank donations accepted at the door\nHours: 9:00 AM – 3:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28116336881370806/",
+  "description": "Theme: Early Christmas\nFee: not published\nAdmission: Food bank donations accepted at the door\nHours: 9:00 AM – 3:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28116336881370806/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -895,9 +906,9 @@ window.EVENTS_REFRESH = [
   "date": "2026-11-14",
   "time": "10 a.m.–5 p.m.",
   "location": "103 Mary St, Downtown Whitby",
-  "city": "Whitby",
-  "region": "Durham Region",
-  "description": "Theme: Winter / Christmas\nTags: DowntownWhitby, WhitbyEvents, DurhamRegionEvents, ChristmasMarket, ShopLocalDurham\nVendor types wanted: Local artisans, makers and small businesses with unique, handmade or giftable products\nAdmission: Free admission\nAttractions: Handmade finds, treats, giveaways, photo ops\nHow to apply: see the source post\nHours: 10:00 AM–5:00 PM\nSource: https://facebook.com/groups/1746193395565570/permalink/3485342114984014/",
+  "city": "",
+  "region": "Rest of Ontario",
+  "description": "Theme: Winter / Christmas\nTags: DowntownWhitby, WhitbyEvents, DurhamRegionEvents, ChristmasMarket, ShopLocalDurham\nVendor types wanted: Local artisans, makers and small businesses with unique, handmade or giftable products\nFee: not published\nAdmission: Free admission\nAttractions: Handmade finds, treats, giveaways, photo ops\nHow to apply: see the source post\nHours: 10:00 AM–5:00 PM\nSource: https://facebook.com/groups/1746193395565570/permalink/3485342114984014/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -908,7 +919,7 @@ window.EVENTS_REFRESH = [
   "location": "Merritton Community Centre, 7 Park Ave, St. Catharines, ON",
   "city": "St. Catharines",
   "region": "Niagara Region",
-  "description": "Theme: Christmas\nVendor types wanted: Vendors, crafters, WAHMs, small businesses & young entrepreneurs\nAttractions: Santa visit, free crafts for kids to take home, raffles, bake sale, family photos, lunch available\nHow to apply: see the source post\nHours: 10:00 AM – 3:00 PM\nVendors expected: Close to 100 tables\nSource: https://facebook.com/groups/524928052267953/permalink/1567009758059772/",
+  "description": "Theme: Christmas\nVendor types wanted: Vendors, crafters, WAHMs, small businesses & young entrepreneurs\nFee: not published\nAttractions: Santa visit, free crafts for kids to take home, raffles, bake sale, family photos, lunch available\nHow to apply: see the source post\nHours: 10:00 AM – 3:00 PM\nVendors expected: Close to 100 tables\nSource: https://facebook.com/groups/524928052267953/permalink/1567009758059772/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -919,7 +930,7 @@ window.EVENTS_REFRESH = [
   "location": "Holy Trinity Greek Orthodox Church, 133 Southdale Rd W, London, ON",
   "city": "London",
   "region": "London & Area",
-  "description": "Christmas bazaar by the Ladies Philoptochos of Holy Trinity Greek Orthodox Church of London — craft vendors, Greek pastries and baked goods, Greek food to go, white elephant and raffle prizes. Vendor applications now welcome; vendors must provide their Commercial Insurance carrier name and policy number.\nTheme: Christmas / holiday season\nVendor types wanted: local artisans, crafters and small businesses (holiday gifts, festive décor, treats)\nHow to apply: email the organizer\nSource: https://facebook.com/groups/971632669514677/permalink/29373396508911580/",
+  "description": "Christmas bazaar by the Ladies Philoptochos of Holy Trinity Greek Orthodox Church of London — craft vendors, Greek pastries and baked goods, Greek food to go, white elephant and raffle prizes. Vendor applications now welcome; vendors must provide their Commercial Insurance carrier name and policy number.\nTheme: Christmas / holiday season\nVendor types wanted: local artisans, crafters and small businesses (holiday gifts, festive décor, treats)\nHow to apply: email the organizer\nFee: $50\nSource: https://facebook.com/groups/971632669514677/permalink/29373396508911580/",
   "fees": "$50",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -928,10 +939,21 @@ window.EVENTS_REFRESH = [
   "date": "2026-11-14",
   "time": "Time not listed",
   "location": "Downtown Rodney, Ontario",
-  "city": "Rodney",
-  "region": "London & Area",
-  "description": "Presented by the Kiwanis Club of Rodney. Vendor applications being accepted for a festive evening in downtown Rodney. Youth (18 and under), service clubs and non-profit organizations register free.\nHours: not stated by organizer\nHow to apply: https://www.westelgin.net/recreation-and-culture/rodney-night-market\nSource: https://facebook.com/groups/971632669514677/permalink/29353634167554481/\n",
-  "fees": "not stated by organizer (youth 18 and under, service clubs and non-profits register free)",
+  "city": "",
+  "region": "Rest of Ontario",
+  "description": "Presented by the Kiwanis Club of Rodney. Vendor applications being accepted for a festive evening in downtown Rodney. Youth (18 and under), service clubs and non-profit organizations register free.\nFee: not stated by organizer (youth 18 and under, service clubs and non-profits register free)\nHours: not stated by organizer\nHow to apply: https://www.westelgin.net/recreation-and-culture/rodney-night-market\nSource: https://facebook.com/groups/971632669514677/permalink/29353634167554481/\n",
+  "fees": "Not published; youth 18 and under, service clubs and non-profits register free",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Royal City Nursery Festive Holiday Market",
+  "date": "2026-11-14",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Royal City Nursery, Guelph, ON",
+  "city": "Guelph",
+  "region": "Rest of Ontario",
+  "description": "Festive Holiday Market in the Christmas wonderland-themed greenhouse at Royal City Nursery in Guelph - a curated selection of local vendors with handcrafted items, tasty treats and gift ideas. Booth size 6 ft x 5 ft. Vendors can choose one or more dates (Sat Nov 14 and Sun Dec 6, 2026).\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM\nHow to apply: https://royalcitynursery.com/holiday-market-vendor-application-form/\nSource: https://facebook.com/groups/609827307950034/permalink/1446577240941699/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -941,7 +963,7 @@ window.EVENTS_REFRESH = [
   "location": "Blessed Sacrament Parish, 3 Briscoe St, Amherstview",
   "city": "Amherstview",
   "region": "Kingston & Area",
-  "description": "Hours: until 2:00 PM (start time not published in the flyer).\nTheme: Winter / Christmas bazaar\nVendor types wanted: Local vendors/crafters, particularly winter/Christmas-themed crafts\nAttractions: Bake table & crafts, soup & sweets luncheon\nHow to apply: see the source post\nSource: https://facebook.com/groups/732585956822792/permalink/28393340106987338/",
+  "description": "Hours: until 2:00 PM (start time not published in the flyer).\nTheme: Winter / Christmas bazaar\nVendor types wanted: Local vendors/crafters, particularly winter/Christmas-themed crafts\nFee: not published\nAttractions: Bake table & crafts, soup & sweets luncheon\nHow to apply: see the source post\nSource: https://facebook.com/groups/732585956822792/permalink/28393340106987338/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -952,8 +974,8 @@ window.EVENTS_REFRESH = [
   "location": "Something New, 416 Concession Street, Hamilton, ON",
   "city": "Hamilton",
   "region": "Hamilton",
-  "description": "Vendor types wanted: Local makers, bakers, treats, jewelry, beauty, crafts, gifts, kids items, home décor & more\nHow to apply: Fill out the vendor application (Google Form) linked in the post — https://forms.gle/2n4QMdztaSnynduk9\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
-  "fees": "$45 per table",
+  "description": "Vendor types wanted: Local makers, bakers, treats, jewelry, beauty, crafts, gifts, kids items, home décor & more\nFee: $45 per table\nHow to apply: Fill out the vendor application (Google Form) linked in the post — https://forms.gle/2n4QMdztaSnynduk9\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
+  "fees": "$45/table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -963,7 +985,7 @@ window.EVENTS_REFRESH = [
   "location": "St. Leo's Parish Hall, 130 Watford St, Brooklin",
   "city": "Brooklin",
   "region": "Durham Region",
-  "description": "Admission: Free (attendee tickets 0.0 CAD); free parking\nHours: 9:00 AM – 3:00 PM\nAttractions: Free parking\nSource: https://www.eventbrite.ca/e/st-leos-2026-vendor-fair-tickets-1993745873578",
+  "description": "Fee: not published\nAdmission: Free (attendee tickets 0.0 CAD); free parking\nHours: 9:00 AM – 3:00 PM\nAttractions: Free parking\nSource: https://www.eventbrite.ca/e/st-leos-2026-vendor-fair-tickets-1993745873578",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -974,7 +996,7 @@ window.EVENTS_REFRESH = [
   "location": "St. Thomas Anglican Church, 101 Winchester Rd E, Brooklin, ON",
   "city": "Brooklin",
   "region": "Durham Region",
-  "description": "Theme: Christmas\nVendor types wanted: Welcomes vendors from across Durham Region (no categories or application method published in the event description)\nAttractions: Live music, food, Santa Claus 12 PM – 3 PM (photos with Santa)\nHours: 9:00 AM – 3:00 PM\nSource: https://www.facebook.com/events/1373205371532189/.",
+  "description": "Theme: Christmas\nVendor types wanted: Welcomes vendors from across Durham Region (no categories or application method published in the event description)\nFee: not published\nAttractions: Live music, food, Santa Claus 12 PM – 3 PM (photos with Santa)\nHours: 9:00 AM – 3:00 PM\nSource: https://www.facebook.com/events/1373205371532189/.",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -985,7 +1007,7 @@ window.EVENTS_REFRESH = [
   "location": "Elora Legion, Elora, ON",
   "city": "Elora",
   "region": "Rest of Ontario",
-  "description": "Theme: Christmas\nVendor types wanted: Artisan vendors — small, carefully curated show (variety and quality products)\nHow to apply: Apply via the linked application form (Google Form) — https://forms.gle/hiy7W33N3f3Z9mYj9\nHours: Sat 10:00 AM – 5:00 PM; Sun 10:00 AM – 4:00 PM\nVendors expected: 22 curated vendors\nSource: https://facebook.com/groups/524928052267953/permalink/1567988327961915/",
+  "description": "Theme: Christmas\nVendor types wanted: Artisan vendors — small, carefully curated show (variety and quality products)\nFee: not published\nHow to apply: Apply via the linked application form (Google Form) — https://forms.gle/hiy7W33N3f3Z9mYj9\nHours: Sat 10:00 AM – 5:00 PM; Sun 10:00 AM – 4:00 PM\nVendors expected: 22 curated vendors\nSource: https://facebook.com/groups/524928052267953/permalink/1567988327961915/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -996,7 +1018,7 @@ window.EVENTS_REFRESH = [
   "location": "Thornbury Craft Co, 90 King St E, Thornbury, ON N0H 2P0",
   "city": "Thornbury",
   "region": "Rest of Ontario",
-  "description": "Theme: Holiday\nVendor types wanted: Local makers, artisans and food vendors with high-quality, locally sourced products\nHow to apply: Complete the 2026 Thornbury Craft Co Market Application (this Google Form) in full; submissions are reviewed based on product quality, alignment with market values, and available space — https://docs.google.com/forms/d/e/1FAIpQLScQnyXRfFAafgy0SHyEMiNULp7ilSaVr9x7L6T-0FVveSLUQw/viewform\nSource: https://docs.google.com/forms/d/e/1FAIpQLScQnyXRfFAafgy0SHyEMiNULp7ilSaVr9x7L6T-0FVveSLUQw/viewform",
+  "description": "Theme: Holiday\nVendor types wanted: Local makers, artisans and food vendors with high-quality, locally sourced products\nFee: $75 for a 6x5ft booth; $100 for an 8x5ft booth\nHow to apply: Complete the 2026 Thornbury Craft Co Market Application (this Google Form) in full; submissions are reviewed based on product quality, alignment with market values, and available space — https://docs.google.com/forms/d/e/1FAIpQLScQnyXRfFAafgy0SHyEMiNULp7ilSaVr9x7L6T-0FVveSLUQw/viewform\nSource: https://docs.google.com/forms/d/e/1FAIpQLScQnyXRfFAafgy0SHyEMiNULp7ilSaVr9x7L6T-0FVveSLUQw/viewform",
   "fees": "$75 for a 6x5ft booth; $100 for an 8x5ft booth",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1007,7 +1029,7 @@ window.EVENTS_REFRESH = [
   "location": "East Lambton Community Complex, Watford",
   "city": "Watford",
   "region": "London & Area",
-  "description": "Theme: Christmas\nTags: ShopLocal, SupportSmallBusiness, HolidayMarkets, LocalVendors, CommunityEvents, ChristmasMarkets, AZEvents\nHow to apply: Apply via the Watford vendor application form (Google Form) linked in the post — https://forms.gle/nNAN1RU4s3tVg3uc6\nHours: 9:00 AM – 2:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28141094792228348/",
+  "description": "Theme: Christmas\nTags: ShopLocal, SupportSmallBusiness, HolidayMarkets, LocalVendors, CommunityEvents, ChristmasMarkets, AZEvents\nFee: not published\nHow to apply: Apply via the Watford vendor application form (Google Form) linked in the post — https://forms.gle/nNAN1RU4s3tVg3uc6\nHours: 9:00 AM – 2:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28141094792228348/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1019,7 +1041,7 @@ window.EVENTS_REFRESH = [
   "city": "St. Catharines",
   "region": "Niagara Region",
   "description": "Annual Christmas Bazaar at Westhills Care Centre in St. Catharines. A few vendor tables are still available at $25 per table.\nListing type: Vendor call\nTheme: Christmas\nHow to apply: see the source post\nHours: 9:00 AM – 2:00 PM\nSource: https://facebook.com/groups/647247322686478/permalink/2348323162578877/",
-  "fees": "$25 per table",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1029,7 +1051,7 @@ window.EVENTS_REFRESH = [
   "location": "Garnet B. Rickard Recreation Complex, Bowmanville",
   "city": "Bowmanville",
   "region": "Durham Region",
-  "description": "Theme: Holiday / Christmas artisan market\nVendor types wanted: Artisans (40+ vendors)\nAttractions: Santa photos 12–2 PM, ornament painting for kids, 50 swag bags for the first 50 shoppers\nHow to apply: Apply at www.whiskeyandwalnut.ca/artisan-markets\nHours: 10:00 AM – 4:00 PM\nVendors expected: 40+ artisans\nSource: https://www.facebook.com/groups/1746193395565570/posts/3462705617247664/",
+  "description": "Theme: Holiday / Christmas artisan market\nVendor types wanted: Artisans (40+ vendors)\nFee: $90 vendor fee\nAttractions: Santa photos 12–2 PM, ornament painting for kids, 50 swag bags for the first 50 shoppers\nHow to apply: Apply at www.whiskeyandwalnut.ca/artisan-markets\nHours: 10:00 AM – 4:00 PM\nVendors expected: 40+ artisans\nSource: https://www.facebook.com/groups/1746193395565570/posts/3462705617247664/",
   "fees": "$90 vendor fee",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1040,7 +1062,7 @@ window.EVENTS_REFRESH = [
   "location": "Masonic Temple, 132 Foster Avenue, Belleville, ON",
   "city": "Belleville",
   "region": "Kingston & Area",
-  "description": "How to apply: Apply via the Costa Crafted Events vendor markets application form (this Google Form) — https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform\nAttractions: Artisan gifts & decor, festive holiday treats & cozy beverages, fun activities for the whole family, raffles and giveaways every hour, a visit from Buddy the Elf, and a visit from Santa; non-perishable food items and unopened toys/clothing donations accepted for the local food bank and community children\nSource: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform.",
+  "description": "Fee: not published\nHow to apply: Apply via the Costa Crafted Events vendor markets application form (this Google Form) — https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform\nAttractions: Artisan gifts & decor, festive holiday treats & cozy beverages, fun activities for the whole family, raffles and giveaways every hour, a visit from Buddy the Elf, and a visit from Santa; non-perishable food items and unopened toys/clothing donations accepted for the local food bank and community children\nSource: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform.",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1051,7 +1073,7 @@ window.EVENTS_REFRESH = [
   "location": "Julie Payette School, 300 Garden Street, Whitby, ON",
   "city": "Whitby",
   "region": "Durham Region",
-  "description": "Theme: Holiday / Christmas\nAttractions: Raffle (per caption — proceeds from vendor tables and raffle go back to the community)\nHow to apply: see the source post\nHours: 9:00 AM – 2:00 PM\nSource: https://www.facebook.com/groups/1013767978664673/permalink/38025473100400695/",
+  "description": "Theme: Holiday / Christmas\nFee: not published\nAttractions: Raffle (per caption — proceeds from vendor tables and raffle go back to the community)\nHow to apply: see the source post\nHours: 9:00 AM – 2:00 PM\nSource: https://www.facebook.com/groups/1013767978664673/permalink/38025473100400695/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1062,8 +1084,8 @@ window.EVENTS_REFRESH = [
   "location": "Vine Floral, 387 Ontario St, St. Catharines, ON",
   "city": "St. Catharines",
   "region": "Niagara Region",
-  "description": "A festive evening of Christmas shopping at Vine Floral by Forest of Flowers in St. Catharines, with a curated collection of local makers, artists and small businesses, plus a special holiday workshop. Indoors. Handmade and hand-curated vendors only — no MLM or direct sales, no AI-generated art; at least 75% of goods must be handmade (vintage and crystals exempt). Limited spots; payment required upon acceptance and is non-refundable. Organized with Makers Union.\nTheme: Christmas / holiday season\nVendor types wanted: Handmade and hand-curated vendors only (no MLM or direct sales, no AI-generated art)\nHow to apply: https://forms.gle/NrMzuvgGGw9xoADz8\nSource: https://facebook.com/groups/524928052267953/permalink/1586421109451970/",
-  "fees": "$50",
+  "description": "A festive evening of Christmas shopping at Vine Floral by Forest of Flowers in St. Catharines, with a curated collection of local makers, artists and small businesses, plus a special holiday workshop. Indoors. Handmade and hand-curated vendors only — no MLM or direct sales, no AI-generated art; at least 75% of goods must be handmade (vintage and crystals exempt). Limited spots; payment required upon acceptance and is non-refundable. Organized with Makers Union.\nTheme: Christmas / holiday season\nVendor types wanted: Handmade and hand-curated vendors only (no MLM or direct sales, no AI-generated art)\nFee: $50\nHow to apply: https://forms.gle/NrMzuvgGGw9xoADz8\nSource: https://facebook.com/groups/524928052267953/permalink/1586421109451970/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1084,7 +1106,7 @@ window.EVENTS_REFRESH = [
   "location": "Gloucester Centre (Entrance 3), 1980 Ogilvie Road, Ottawa",
   "city": "Ottawa",
   "region": "Ottawa",
-  "description": "How to apply: SoapLadz.ca/Market\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2628683637567194/\n\n",
+  "description": "Fee: $65+HST/night or $300+HST early-bird season rate (until Oct 31)\nHow to apply: SoapLadz.ca/Market\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2628683637567194/\n\n",
   "fees": "$65+HST/night or $300+HST early-bird season rate (until Oct 31)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1096,7 +1118,7 @@ window.EVENTS_REFRESH = [
   "city": "Ailsa Craig",
   "region": "Rest of Ontario",
   "description": "A-Z Events evening Christmas market at the Ailsa Craig Community Centre. Vendor fee: not published on the application — a registration fee is required before a vending space is reserved (amount not stated), payable by e-transfer; fees are non-refundable (full refund only if A-Z Events cancels). Organizer strongly recommends vendors carry their own liability insurance; vendors may bring their own displays and stands. How to apply: vendor application Google Form — https://forms.gle/5mMC8cb15Bb5tNZWA (vendor spaces are limited). Organizer: A-Z Events.\nTheme: Christmas market\nTags: Shop Local, Support Small Business, Holiday Markets, Local Vendors, Community Events, Christmas Markets\nVendor types wanted: All vendor types\nHours: 4:00 PM – 9:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28141094792228348/",
-  "fees": "not published on the application — a registration fee is required before a vending space is reserved (amount not stated), payable by e-transfer; fees are non-refundable (full refund only if A-Z Events cancels)",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1106,8 +1128,8 @@ window.EVENTS_REFRESH = [
   "location": "Bloom Oshawa Retirement Community, 1224 Coldstream Drive, Oshawa, ON",
   "city": "Oshawa",
   "region": "Durham Region",
-  "description": "Vendor call for the Bloom Oshawa Retirement Community Christmas shopping event (holiday market). Lunch will be provided for vendors; spaces are limited. Vendor fee: $20 per table. How to apply: see the source post link for how to apply. Organizer: see the source post. Source post: see the event listing in the Facebook group (no direct link).\nSource: https://facebook.com/groups/524928052267953/permalink/1570839077676840/",
-  "fees": "$20",
+  "description": "Vendor call for the Bloom Oshawa Retirement Community Christmas shopping event (holiday market). Lunch will be provided for vendors; spaces are limited. Vendor fee: $20 per table. How to apply: see the source post link for how to apply. Organizer: see the source post. Source post: see the event listing in the Facebook group (no direct link).\nFee: $20\nSource: https://facebook.com/groups/524928052267953/permalink/1570839077676840/",
+  "fees": "$20 per table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1115,10 +1137,10 @@ window.EVENTS_REFRESH = [
   "date": "2026-11-20",
   "time": "6 p.m.–9 p.m.",
   "location": "Restoration Ranch, 2130 Shirley Rd",
-  "city": "Port Perry",
-  "region": "Durham Region",
+  "city": "",
+  "region": "Rest of Ontario",
   "description": "Christmas night vendor market at Restoration Ranch, 2130 Shirley Rd. Organized by the organizer Social Co. Vendor fee and application details TBA — check back for updates. Plenty of space available (per organizer).\nSource: organizer\\'s Facebook post",
-  "fees": "",
+  "fees": "TBA",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1128,7 +1150,7 @@ window.EVENTS_REFRESH = [
   "location": "Kids Cuckoos Nest, Bradford",
   "city": "Bradford",
   "region": "Simcoe County",
-  "description": "Theme: Christmas\nHours: not stated by organizer\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1578014630292618/\nNote: post did not state a year; assumed 2026\n\n",
+  "description": "Theme: Christmas\nFee: $25/table, 100% to SickKids\nHours: not stated by organizer\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1578014630292618/\nNote: post did not state a year; assumed 2026\n\n",
   "fees": "$25/table, 100% to SickKids",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1140,7 +1162,7 @@ window.EVENTS_REFRESH = [
   "city": "Picton",
   "region": "Rest of Ontario",
   "description": "Prince Edward County's Holly Jolly Market returns to the historic Crystal Palace in Picton for 2026, with 60+ curated artisans and makers. Santa visits Sat 12-4 PM and Sun 11 AM-3 PM (proceeds to the Storehouse Food Bank); charity gift wrapping on site. Free parking on the fairgrounds.\nListing type: Vendor call + Shopper event\nHours: Fri Nov 20, 12 PM to 6 PM; Sat Nov 21, 10 AM to 5 PM; Sun Nov 22, 10 AM to 4 PM\nAdmission: $5 at the door (cash or card); children 10 and under free\nVendor fee: 6x6 booth $350 + HST; 6x9 booth $425 + HST. Flat rate, vendors keep 100% of sales. Juried - weekly category balancing; no payment required until approved.\nHow to apply: Apply online at https://hollyjollymarket.ca/vendor-signup/\nOrganizer: Prince Edward County Markets Inc. (PECMI). Approvals and invoices come only from pecmi.ca - PECMI never solicits booth fees by phone, e-transfer, or social media DM.\nEvent page: https://hollyjollymarket.ca/\nSource: https://hollyjollymarket.ca/",
-  "fees": "$350/$425 + HST",
+  "fees": "$350 + HST (6x6 booth) / $425 + HST (6x9 booth)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1148,9 +1170,9 @@ window.EVENTS_REFRESH = [
   "date": "2026-11-20",
   "time": "4 p.m.–7 p.m.",
   "location": "Lawfield Elementary School",
-  "city": "Hamilton",
-  "region": "Hamilton",
-  "description": "Hours: 4:00 PM – 7:00 PM\nAttractions: Activities and photo booths\nSource: https://facebook.com/groups/1190141658320918/permalink/1972075150127561/\n",
+  "city": "",
+  "region": "Rest of Ontario",
+  "description": "Fee: not stated by organizer\nHours: 4:00 PM – 7:00 PM\nAttractions: Activities and photo booths\nSource: https://facebook.com/groups/1190141658320918/permalink/1972075150127561/\n",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1161,7 +1183,7 @@ window.EVENTS_REFRESH = [
   "location": "St. John XXIII Catholic School, Oshawa",
   "city": "Oshawa",
   "region": "Durham Region",
-  "description": "Theme: Christmas\nHow to apply: see the source post\nHours: 5:00 PM – 8:00 PM\nSource: https://facebook.com/groups/1013767978664673/permalink/39079942611620400/\n\n",
+  "description": "Theme: Christmas\nFee: not stated by organizer\nHow to apply: see the source post\nHours: 5:00 PM – 8:00 PM\nSource: https://facebook.com/groups/1013767978664673/permalink/39079942611620400/\n\n",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1172,8 +1194,8 @@ window.EVENTS_REFRESH = [
   "location": "6240 Main St & Civic Square, Stouffville, ON",
   "city": "Stouffville",
   "region": "York Region",
-  "description": "The Town of Stouffville's largest winter event, on Main Street: a local artisan vendor marketplace, magical lighting displays, food and beverage, Santa Claus, live musical entertainment throughout the weekend, and free rides. The Town's Christmas tree lighting takes place Fri Nov 20 at 7:00 PM.\n\nHours: Fri 5:00 PM – 9:00 PM; Sat 11:00 AM – 7:00 PM\nAttractions: Artisan vendor marketplace, lighting displays, food trucks and local libations, Santa Claus, main-stage entertainment, free rides\nSource: https://townofws.ca/play/events/holiday-market/",
-  "fees": "TBD (2026 vendor applications via the Town of Stouffville; no fee published on the event page)",
+  "description": "The Town of Stouffville's largest winter event, on Main Street: a local artisan vendor marketplace, magical lighting displays, food and beverage, Santa Claus, live musical entertainment throughout the weekend, and free rides. The Town's Christmas tree lighting takes place Fri Nov 20 at 7:00 PM.\n\nHours: Fri 5:00 PM – 9:00 PM; Sat 11:00 AM – 7:00 PM\nAttractions: Artisan vendor marketplace, lighting displays, food trucks and local libations, Santa Claus, main-stage entertainment, free rides\nFee: TBD (2026 vendor applications via the Town of Stouffville; no fee published on the event page)\nSource: https://townofws.ca/play/events/holiday-market/",
+  "fees": "TBD",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1183,8 +1205,8 @@ window.EVENTS_REFRESH = [
   "location": "Toronto Botanical Garden, 777 Lawrence Ave E, Toronto, ON",
   "city": "Toronto",
   "region": "Toronto",
-  "description": "Toronto Botanical Garden's annual Holiday EcoMarket — a sustainable, nature-inspired, relaxed shopping experience with 100+ eco-minded local vendors across the Visitor Centre and outdoor courtyards, an indoor food court, outdoor bonfires with free marshmallow roasting, and free drop-in family crafting on Saturday and Sunday. A different mix of vendors each weekend; the market also runs Dec 18–20, 2026 (separate listing). TBG members get early access on Fridays, 12:00 PM – 2:00 PM.\n\nHours: Fri 2:00 PM – 6:00 PM; Sat–Sun 10:00 AM – 4:00 PM\nAdmission: Free\nSource: https://torontobotanicalgarden.ca/enjoy/events-at-the-garden/",
-  "fees": "Indoor 6ft space from $170 + HST (single day) / $485 + HST (full weekend); outdoor 10x10 space $110 + HST (single day) / $305 + HST (full weekend); 15-AMP power +$45 + HST (per the organizer's application form; vendors are accepted for one weekend only)",
+  "description": "Toronto Botanical Garden's annual Holiday EcoMarket — a sustainable, nature-inspired, relaxed shopping experience with 100+ eco-minded local vendors across the Visitor Centre and outdoor courtyards, an indoor food court, outdoor bonfires with free marshmallow roasting, and free drop-in family crafting on Saturday and Sunday. A different mix of vendors each weekend; the market also runs Dec 18–20, 2026 (separate listing). TBG members get early access on Fridays, 12:00 PM – 2:00 PM.\n\nHours: Fri 2:00 PM – 6:00 PM; Sat–Sun 10:00 AM – 4:00 PM\nAdmission: Free\nFee: Indoor 6ft space from $170 + HST (single day) / $485 + HST (full weekend); outdoor 10x10 space $110 + HST (single day) / $305 + HST (full weekend); 15-AMP power +$45 + HST (per the organizer's application form; vendors are accepted for one weekend only)\nSource: https://torontobotanicalgarden.ca/enjoy/events-at-the-garden/",
+  "fees": "Indoor 6ft from $170 + HST/day, $485 + HST/weekend; outdoor 10x10 $110 + HST/day, $305 + HST/weekend; power +$45 + HST",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1194,7 +1216,7 @@ window.EVENTS_REFRESH = [
   "location": "Blessed Sacrament Catholic School Gymnasium, 1063 Oxford St, London, ON N5Y 3L4",
   "city": "London",
   "region": "London & Area",
-  "description": "Christmas market at Blessed Sacrament Catholic School, London, welcoming local artisans, crafters, small businesses and home-based businesses. $60 entry is either a 6-foot table with two chairs provided, or an 8x10 ft space (vendor supplies own table and chairs).\nHow to apply: https://docs.google.com/forms/d/e/1FAIpQLSdANiwEicrh-RX8VtDCoh_CfLA25ur3CWRaSvUw8BU8S8FeXA/viewform\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28514826891521801/",
+  "description": "Christmas market at Blessed Sacrament Catholic School, London, welcoming local artisans, crafters, small businesses and home-based businesses. $60 entry is either a 6-foot table with two chairs provided, or an 8x10 ft space (vendor supplies own table and chairs).\nFee: $60\nHow to apply: https://docs.google.com/forms/d/e/1FAIpQLSdANiwEicrh-RX8VtDCoh_CfLA25ur3CWRaSvUw8BU8S8FeXA/viewform\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28514826891521801/",
   "fees": "$60",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1205,8 +1227,8 @@ window.EVENTS_REFRESH = [
   "location": "Army Navy and Air Force Veterans Association (ANAF Barrie Unit #365), 52 Morrow Rd, Barrie",
   "city": "Barrie",
   "region": "Simcoe County",
-  "description": "Theme: Christmas\nAdmission: Free — collecting for Christmas Cheer at the door\nHow to apply: see the source post (application deadline November 7, 2026)\nHours: 9:00 AM – 2:00 PM\nAttractions: Free parking; Christmas Cheer collection at the door\nSource: https://facebook.com/groups/584393464986784/permalink/28771909169141836/\n\nOrganizer-confirmed by form submission Oct 17, 2026.",
-  "fees": "$40 per table (6 ft table and 2 chairs included, set up day of event)",
+  "description": "Theme: Christmas\nFee: $40 per table (6 ft table and 2 chairs included, set up day of event)\nAdmission: Free — collecting for Christmas Cheer at the door\nHow to apply: see the source post (application deadline November 7, 2026)\nHours: 9:00 AM – 2:00 PM\nAttractions: Free parking; Christmas Cheer collection at the door\nSource: https://facebook.com/groups/584393464986784/permalink/28771909169141836/\n\nOrganizer-confirmed by form submission Oct 17, 2026.",
+  "fees": "$40 per table (6 ft table + 2 chairs included)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1216,8 +1238,8 @@ window.EVENTS_REFRESH = [
   "location": "Fireside Haven Studio, 54 Guelph Ave Unit 1, Cambridge",
   "city": "Cambridge",
   "region": "Waterloo Region",
-  "description": "Holiday market, 20 local vendors. Vendor fee: $45 bring-your-own 6ft table, $50 table rental. Full for crochet and 3D printing. Contact: Fireside Haven Studio.\nSource: https://facebook.com/groups/524928052267953/permalink/1572841060809975/",
-  "fees": "$45/$50",
+  "description": "Holiday market, 20 local vendors. Vendor fee: $45 bring-your-own 6ft table, $50 table rental. Full for crochet and 3D printing. Contact: Fireside Haven Studio.\nFee: $45/$50\nSource: https://facebook.com/groups/524928052267953/permalink/1572841060809975/",
+  "fees": "$45 BYO 6ft table / $50 rent",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1227,7 +1249,7 @@ window.EVENTS_REFRESH = [
   "location": "Community of Christ Church, 615 Colborne St, London, ON",
   "city": "London",
   "region": "London & Area",
-  "description": "Fixing Her Crown Inc. presents a Christmas market at Community of Christ Church in London — 20+ local vendors, a pancake breakfast, Santa photos, kids' crafts, and raffles. Vendor call for handmade crafts, baked goods, art, and jewelry; limited tables available. Hours: Sat Nov 21, 10 AM–2 PM.\nTheme: Christmas / holiday season\nHow to apply: email the organizer\nSource: https://facebook.com/groups/524928052267953/permalink/1585494026211345/",
+  "description": "Fixing Her Crown Inc. presents a Christmas market at Community of Christ Church in London — 20+ local vendors, a pancake breakfast, Santa photos, kids' crafts, and raffles. Vendor call for handmade crafts, baked goods, art, and jewelry; limited tables available. Hours: Sat Nov 21, 10 AM–2 PM.\nTheme: Christmas / holiday season\nFee: $10 per table\nHow to apply: email the organizer\nSource: https://facebook.com/groups/524928052267953/permalink/1585494026211345/",
   "fees": "$10 per table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1236,10 +1258,10 @@ window.EVENTS_REFRESH = [
   "date": "2026-11-21",
   "time": "Time not listed",
   "location": "Roselawn",
-  "city": "Port Colborne",
-  "region": "Niagara Region",
-  "description": "The Friends of Roselawn Christmas Makers Market — a call for new vendors. Interested in showcasing your handmade goods? Email friendsofroselawn for an application, or message in the comments on the source post. Hours and vendor fee were not stated in the flyer.\nTheme: Christmas / holiday season\nVendor types wanted: Handmade goods\nHow to apply: see the source post\nSource: https://facebook.com/groups/971632669514677/permalink/29424788823772348/",
-  "fees": "not stated by organizer",
+  "city": "",
+  "region": "Rest of Ontario",
+  "description": "The Friends of Roselawn Christmas Makers Market — a call for new vendors. Interested in showcasing your handmade goods? Email friendsofroselawn for an application, or message in the comments on the source post. Hours and vendor fee were not stated in the flyer.\nTheme: Christmas / holiday season\nVendor types wanted: Handmade goods\nFee: not stated by organizer\nHow to apply: see the source post\nSource: https://facebook.com/groups/971632669514677/permalink/29424788823772348/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1249,8 +1271,8 @@ window.EVENTS_REFRESH = [
   "location": "Garry's Garden Gallery, 5 Commerce Rd, Lindsay, ON K9V 5Y3",
   "city": "Lindsay",
   "region": "Kawarthas and Peterborough",
-  "description": "Vendor call: Christmas market in Garry's Garden Gallery's covered, heated greenhouse.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, greenhouse, weekend\nHours: not published (Saturday & Sunday markets)\nVendor types wanted: makers, artisans & local vendors; handcrafted goods\nHow to apply: https://garrysgardengallery.com/pages/christmas-market-vendor-application (also via link in their Instagram bio)\nSource: https://facebook.com/groups/1746193395565570/permalink/3483982515119974/\nNote: Nov 13-15 kickoff weekend is full for vendors.\n\n",
-  "fees": "not published (TBD)",
+  "description": "Vendor call: Christmas market in Garry's Garden Gallery's covered, heated greenhouse.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, greenhouse, weekend\nHours: not published (Saturday & Sunday markets)\nFee: not published (TBD)\nVendor types wanted: makers, artisans & local vendors; handcrafted goods\nHow to apply: https://garrysgardengallery.com/pages/christmas-market-vendor-application (also via link in their Instagram bio)\nSource: https://facebook.com/groups/1746193395565570/permalink/3483982515119974/\nNote: Nov 13-15 kickoff weekend is full for vendors.\n\n",
+  "fees": "Not published (TBD)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1258,10 +1280,10 @@ window.EVENTS_REFRESH = [
   "date": "2026-11-21",
   "time": "10 a.m.–2 p.m.",
   "location": "Glen Hill Gardens, off Boswell Drive, Bowmanville (across from Bowmanville Walmart plaza)",
-  "city": "Bowmanville",
-  "region": "Durham Region",
-  "description": "Vendor call: first Christmas craft show at brand-new long-term care home.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, craft show\nHours: 10:00 AM - 2:00 PM\nHow to apply: reply to the organizer's Facebook post\nSource: https://facebook.com/groups/1013767978664673/permalink/38978283605119635/\n\n",
-  "fees": "no table fee - vendors supply a $40+ raffle prize for the Residents Council Committee",
+  "city": "",
+  "region": "Rest of Ontario",
+  "description": "Vendor call: first Christmas craft show at brand-new long-term care home.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, craft show\nHours: 10:00 AM - 2:00 PM\nFee: no table fee - vendors supply a $40+ raffle prize for the Residents Council Committee\nHow to apply: reply to the organizer's Facebook post\nSource: https://facebook.com/groups/1013767978664673/permalink/38978283605119635/\n\n",
+  "fees": "No table fee ($40+ raffle prize donation)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1271,8 +1293,8 @@ window.EVENTS_REFRESH = [
   "location": "Haldimand Community Memorial Arena, 10766 County Rd. 2, Grafton, ON",
   "city": "Grafton",
   "region": "Northumberland",
-  "description": "Community-wide outdoor Christmas market run by a dedicated team of volunteers, with all proceeds benefiting Grafton Public School. Running for 6 years, typically 3,000+ attendees. Handmade items only. Vendor fee: $100 (outdoor; setup 9:30-11 AM). Payment: e-transfer to the organizer (see the source post link for how to apply.). Vendor application deadline Oct 10. Theme: Christmas / holiday season. Tags: Kid-friendly, school fundraiser, artisan, handmade. Vendor types wanted: Art & Design — Fine Art, Photography, Sculpture & Ceramics; Handmade Crafts — Woodworking, Textiles & Fiber Arts, Paper Goods & Stationery; Cottage Food & Specialty Grocery — Baked Goods, Preserves & Condiments, Confections, Beverages, Honey & Maple Products; Ready-to-Eat Food & Food Trucks — Food Trucks & Trailers, Pop-up Concessions, Hot Food Booths, Cold Refreshments; Kids & Toys — Handmade Toys; Seasonal & Holiday — Christmas/Holiday Ornaments & Decor; Services & Interactive Booths — Face Painting & Henna Artists, Caricature & Live Portrait Artists. Organizer: see the source post. Source: organizer form submission.\nSource: https://facebook.com/groups/558091823755948/permalink/1033927499505709/",
-  "fees": "$100",
+  "description": "Community-wide outdoor Christmas market run by a dedicated team of volunteers, with all proceeds benefiting Grafton Public School. Running for 6 years, typically 3,000+ attendees. Handmade items only. Vendor fee: $100 (outdoor; setup 9:30-11 AM). Payment: e-transfer to the organizer (see the source post link for how to apply.). Vendor application deadline Oct 10. Theme: Christmas / holiday season. Tags: Kid-friendly, school fundraiser, artisan, handmade. Vendor types wanted: Art & Design — Fine Art, Photography, Sculpture & Ceramics; Handmade Crafts — Woodworking, Textiles & Fiber Arts, Paper Goods & Stationery; Cottage Food & Specialty Grocery — Baked Goods, Preserves & Condiments, Confections, Beverages, Honey & Maple Products; Ready-to-Eat Food & Food Trucks — Food Trucks & Trailers, Pop-up Concessions, Hot Food Booths, Cold Refreshments; Kids & Toys — Handmade Toys; Seasonal & Holiday — Christmas/Holiday Ornaments & Decor; Services & Interactive Booths — Face Painting & Henna Artists, Caricature & Live Portrait Artists. Organizer: see the source post. Source: organizer form submission.\nFee: $100\nSource: https://facebook.com/groups/558091823755948/permalink/1033927499505709/",
+  "fees": "$100 (outdoor)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1282,8 +1304,8 @@ window.EVENTS_REFRESH = [
   "location": "St. Michael's Hungarian Hall, 521 West 5th St, Hamilton",
   "city": "Hamilton",
   "region": "Hamilton",
-  "description": "How to apply: https://forms.gle/Agha9H3Dn4JReomU6\nHours: 10:00 AM – 3:00 PM\nAdmission: Free\nAttractions: Free door-prize ballot, penny sale raffles, sweets and treats; non-perishable food drive\nSource: https://facebook.com/groups/524928052267953/permalink/1579547646805983/\n\n",
-  "fees": "$60 (indoor, 6ft x 5ft space, table & chairs included)",
+  "description": "Fee: $60 (indoor, 6ft x 5ft space, table & chairs included)\nHow to apply: https://forms.gle/Agha9H3Dn4JReomU6\nHours: 10:00 AM – 3:00 PM\nAdmission: Free\nAttractions: Free door-prize ballot, penny sale raffles, sweets and treats; non-perishable food drive\nSource: https://facebook.com/groups/524928052267953/permalink/1579547646805983/\n\n",
+  "fees": "$60 (indoor, 6ft x 5ft, table & chairs included)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1304,8 +1326,8 @@ window.EVENTS_REFRESH = [
   "location": "Market at 70 King, 70 King St E, Oshawa, ON",
   "city": "Oshawa",
   "region": "Durham Region",
-  "description": "Holiday Cheer Indoor Market by Market at 70 King x DBS Experiences, held in downtown Oshawa during the Oshawa Santa Claus Parade of Lights. A curated mix of local artisans, makers and small businesses offering handmade, unique and giftable products. Free admission. Limited vendor spaces available.\nTheme: Christmas / holiday season\nVendor types wanted: local artisans, makers and small businesses\nHow to apply: see the source post\nHours: 3:00 PM – 8:00 PM\nAdmission: Free\nAttractions: Held during the Oshawa Santa Claus Parade of Lights; photo opportunities\nSource: https://facebook.com/groups/1746193395565570/permalink/3493187240866168/",
-  "fees": "not stated by organizer",
+  "description": "Holiday Cheer Indoor Market by Market at 70 King x DBS Experiences, held in downtown Oshawa during the Oshawa Santa Claus Parade of Lights. A curated mix of local artisans, makers and small businesses offering handmade, unique and giftable products. Free admission. Limited vendor spaces available.\nTheme: Christmas / holiday season\nVendor types wanted: local artisans, makers and small businesses\nHow to apply: see the source post\nFee: not stated by organizer\nHours: 3:00 PM – 8:00 PM\nAdmission: Free\nAttractions: Held during the Oshawa Santa Claus Parade of Lights; photo opportunities\nSource: https://facebook.com/groups/1746193395565570/permalink/3493187240866168/",
+  "fees": "Not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1349,7 +1371,7 @@ window.EVENTS_REFRESH = [
   "city": "Newmarket",
   "region": "York Region",
   "description": "21st annual Holiday Market on the Pickering College campus in downtown Newmarket. Vendor applications open — deadline extended to Oct 23. How to apply: https://www.pickeringcollege.on.ca/about/events/holiday-home-tour/seasonal-boutique-vendor.\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1573757697384978/",
-  "fees": "",
+  "fees": "not published — contact organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1359,8 +1381,8 @@ window.EVENTS_REFRESH = [
   "location": "Niagara Falls Exchange, 5943 Sylvia Pl, Niagara Falls, ON L2G 1S9",
   "city": "Niagara Falls",
   "region": "Niagara Region",
-  "description": "Get ready to unwrap one of Niagara's most tail-wagging holiday shopping experiences! Vendor fee: $145 + HST (8x6 space, wall with electricity & 2 chairs). Payment: EFT or credit card. Application deadline Nov 10. Theme: Winter. Tags: Pet themed, holiday. Vendor types wanted: Art & Design — Photography; Handmade Crafts — Woodworking, Glasswork, Metalwork & Blacksmithing, Leather Goods, Textiles & Fiber Arts, Paper Goods & Stationery; Home & Living — Home Decor, Kitchen & Dining; Cottage Food & Specialty Grocery — Baked Goods, Preserves & Condiments, Confections; Pet Products — Pet Treats & Food, Pet Accessories, Pet Toys & Grooming Products; Seasonal & Holiday — Christmas/Holiday Ornaments & Decor; Services & Interactive Booths — Face Painting & Henna Artists. How to apply: https://www.eventsinsynergy.ca/santa-paws-sniff-n-shop-vendor-page. Organizer: Events In Synergy. Source: organizer form submission.\nHours: 11:00 AM – 5:00 PM\nAttractions: Pet-themed holiday market — pet accessories, gourmet pet treats, pet gifts and pet photography\nSource: https://facebook.com/groups/1705089823067226/permalink/4417338295175685/",
-  "fees": "$145",
+  "description": "Get ready to unwrap one of Niagara's most tail-wagging holiday shopping experiences! Vendor fee: $145 + HST (8x6 space, wall with electricity & 2 chairs). Payment: EFT or credit card. Application deadline Nov 10. Theme: Winter. Tags: Pet themed, holiday. Vendor types wanted: Art & Design — Photography; Handmade Crafts — Woodworking, Glasswork, Metalwork & Blacksmithing, Leather Goods, Textiles & Fiber Arts, Paper Goods & Stationery; Home & Living — Home Decor, Kitchen & Dining; Cottage Food & Specialty Grocery — Baked Goods, Preserves & Condiments, Confections; Pet Products — Pet Treats & Food, Pet Accessories, Pet Toys & Grooming Products; Seasonal & Holiday — Christmas/Holiday Ornaments & Decor; Services & Interactive Booths — Face Painting & Henna Artists. How to apply: https://www.eventsinsynergy.ca/santa-paws-sniff-n-shop-vendor-page. Organizer: Events In Synergy. Source: organizer form submission.\nFee: $145\nHours: 11:00 AM – 5:00 PM\nAttractions: Pet-themed holiday market — pet accessories, gourmet pet treats, pet gifts and pet photography\nSource: https://facebook.com/groups/1705089823067226/permalink/4417338295175685/",
+  "fees": "$145 + HST (8x6, wall+electricity+2 chairs)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1381,7 +1403,7 @@ window.EVENTS_REFRESH = [
   "location": "Silver Lake Wesleyan Camp, 512 Wesleyan Camp Lane, Maberly",
   "city": "Maberly",
   "region": "Rest of Ontario",
-  "description": "Theme: Christmas\nHours: 10 AM – 4 PM\nHow to apply: https://forms.gle/r8g3NHywSxcCRREL9\nSource: https://facebook.com/groups/524928052267953/permalink/1577186717042076/\n",
+  "description": "Theme: Christmas\nFee: not stated by organizer\nHours: 10 AM – 4 PM\nHow to apply: https://forms.gle/r8g3NHywSxcCRREL9\nSource: https://facebook.com/groups/524928052267953/permalink/1577186717042076/\n",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1392,8 +1414,8 @@ window.EVENTS_REFRESH = [
   "location": "Something New, 416 Concession Street, Hamilton, ON",
   "city": "Hamilton",
   "region": "Hamilton",
-  "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
-  "fees": "$45",
+  "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nFee: $45\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
+  "fees": "$45/table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1403,8 +1425,8 @@ window.EVENTS_REFRESH = [
   "location": "St. Dorothy Catholic Elementary School, 155 John Garland Blvd, Toronto, ON",
   "city": "Toronto",
   "region": "Toronto",
-  "description": "St. Dorothy Catholic Elementary School CSPC Christmas Market in Toronto - all vendor types welcome. Vendor fee: $45 (includes 6ft table and 2 chairs; extra chairs free on request). How to apply: see the source post link for how to apply. Organizer: see the source post. Setup 8:30 AM.\nSource: https://facebook.com/groups/524928052267953/permalink/1566640258096722/",
-  "fees": "$45",
+  "description": "St. Dorothy Catholic Elementary School CSPC Christmas Market in Toronto - all vendor types welcome. Vendor fee: $45 (includes 6ft table and 2 chairs; extra chairs free on request). How to apply: see the source post link for how to apply. Organizer: see the source post. Setup 8:30 AM.\nFee: $45\nSource: https://facebook.com/groups/524928052267953/permalink/1566640258096722/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1415,7 +1437,7 @@ window.EVENTS_REFRESH = [
   "city": "Burlington",
   "region": "Halton Region",
   "description": "5th annual Mistletoe Market at St. Matthew on the Plains, Burlington. Vendor fee not published — contact the church office for vendor information. Theme: Christmas / holiday season. Source: Facebook vendor call https://facebook.com/groups/826831985759557/permalink/1634015701707844/ (posted 2026-09-24).\nHours: 10:00 AM – 2:00 PM\nAdmission: $2 or a non-perishable food donation\nAttractions: Tea room, silent auction, white elephant table\nSource: https://facebook.com/groups/826831985759557/permalink/1634015701707844/",
-  "fees": "",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1425,8 +1447,8 @@ window.EVENTS_REFRESH = [
   "location": "St. Roch Church Hall, Toronto, ON",
   "city": "Toronto",
   "region": "Toronto",
-  "description": "St. Roch Catholic Elementary School Merry & Bright Christmas Market. Table pricing: 1x 6ft table + 2 chairs $60; 2x 6ft tables + 2 chairs $100. Theme: Christmas / holiday season. Tags: Christmas market, school fundraiser, indoor. Vendor types wanted: hot food, skincare & beauty, rosary makers & faith-based crafts, Christmas & holiday decor. Apply online: https://form.jotform.com/261694967132265. Source: Facebook vendor call (posted 2026-10-03) https://facebook.com/groups/524928052267953/permalink/1574490773978337/\nSource: https://facebook.com/groups/524928052267953/permalink/1574490773978337/",
-  "fees": "$60/$100",
+  "description": "St. Roch Catholic Elementary School Merry & Bright Christmas Market. Table pricing: 1x 6ft table + 2 chairs $60; 2x 6ft tables + 2 chairs $100. Theme: Christmas / holiday season. Tags: Christmas market, school fundraiser, indoor. Vendor types wanted: hot food, skincare & beauty, rosary makers & faith-based crafts, Christmas & holiday decor. Apply online: https://form.jotform.com/261694967132265. Source: Facebook vendor call (posted 2026-10-03) https://facebook.com/groups/524928052267953/permalink/1574490773978337/\nFee: $60/$100\nSource: https://facebook.com/groups/524928052267953/permalink/1574490773978337/",
+  "fees": "$60 (1x 6ft table + 2 chairs) / $100 (2x tables)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1436,8 +1458,8 @@ window.EVENTS_REFRESH = [
   "location": "St. Thomas Aquinas Catholic Secondary School, 262 Old Homestead Rd, Keswick, ON",
   "city": "Keswick",
   "region": "York Region",
-  "description": "Christmas market at St. Thomas Aquinas in Keswick — local makers and small businesses wanted; the organizer says only a few vendor spots are left. Hours: Sat Nov 21, 9 AM–2 PM.\nTheme: Christmas / holiday season\nHow to apply: email the organizer\nSource: https://facebook.com/groups/524928052267953/permalink/1584877166273031/",
-  "fees": "not stated by organizer",
+  "description": "Christmas market at St. Thomas Aquinas in Keswick — local makers and small businesses wanted; the organizer says only a few vendor spots are left. Hours: Sat Nov 21, 9 AM–2 PM.\nTheme: Christmas / holiday season\nFee: not stated by organizer\nHow to apply: email the organizer\nSource: https://facebook.com/groups/524928052267953/permalink/1584877166273031/",
+  "fees": "Not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1447,7 +1469,7 @@ window.EVENTS_REFRESH = [
   "location": "George Brown Waterfront Campus, 51 Dockside Dr, Toronto, ON",
   "city": "Toronto",
   "region": "Toronto",
-  "description": "SWEA Toronto's annual Swedish Christmas Fair, running since 1982 — Swedish food at the Café and the 'Taste of Sweden' food hall, the Lucia procession, Swedish folk dancers and choir, a children's crafts loft, a book corner, and a large selection of Swedish-designed products and Christmas foods. Webshop orders can be picked up at the fair (Sat 1:00 PM – 5:00 PM; Sun 1:00 PM – 4:00 PM).\n\nHours: Sat 11:00 AM – 5:00 PM; Sun 11:00 AM – 4:00 PM\nSource: https://swedishchristmasfair.ca/",
+  "description": "SWEA Toronto's annual Swedish Christmas Fair, running since 1982 — Swedish food at the Café and the 'Taste of Sweden' food hall, the Lucia procession, Swedish folk dancers and choir, a children's crafts loft, a book corner, and a large selection of Swedish-designed products and Christmas foods. Webshop orders can be picked up at the fair (Sat 1:00 PM – 5:00 PM; Sun 1:00 PM – 4:00 PM).\n\nHours: Sat 11:00 AM – 5:00 PM; Sun 11:00 AM – 4:00 PM\nFee: TBD\nSource: https://swedishchristmasfair.ca/",
   "fees": "TBD",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1469,8 +1491,8 @@ window.EVENTS_REFRESH = [
   "location": "186 Thornton Rd S, Oshawa",
   "city": "Oshawa",
   "region": "Durham Region",
-  "description": "Vendor call: annual holiday bazaar - seasonal shopping, holiday treats, local vendors.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, bazaar\nHours: 1:00 PM - 4:00 PM\nHow to apply: see the source post\nSource: https://facebook.com/groups/1746193395565570/permalink/3484629365055289/\n\n",
-  "fees": "not published (TBD) - contact the organizer to purchase a table",
+  "description": "Vendor call: annual holiday bazaar - seasonal shopping, holiday treats, local vendors.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, bazaar\nHours: 1:00 PM - 4:00 PM\nFee: not published (TBD) - contact the organizer to purchase a table\nHow to apply: see the source post\nSource: https://facebook.com/groups/1746193395565570/permalink/3484629365055289/\n\n",
+  "fees": "Not published (TBD)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1480,8 +1502,8 @@ window.EVENTS_REFRESH = [
   "location": "Villa Leonardo Gambin, 40 Friuli Court, Woodbridge",
   "city": "Woodbridge",
   "region": "York Region",
-  "description": "Vendor call: Christmas market hosted with the VLG Family Council; table fees support resident recreation.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas\nHours: 10:00 AM - 3:00 PM\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1577014337059314/\n\n",
-  "fees": "$50 for one table; $70 for two tables",
+  "description": "Vendor call: Christmas market hosted with the VLG Family Council; table fees support resident recreation.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas\nHours: 10:00 AM - 3:00 PM\nFee: $50 for one table; $70 for two tables\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1577014337059314/\n\n",
+  "fees": "$50/1 table; $70/2 tables",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1489,9 +1511,9 @@ window.EVENTS_REFRESH = [
   "date": "2026-11-21",
   "time": "9 a.m.–2 p.m.",
   "location": "Brooklin United Church, 19 Cassels Road, Brooklin, Whitby, ON",
-  "city": "Brooklin",
+  "city": "Whitby",
   "region": "Durham Region",
-  "description": "The Whitby Farmers' Market holds a special holiday market at Brooklin United Church as part of Brooklin's Christmas in the Village celebrations. Vendors take part through the Whitby Farmers' Market (Durham Region Farmers' Market Association), Market Manager Sara Demoe: vendors must produce at least 70% of the products they sell, non-seasonal vendors pay a $20 non-refundable membership, and vendors supply their own 10x10 tent, tables, and displays.\nTheme: Christmas / holiday season\nHow to apply: https://www.whitbyfarmersmarket.ca/\nHours: 9:00 AM–2:00 PM\nAttractions: Locally grown produce, baked goods, artisanal creations and more from community vendors\nSource: https://www.whitbyfarmersmarket.ca/",
+  "description": "The Whitby Farmers' Market holds a special holiday market at Brooklin United Church as part of Brooklin's Christmas in the Village celebrations. Vendors take part through the Whitby Farmers' Market (Durham Region Farmers' Market Association), Market Manager Sara Demoe: vendors must produce at least 70% of the products they sell, non-seasonal vendors pay a $20 non-refundable membership, and vendors supply their own 10x10 tent, tables, and displays.\nTheme: Christmas / holiday season\nFee: not stated by organizer\nHow to apply: https://www.whitbyfarmersmarket.ca/\nHours: 9:00 AM–2:00 PM\nAttractions: Locally grown produce, baked goods, artisanal creations and more from community vendors\nSource: https://www.whitbyfarmersmarket.ca/",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1502,8 +1524,8 @@ window.EVENTS_REFRESH = [
   "location": "High Street, Sutton, ON (Georgina)",
   "city": "Sutton",
   "region": "York Region",
-  "description": "Annual holiday celebration on High Street in Sutton. Last year's event drew over 5,000 attendees.\n\nTheme: Christmas / holiday season\nTags: holiday, evening, outdoor, shop local\nVendor types wanted: non-food vendors only (food vendors excluded)\nApplication deadline: Oct 19, 2026\nApply: https://forms.gle/z62xqRXzVCY4Psg29\nSpaces are limited.\n\nSource: organizer\\'s Facebook post",
-  "fees": "not published in the vendor call — see the application form",
+  "description": "Annual holiday celebration on High Street in Sutton. Last year's event drew over 5,000 attendees.\n\nTheme: Christmas / holiday season\nTags: holiday, evening, outdoor, shop local\nVendor types wanted: non-food vendors only (food vendors excluded)\nFee: not published in the vendor call — see the application form\nApplication deadline: Oct 19, 2026\nApply: https://forms.gle/z62xqRXzVCY4Psg29\nSpaces are limited.\n\nSource: organizer\\'s Facebook post",
+  "fees": "Not published — see application form",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1511,10 +1533,10 @@ window.EVENTS_REFRESH = [
   "date": "2026-11-21",
   "time": "Time not listed",
   "location": "Willowbend Retirement Community",
-  "city": "Ottawa",
-  "region": "Ottawa",
+  "city": "",
+  "region": "Rest of Ontario",
   "description": "Willowbend Retirement Community Christmas Bazaar - approximately 10 vendor spots left. Vendors bring their own table and set up; a sandwich lunch is included.\nVendor fee: $20 (includes sandwich lunch)\nListing type: Vendor call\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1591365268957554/",
-  "fees": "$20 (includes sandwich lunch)",
+  "fees": "$20 (incl. lunch; BYO table)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1524,7 +1546,7 @@ window.EVENTS_REFRESH = [
   "location": "Pierre Elliott Trudeau PS, 1111 Beatrice St E, Oshawa",
   "city": "Oshawa",
   "region": "Durham Region",
-  "description": "Theme: Christmas\nHow to apply: organizer posted two different application form links, unclear which is current\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/1013767978664673/permalink/39007456448869017/\n\n",
+  "description": "Theme: Christmas\nFee: not stated by organizer\nHow to apply: organizer posted two different application form links, unclear which is current\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/1013767978664673/permalink/39007456448869017/\n\n",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1535,7 +1557,7 @@ window.EVENTS_REFRESH = [
   "location": "St. Clair College Healthplex, Chatham, ON",
   "city": "Chatham",
   "region": "Rest of Ontario",
-  "description": "Winter Wonderland Christmas Market at the St. Clair College Healthplex in Chatham. Local makers, small businesses, and unique vendors wanted for a day of holiday shopping. Hours: Sat Nov 21, 9 AM–3 PM.\nTheme: Christmas / holiday season\nApply: https://forms.gle/yjbev4r6CTfQhgP2A\nAttractions: Live music, Santa photos, hot chocolate\nSource: https://facebook.com/groups/971632669514677/permalink/29397535166497714/",
+  "description": "Winter Wonderland Christmas Market at the St. Clair College Healthplex in Chatham. Local makers, small businesses, and unique vendors wanted for a day of holiday shopping. Hours: Sat Nov 21, 9 AM–3 PM.\nTheme: Christmas / holiday season\nFee: $130\nApply: https://forms.gle/yjbev4r6CTfQhgP2A\nAttractions: Live music, Santa photos, hot chocolate\nSource: https://facebook.com/groups/971632669514677/permalink/29397535166497714/",
   "fees": "$130",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1547,7 +1569,7 @@ window.EVENTS_REFRESH = [
   "city": "London",
   "region": "London & Area",
   "description": "Winter Wonderland Market at Glen Cairn Centre with vendor applications open. Vendor fee: not published — contact organizer. How to apply: see the source post link for how to apply. Organizer: Glen Cairn Centre.\nHours: 9:00 AM – 2:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28139333632404464/",
-  "fees": "not published — contact organizer",
+  "fees": "Not published — contact organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1568,8 +1590,8 @@ window.EVENTS_REFRESH = [
   "location": "Acton District School, Acton, ON",
   "city": "Acton",
   "region": "Halton Region",
-  "description": "The Acton District School Christmas Market still has vendor room — the organizer is specifically looking for pottery, stained glass, knitting (no stuffies), woodworking, and other unique items.\nTheme: Christmas / holiday season\nVendor types wanted: Pottery, stained glass, knitting, woodworking, unique handmade items\nApply: https://forms.gle/71VcSDnZwP3QcN7q9\nSource: https://facebook.com/groups/609827307950034/permalink/1442089068057183/",
-  "fees": "not stated by organizer",
+  "description": "The Acton District School Christmas Market still has vendor room — the organizer is specifically looking for pottery, stained glass, knitting (no stuffies), woodworking, and other unique items.\nTheme: Christmas / holiday season\nVendor types wanted: Pottery, stained glass, knitting, woodworking, unique handmade items\nFee: not stated by organizer\nApply: https://forms.gle/71VcSDnZwP3QcN7q9\nSource: https://facebook.com/groups/609827307950034/permalink/1442089068057183/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1579,8 +1601,8 @@ window.EVENTS_REFRESH = [
   "location": "Hellenic Community Centre, 133 Southdale Road West, London, ON",
   "city": "London",
   "region": "London & Area",
-  "description": "3rd Annual Holiday Market by Eleven Eleven Events. Ballroom 1 vendor spaces are sold out; a few spaces remain — Atrium (only 2 vendor spaces left), Ballroom 2 10' x 10' spaces (vendors must bring their own tables and full setup), and 8-foot table spaces (vendors bring their own 8-foot table).\nTheme: Christmas / holiday season\nApply: https://www.elevenelevenevents.ca\nHours: 10:00 AM – 4:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2634499136985644/",
-  "fees": "not stated by organizer",
+  "description": "3rd Annual Holiday Market by Eleven Eleven Events. Ballroom 1 vendor spaces are sold out; a few spaces remain — Atrium (only 2 vendor spaces left), Ballroom 2 10' x 10' spaces (vendors must bring their own tables and full setup), and 8-foot table spaces (vendors bring their own 8-foot table).\nTheme: Christmas / holiday season\nApply: https://www.elevenelevenevents.ca\nFee: not stated by organizer\nHours: 10:00 AM – 4:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2634499136985644/",
+  "fees": "Not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1601,8 +1623,8 @@ window.EVENTS_REFRESH = [
   "location": "Radisson Hotel Sudbury, Sudbury, ON",
   "city": "Sudbury",
   "region": "Rest of Ontario",
-  "description": "Little Kickers Winter Wonderland — a family holiday event by Little Kickers Northern Ontario at the Radisson Hotel Sudbury, with Santa photos, children's activities, and local vendors & artisans, in support of the Pregnancy Care Centre & Infant Food Bank in Sudbury. Vendors must provide their own liability insurance.\nTheme: Christmas\nVendor types wanted: Crafters; artisans; makers; small businesses; home-based businesses; service providers; holiday vendors\nHow to apply: see the source post\nHours: 10:00 AM – 4:00 PM\nSource: https://facebook.com/groups/693533067412562/permalink/28472280575777771/",
-  "fees": "$75 for 1 table; $140 for 2 tables; $200 for 3 tables",
+  "description": "Little Kickers Winter Wonderland — a family holiday event by Little Kickers Northern Ontario at the Radisson Hotel Sudbury, with Santa photos, children's activities, and local vendors & artisans, in support of the Pregnancy Care Centre & Infant Food Bank in Sudbury. Vendors must provide their own liability insurance.\nTheme: Christmas\nVendor types wanted: Crafters; artisans; makers; small businesses; home-based businesses; service providers; holiday vendors\nFee: $75 for 1 table; $140 for 2 tables; $200 for 3 tables\nHow to apply: see the source post\nHours: 10:00 AM – 4:00 PM\nSource: https://facebook.com/groups/693533067412562/permalink/28472280575777771/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1612,7 +1634,7 @@ window.EVENTS_REFRESH = [
   "location": "Overflow Brewing Company, 2477 Kaladar Ave, Ottawa",
   "city": "Ottawa",
   "region": "Ottawa",
-  "description": "Theme: Christmas\nHours: 10 AM – 4 PM\nAttractions: Brewery bar and kitchen open during the market\nSource: https://facebook.com/groups/524928052267953/permalink/1577103060383775/\n",
+  "description": "Theme: Christmas\nFee: $50/day 8x8 non-corner, $60/day corner (BYO tables/chairs)\nHours: 10 AM – 4 PM\nAttractions: Brewery bar and kitchen open during the market\nSource: https://facebook.com/groups/524928052267953/permalink/1577103060383775/\n",
   "fees": "$50/day 8x8 non-corner, $60/day corner (BYO tables/chairs)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1623,8 +1645,8 @@ window.EVENTS_REFRESH = [
   "location": "Peterborough Armoury, 220 Murray Street, Peterborough, ON",
   "city": "Peterborough",
   "region": "Kawarthas and Peterborough",
-  "description": "First Annual Holiday Market — fundraiser for the Peterborough Sea Cadet Corps (RCSCC 112 Howe), hosted by the Peterborough Navy League. Registration $45 includes one 6' table; extra tables $20 each, power $20. Vendor setup 7:45-9:45 AM; vendors park offsite after setup. Apply: https://112howe.ca/vendor-app (contacted within 3 business days). Source post: https://facebook.com/groups/524928052267953/permalink/1574725300621551/\nTheme: Christmas/Holiday\nTags: holiday market, christmas, fundraiser, peterborough\nSource: https://facebook.com/groups/524928052267953/permalink/1574725300621551/",
-  "fees": "$45",
+  "description": "First Annual Holiday Market — fundraiser for the Peterborough Sea Cadet Corps (RCSCC 112 Howe), hosted by the Peterborough Navy League. Registration $45 includes one 6' table; extra tables $20 each, power $20. Vendor setup 7:45-9:45 AM; vendors park offsite after setup. Apply: https://112howe.ca/vendor-app (contacted within 3 business days). Source post: https://facebook.com/groups/524928052267953/permalink/1574725300621551/\nTheme: Christmas/Holiday\nTags: holiday market, christmas, fundraiser, peterborough\nFee: $45\nSource: https://facebook.com/groups/524928052267953/permalink/1574725300621551/",
+  "fees": "$45 (incl. 6ft table)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1634,8 +1656,8 @@ window.EVENTS_REFRESH = [
   "location": "The Latcham Centre, 121 Queen St, Port Perry",
   "city": "Port Perry",
   "region": "Durham Region",
-  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Sunday, November 22, 12–4 PM. Table fees range from $50 to $80 depending on table — confirm with organizer. To apply: DM the organizer on Facebook.\nHours: 12:00 PM – 4:00 PM\nSource: Organizer's flyer via Paul",
-  "fees": "$50–$80",
+  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Sunday, November 22, 12–4 PM. Table fees range from $50 to $80 depending on table — confirm with organizer. To apply: DM the organizer on Facebook.\nFee: $50–$80\nHours: 12:00 PM – 4:00 PM\nSource: Organizer's flyer via Paul",
+  "fees": "$50–$80 (range — confirm with organizer)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1645,7 +1667,7 @@ window.EVENTS_REFRESH = [
   "location": "Grand Cinnamon Banquet & Convention, 895 McNicoll Ave, Scarborough, ON",
   "city": "Scarborough",
   "region": "Toronto",
-  "description": "Fall market by Durham Divas Events — multicultural vendors, delicious halal food, family entertainment, giveaways and seasonal deals. Vendor & stall booking now open: full booth $250 (includes 1 table and 2 chairs), half booth $125 (shared booth space), food booth $300–$350. Sponsorship packages also available from $300–$500.\nTheme: Fall / autumn\nHow to apply: call (Durham Divas Events)\nHours: 12:00 PM – 10:00 PM\nAdmission: Free (free parking)\nAttractions: Halal food, face painting, family entertainment, giveaways\nSource: https://facebook.com/groups/1013767978664673/permalink/39203744462573547/",
+  "description": "Fall market by Durham Divas Events — multicultural vendors, delicious halal food, family entertainment, giveaways and seasonal deals. Vendor & stall booking now open: full booth $250 (includes 1 table and 2 chairs), half booth $125 (shared booth space), food booth $300–$350. Sponsorship packages also available from $300–$500.\nTheme: Fall / autumn\nHow to apply: call (Durham Divas Events)\nFee: $250 full booth / $125 half booth / $300–$350 food booth\nHours: 12:00 PM – 10:00 PM\nAdmission: Free (free parking)\nAttractions: Halal food, face painting, family entertainment, giveaways\nSource: https://facebook.com/groups/1013767978664673/permalink/39203744462573547/",
   "fees": "$250 full booth / $125 half booth / $300–$350 food booth",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1668,7 +1690,7 @@ window.EVENTS_REFRESH = [
   "city": "North York",
   "region": "Toronto",
   "description": "Vendor call: 8th Annual Holiday Pop-Up Marketplace — North York Holiday Shopping Experience (8th annual). Vendor fee: not published — see registration page for vendor details. How to apply: https://shoppingitlocal.com/pages/vendorregistration. Organizer: Shopping It Local.\nHours: 12:00 PM – 7:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28210230068648153/",
-  "fees": "not published — see registration page for vendor details",
+  "fees": "not published - see registration page",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1678,7 +1700,7 @@ window.EVENTS_REFRESH = [
   "location": "Meridian Community Centre, 100 Meridian Way, Fonthill, ON",
   "city": "Fonthill",
   "region": "Niagara Region",
-  "description": "Monthly trading card show — calling all card collectors, Pokemon fans, sports card lovers, and TCG addicts. Buy, sell, trade, hunt for your next big pull, or just talk cards. Organizer: Toploaders Anonymous. Note: submitted on the organizer's behalf.\nHours: 9:00 AM–3:00 PM\nAdmission: Free entry\nSource: organizer\\'s Facebook post",
+  "description": "Monthly trading card show — calling all card collectors, Pokemon fans, sports card lovers, and TCG addicts. Buy, sell, trade, hunt for your next big pull, or just talk cards. Organizer: Toploaders Anonymous. Note: submitted on the organizer's behalf.\nFee: $75\nHours: 9:00 AM–3:00 PM\nAdmission: Free entry\nSource: organizer\\'s Facebook post",
   "fees": "$75",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1687,10 +1709,10 @@ window.EVENTS_REFRESH = [
   "date": "2026-11-25",
   "time": "3:30 p.m.–7:30 p.m.",
   "location": "Lakeside Public School, South Ajax, Ontario",
-  "city": "Ajax",
-  "region": "Durham Region",
+  "city": "",
+  "region": "Rest of Ontario",
   "description": "Lakeside Breakers holiday vendor and craft show at Lakeside Public School. Vendor fee: youth spots $10; general vendor fee not published (early-bird pricing mentioned, amount not published - contact organizer). How to apply: vendor application https://forms.gle/nFvc44sLdEQNRkNB7 ; young entrepreneur application https://forms.gle/YGma7RxN24yLwAYb8. Organizer: see the source post.\nSource: https://facebook.com/groups/524928052267953/permalink/1564579471636134/",
-  "fees": "youth spots $10",
+  "fees": "Youth spots $10; general vendor fee not published (early-bird pricing mentioned, amount not published)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1700,8 +1722,8 @@ window.EVENTS_REFRESH = [
   "location": "Lakeside Public School, 4 Parkes Drive, Ajax",
   "city": "Ajax",
   "region": "Durham Region",
-  "description": "Lakeside Winter Market (Lakeside Breakers Holiday Vendor & Craft Show), Wednesday, November 25, 2026, 3:30–7:30 PM. Lakeside Public School gymnasium, 4 Parkes Drive, Ajax, ON. Vendor setup 2:00–3:30 PM. Fees: regular 10x10 space $50; early bird $40 (register and pay before Oct 1); young entrepreneurs (12 & under) $10; table rental $10; chairs free. Payment by cash to the school office (Mon–Fri 9 AM–3 PM). see the source post link for how to apply. Nut-free event. Note: the organizer's Facebook flyer says Nov 26, but the official vendor registration form confirms Wednesday, November 25. As of Oct 1 the market is at capacity and accepting wait-list applications only. Vendor application: https://docs.google.com/forms/d/e/1FAIpQLSczAu6gSNkzIBQEAMYzQD7jHcwY5UQYoldUNEHbjaMJc7XufA/viewform \nSource: organizer\\'s Facebook post",
-  "fees": "$50",
+  "description": "Lakeside Winter Market (Lakeside Breakers Holiday Vendor & Craft Show), Wednesday, November 25, 2026, 3:30–7:30 PM. Lakeside Public School gymnasium, 4 Parkes Drive, Ajax, ON. Vendor setup 2:00–3:30 PM. Fees: regular 10x10 space $50; early bird $40 (register and pay before Oct 1); young entrepreneurs (12 & under) $10; table rental $10; chairs free. Payment by cash to the school office (Mon–Fri 9 AM–3 PM). see the source post link for how to apply. Nut-free event. Note: the organizer's Facebook flyer says Nov 26, but the official vendor registration form confirms Wednesday, November 25. As of Oct 1 the market is at capacity and accepting wait-list applications only. Vendor application: https://docs.google.com/forms/d/e/1FAIpQLSczAu6gSNkzIBQEAMYzQD7jHcwY5UQYoldUNEHbjaMJc7XufA/viewform \nFee: $50\nSource: organizer\\'s Facebook post",
+  "fees": "$50 regular 10x10; $40 early bird (before Oct 1); $10 young entrepreneurs; $10 table rental; chairs free",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1711,7 +1733,7 @@ window.EVENTS_REFRESH = [
   "location": "Colonel J. E. Farewell PS, Oshawa",
   "city": "Oshawa",
   "region": "Durham Region",
-  "description": "Theme: Christmas\nSource: https://facebook.com/groups/1013767978664673/permalink/39001990579415604/\n\n",
+  "description": "Theme: Christmas\nFee: Adult Makers $40 + $15 door-prize donation; Mini Makers $15\nSource: https://facebook.com/groups/1013767978664673/permalink/39001990579415604/\n\n",
   "fees": "Adult Makers $40 + $15 door-prize donation; Mini Makers $15",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1722,8 +1744,8 @@ window.EVENTS_REFRESH = [
   "location": "Willow River Public School, 670 Thomas Slee Drive, Kitchener",
   "city": "Kitchener",
   "region": "Waterloo Region",
-  "description": "Evening sip & shop school fundraiser market in Kitchener.\nListing type: Vendor call\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1589871089106972/",
-  "fees": "$50 for a 6-foot space",
+  "description": "Evening sip & shop school fundraiser market in Kitchener.\nListing type: Vendor call\nFee: $50 for a 6-foot space\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1589871089106972/",
+  "fees": "$50 (6-foot space)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1744,8 +1766,8 @@ window.EVENTS_REFRESH = [
   "location": "The Eddie Hotel & Farm, 15786 Loyalist Parkway, Prince Edward County, ON",
   "city": "Prince Edward County",
   "region": "Rest of Ontario",
-  "description": "The biggest Christmas event in Prince Edward County, held at the iconic 1860s Red Barn — billed by the venue as PEC's largest holiday market, with over 70 vendors in 5 market areas. A new outdoor tent area is being added this year to hold more vendors. Hours: Thu Nov 26, 2–7 PM; Fri Nov 27, 10 AM–5 PM; Sat Nov 28, 9 AM–5 PM; Sun Nov 29, 9 AM–3 PM. Tables and chairs are provided (depends on area). Expected attendance: 10,000.\nTheme: Christmas / holiday season\nApply: https://theeddie.ca/christmas-at-the-eddie-1\nVendors expected: Over 70 vendors across 5 market areas\nSource: organizer\\'s Facebook post",
-  "fees": "$400",
+  "description": "The biggest Christmas event in Prince Edward County, held at the iconic 1860s Red Barn — billed by the venue as PEC's largest holiday market, with over 70 vendors in 5 market areas. A new outdoor tent area is being added this year to hold more vendors. Hours: Thu Nov 26, 2–7 PM; Fri Nov 27, 10 AM–5 PM; Sat Nov 28, 9 AM–5 PM; Sun Nov 29, 9 AM–3 PM. Tables and chairs are provided (depends on area). Expected attendance: 10,000.\nTheme: Christmas / holiday season\nApply: https://theeddie.ca/christmas-at-the-eddie-1\nFee: $400\nVendors expected: Over 70 vendors across 5 market areas\nSource: organizer\\'s Facebook post",
+  "fees": "$400 for the weekend (new outdoor tent)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1755,7 +1777,7 @@ window.EVENTS_REFRESH = [
   "location": "Gloucester Centre (Entrance 3), 1980 Ogilvie Road, Ottawa",
   "city": "Ottawa",
   "region": "Ottawa",
-  "description": "How to apply: SoapLadz.ca/Market\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2628683637567194/\n\n",
+  "description": "Fee: $65+HST/night or $300+HST early-bird season rate (until Oct 31)\nHow to apply: SoapLadz.ca/Market\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2628683637567194/\n\n",
   "fees": "$65+HST/night or $300+HST early-bird season rate (until Oct 31)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1766,8 +1788,8 @@ window.EVENTS_REFRESH = [
   "location": "Aurora Town Square, 50 Victoria Street, Aurora, ON",
   "city": "Aurora",
   "region": "York Region",
-  "description": "One of the Top 100 Festivals and Events in Ontario, at Aurora Town Square. Seasonal vendors, food vendors, hands-on workshops and activities — a different mix of vendors on site each night. Runs two weekends: Nov 27–29 and Dec 4–6, 2026 (the second weekend is a separate listing).\n\nHours: 5:00 PM – 8:30 PM each evening\nAdmission: Free\nSource: https://www.aurora.ca/christmasmarket",
-  "fees": "TBD (vendor applications open via the Town of Aurora; no fee published on the event page)",
+  "description": "One of the Top 100 Festivals and Events in Ontario, at Aurora Town Square. Seasonal vendors, food vendors, hands-on workshops and activities — a different mix of vendors on site each night. Runs two weekends: Nov 27–29 and Dec 4–6, 2026 (the second weekend is a separate listing).\n\nHours: 5:00 PM – 8:30 PM each evening\nAdmission: Free\nFee: TBD (vendor applications open via the Town of Aurora; no fee published on the event page)\nSource: https://www.aurora.ca/christmasmarket",
+  "fees": "TBD",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1777,8 +1799,8 @@ window.EVENTS_REFRESH = [
   "location": "Georgian Mall, Barrie, ON",
   "city": "Barrie",
   "region": "Simcoe County",
-  "description": "Vendor call: Deck the Mall presented by Events by Morey Made — 3-day vendor event at Georgian Mall. Hours: Fri Nov 27 9:30 AM-9 PM, Sat Nov 28 9:30 AM-6 PM, Sun Nov 29 11 AM-5 PM (per flyer). Vendor fee: $525 for 10x10 space, three days. Media sponsor: barrietoday.com. How to apply: not published — contact organizer. Organizer: Events by Morey Made (info email on flyer).\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28155629954108165/",
-  "fees": "$525",
+  "description": "Vendor call: Deck the Mall presented by Events by Morey Made — 3-day vendor event at Georgian Mall. Hours: Fri Nov 27 9:30 AM-9 PM, Sat Nov 28 9:30 AM-6 PM, Sun Nov 29 11 AM-5 PM (per flyer). Vendor fee: $525 for 10x10 space, three days. Media sponsor: barrietoday.com. How to apply: not published — contact organizer. Organizer: Events by Morey Made (info email on flyer).\nFee: $525\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28155629954108165/",
+  "fees": "$525 for 10x10 space, three days",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1788,8 +1810,8 @@ window.EVENTS_REFRESH = [
   "location": "Enercare Centre, 100 Princes' Blvd, Toronto, ON",
   "city": "Toronto",
   "region": "Toronto",
-  "description": "Canada's flagship holiday craft show, a tradition for over 50 years: 800+ Canadian artisans from coast to coast with handmade gifts, festive décor, art, fashion and gourmet treats, plus fashion shows, DIY workshops in the Creative Lounge, culinary demos and a carousel.\n\nHours: Fri Nov 27, 10:00 AM – 9:00 PM; Sat Nov 28, 10:00 AM – 8:00 PM; Sun Nov 29, 10:00 AM – 5:00 PM; Mon Nov 30 – Wed Dec 2, 10:00 AM – 8:00 PM; Thu Dec 3, 10:00 AM – 11:00 PM (Late Night Shopping Party); Fri Dec 4, 10:00 AM – 9:00 PM; Sat Dec 5, 10:00 AM – 8:00 PM; Sun Dec 6, 10:00 AM – 5:00 PM\nAdmission: Adult $23 (advance), Senior (65+) $18, Student (with valid ID) $18, Family Pass $42; children 12 & under free\nSource: https://www.oneofakindshow.com/en/home.html",
-  "fees": "TBD (exhibitor fees are not published on the public site)",
+  "description": "Canada's flagship holiday craft show, a tradition for over 50 years: 800+ Canadian artisans from coast to coast with handmade gifts, festive décor, art, fashion and gourmet treats, plus fashion shows, DIY workshops in the Creative Lounge, culinary demos and a carousel.\n\nHours: Fri Nov 27, 10:00 AM – 9:00 PM; Sat Nov 28, 10:00 AM – 8:00 PM; Sun Nov 29, 10:00 AM – 5:00 PM; Mon Nov 30 – Wed Dec 2, 10:00 AM – 8:00 PM; Thu Dec 3, 10:00 AM – 11:00 PM (Late Night Shopping Party); Fri Dec 4, 10:00 AM – 9:00 PM; Sat Dec 5, 10:00 AM – 8:00 PM; Sun Dec 6, 10:00 AM – 5:00 PM\nAdmission: Adult $23 (advance), Senior (65+) $18, Student (with valid ID) $18, Family Pass $42; children 12 & under free\nFee: TBD (exhibitor fees are not published on the public site)\nSource: https://www.oneofakindshow.com/en/home.html",
+  "fees": "TBD",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1799,8 +1821,8 @@ window.EVENTS_REFRESH = [
   "location": "Algonquin College – Waterfront Campus, Main Hall, Pembroke, ON",
   "city": "Pembroke",
   "region": "Rest of Ontario",
-  "description": "Christmas market celebrating Ottawa Valley talent — local artisans, makers, farmers, bakers and small businesses, with an indoors table-style layout. Hours: Fri Nov 27, 4–9 PM; Sat Nov 28, 10 AM–3 PM. Full-weekend participation is preferred, with priority given to vendors applying for both days; single-day applications are also welcome, subject to availability. Application deadline: November 13, 2026.\nTheme: Christmas / holiday season\nVendor types wanted: artisans, makers, farmers, bakers, small businesses\nApply: https://forms.gle/oDQiwgHPTLMvpHqp8\nSource: https://facebook.com/groups/145130302589219/permalink/2634929340275957/",
-  "fees": "not stated by organizer",
+  "description": "Christmas market celebrating Ottawa Valley talent — local artisans, makers, farmers, bakers and small businesses, with an indoors table-style layout. Hours: Fri Nov 27, 4–9 PM; Sat Nov 28, 10 AM–3 PM. Full-weekend participation is preferred, with priority given to vendors applying for both days; single-day applications are also welcome, subject to availability. Application deadline: November 13, 2026.\nTheme: Christmas / holiday season\nVendor types wanted: artisans, makers, farmers, bakers, small businesses\nApply: https://forms.gle/oDQiwgHPTLMvpHqp8\nFee: not stated by organizer\nSource: https://facebook.com/groups/145130302589219/permalink/2634929340275957/",
+  "fees": "Not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1810,8 +1832,8 @@ window.EVENTS_REFRESH = [
   "location": "The Latcham Centre, 121 Queen St, Port Perry",
   "city": "Port Perry",
   "region": "Durham Region",
-  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Friday, November 27, 5–9 PM. Table fees range from $50 to $80 depending on table — confirm with organizer. To apply: DM the organizer on Facebook.\nHours: 5:00 PM – 9:00 PM\nSource: Organizer's flyer via Paul",
-  "fees": "$50–$80",
+  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Friday, November 27, 5–9 PM. Table fees range from $50 to $80 depending on table — confirm with organizer. To apply: DM the organizer on Facebook.\nFee: $50–$80\nHours: 5:00 PM – 9:00 PM\nSource: Organizer's flyer via Paul",
+  "fees": "$50–$80 (range — confirm with organizer)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1821,7 +1843,7 @@ window.EVENTS_REFRESH = [
   "location": "Civic Park, 575 Rossland Road E, Whitby, ON",
   "city": "Whitby",
   "region": "Durham Region",
-  "description": "Town of Whitby's Whitby Lights the Night Festival at Civic Park — official tree-lighting ceremony at 5:30 PM, over 200,000 festive lights, live entertainment, and a visit from Santa. The Whitby Farmers' Market Christmas Market runs as part of the festival, in front of the Whitby Civic Recreation Complex (market hours 4–9 PM). Vendors take part through the Whitby Farmers' Market (Durham Region Farmers' Market Association), Market Manager Sara Demoe: vendors must produce at least 70% of the products they sell, non-seasonal vendors pay a $20 non-refundable membership, and vendors supply their own 10x10 tent, tables, and displays.\nTheme: Christmas / holiday season\nHow to apply: https://www.whitbyfarmersmarket.ca/\nHours: 5:00 PM – 9:00 PM\nAttractions: Official tree-lighting ceremony at 5:30 PM, visit from Santa, 200,000+ festive lights, live entertainment and strolling performers, cookie decorating, seasonal crafts and family activities, sensory room, Whitby Farmers' Christmas Market, Town Trolley and parking shuttle\nSource: https://www.whitby.ca/explore-and-enjoy/events-and-festivals/attend-an-event/whitby-lights-the-night/",
+  "description": "Town of Whitby's Whitby Lights the Night Festival at Civic Park — official tree-lighting ceremony at 5:30 PM, over 200,000 festive lights, live entertainment, and a visit from Santa. The Whitby Farmers' Market Christmas Market runs as part of the festival, in front of the Whitby Civic Recreation Complex (market hours 4–9 PM). Vendors take part through the Whitby Farmers' Market (Durham Region Farmers' Market Association), Market Manager Sara Demoe: vendors must produce at least 70% of the products they sell, non-seasonal vendors pay a $20 non-refundable membership, and vendors supply their own 10x10 tent, tables, and displays.\nTheme: Christmas / holiday season\nFee: not stated by organizer\nHow to apply: https://www.whitbyfarmersmarket.ca/\nHours: 5:00 PM – 9:00 PM\nAttractions: Official tree-lighting ceremony at 5:30 PM, visit from Santa, 200,000+ festive lights, live entertainment and strolling performers, cookie decorating, seasonal crafts and family activities, sensory room, Whitby Farmers' Christmas Market, Town Trolley and parking shuttle\nSource: https://www.whitby.ca/explore-and-enjoy/events-and-festivals/attend-an-event/whitby-lights-the-night/",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1832,7 +1854,7 @@ window.EVENTS_REFRESH = [
   "location": "Lanzarotta European Market / Julia's Garden Centre, 14177 Trafalgar Road, Ballinafad, Ontario",
   "city": "Ballinafad",
   "region": "Halton Region",
-  "description": "2nd annual indoor/outdoor Christmas market seeking unique handmade vendors (last year drew 800-1000 customers). Vendor fee: $75 (bring your own table for indoor / 10x10 tent+table for outdoor). How to apply: see the source post link for how to apply. Organizer: see the source post.\nHours: 10:00 AM – 4:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1564183295009085/",
+  "description": "2nd annual indoor/outdoor Christmas market seeking unique handmade vendors (last year drew 800-1000 customers). Vendor fee: $75 (bring your own table for indoor / 10x10 tent+table for outdoor). How to apply: see the source post link for how to apply. Organizer: see the source post.\nFee: $75\nHours: 10:00 AM – 4:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1564183295009085/",
   "fees": "$75",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1843,7 +1865,7 @@ window.EVENTS_REFRESH = [
   "location": "Meaford, ON (venue not published by organizer)",
   "city": "Meaford",
   "region": "Rest of Ontario",
-  "description": "4th Annual Country Girl's Christmas Market in Meaford — a festive holiday shopping market welcoming vendors of handmade goods, holiday décor, specialty foods, gifts, and unique products. Also runs Sat Dec 5. Venue and hours have not been published by the organizer — confirm both when you request an application.\nTheme: Christmas / holiday season\nHow to apply: Email the organizer to request an application — email address is in the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1584363616324386/",
+  "description": "4th Annual Country Girl's Christmas Market in Meaford — a festive holiday shopping market welcoming vendors of handmade goods, holiday décor, specialty foods, gifts, and unique products. Also runs Sat Dec 5. Venue and hours have not been published by the organizer — confirm both when you request an application.\nTheme: Christmas / holiday season\nFee: not stated by organizer\nHow to apply: Email the organizer to request an application — email address is in the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1584363616324386/",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1854,7 +1876,7 @@ window.EVENTS_REFRESH = [
   "location": "243 Coxwell Ave, Toronto",
   "city": "Toronto",
   "region": "Toronto",
-  "description": "Theme: Christmas\nHours: 10:00 AM – 3:00 PM\nAttractions: Coffee, tea and light breakfast snacks\nSource: https://facebook.com/groups/145130302589219/permalink/2627136037721954/\n",
+  "description": "Theme: Christmas\nFee: not stated by organizer\nHours: 10:00 AM – 3:00 PM\nAttractions: Coffee, tea and light breakfast snacks\nSource: https://facebook.com/groups/145130302589219/permalink/2627136037721954/\n",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1887,7 +1909,7 @@ window.EVENTS_REFRESH = [
   "location": "Arthur, ON (outdoor market; specific venue not stated in post)",
   "city": "Arthur",
   "region": "Rest of Ontario",
-  "description": "Theme: Christmas\nHow to apply: Register at https://forms.gle/7FJ2kg2N27NCrBy56\nHours: 9:00 AM – 2:00 PM\nAttractions: Food Truck Alley\nSource: https://facebook.com/groups/971632669514677/permalink/29286280177623214/\n\n",
+  "description": "Theme: Christmas\nFee: not stated by organizer\nHow to apply: Register at https://forms.gle/7FJ2kg2N27NCrBy56\nHours: 9:00 AM – 2:00 PM\nAttractions: Food Truck Alley\nSource: https://facebook.com/groups/971632669514677/permalink/29286280177623214/\n\n",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1898,8 +1920,8 @@ window.EVENTS_REFRESH = [
   "location": "Birchcliff Bluffs United Church, Kingston Rd & Warden Ave, Toronto, ON",
   "city": "Toronto",
   "region": "Toronto",
-  "description": "The Cliffcrest Artists Christmas Market, run by a small group of local creators and artists who have put on this show for 5 years. Foot traffic is usually quite good; the show is advertised in the Bluffs Monitor, local Facebook pages and posters. Approx. 6x6 ft spots, load-in Friday night and Saturday morning, no early teardown.\nTheme: Christmas / holiday season\nHow to apply: Message the event coordinator via the source post with a bit about you and what you make, plus a few product photos\nSource: https://facebook.com/groups/torontocraftalert/permalink/10164285594578301/",
-  "fees": "$45",
+  "description": "The Cliffcrest Artists Christmas Market, run by a small group of local creators and artists who have put on this show for 5 years. Foot traffic is usually quite good; the show is advertised in the Bluffs Monitor, local Facebook pages and posters. Approx. 6x6 ft spots, load-in Friday night and Saturday morning, no early teardown.\nTheme: Christmas / holiday season\nFee: $45\nHow to apply: Message the event coordinator via the source post with a bit about you and what you make, plus a few product photos\nSource: https://facebook.com/groups/torontocraftalert/permalink/10164285594578301/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1910,7 +1932,7 @@ window.EVENTS_REFRESH = [
   "city": "Trenton",
   "region": "Kingston & Area",
   "description": "3rd annual Holly Jolly Vendor Show by Costa Crafted Events. Vendor fee not published — see application form. Theme: Christmas / holiday season. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
-  "fees": "",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1921,7 +1943,7 @@ window.EVENTS_REFRESH = [
   "city": "Courtice",
   "region": "Durham Region",
   "description": "Christmas market at Faith United, 1778 Nash Rd, Courtice. Wheelchair accessible. Vendor info: contact the organizer (see the source post link for how to apply.) (per the organizer’s public flyer). Vendor fee not posted publicly — available from the organizer (see the source post link). Spots are filling up (per organizer).\nSource: organizer\\'s Facebook post",
-  "fees": "",
+  "fees": "TBA",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1931,7 +1953,7 @@ window.EVENTS_REFRESH = [
   "location": "Pickering High School, 180 Church St, Ajax, ON",
   "city": "Ajax",
   "region": "Durham Region",
-  "description": "Vendor call: family-friendly winter celebration.\n\nTags: winter, multicultural, family\nHours: 1:00 PM - 10:00 PM\nHow to apply: see the source post\nsee the source post link for how to apply.\nVendors expected: 40+ multicultural vendors\nSource: https://facebook.com/groups/1013767978664673/permalink/38984395497841779/\nAttractions: free kids face painting, 40+ multicultural vendors, mega prizes, kids zone, halal food stalls.\n\n",
+  "description": "Vendor call: family-friendly winter celebration.\n\nTags: winter, multicultural, family\nHours: 1:00 PM - 10:00 PM\nFee: $250 full booth / $125 half booth / $300–$350 food booth\nHow to apply: see the source post\nsee the source post link for how to apply.\nVendors expected: 40+ multicultural vendors\nSource: https://facebook.com/groups/1013767978664673/permalink/38984395497841779/\nAttractions: free kids face painting, 40+ multicultural vendors, mega prizes, kids zone, halal food stalls.\n\n",
   "fees": "$250 full booth / $125 half booth / $300–$350 food booth",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1942,8 +1964,8 @@ window.EVENTS_REFRESH = [
   "location": "St. Ann Church, Niagara Falls",
   "city": "Niagara Falls",
   "region": "Niagara Region",
-  "description": "Vendor call: Elf Extravaganza Christmas Market at St. Ann Church, Niagara Falls.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, niagara\nHours: not published\nHow to apply: vendor applications via the organizer's Facebook post (no application link published)\nsee the source post link for how to apply. (Anti-scam notice: the organizer is the only authorized person handling registrations.)\nAttractions: Bake sale, food and drinks, raffle and free draws, children's craft area, photobooth, Santa photos, live entertainment 10:30 AM – 12:30 PM, free swag bags for the first 30 guests\nSource: https://facebook.com/groups/524928052267953/permalink/1576324757128272/\n\n",
-  "fees": "not published (TBD)",
+  "description": "Vendor call: Elf Extravaganza Christmas Market at St. Ann Church, Niagara Falls.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, niagara\nHours: not published\nFee: not published (TBD)\nHow to apply: vendor applications via the organizer's Facebook post (no application link published)\nsee the source post link for how to apply. (Anti-scam notice: the organizer is the only authorized person handling registrations.)\nAttractions: Bake sale, food and drinks, raffle and free draws, children's craft area, photobooth, Santa photos, live entertainment 10:30 AM – 12:30 PM, free swag bags for the first 30 guests\nSource: https://facebook.com/groups/524928052267953/permalink/1576324757128272/\n\n",
+  "fees": "Not published (TBD)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1964,8 +1986,8 @@ window.EVENTS_REFRESH = [
   "location": "Fairview Lodge LTC, 632 Dundas St W, Whitby, ON",
   "city": "Whitby",
   "region": "Durham Region",
-  "description": "Winter Bazaar at Fairview Lodge long-term care home. No cost to be a vendor. Note: mainly for residents, family and staff — limited public advertising due to space constraints and flu season. Food vendors must have Dinesafe certification. No longer looking for crochet vendors. To apply: DM the organizer with photos of what you sell.\nSource: https://facebook.com/groups/208280356188217/permalink/2955406181475607/",
-  "fees": "free",
+  "description": "Winter Bazaar at Fairview Lodge long-term care home. No cost to be a vendor. Note: mainly for residents, family and staff — limited public advertising due to space constraints and flu season. Food vendors must have Dinesafe certification. No longer looking for crochet vendors. To apply: DM the organizer with photos of what you sell.\nFee: free\nSource: https://facebook.com/groups/208280356188217/permalink/2955406181475607/",
+  "fees": "Free",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1975,8 +1997,8 @@ window.EVENTS_REFRESH = [
   "location": "Ferndale Parent Council, 35 Ferndale Avenue, St. Catharines, ON",
   "city": "St. Catharines",
   "region": "Niagara Region",
-  "description": "Vendor call for the Ferndale Craft and Vendor Fair (10' x 6' spaces). Vendor fee: $50 per 10x6 space; insurance is required. How to apply: see the source post link for how to apply. Organizer: Ferndale Parent Council.\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1570834591010622/",
-  "fees": "$50",
+  "description": "Vendor call for the Ferndale Craft and Vendor Fair (10' x 6' spaces). Vendor fee: $50 per 10x6 space; insurance is required. How to apply: see the source post link for how to apply. Organizer: Ferndale Parent Council.\nFee: $50\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1570834591010622/",
+  "fees": "$50 per 10x6 space",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1986,8 +2008,8 @@ window.EVENTS_REFRESH = [
   "location": "Northridge Community Church, Aurora, ON",
   "city": "Aurora",
   "region": "York Region",
-  "description": "First call for Fireside Holiday Market at Northridge Community Church, Aurora (FINAL vendor call - one spot left). Vendor fee: $85 (6ft space; free lunch and drink, vendor spotlight promo, chance to win back fee, table sharing available). Note: candles category is FULL (56 vendors confirmed). How to apply: https://forms.gle/948Qh14kGeuK48GF6. Organizer: Sisterz and Co. and Thebakerstudio. Hours not published - confirm with organizer.\nVendors expected: 56+ confirmed vendors\nSource: https://facebook.com/groups/524928052267953/permalink/1566304221463659/",
-  "fees": "$85",
+  "description": "First call for Fireside Holiday Market at Northridge Community Church, Aurora (FINAL vendor call - one spot left). Vendor fee: $85 (6ft space; free lunch and drink, vendor spotlight promo, chance to win back fee, table sharing available). Note: candles category is FULL (56 vendors confirmed). How to apply: https://forms.gle/948Qh14kGeuK48GF6. Organizer: Sisterz and Co. and Thebakerstudio. Hours not published - confirm with organizer.\nFee: $85\nVendors expected: 56+ confirmed vendors\nSource: https://facebook.com/groups/524928052267953/permalink/1566304221463659/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1997,8 +2019,8 @@ window.EVENTS_REFRESH = [
   "location": "Garry's Garden Gallery, 5 Commerce Rd, Lindsay, ON K9V 5Y3",
   "city": "Lindsay",
   "region": "Kawarthas and Peterborough",
-  "description": "Vendor call: Christmas market in Garry's Garden Gallery's covered, heated greenhouse.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, greenhouse, weekend\nHours: not published (Saturday & Sunday markets)\nVendor types wanted: makers, artisans & local vendors; handcrafted goods\nHow to apply: https://garrysgardengallery.com/pages/christmas-market-vendor-application (also via link in their Instagram bio)\nSource: https://facebook.com/groups/1746193395565570/permalink/3483982515119974/\nNote: Nov 13-15 kickoff weekend is full for vendors.\n\n",
-  "fees": "not published (TBD)",
+  "description": "Vendor call: Christmas market in Garry's Garden Gallery's covered, heated greenhouse.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, greenhouse, weekend\nHours: not published (Saturday & Sunday markets)\nFee: not published (TBD)\nVendor types wanted: makers, artisans & local vendors; handcrafted goods\nHow to apply: https://garrysgardengallery.com/pages/christmas-market-vendor-application (also via link in their Instagram bio)\nSource: https://facebook.com/groups/1746193395565570/permalink/3483982515119974/\nNote: Nov 13-15 kickoff weekend is full for vendors.\n\n",
+  "fees": "Not published (TBD)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2008,8 +2030,8 @@ window.EVENTS_REFRESH = [
   "location": "Napanee & District Secondary School, 245 Belleville Rd, Napanee",
   "city": "Napanee",
   "region": "Kingston & Area",
-  "description": "Insurance required. Payment and proof of insurance due Oct 31, 2026.\nHow to apply: https://forms.gle/zt4JJmixzfi9Bn8WA\nHours: 9:00 AM – 3:00 PM\nAttractions: Santa photos, silent auction and raffle, bake sale and café\nVendors expected: 130+ vendors attended the 2025 event (organizer-reported)\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28371435925860899/\n\n",
-  "fees": "$40 (10'x5' space, tables not provided) + donation (any value) to silent auction or raffle",
+  "description": "Fee: $40 (10'x5' space, tables not provided) + donation (any value) to silent auction or raffle\nInsurance required. Payment and proof of insurance due Oct 31, 2026.\nHow to apply: https://forms.gle/zt4JJmixzfi9Bn8WA\nHours: 9:00 AM – 3:00 PM\nAttractions: Santa photos, silent auction and raffle, bake sale and café\nVendors expected: 130+ vendors attended the 2025 event (organizer-reported)\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28371435925860899/\n\n",
+  "fees": "$40 (10'x5', tables not provided) + silent-auction/raffle donation",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2020,7 +2042,7 @@ window.EVENTS_REFRESH = [
   "city": "Bowmanville",
   "region": "Durham Region",
   "description": "2-day holiday market hosted by Whiskey and Walnut, up to 30 local vendors. Open to makers, bakers and artisans — handmade, homemade, local or small-batch work. Live music 11am-2pm and Santa photos 12-2pm each day. Theme: Christmas / holiday season. Tags: holiday, artisan, handmade. How to apply: www.whiskeyandwalnut.ca. Organizer: Whiskey and Walnut. Source: Facebook group post (Durham Region | Local Business Community), 2026-10-03.\nAttractions: Live music 11:00 AM – 2:00 PM, Santa photos 12:00 PM – 2:00 PM\nVendors expected: Up to 30 local vendors",
-  "fees": "",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2030,8 +2052,8 @@ window.EVENTS_REFRESH = [
   "location": "Lynde Creek Gardens Retirement Living, 50 Paul Burns Way, Whitby, ON",
   "city": "Whitby",
   "region": "Durham Region",
-  "description": "Holiday Bazaar at Lynde Creek Gardens Retirement Living, Whitby. $20 per table (fee goes to charity); pay cash on the day or up to 7 days before. Vendors bring their own table; chair, snack and coffee included; indoor. 100-200+ guests expected. Limited spots. Theme: Christmas / holiday season. Organizer: Aspira Lynde Creek Gardens. Source: Facebook vendor call (2026-10-04) + organizer form submission (2026-10-04).",
-  "fees": "$20",
+  "description": "Holiday Bazaar at Lynde Creek Gardens Retirement Living, Whitby. $20 per table (fee goes to charity); pay cash on the day or up to 7 days before. Vendors bring their own table; chair, snack and coffee included; indoor. 100-200+ guests expected. Limited spots. Theme: Christmas / holiday season. Organizer: Aspira Lynde Creek Gardens. Source: Facebook vendor call (2026-10-04) + organizer form submission (2026-10-04).\nFee: $20",
+  "fees": "$20 (bring own table; fee goes to charity)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2053,7 +2075,7 @@ window.EVENTS_REFRESH = [
   "city": "Seagrave",
   "region": "Durham Region",
   "description": "First annual Holiday in the Greenhouse at LTS Nurseries, Seagrave - holiday market inside their greenhouse, Santa visit. Vendor fee: not published - contact organizer. How to apply: see the source post link for how to apply. Organizer: LTS Nurseries.\nHours: 10:00 AM – 4:00 PM\nAttractions: Visit from Santa\nSource: https://facebook.com/groups/524928052267953/permalink/1565695928191155/",
-  "fees": "not published - contact organizer",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2063,7 +2085,7 @@ window.EVENTS_REFRESH = [
   "location": "Royal Canadian Legion Br. 530, 316 Marsland Drive, Waterloo",
   "city": "Waterloo",
   "region": "Waterloo Region",
-  "description": "Winter market hosted by the K-W Navy League in Waterloo.\nListing type: Vendor call\nHow to apply: register at kwnavyleague.com\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28536589322678891/",
+  "description": "Winter market hosted by the K-W Navy League in Waterloo.\nListing type: Vendor call\nFee: $25\nHow to apply: register at kwnavyleague.com\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28536589322678891/",
   "fees": "$25",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2075,7 +2097,7 @@ window.EVENTS_REFRESH = [
   "city": "Whitby",
   "region": "Durham Region",
   "description": "Holiday bazaar with vendor spots available. Vendor fee TBA. Contact: see the source post link for how to apply. (per public post). A few spots still available — spaces limited.\nAttractions: Handmade goods, unique gifts, holiday cheer and festive fun (per organizer flyer)\nSource: https://www.facebook.com/groups/1746193395565570/posts/3445425805642312/",
-  "fees": "",
+  "fees": "TBA",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2085,8 +2107,8 @@ window.EVENTS_REFRESH = [
   "location": "Luther Village on the Park, 139/141 Father David Bauer Dr, Waterloo, ON",
   "city": "Waterloo",
   "region": "Waterloo Region",
-  "description": "Annual Winter Market at Luther Village on the Park in Waterloo — call for local vendors with gifts, goodies, and treats. Hours: Sat Nov 28, 10 AM–2 PM. Vendor applications close Thu Nov 12.\nTheme: Christmas / holiday season\nHow to apply: email the organizer\nSource: https://facebook.com/groups/971632669514677/permalink/29396262119958352/",
-  "fees": "not stated by organizer",
+  "description": "Annual Winter Market at Luther Village on the Park in Waterloo — call for local vendors with gifts, goodies, and treats. Hours: Sat Nov 28, 10 AM–2 PM. Vendor applications close Thu Nov 12.\nTheme: Christmas / holiday season\nFee: not stated by organizer\nHow to apply: email the organizer\nSource: https://facebook.com/groups/971632669514677/permalink/29396262119958352/",
+  "fees": "Not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2107,8 +2129,8 @@ window.EVENTS_REFRESH = [
   "location": "300 Killaly St E, Port Colborne, ON",
   "city": "Port Colborne",
   "region": "Niagara Region",
-  "description": "Vendor call: Niagara Christmas Craft Show — handmade/unique gifts, Santa visit 1-2 PM, $2 entry (kids free), proceeds to Ronald McDonald House. Vendor fee: $25/table (spots still available). How to apply: not published — contact the organizer (DM). Organizer: see the source post.\nHours: 9:00 AM – 3:00 PM\nAdmission: $2 (kids free)\nAttractions: Santa visit 1:00 PM – 2:00 PM; proceeds support Ronald McDonald House Charities\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28219251401079353/",
-  "fees": "$25",
+  "description": "Vendor call: Niagara Christmas Craft Show — handmade/unique gifts, Santa visit 1-2 PM, $2 entry (kids free), proceeds to Ronald McDonald House. Vendor fee: $25/table (spots still available). How to apply: not published — contact the organizer (DM). Organizer: see the source post.\nFee: $25\nHours: 9:00 AM – 3:00 PM\nAdmission: $2 (kids free)\nAttractions: Santa visit 1:00 PM – 2:00 PM; proceeds support Ronald McDonald House Charities\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28219251401079353/",
+  "fees": "$25/table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2129,8 +2151,8 @@ window.EVENTS_REFRESH = [
   "location": "Norwood Town Hall, 2357 County Road 45, Norwood, ON",
   "city": "Norwood",
   "region": "Kawarthas and Peterborough",
-  "description": "Annual holiday market. 20 indoor + 10+ outdoor vendors.\n\nTheme: Christmas / holiday season\nTags: holiday, outdoor, evening\nVendor types wanted: handmade makers and small businesses only; no MLMs; original art only, no AI content\nApply: application form in the organizer's bio; questions: marketnorwood\nIndoor spaces full — waitlist only. No application deadline stated.\nHours: 4:00 PM – 8:00 PM\nVendors expected: 20 indoor vendors plus 10+ outdoor vendors\nSource: https://facebook.com/groups/524928052267953/permalink/1575995367161211/\n\n",
-  "fees": "$25+HST, outdoor 10x10; includes 6-ft table + chair; vendors bring own 10x10 tent (weights mandatory); business insurance mandatory; no power (battery lights)",
+  "description": "Annual holiday market. 20 indoor + 10+ outdoor vendors.\n\nTheme: Christmas / holiday season\nTags: holiday, outdoor, evening\nVendor types wanted: handmade makers and small businesses only; no MLMs; original art only, no AI content\nFee: $25+HST, outdoor 10x10; includes 6-ft table + chair; vendors bring own 10x10 tent (weights mandatory); business insurance mandatory; no power (battery lights)\nApply: application form in the organizer's bio; questions: marketnorwood\nIndoor spaces full — waitlist only. No application deadline stated.\nHours: 4:00 PM – 8:00 PM\nVendors expected: 20 indoor vendors plus 10+ outdoor vendors\nSource: https://facebook.com/groups/524928052267953/permalink/1575995367161211/\n\n",
+  "fees": "$25+HST (outdoor 10x10)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2140,7 +2162,7 @@ window.EVENTS_REFRESH = [
   "location": "Notre Dame CSS, Ajax",
   "city": "Ajax",
   "region": "Durham Region",
-  "description": "Theme: Christmas\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/1746193395565570/permalink/3485282284989997/\n\n",
+  "description": "Theme: Christmas\nFee: $75/table (Christmas outreach fundraiser)\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/1746193395565570/permalink/3485282284989997/\n\n",
   "fees": "$75/table (Christmas outreach fundraiser)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2151,8 +2173,8 @@ window.EVENTS_REFRESH = [
   "location": "Port Perry High School, 160 Rosa St, Port Perry, ON",
   "city": "Port Perry",
   "region": "Durham Region",
-  "description": "Annual holiday craft show at Port Perry High School — a fundraiser for the PPHS Music Department with 95 vendor booths. Handmade crafts are preferred and craft categories are limited. Booths are 10 ft long by 6 ft deep with two chairs provided; a table is only provided if ordered and paid for in advance. Registration opened in February (returning vendors first, then the waitlist); payment is through School Cash online only — no cheques, cash, PayPal or e-transfers. Setup Fri Nov 27, 4:30–8:00 PM and Sat Nov 28, 8:00–9:59 AM.\nTheme: Christmas / holiday season\nVendor types wanted: handmade crafts (categories limited)\nAdmission: $5.00; seniors 65+ and children under 12 free\nHours: 10:00 AM–3:00 PM\nHow to apply: https://sites.google.com/view/portperryhscraftshow/registration-form (vendor info: https://sites.google.com/view/portperryhscraftshow/information-for-vendors; the School Cash payment link is emailed by the organizer)\nSource: https://sites.google.com/view/portperryhscraftshow/home",
-  "fees": "$75 booth only; $100 with an 8 ft table (plus a School Cash transaction fee)",
+  "description": "Annual holiday craft show at Port Perry High School — a fundraiser for the PPHS Music Department with 95 vendor booths. Handmade crafts are preferred and craft categories are limited. Booths are 10 ft long by 6 ft deep with two chairs provided; a table is only provided if ordered and paid for in advance. Registration opened in February (returning vendors first, then the waitlist); payment is through School Cash online only — no cheques, cash, PayPal or e-transfers. Setup Fri Nov 27, 4:30–8:00 PM and Sat Nov 28, 8:00–9:59 AM.\nTheme: Christmas / holiday season\nVendor types wanted: handmade crafts (categories limited)\nAdmission: $5.00; seniors 65+ and children under 12 free\nHours: 10:00 AM–3:00 PM\nHow to apply: https://sites.google.com/view/portperryhscraftshow/registration-form (vendor info: https://sites.google.com/view/portperryhscraftshow/information-for-vendors; the School Cash payment link is emailed by the organizer)\nFee: $75 booth only; $100 with an 8 ft table (plus a School Cash transaction fee)\nSource: https://sites.google.com/view/portperryhscraftshow/home",
+  "fees": "$75 booth only; $100 with 8 ft table (plus School Cash transaction fee)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2162,8 +2184,8 @@ window.EVENTS_REFRESH = [
   "location": "Rockmosa Community Centre, Rockwood",
   "city": "Rockwood",
   "region": "Rest of Ontario",
-  "description": "Hosted by the organizer. Vendor call for holiday market.\nVendor types wanted: baked goods/food made in a public-health-approved kitchen, handmade candles, woodworking, pet products, screen printing\nHours: 10am-3pm\nHow to apply: Application form: https://forms.gle/SVEms2AmWDEDrJFg9 (no-sign-in version: https://forms.gle/oHigomMAtGALiFPj7)\nSource: https://facebook.com/groups/609827307950034/permalink/1435010282098395/\n",
-  "fees": "not stated by organizer",
+  "description": "Hosted by the organizer. Vendor call for holiday market.\nVendor types wanted: baked goods/food made in a public-health-approved kitchen, handmade candles, woodworking, pet products, screen printing\nFee: not stated by organizer\nHours: 10am-3pm\nHow to apply: Application form: https://forms.gle/SVEms2AmWDEDrJFg9 (no-sign-in version: https://forms.gle/oHigomMAtGALiFPj7)\nSource: https://facebook.com/groups/609827307950034/permalink/1435010282098395/\n",
+  "fees": "Not published - contact organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2173,8 +2195,8 @@ window.EVENTS_REFRESH = [
   "location": "Shelburne Legion Branch 220, 203 William St, Shelburne, ON L9V 3L6",
   "city": "Shelburne",
   "region": "Rest of Ontario",
-  "description": "Fundraiser for the 164 Shelburne Air Cadet Squadron (2nd annual pre-Christmas market hosted by the Shelburne Legion). Vendor fee: $50/table (includes 1x 8ft table and 2 chairs; registration deadline Oct 30, 2026). How to apply: see the source post link for how to apply. Organizer: 164 Shelburne Sponsoring Committee.\nHours: 10:00 AM – 4:00 PM\nAttractions: Bake sale table, photo booth/selfie station, 50/50 draw and giveaways\nSource: https://facebook.com/groups/524928052267953/permalink/1570035944423820/",
-  "fees": "$50",
+  "description": "Fundraiser for the 164 Shelburne Air Cadet Squadron (2nd annual pre-Christmas market hosted by the Shelburne Legion). Vendor fee: $50/table (includes 1x 8ft table and 2 chairs; registration deadline Oct 30, 2026). How to apply: see the source post link for how to apply. Organizer: 164 Shelburne Sponsoring Committee.\nFee: $50\nHours: 10:00 AM – 4:00 PM\nAttractions: Bake sale table, photo booth/selfie station, 50/50 draw and giveaways\nSource: https://facebook.com/groups/524928052267953/permalink/1570035944423820/",
+  "fees": "$50/table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2184,8 +2206,8 @@ window.EVENTS_REFRESH = [
   "location": "Rotary Place, 7 Rotary Way, Bolton, ON",
   "city": "Bolton",
   "region": "Peel Region",
-  "description": "BrightStart Caledon. Curated indoor market.\n\nTheme: Christmas / holiday season\nTags: holiday, indoor, curated\nVendor types wanted: makers, artisans, creators, festive retailers, baked goods (curated; only successful applicants contacted)\nApply: vendor inquiry form at https://brightstartcaledon.com/event/brightstart-caledon-snowflake-winter-market/ ; registration closes Fri Nov 6, 2026, 4 PM\nsee the source post link for how to apply.\nSource: https://facebook.com/groups/524928052267953/permalink/1575321590561229/ (post now deleted; fee/venue/insurance details from the official site)\n\n",
-  "fees": "$65+HST if booked before Oct 15; $75+HST after Oct 16; non-refundable, payable in advance. Includes indoor 8x8 space, 2 chairs, 72x30-inch table. $2M liability insurance mandatory naming Town of Caledon and BrightStart Caledon Family Centre as additional insured; proof due Oct 30",
+  "description": "BrightStart Caledon. Curated indoor market.\n\nTheme: Christmas / holiday season\nTags: holiday, indoor, curated\nVendor types wanted: makers, artisans, creators, festive retailers, baked goods (curated; only successful applicants contacted)\nFee: $65+HST if booked before Oct 15; $75+HST after Oct 16; non-refundable, payable in advance. Includes indoor 8x8 space, 2 chairs, 72x30-inch table. $2M liability insurance mandatory naming Town of Caledon and BrightStart Caledon Family Centre as additional insured; proof due Oct 30.\nApply: vendor inquiry form at https://brightstartcaledon.com/event/brightstart-caledon-snowflake-winter-market/ ; registration closes Fri Nov 6, 2026, 4 PM\nsee the source post link for how to apply.\nSource: https://facebook.com/groups/524928052267953/permalink/1575321590561229/ (post now deleted; fee/venue/insurance details from the official site)\n\n",
+  "fees": "$65+HST before Oct 15 / $75+HST after Oct 16",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2195,8 +2217,8 @@ window.EVENTS_REFRESH = [
   "location": "Something New, 416 Concession Street, Hamilton, ON",
   "city": "Hamilton",
   "region": "Hamilton",
-  "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
-  "fees": "$45",
+  "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nFee: $45\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
+  "fees": "$45/table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2228,7 +2250,7 @@ window.EVENTS_REFRESH = [
   "location": "Tom Patterson Theatre, 111 Lakeside Dr, Stratford",
   "city": "Stratford",
   "region": "Rest of Ontario",
-  "description": "Theme: Christmas\nHours: organizer materials disagree: flyer says 11am–6pm, caption says 12pm–6pm\nHow to apply: via JotForm\nSource: https://facebook.com/groups/1190141658320918/permalink/1972065030128573/\n",
+  "description": "Theme: Christmas\nHours: organizer materials disagree: flyer says 11am–6pm, caption says 12pm–6pm\nFee: priced by spot size\nHow to apply: via JotForm\nSource: https://facebook.com/groups/1190141658320918/permalink/1972065030128573/\n",
   "fees": "priced by spot size",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2239,8 +2261,8 @@ window.EVENTS_REFRESH = [
   "location": "Chestnut Hill Developments Recreation Complex, 1867 Valley Farm Rd, Pickering, ON",
   "city": "Pickering",
   "region": "Durham Region",
-  "description": "Vendor call from Durham Special Events. Open to makers, artisans and small businesses with handmade gifts, specialty products, treats, home decor and more.\nVendor types wanted: handmade gifts, specialty products, treats, home decor\nHours: 10am-4pm each day\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1581716619922419/\n",
-  "fees": "not stated by organizer",
+  "description": "Vendor call from Durham Special Events. Open to makers, artisans and small businesses with handmade gifts, specialty products, treats, home decor and more.\nVendor types wanted: handmade gifts, specialty products, treats, home decor\nFee: not stated by organizer\nHours: 10am-4pm each day\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1581716619922419/\n",
+  "fees": "Not published - contact organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2250,8 +2272,8 @@ window.EVENTS_REFRESH = [
   "location": "Swansea Community Recreation Centre, Toronto",
   "city": "Toronto",
   "region": "Toronto",
-  "description": "Hours: not stated by organizer\nHow to apply: see the source post\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28390283970642761/\n\n",
-  "fees": "not stated by organizer (see booking link)",
+  "description": "Fee: not stated by organizer (see booking link)\nHours: not stated by organizer\nHow to apply: see the source post\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28390283970642761/\n\n",
+  "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2261,8 +2283,8 @@ window.EVENTS_REFRESH = [
   "location": "William C. Winegard Public School, 25 Lee Street, Guelph, ON N1E 7E7",
   "city": "Guelph",
   "region": "Rest of Ontario",
-  "description": "Annual volunteer-run holiday event featuring mainly handmade local artisans and small businesses. Vendor fee: $35, or $40 for a spot with hydro access (very limited). Includes one 6ft table and 1 chair; power outlet access if purchased. Payment via School Cash Online (link sent by email). Theme: Christmas / holiday season. Vendor types wanted: Art & Design — Fine Art, Photography, Sculpture & Ceramics; Handmade Crafts — Woodworking, Glasswork, Metalwork & Blacksmithing, Leather Goods, Textiles & Fiber Arts, Paper Goods & Stationery; Fashion & Apparel — Accessories, Children & Baby Apparel; Home & Living — Candles & Home Fragrance, Home Decor, Kitchen & Dining; Health, Beauty & Wellness — Skincare & Bath, Cosmetics & Haircare, Holistic Wellness; Cottage Food & Specialty Grocery — Preserves & Condiments, Honey & Maple Products; Kids & Toys — Handmade Toys, Games & Puzzles, Educational & Sensory Play Goods; Pet Products — Pet Treats & Food, Pet Accessories, Pet Toys & Grooming Products; Seasonal & Holiday — Christmas/Holiday Ornaments & Decor. Notes: crochet, knit and jewelry categories are full; items must be family friendly (no profanity or explicit items); nut-free building — do not bring anything with nuts. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSd8zLL6p9Wikn5lqM8qZBEjyHTwM2YuCKxVJJve6gXwFWbEFg; Facebook event: https://www.facebook.com/events/959897213804684/. Organizer: William C. Winegard School Council. Source: organizer form submission.\nSource: https://www.facebook.com/events/959897213804684/",
-  "fees": "$35/$40",
+  "description": "Annual volunteer-run holiday event featuring mainly handmade local artisans and small businesses. Vendor fee: $35, or $40 for a spot with hydro access (very limited). Includes one 6ft table and 1 chair; power outlet access if purchased. Payment via School Cash Online (link sent by email). Theme: Christmas / holiday season. Vendor types wanted: Art & Design — Fine Art, Photography, Sculpture & Ceramics; Handmade Crafts — Woodworking, Glasswork, Metalwork & Blacksmithing, Leather Goods, Textiles & Fiber Arts, Paper Goods & Stationery; Fashion & Apparel — Accessories, Children & Baby Apparel; Home & Living — Candles & Home Fragrance, Home Decor, Kitchen & Dining; Health, Beauty & Wellness — Skincare & Bath, Cosmetics & Haircare, Holistic Wellness; Cottage Food & Specialty Grocery — Preserves & Condiments, Honey & Maple Products; Kids & Toys — Handmade Toys, Games & Puzzles, Educational & Sensory Play Goods; Pet Products — Pet Treats & Food, Pet Accessories, Pet Toys & Grooming Products; Seasonal & Holiday — Christmas/Holiday Ornaments & Decor. Notes: crochet, knit and jewelry categories are full; items must be family friendly (no profanity or explicit items); nut-free building — do not bring anything with nuts. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSd8zLL6p9Wikn5lqM8qZBEjyHTwM2YuCKxVJJve6gXwFWbEFg; Facebook event: https://www.facebook.com/events/959897213804684/. Organizer: William C. Winegard School Council. Source: organizer form submission.\nFee: $35/$40\nSource: https://www.facebook.com/events/959897213804684/",
+  "fees": "$35, or $40 with hydro access (very limited)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2284,7 +2306,7 @@ window.EVENTS_REFRESH = [
   "city": "Bowmanville",
   "region": "Durham Region",
   "description": "2-day holiday market hosted by Whiskey and Walnut, up to 30 local vendors. Open to makers, bakers and artisans — handmade, homemade, local or small-batch work. Live music 11am-2pm and Santa photos 12-2pm each day. Theme: Christmas / holiday season. Tags: holiday, artisan, handmade. How to apply: www.whiskeyandwalnut.ca. Organizer: Whiskey and Walnut. Source: Facebook group post (Durham Region | Local Business Community), 2026-10-03.\nAttractions: Live music 11:00 AM – 2:00 PM, Santa photos 12:00 PM – 2:00 PM\nVendors expected: Up to 30 local vendors",
-  "fees": "",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2294,7 +2316,7 @@ window.EVENTS_REFRESH = [
   "location": "Garnet B. Rickard Recreation Complex, Bowmanville, ON",
   "city": "Bowmanville",
   "region": "Durham Region",
-  "description": "Holiday Christmas shopping market in Bowmanville presented by Team Chelsea (Team Chelsea Spin the Wheel) and Little Shoppe Treasures — celebrating local makers, creators and small businesses with unique handmade gifts. Indoor venue with a holiday atmosphere. Vendor spaces are limited and expected to fill quickly.\nTheme: Christmas / holiday season\nVendor types wanted: artists, crafters, candle makers, soap makers, bakers, jewelry designers, boutique owners, home décor creators, authors, toy makers, holiday decor specialists, pet product vendors, gourmet food producers, floral designers, beauty/wellness businesses, non-profits, entrepreneurs\nHow to apply: https://forms.gle/ixzBRiVKSgkJtVSp8\nSource: https://www.facebook.com/share/p/19t9D5iPbx/",
+  "description": "Holiday Christmas shopping market in Bowmanville presented by Team Chelsea (Team Chelsea Spin the Wheel) and Little Shoppe Treasures — celebrating local makers, creators and small businesses with unique handmade gifts. Indoor venue with a holiday atmosphere. Vendor spaces are limited and expected to fill quickly.\nTheme: Christmas / holiday season\nVendor types wanted: artists, crafters, candle makers, soap makers, bakers, jewelry designers, boutique owners, home décor creators, authors, toy makers, holiday decor specialists, pet product vendors, gourmet food producers, floral designers, beauty/wellness businesses, non-profits, entrepreneurs\nHow to apply: https://forms.gle/ixzBRiVKSgkJtVSp8\nFee: $100 (includes one 8ft or 6ft table; bring-your-own-tables (2) option also offered; extra table +$50)\nSource: https://www.facebook.com/share/p/19t9D5iPbx/",
   "fees": "$100 (includes one 8ft or 6ft table; bring-your-own-tables (2) option also offered; extra table +$50)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2305,7 +2327,7 @@ window.EVENTS_REFRESH = [
   "location": "Overflow Brewing Company, 2477 Kaladar Ave, Ottawa",
   "city": "Ottawa",
   "region": "Ottawa",
-  "description": "Theme: Christmas\nHours: 10 AM – 4 PM\nAttractions: Brewery bar and kitchen open during the market\nSource: https://facebook.com/groups/524928052267953/permalink/1577103060383775/\n",
+  "description": "Theme: Christmas\nFee: $50/day 8x8 non-corner, $60/day corner (BYO tables/chairs)\nHours: 10 AM – 4 PM\nAttractions: Brewery bar and kitchen open during the market\nSource: https://facebook.com/groups/524928052267953/permalink/1577103060383775/\n",
   "fees": "$50/day 8x8 non-corner, $60/day corner (BYO tables/chairs)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2314,9 +2336,9 @@ window.EVENTS_REFRESH = [
   "date": "2026-11-29",
   "time": "10 a.m.–3:30 p.m.",
   "location": "Port McNicoll Community Centre",
-  "city": "Port McNicoll",
-  "region": "Simcoe County",
-  "description": "Theme: Christmas\nHours: 10 AM – 3:30 PM\nSource: https://facebook.com/groups/1463525213937500/permalink/4285868641703129/\n",
+  "city": "",
+  "region": "Rest of Ontario",
+  "description": "Theme: Christmas\nFee: $35/day (6ft table)\nHours: 10 AM – 3:30 PM\nSource: https://facebook.com/groups/1463525213937500/permalink/4285868641703129/\n",
   "fees": "$35/day (6ft table)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2327,7 +2349,7 @@ window.EVENTS_REFRESH = [
   "location": "Tom Patterson Theatre, 111 Lakeside Dr, Stratford",
   "city": "Stratford",
   "region": "Rest of Ontario",
-  "description": "Theme: Christmas\nHours: not stated by organizer\nHow to apply: via JotForm\nSource: https://facebook.com/groups/1190141658320918/permalink/1972065030128573/\n",
+  "description": "Theme: Christmas\nHours: not stated by organizer\nFee: priced by spot size\nHow to apply: via JotForm\nSource: https://facebook.com/groups/1190141658320918/permalink/1972065030128573/\n",
   "fees": "priced by spot size",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2338,8 +2360,8 @@ window.EVENTS_REFRESH = [
   "location": "Waterford Grand Retirement Community, 121 Marketplace Ave, Barrhaven, Ottawa, ON",
   "city": "Ottawa",
   "region": "Ottawa",
-  "description": "Waterford Grand Artisan Market & Open House — the 3rd annual artisan market and open house at the Waterford Grand Retirement Community in Barrhaven. There is no charge for vendors; bring your own table, and the organizer asks vendors to consider donating a gift to the raffle.\nTheme: Christmas\nHow to apply: see the source post\nHours: 2:00 PM – 4:00 PM\nSource: https://facebook.com/groups/1180850233912666/permalink/1476745477656472/",
-  "fees": "Free — no charge for the show (bring your own table; raffle gift donation requested)",
+  "description": "Waterford Grand Artisan Market & Open House — the 3rd annual artisan market and open house at the Waterford Grand Retirement Community in Barrhaven. There is no charge for vendors; bring your own table, and the organizer asks vendors to consider donating a gift to the raffle.\nTheme: Christmas\nFee: Free — no charge for the show (bring your own table; raffle gift donation requested)\nHow to apply: see the source post\nHours: 2:00 PM – 4:00 PM\nSource: https://facebook.com/groups/1180850233912666/permalink/1476745477656472/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2349,8 +2371,8 @@ window.EVENTS_REFRESH = [
   "location": "Centennial College Progress Campus, Scarborough, ON",
   "city": "Scarborough",
   "region": "Toronto",
-  "description": "A student-run holiday market at Centennial College's Progress Campus in Scarborough, calling for vendors. Spots are limited.\nTheme: Christmas / holiday season\nDeadline: Applications close October 21, 2026\nHow to apply: Via the Vendor Application link in the comments on the source post, or DM the organizer for more information\nSource: https://facebook.com/groups/524928052267953/permalink/1587950115965736/",
-  "fees": "not stated by organizer",
+  "description": "A student-run holiday market at Centennial College's Progress Campus in Scarborough, calling for vendors. Spots are limited.\nTheme: Christmas / holiday season\nFee: not stated by organizer\nDeadline: Applications close October 21, 2026\nHow to apply: Via the Vendor Application link in the comments on the source post, or DM the organizer for more information\nSource: https://facebook.com/groups/524928052267953/permalink/1587950115965736/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2360,7 +2382,7 @@ window.EVENTS_REFRESH = [
   "location": "St. Robert, 70 Bainbridge Ave, North York, ON",
   "city": "North York",
   "region": "Toronto",
-  "description": "4th annual Christmas market looking for vendors — hugely popular and very well-attended (and shopped!) every year.\nApply: https://strobertmarket.ca\nHours: 6:00 PM – 9:00 PM\nAttractions: Children's activities, local vendors\nSource: https://facebook.com/groups/524928052267953/permalink/1582135579880523/",
+  "description": "4th annual Christmas market looking for vendors — hugely popular and very well-attended (and shopped!) every year.\nApply: https://strobertmarket.ca\nFee: $60\nHours: 6:00 PM – 9:00 PM\nAttractions: Children's activities, local vendors\nSource: https://facebook.com/groups/524928052267953/permalink/1582135579880523/",
   "fees": "$60",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2371,7 +2393,7 @@ window.EVENTS_REFRESH = [
   "location": "Gloucester Centre (Entrance 3), 1980 Ogilvie Road, Ottawa",
   "city": "Ottawa",
   "region": "Ottawa",
-  "description": "How to apply: SoapLadz.ca/Market\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2628683637567194/\n\n",
+  "description": "Fee: $65+HST/night or $300+HST early-bird season rate (until Oct 31)\nHow to apply: SoapLadz.ca/Market\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2628683637567194/\n\n",
   "fees": "$65+HST/night or $300+HST early-bird season rate (until Oct 31)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2382,8 +2404,8 @@ window.EVENTS_REFRESH = [
   "location": "Aurora Town Square, 50 Victoria Street, Aurora, ON",
   "city": "Aurora",
   "region": "York Region",
-  "description": "One of the Top 100 Festivals and Events in Ontario, at Aurora Town Square. Seasonal vendors, food vendors, hands-on workshops and activities — a different mix of vendors on site each night. Runs two weekends: Nov 27–29 and Dec 4–6, 2026 (the first weekend is a separate listing).\n\nHours: 5:00 PM – 8:30 PM each evening\nAdmission: Free\nSource: https://www.aurora.ca/christmasmarket",
-  "fees": "TBD (vendor applications open via the Town of Aurora; no fee published on the event page)",
+  "description": "One of the Top 100 Festivals and Events in Ontario, at Aurora Town Square. Seasonal vendors, food vendors, hands-on workshops and activities — a different mix of vendors on site each night. Runs two weekends: Nov 27–29 and Dec 4–6, 2026 (the first weekend is a separate listing).\n\nHours: 5:00 PM – 8:30 PM each evening\nAdmission: Free\nFee: TBD (vendor applications open via the Town of Aurora; no fee published on the event page)\nSource: https://www.aurora.ca/christmasmarket",
+  "fees": "TBD",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2393,8 +2415,8 @@ window.EVENTS_REFRESH = [
   "location": "St. Gabriel Catholic Elementary School, 396 Spring Garden Ave, North York",
   "city": "North York",
   "region": "Toronto",
-  "description": "First annual Christmas market at St. Gabriel Catholic Elementary School, North York. Starts 4:30 PM; end time not published.\nListing type: Vendor call\nHow to apply: via the QR/link in the event flyer (see source post)\nSource: https://facebook.com/groups/ontariocanadavendorevents/permalink/4463835653926769/",
-  "fees": "$50 per table / $40 bring your own table",
+  "description": "First annual Christmas market at St. Gabriel Catholic Elementary School, North York. Starts 4:30 PM; end time not published.\nListing type: Vendor call\nFee: $50 per table / $40 bring your own table\nHow to apply: via the QR/link in the event flyer (see source post)\nSource: https://facebook.com/groups/ontariocanadavendorevents/permalink/4463835653926769/",
+  "fees": "$50 per table / $40 bring your own",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2404,8 +2426,8 @@ window.EVENTS_REFRESH = [
   "location": "Courtyard Marriott Upper James, 1224 Upper James St, Hamilton, ON L9C 3B1",
   "city": "Hamilton",
   "region": "Hamilton",
-  "description": "Step into a season of enchantment and become part of the 2nd Annual Magic of Midwinter Market — a curated indoor winter market celebrating creativity, craftsmanship, seasonal magic, and unforgettable holiday shopping. Vendor fee: $150 + HST (Lancaster Room 7x8 space, wall with electricity & 2 chairs). Application deadline Nov 20. Theme: Winter. Tags: handmade holiday gifts, artisan goods, magical décor, winter treats, local Ontario makers. Vendor types wanted: Art & Design — Fine Art, Photography, Sculpture & Ceramics, Digital Art & Graphic Design; Handmade Crafts — Woodworking, Glasswork, Metalwork & Blacksmithing, Leather Goods, Textiles & Fiber Arts, Paper Goods & Stationery; Fashion & Apparel — Handmade Clothing, Upcycled & Vintage Clothing, Accessories, Children & Baby Apparel; Jewelry — Fine Jewelry, Artisan & Costume Jewelry, Upcycled/Vintage Jewelry; Home & Living — Candles & Home Fragrance, Home Decor, Kitchen & Dining; Health, Beauty & Wellness — Skincare & Bath, Cosmetics & Haircare, Holistic Wellness; Cottage Food & Specialty Grocery — Baked Goods, Preserves & Condiments, Confections, Beverages, Honey & Maple Products; Kids & Toys — Handmade Toys, Games & Puzzles, Educational & Sensory Play Goods; Pet Products — Pet Treats & Food, Pet Accessories, Pet Toys & Grooming Products; Seasonal & Holiday — Christmas/Holiday Ornaments & Decor; Services & Interactive Booths — Face Painting & Henna Artists, Tarot Card / Psychic Readings. How to apply: online registration at www.eventsinsynergy.ca/upcoming events. Organizer: Events In Synergy. Source: organizer form submission.\nSource: https://facebook.com/groups/971632669514677/permalink/25806119038972696/",
-  "fees": "$150 + HST",
+  "description": "Step into a season of enchantment and become part of the 2nd Annual Magic of Midwinter Market — a curated indoor winter market celebrating creativity, craftsmanship, seasonal magic, and unforgettable holiday shopping. Vendor fee: $150 + HST (Lancaster Room 7x8 space, wall with electricity & 2 chairs). Application deadline Nov 20. Theme: Winter. Tags: handmade holiday gifts, artisan goods, magical décor, winter treats, local Ontario makers. Vendor types wanted: Art & Design — Fine Art, Photography, Sculpture & Ceramics, Digital Art & Graphic Design; Handmade Crafts — Woodworking, Glasswork, Metalwork & Blacksmithing, Leather Goods, Textiles & Fiber Arts, Paper Goods & Stationery; Fashion & Apparel — Handmade Clothing, Upcycled & Vintage Clothing, Accessories, Children & Baby Apparel; Jewelry — Fine Jewelry, Artisan & Costume Jewelry, Upcycled/Vintage Jewelry; Home & Living — Candles & Home Fragrance, Home Decor, Kitchen & Dining; Health, Beauty & Wellness — Skincare & Bath, Cosmetics & Haircare, Holistic Wellness; Cottage Food & Specialty Grocery — Baked Goods, Preserves & Condiments, Confections, Beverages, Honey & Maple Products; Kids & Toys — Handmade Toys, Games & Puzzles, Educational & Sensory Play Goods; Pet Products — Pet Treats & Food, Pet Accessories, Pet Toys & Grooming Products; Seasonal & Holiday — Christmas/Holiday Ornaments & Decor; Services & Interactive Booths — Face Painting & Henna Artists, Tarot Card / Psychic Readings. How to apply: online registration at www.eventsinsynergy.ca/upcoming events. Organizer: Events In Synergy. Source: organizer form submission.\nFee: $150 + HST\nSource: https://facebook.com/groups/971632669514677/permalink/25806119038972696/",
+  "fees": "$150 + HST (Lancaster Room 7x8)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2415,7 +2437,7 @@ window.EVENTS_REFRESH = [
   "location": "Meaford, ON (venue not published by organizer)",
   "city": "Meaford",
   "region": "Rest of Ontario",
-  "description": "4th Annual Country Girl's Christmas Market in Meaford — a festive holiday shopping market welcoming vendors of handmade goods, holiday décor, specialty foods, gifts, and unique products. Also runs Sat Nov 28. Venue and hours have not been published by the organizer — confirm both when you request an application.\nTheme: Christmas / holiday season\nHow to apply: Email the organizer to request an application — email address is in the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1584363616324386/",
+  "description": "4th Annual Country Girl's Christmas Market in Meaford — a festive holiday shopping market welcoming vendors of handmade goods, holiday décor, specialty foods, gifts, and unique products. Also runs Sat Nov 28. Venue and hours have not been published by the organizer — confirm both when you request an application.\nTheme: Christmas / holiday season\nFee: not stated by organizer\nHow to apply: Email the organizer to request an application — email address is in the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1584363616324386/",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2426,8 +2448,8 @@ window.EVENTS_REFRESH = [
   "location": "The Spot, 1166 Gorham St #3, Newmarket, ON L3Y 9C3",
   "city": "Newmarket",
   "region": "York Region",
-  "description": "Presented by The Carnival of Curiosities. Vendors and makers wanted: oddities and curiosities, mystical and spiritual, alternative and gothic, unique handmade gifts, artists and creators. Musical performers also wanted (band auditions, 8pm set, followed by DJ and dance party).\nVendor types wanted: oddities and curiosities, mystical and spiritual, alternative and gothic, unique handmade gifts\nAdmission: $20 cover charge for the evening entertainment\nHours: not stated by organizer\nApplication deadline: November 1\nHow to apply: see the source post\nAttractions: Live band at 8:00 PM followed by DJ and dance party\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28413365365001288/\n",
-  "fees": "not stated by organizer",
+  "description": "Presented by The Carnival of Curiosities. Vendors and makers wanted: oddities and curiosities, mystical and spiritual, alternative and gothic, unique handmade gifts, artists and creators. Musical performers also wanted (band auditions, 8pm set, followed by DJ and dance party).\nVendor types wanted: oddities and curiosities, mystical and spiritual, alternative and gothic, unique handmade gifts\nAdmission: $20 cover charge for the evening entertainment\nFee: not stated by organizer\nHours: not stated by organizer\nApplication deadline: November 1\nHow to apply: see the source post\nAttractions: Live band at 8:00 PM followed by DJ and dance party\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28413365365001288/\n",
+  "fees": "Not published - contact organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2437,8 +2459,8 @@ window.EVENTS_REFRESH = [
   "location": "Banting Memorial High School, Alliston, ON",
   "city": "Alliston",
   "region": "Simcoe County",
-  "description": "Banting Memorial High School's History Department is looking for vendors for its indoor Craft Market, supporting the department's travel initiatives.\nTheme: Christmas / holiday season\nApply: https://forms.gle/EQdRxQW8hjTi9Bpd6\nSource: https://facebook.com/groups/584393464986784/permalink/28899023266430425/",
-  "fees": "not stated by organizer",
+  "description": "Banting Memorial High School's History Department is looking for vendors for its indoor Craft Market, supporting the department's travel initiatives.\nTheme: Christmas / holiday season\nFee: not stated by organizer\nApply: https://forms.gle/EQdRxQW8hjTi9Bpd6\nSource: https://facebook.com/groups/584393464986784/permalink/28899023266430425/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2481,8 +2503,8 @@ window.EVENTS_REFRESH = [
   "location": "Clarington Place, 65 Clarington Blvd, Clarington, ON",
   "city": "Clarington",
   "region": "Durham Region",
-  "description": "Clarington Place is hosting a Holiday Market and looking for local vendors. Vendor tables are $25, with all proceeds donated to a local charity.\nTheme: Christmas / holiday season\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1587996215961126/",
-  "fees": "$25 per table",
+  "description": "Clarington Place is hosting a Holiday Market and looking for local vendors. Vendor tables are $25, with all proceeds donated to a local charity.\nTheme: Christmas / holiday season\nFee: $25 per table\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1587996215961126/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2492,8 +2514,8 @@ window.EVENTS_REFRESH = [
   "location": "Garry's Garden Gallery, 5 Commerce Rd, Lindsay, ON K9V 5Y3 (covered, heated greenhouse)",
   "city": "Lindsay",
   "region": "Kawarthas and Peterborough",
-  "description": "Vendor call: Christmas market in Garry's Garden Gallery's covered, heated greenhouse.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, greenhouse, weekend\nHours: not published (Saturday & Sunday markets)\nVendor types wanted: makers, artisans & local vendors; handcrafted goods\nHow to apply: https://garrysgardengallery.com/pages/christmas-market-vendor-application (also via link in their Instagram bio)\nSource: https://facebook.com/groups/1746193395565570/permalink/3483982515119974/\nNote: Nov 13-15 kickoff weekend is full for vendors.\n\n",
-  "fees": "not published (TBD)",
+  "description": "Vendor call: Christmas market in Garry's Garden Gallery's covered, heated greenhouse.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, greenhouse, weekend\nHours: not published (Saturday & Sunday markets)\nFee: not published (TBD)\nVendor types wanted: makers, artisans & local vendors; handcrafted goods\nHow to apply: https://garrysgardengallery.com/pages/christmas-market-vendor-application (also via link in their Instagram bio)\nSource: https://facebook.com/groups/1746193395565570/permalink/3483982515119974/\nNote: Nov 13-15 kickoff weekend is full for vendors.\n\n",
+  "fees": "Not published (TBD)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2501,10 +2523,10 @@ window.EVENTS_REFRESH = [
   "date": "2026-12-05",
   "time": "9 a.m.–2 p.m.",
   "location": "Knox United Church, 2976 Charleston Sideroad, Caledon Village, ON L7K 0V8",
-  "city": "Caledon",
-  "region": "Peel Region",
-  "description": "5th annual Christmas market and bake sale (food vendors not accepted). Vendor fee: $55 per 6ft table, non-refundable (table and two chairs provided). How to apply: application form https://forms.gle/RGor7j99wrjrGSaM9. Organizer: Knox United Church.\nHours: 9:00 AM – 2:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1562171941876887/",
-  "fees": "$55",
+  "city": "",
+  "region": "Rest of Ontario",
+  "description": "5th annual Christmas market and bake sale (food vendors not accepted). Vendor fee: $55 per 6ft table, non-refundable (table and two chairs provided). How to apply: application form https://forms.gle/RGor7j99wrjrGSaM9. Organizer: Knox United Church.\nFee: $55\nHours: 9:00 AM – 2:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1562171941876887/",
+  "fees": "$55 per 6ft table (non-refundable)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2526,7 +2548,7 @@ window.EVENTS_REFRESH = [
   "city": "London",
   "region": "London & Area",
   "description": "KB Events Canada holiday market at Westmount Shopping Centre in London. Vendor fee: not published - contact organizer. Hours not published - confirm with organizer.\nListing type: Vendor call\nHow to apply: https://www.kbeventscanada.com/vendor-portal\nOrganizer: KB Events Canada\nSource: https://facebook.com/groups/145130302589219/permalink/2642693249499566/",
-  "fees": "not published - contact organizer",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2545,10 +2567,10 @@ window.EVENTS_REFRESH = [
   "date": "2026-12-05",
   "time": "12 p.m.–5 p.m.",
   "location": "Main Street, Downtown Milton, Ontario",
-  "city": "Milton",
-  "region": "Halton Region",
+  "city": "",
+  "region": "Rest of Ontario",
   "description": "Vendor applications now open for Miracle on Main Street in Downtown Milton, hosted in partnership with Tiger Jeet Singh Foundation and Halton Regional Police Service. Vendor fee: not published - contact organizer. How to apply: application form at https://forms.gle/crFEBhmTFNVGbg5C8. Organizer: Tiger Jeet Singh Foundation.\nHours: 12:00 PM – 5:00 PM\nAdmission: Free — a new unwrapped toy donation is requested/encouraged\nAttractions: Free amusement rides, live entertainment/music, petting zoo, pony rides, photos with Santa, local vendors, charity toy drive\nSource: https://facebook.com/groups/524928052267953/permalink/1570896931004388/",
-  "fees": "not published - contact organizer",
+  "fees": "Not published - contact organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2558,8 +2580,8 @@ window.EVENTS_REFRESH = [
   "location": "Orillia Secondary School, Orillia",
   "city": "Orillia",
   "region": "Simcoe County",
-  "description": "Annual market with 30+ vendors, photos with Santa, mystery present table and more. Funds raised support the 2027 Vimy Ridge 110th Anniversary Trip.\nHours: 9:40am-3:30pm\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1581742139919867/\n",
-  "fees": "not stated by organizer",
+  "description": "Annual market with 30+ vendors, photos with Santa, mystery present table and more. Funds raised support the 2027 Vimy Ridge 110th Anniversary Trip.\nFee: not stated by organizer\nHours: 9:40am-3:30pm\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1581742139919867/\n",
+  "fees": "Not published - contact organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2570,7 +2592,7 @@ window.EVENTS_REFRESH = [
   "city": "Ottawa",
   "region": "Ottawa",
   "description": "Small, intimate winter market at Ottawa Farm Fresh, an organic farm. The organizer is on the lookout for local vendors — as an organic farm, they are most interested in makers who share their love for all things natural, sustainable, and small-batch; a good fit for makers just starting out.\nTheme: TBD\nVendor types wanted: Local makers — natural, sustainable, small-batch goods\nHow to apply: see the source post\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/721459436123036/permalink/1622746115994359/",
-  "fees": "",
+  "fees": "Not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2580,7 +2602,7 @@ window.EVENTS_REFRESH = [
   "location": "Meadowvale Community Church, 2630 Inlake Court, Meadowvale, Mississauga",
   "city": "Mississauga",
   "region": "Peel Region",
-  "description": "Juried holiday shopping event from The Craft Show (theme: \"Our Favorite Things\"). Limited spaces for selected categories, indoor event.\nTheme: Christmas\nVendor types wanted: Christmas-themed items, decorations, home decor, specialty drinks and foods, jewelry, candles, gift items and baskets, unique finds\nHours: 11am-4pm\nHow to apply: https://docs.google.com/forms/d/e/1FAIpQLSdspor9zeCDUr0KKw2aliT8VoqPkD-NrzLBbxL2MCBNomCgEQ/viewform\nSource: https://facebook.com/groups/971632669514677/permalink/29350977024486862/\nSource: https://facebook.com/groups/524928052267953/permalink/1578477493579665/",
+  "description": "Juried holiday shopping event from The Craft Show (theme: \"Our Favorite Things\"). Limited spaces for selected categories, indoor event.\nTheme: Christmas\nVendor types wanted: Christmas-themed items, decorations, home decor, specialty drinks and foods, jewelry, candles, gift items and baskets, unique finds\nFee: $110 (standard vendor rate; includes one 8ft or 6ft table and 2 chairs)\nHours: 11am-4pm\nHow to apply: https://docs.google.com/forms/d/e/1FAIpQLSdspor9zeCDUr0KKw2aliT8VoqPkD-NrzLBbxL2MCBNomCgEQ/viewform\nSource: https://facebook.com/groups/971632669514677/permalink/29350977024486862/\nSource: https://facebook.com/groups/524928052267953/permalink/1578477493579665/",
   "fees": "$110 (standard vendor rate; includes one 8ft or 6ft table and 2 chairs)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2602,8 +2624,8 @@ window.EVENTS_REFRESH = [
   "location": "The Latcham Centre, 121 Queen St, Port Perry",
   "city": "Port Perry",
   "region": "Durham Region",
-  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Saturday, December 5, 11 AM–2 PM. Table fees range from $50 to $80 depending on table — confirm with organizer. To apply: DM the organizer on Facebook.\nSource: Organizer's flyer via Paul",
-  "fees": "$50–$80",
+  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Saturday, December 5, 11 AM–2 PM. Table fees range from $50 to $80 depending on table — confirm with organizer. To apply: DM the organizer on Facebook.\nFee: $50–$80\nSource: Organizer's flyer via Paul",
+  "fees": "$50–$80 (range — confirm with organizer)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2624,8 +2646,8 @@ window.EVENTS_REFRESH = [
   "location": "Something New, 416 Concession Street, Hamilton, ON",
   "city": "Hamilton",
   "region": "Hamilton",
-  "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
-  "fees": "$45",
+  "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nFee: $45\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
+  "fees": "$45/table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2635,8 +2657,8 @@ window.EVENTS_REFRESH = [
   "location": "St. Vincent de Paul Catholic Elementary School, 116 Fermanagh Ave, Toronto, ON",
   "city": "Toronto",
   "region": "Toronto",
-  "description": "Christmas market at St. Vincent de Paul Catholic Elementary School in Toronto — the school is now accepting vendor applications for this year's market.\nTheme: Christmas / holiday season\nHours: not published\nApply: https://docs.google.com/forms/d/e/1FAIpQLSdVqUZNnuwTCCnAiRbyphZODo_gDWZoXpDCcBDKViTV68S6ZA/viewform\nSource: https://facebook.com/groups/524928052267953/permalink/1585460542881360/",
-  "fees": "not stated by organizer",
+  "description": "Christmas market at St. Vincent de Paul Catholic Elementary School in Toronto — the school is now accepting vendor applications for this year's market.\nTheme: Christmas / holiday season\nHours: not published\nFee: not stated by organizer\nApply: https://docs.google.com/forms/d/e/1FAIpQLSdVqUZNnuwTCCnAiRbyphZODo_gDWZoXpDCcBDKViTV68S6ZA/viewform\nSource: https://facebook.com/groups/524928052267953/permalink/1585460542881360/",
+  "fees": "Not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2646,7 +2668,7 @@ window.EVENTS_REFRESH = [
   "location": "Gairloch Gardens, 1306 Lakeshore Rd E, Oakville, ON",
   "city": "Oakville",
   "region": "Halton Region",
-  "description": "Hours: not stated by organizer\nAdmission: Free — Oakville Galleries states admission is always free (gallery-wide policy; no fair-specific admission published)\nVendors expected: Up to 40 artisans, selected through a juried application process\nSource: https://facebook.com/groups/1190141658320918/permalink/1968859247115818/\n",
+  "description": "Hours: not stated by organizer\nFee: not stated by organizer\nAdmission: Free — Oakville Galleries states admission is always free (gallery-wide policy; no fair-specific admission published)\nVendors expected: Up to 40 artisans, selected through a juried application process\nSource: https://facebook.com/groups/1190141658320918/permalink/1968859247115818/\n",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2668,8 +2690,8 @@ window.EVENTS_REFRESH = [
   "location": "Ground Control, 1279 Queen Street West, Toronto, ON",
   "city": "Toronto",
   "region": "Toronto",
-  "description": "Vendor call for the Toronto Dark Arts Market's Northern Noir Market – dark, weird, alternative art/crafts (art, crafts, clothing, jewellery, taxidermy & oddities, literature, decor, housewares, toys, etc.). Preference for dark/creepy holiday-themed items and gift items. Public 11 AM–5 PM, free admission. Vendor fee: $40–$200 depending on table size. How to apply: Apply ONLY via www.torontodarkartsmarket.com – the organizer never uses Jotform, Google docs, Gmail or DMs, and never communicates via Facebook. Application deadline: Oct 13, 2026, 1 PM; notifications by Oct 15. Organizer: Toronto Dark Arts Market. SCAM NOTE from organizer: any comments offering spots/tickets for this event are scams.\nAdmission: Free\nSource: https://facebook.com/groups/524928052267953/permalink/1570696554357759/",
-  "fees": "$40/$200",
+  "description": "Vendor call for the Toronto Dark Arts Market's Northern Noir Market – dark, weird, alternative art/crafts (art, crafts, clothing, jewellery, taxidermy & oddities, literature, decor, housewares, toys, etc.). Preference for dark/creepy holiday-themed items and gift items. Public 11 AM–5 PM, free admission. Vendor fee: $40–$200 depending on table size. How to apply: Apply ONLY via www.torontodarkartsmarket.com – the organizer never uses Jotform, Google docs, Gmail or DMs, and never communicates via Facebook. Application deadline: Oct 13, 2026, 1 PM; notifications by Oct 15. Organizer: Toronto Dark Arts Market. SCAM NOTE from organizer: any comments offering spots/tickets for this event are scams.\nFee: $40/$200\nAdmission: Free\nSource: https://facebook.com/groups/524928052267953/permalink/1570696554357759/",
+  "fees": "$40-$200 depending on table size",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2680,7 +2702,7 @@ window.EVENTS_REFRESH = [
   "city": "Oshawa",
   "region": "Durham Region",
   "description": "Winter vendor market at Winchester Glen Retirement Community, 35 Winchester Glen, Oshawa. Vendor fee not published — contact the organizer. Madison Thompson (per the organizer’s public flyer).\nSource: https://www.facebook.com/groups/1746193395565570/posts/3465963860255173/",
-  "fees": "",
+  "fees": "not published — contact the organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2690,7 +2712,7 @@ window.EVENTS_REFRESH = [
   "location": "Winona Gardens, Winona, ON",
   "city": "Winona",
   "region": "Hamilton",
-  "description": "Winona Gardens Christmas Market at Winona Gardens in Winona (Hamilton). Hours: Sat Dec 5 and Sun Dec 6, 9 AM–4 PM each day. Santa on site, Christmas music, and Christmas trees for sale. Only 2 spaces were left when the organizer posted (Oct 15) — the market was filling fast. Booth options, from the application form: 6'x5' $60/day or $120 for both days; 10'x10' $100/day or $200 for both days.\nTheme: Christmas / holiday season\nHow to apply: https://forms.gle/M5CiPNoUgQ95GHWS7\nSource: https://facebook.com/groups/145130302589219/permalink/2635778080191083/",
+  "description": "Winona Gardens Christmas Market at Winona Gardens in Winona (Hamilton). Hours: Sat Dec 5 and Sun Dec 6, 9 AM–4 PM each day. Santa on site, Christmas music, and Christmas trees for sale. Only 2 spaces were left when the organizer posted (Oct 15) — the market was filling fast. Booth options, from the application form: 6'x5' $60/day or $120 for both days; 10'x10' $100/day or $200 for both days.\nTheme: Christmas / holiday season\nFee: 6'x5' $60/day ($120 both days); 10'x10' $100/day ($200 both days)\nHow to apply: https://forms.gle/M5CiPNoUgQ95GHWS7\nSource: https://facebook.com/groups/145130302589219/permalink/2635778080191083/",
   "fees": "6'x5' $60/day ($120 both days); 10'x10' $100/day ($200 both days)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2701,8 +2723,8 @@ window.EVENTS_REFRESH = [
   "location": "Millennium Square, Pickering, ON",
   "city": "Pickering",
   "region": "Durham Region",
-  "description": "City of Pickering holiday market at the waterfront (Nautical Village), 1,000+ attendees/day. Vendor fee: $131.84 + HST — Premium booth, 10x10 space including tent, table, and two chairs. Vendor applications open; apply by Mon Oct 19, 2026 (selected vendors notified by Oct 28). Theme: Christmas / holiday season. Tags: holiday market, winter. How to apply: City of Pickering 2026 Vendor Application form at forms.pickering.ca/Forms/CSD2601-Vendor-Application-for-city-led-events, or mail to City of Pickering, One The Esplanade, Pickering, ON L1V 6K7, Attn: Cultural Services. Organizer: City of Pickering, Community Services,. Source: pickering.ca.\nHours: 11:30 AM – 3:00 PM\nAttractions: Live ice carving displays, festive music and buskers, roaming characters, s'mores stations, giveaways, holiday market, photo stations, arts and crafts",
-  "fees": "$131.84 + HST",
+  "description": "City of Pickering holiday market at the waterfront (Nautical Village), 1,000+ attendees/day. Vendor fee: $131.84 + HST — Premium booth, 10x10 space including tent, table, and two chairs. Vendor applications open; apply by Mon Oct 19, 2026 (selected vendors notified by Oct 28). Theme: Christmas / holiday season. Tags: holiday market, winter. How to apply: City of Pickering 2026 Vendor Application form at forms.pickering.ca/Forms/CSD2601-Vendor-Application-for-city-led-events, or mail to City of Pickering, One The Esplanade, Pickering, ON L1V 6K7, Attn: Cultural Services. Organizer: City of Pickering, Community Services,. Source: pickering.ca.\nFee: $131.84 + HST\nHours: 11:30 AM – 3:00 PM\nAttractions: Live ice carving displays, festive music and buskers, roaming characters, s'mores stations, giveaways, holiday market, photo stations, arts and crafts",
+  "fees": "$131.84 + HST (premium 10x10, tent+table+chairs)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2724,7 +2746,7 @@ window.EVENTS_REFRESH = [
   "city": "Niagara-on-the-Lake",
   "region": "Niagara Region",
   "description": "Christmas vendor market at Hare Wine Co, indoor and outdoor show by Village Collective; limited spots available. Vendor fee: not published — contact organizer. How to apply: vendor interest form at https://forms.gle/fWmKJ7jYZhp3xZQ8A. Organizer: Village Collective.\nHours: 11:00 AM – 4:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28127217010282793/",
-  "fees": "not published — contact organizer",
+  "fees": "Not published — contact organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2735,7 +2757,7 @@ window.EVENTS_REFRESH = [
   "city": "Trenton",
   "region": "Kingston & Area",
   "description": "Holiday vendor market by Costa Crafted Events. Note: the organizer also advertises a 3rd annual Grinch-mas Market on Sat Dec 5 at Trenton Lions Club (77 Campbell St); the vendor application form lists Sun Dec 6 in Trenton — date may have moved. Vendor fee not published — see application form. Theme: Christmas / holiday season. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
-  "fees": "",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2745,8 +2767,8 @@ window.EVENTS_REFRESH = [
   "location": "Fireside Haven Studio, 54 Guelph Ave Unit 1, Cambridge",
   "city": "Cambridge",
   "region": "Waterloo Region",
-  "description": "Holiday market, 20 local vendors. Vendor fee: $45 bring-your-own 6ft table, $50 table rental. Full for crochet and 3D printing. Contact: Fireside Haven Studio.\nSource: https://facebook.com/groups/524928052267953/permalink/1572841060809975/",
-  "fees": "$45/$50",
+  "description": "Holiday market, 20 local vendors. Vendor fee: $45 bring-your-own 6ft table, $50 table rental. Full for crochet and 3D printing. Contact: Fireside Haven Studio.\nFee: $45/$50\nSource: https://facebook.com/groups/524928052267953/permalink/1572841060809975/",
+  "fees": "$45 BYO 6ft table / $50 rent",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2778,8 +2800,8 @@ window.EVENTS_REFRESH = [
   "location": "Stoney Creek Optimist Hall, Stoney Creek, ON",
   "city": "Stoney Creek",
   "region": "Hamilton",
-  "description": "Christmas vendor market. Vendor space fee $50 for a 6ft x 5ft space; table & chairs included. Handmade products only. Spots limited. Theme: Christmas / holiday season. To apply, contact the organizer (see the source post link for how to apply). Source: Facebook vendor call https://www.facebook.com/groups/826831985759557/permalink/1639170054525742/ (posted 2026-09-29).\nHours: 11:00 AM – 4:00 PM\nSource: https://www.facebook.com/groups/826831985759557/permalink/1639170054525742/",
-  "fees": "$50",
+  "description": "Christmas vendor market. Vendor space fee $50 for a 6ft x 5ft space; table & chairs included. Handmade products only. Spots limited. Theme: Christmas / holiday season. To apply, contact the organizer (see the source post link for how to apply). Source: Facebook vendor call https://www.facebook.com/groups/826831985759557/permalink/1639170054525742/ (posted 2026-09-29).\nFee: $50\nHours: 11:00 AM – 4:00 PM\nSource: https://www.facebook.com/groups/826831985759557/permalink/1639170054525742/",
+  "fees": "$50 (6ft x 5ft space)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2798,10 +2820,21 @@ window.EVENTS_REFRESH = [
   "date": "2026-12-06",
   "time": "10 a.m.–3:30 p.m.",
   "location": "Port McNicoll Community Centre",
-  "city": "Port McNicoll",
-  "region": "Simcoe County",
-  "description": "Theme: Christmas\nHours: 10 AM – 3:30 PM\nSource: https://facebook.com/groups/1463525213937500/permalink/4285868641703129/\n",
+  "city": "",
+  "region": "Rest of Ontario",
+  "description": "Theme: Christmas\nFee: $35/day (6ft table)\nHours: 10 AM – 3:30 PM\nSource: https://facebook.com/groups/1463525213937500/permalink/4285868641703129/\n",
   "fees": "$35/day (6ft table)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Royal City Nursery Festive Holiday Market",
+  "date": "2026-12-06",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Royal City Nursery, Guelph, ON",
+  "city": "Guelph",
+  "region": "Rest of Ontario",
+  "description": "Festive Holiday Market in the Christmas wonderland-themed greenhouse at Royal City Nursery in Guelph - a curated selection of local vendors with handcrafted items, tasty treats and gift ideas. Booth size 6 ft x 5 ft. Vendors can choose one or more dates (Sat Nov 14 and Sun Dec 6, 2026).\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM\nHow to apply: https://royalcitynursery.com/holiday-market-vendor-application-form/\nSource: https://facebook.com/groups/609827307950034/permalink/1446577240941699/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2812,7 +2845,7 @@ window.EVENTS_REFRESH = [
   "city": "Ajax",
   "region": "Durham Region",
   "description": "Vendor market at Smiling Faces Equestrian, 2677 Audley Rd N, Ajax. Vendor fee TBA — check back for updates. Vendor applications via the organizer’s 2026 season vendor call: https://form.svhrt.com/6984d22c7536b447850adc28 (vendors bring own tables/chairs). Contact: SmilingFacesEquestrian (public page).\nHours: 11:00 AM – 4:00 PM\nAttractions: Free parking\nVendors expected: Up to 25 vendors\nSource: https://www.facebook.com/smilingfacesequestrian/posts/-vendor-call-2026-family-markets-at-smiling-faces-equestrian-were-now-accepting-/908661958418488/",
-  "fees": "",
+  "fees": "TBA",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2822,7 +2855,7 @@ window.EVENTS_REFRESH = [
   "location": "Oakville Galleries in Gairloch Gardens, 1306 Lakeshore Rd E, Oakville, ON L6J 1L6",
   "city": "Oakville",
   "region": "Halton Region",
-  "description": "Hours: not stated by organizer\nVendors expected: Up to 40 artisans (juried)\nSource: https://facebook.com/groups/1190141658320918/permalink/1968859247115818/\n",
+  "description": "Hours: not stated by organizer\nFee: not stated by organizer\nVendors expected: Up to 40 artisans (juried)\nSource: https://facebook.com/groups/1190141658320918/permalink/1968859247115818/\n",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2834,7 +2867,7 @@ window.EVENTS_REFRESH = [
   "city": "Toronto",
   "region": "Toronto",
   "description": "14-day Christmas Market & Fair hosted by The Grateful Market at Motorista Studio in Toronto, with a curated artisan market, live music and entertainment, sponsor activations and a community fundraiser. Vendors choose the dates that work for them.\nVendor fee: $75/day (limited-time early bird rate)\nListing type: Vendor call\nHours: 2:00 PM - 10:00 PM daily\nHow to apply: https://forms.gle/RMfzbD5DdvmtqYSF6\nOrganizer: The Grateful Market\nSource: https://facebook.com/groups/145130302589219/permalink/2643889592713265/",
-  "fees": "$75/day (limited-time early bird rate)",
+  "fees": "$75/day (early bird)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2843,9 +2876,9 @@ window.EVENTS_REFRESH = [
   "time": "5 p.m.–8 p.m.",
   "location": "Nauvoo Road (town-wide), Watford",
   "city": "Watford",
-  "region": "Rest of Ontario",
+  "region": "London & Area",
   "description": "A-Z Events town-wide evening holiday event along Nauvoo Road in Watford. Vendor fee: not published on the application — a registration fee is required before a vending space is reserved (amount not stated), payable by e-transfer; fees are non-refundable (full refund only if A-Z Events cancels). Organizer strongly recommends vendors carry their own liability insurance; vendors may bring their own displays and stands. How to apply: vendor application Google Form — https://forms.gle/pmp8BR7dfmamUWaZ8 (vendor spaces are limited). Organizer: A-Z Events.\nTheme: Holiday market\nTags: Shop Local, Support Small Business, Holiday Markets, Local Vendors, Community Events, Christmas Markets\nVendor types wanted: All vendor types\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28141094792228348/",
-  "fees": "not published on the application — a registration fee is required before a vending space is reserved (amount not stated), payable by e-transfer; fees are non-refundable (full refund only if A-Z Events cancels)",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2855,7 +2888,7 @@ window.EVENTS_REFRESH = [
   "location": "Gloucester Centre (Entrance 3), 1980 Ogilvie Road, Ottawa",
   "city": "Ottawa",
   "region": "Ottawa",
-  "description": "How to apply: SoapLadz.ca/Market\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2628683637567194/\n\n",
+  "description": "Fee: $65+HST/night or $300+HST early-bird season rate (until Oct 31)\nHow to apply: SoapLadz.ca/Market\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2628683637567194/\n\n",
   "fees": "$65+HST/night or $300+HST early-bird season rate (until Oct 31)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2867,7 +2900,7 @@ window.EVENTS_REFRESH = [
   "city": "Alvinston",
   "region": "Rest of Ontario",
   "description": "A-Z Events evening Christmas celebration market on River Road in Alvinston. Vendor fee: not published on the application — a registration fee is required before a vending space is reserved (amount not stated), payable by e-transfer; fees are non-refundable (full refund only if A-Z Events cancels). Organizer strongly recommends vendors carry their own liability insurance; vendors may bring their own displays and stands. How to apply: vendor application Google Form — https://forms.gle/uZwLhadztvFfuTBV7 (vendor spaces are limited). Organizer: A-Z Events.\nTheme: Christmas market\nTags: Shop Local, Support Small Business, Holiday Markets, Local Vendors, Community Events, Christmas Markets\nVendor types wanted: All vendor types\nHours: 5:00 PM – 8:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28141094792228348/",
-  "fees": "not published on the application — a registration fee is required before a vending space is reserved (amount not stated), payable by e-transfer; fees are non-refundable (full refund only if A-Z Events cancels)",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2899,8 +2932,8 @@ window.EVENTS_REFRESH = [
   "location": "Rodney, ON",
   "city": "Rodney",
   "region": "London & Area",
-  "description": "Christmas Country Market in Rodney, hosted by Rodney's Country Market (with Finders Keepers). Local artisans, letters to Santa, photo opportunities, petting zoo, baked goods and sweet treats. Free admission and free parking.\nTheme: Christmas / holiday season\nHow to apply: Message the hosts (Rodney's Country Market / Finders Keepers on Facebook) for details\nAdmission: Free\nAttractions: Letters to Santa, photo opportunities, petting zoo, baked goods, popcorn, hot drinks\nSource: https://facebook.com/groups/524928052267953/permalink/1587991269294954/",
-  "fees": "$40",
+  "description": "Christmas Country Market in Rodney, hosted by Rodney's Country Market (with Finders Keepers). Local artisans, letters to Santa, photo opportunities, petting zoo, baked goods and sweet treats. Free admission and free parking.\nTheme: Christmas / holiday season\nFee: $40\nHow to apply: Message the hosts (Rodney's Country Market / Finders Keepers on Facebook) for details\nAdmission: Free\nAttractions: Letters to Santa, photo opportunities, petting zoo, baked goods, popcorn, hot drinks\nSource: https://facebook.com/groups/524928052267953/permalink/1587991269294954/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2910,8 +2943,8 @@ window.EVENTS_REFRESH = [
   "location": "Collège Boréal, 7515 Forest Glade Dr, Windsor, ON",
   "city": "Windsor",
   "region": "Windsor-Essex",
-  "description": "East Windsor Holiday Family Markets — a two-day holiday family market at Collège Boréal in Windsor's east end. Vendors may join one day or both days; the space is 10×10 with two chairs included.\nTheme: Christmas\nVendor types wanted: Crafters, artisans and small businesses\nHow to apply: see the source post\nHours: 10:00 AM – 3:00 PM (both days)\nSource: https://facebook.com/groups/2320917288223463/permalink/4534527220195781/",
-  "fees": "$40 per day for a 10×10 space",
+  "description": "East Windsor Holiday Family Markets — a two-day holiday family market at Collège Boréal in Windsor's east end. Vendors may join one day or both days; the space is 10×10 with two chairs included.\nTheme: Christmas\nVendor types wanted: Crafters, artisans and small businesses\nFee: $40 per day for a 10×10 space\nHow to apply: see the source post\nHours: 10:00 AM – 3:00 PM (both days)\nSource: https://facebook.com/groups/2320917288223463/permalink/4534527220195781/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2921,8 +2954,8 @@ window.EVENTS_REFRESH = [
   "location": "Garry's Garden Gallery, 5 Commerce Rd, Lindsay, ON K9V 5Y3",
   "city": "Lindsay",
   "region": "Kawarthas and Peterborough",
-  "description": "Vendor call: Christmas market in Garry's Garden Gallery's covered, heated greenhouse.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, greenhouse, weekend\nHours: not published (Saturday & Sunday markets)\nVendor types wanted: makers, artisans & local vendors; handcrafted goods\nHow to apply: https://garrysgardengallery.com/pages/christmas-market-vendor-application (also via link in their Instagram bio)\nSource: https://facebook.com/groups/1746193395565570/permalink/3483982515119974/\nNote: Nov 13-15 kickoff weekend is full for vendors.\n\n",
-  "fees": "not published (TBD)",
+  "description": "Vendor call: Christmas market in Garry's Garden Gallery's covered, heated greenhouse.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, greenhouse, weekend\nHours: not published (Saturday & Sunday markets)\nFee: not published (TBD)\nVendor types wanted: makers, artisans & local vendors; handcrafted goods\nHow to apply: https://garrysgardengallery.com/pages/christmas-market-vendor-application (also via link in their Instagram bio)\nSource: https://facebook.com/groups/1746193395565570/permalink/3483982515119974/\nNote: Nov 13-15 kickoff weekend is full for vendors.\n\n",
+  "fees": "Not published (TBD)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2932,8 +2965,8 @@ window.EVENTS_REFRESH = [
   "location": "St. Michael's Hungarian Hall, 521 West 5th St, Hamilton",
   "city": "Hamilton",
   "region": "Hamilton",
-  "description": "How to apply: https://forms.gle/Agha9H3Dn4JReomU6\nHours: 10:00 AM – 3:00 PM\nAdmission: Free\nAttractions: Free door prize ballot, penny sale raffles, sweets & treats; food drive donations welcome\nSource: https://facebook.com/groups/524928052267953/permalink/1579547646805983/\n\n",
-  "fees": "$60 (indoor, 6ft x 5ft space, table & chairs included)",
+  "description": "Fee: $60 (indoor, 6ft x 5ft space, table & chairs included)\nHow to apply: https://forms.gle/Agha9H3Dn4JReomU6\nHours: 10:00 AM – 3:00 PM\nAdmission: Free\nAttractions: Free door prize ballot, penny sale raffles, sweets & treats; food drive donations welcome\nSource: https://facebook.com/groups/524928052267953/permalink/1579547646805983/\n\n",
+  "fees": "$60 (indoor, 6ft x 5ft, table & chairs included)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2944,7 +2977,7 @@ window.EVENTS_REFRESH = [
   "city": "Oshawa",
   "region": "Durham Region",
   "description": "8th Annual Holiday Pop-Up Marketplace for local makers and vendors. Runs Dec 12–13 (this entry: Dec 12, 12–7 PM). Organized by the organizer Local. Vendor fee TBA. Contact:\nSource: https://www.instagram.com/p/DdBqVSIxmEu/",
-  "fees": "",
+  "fees": "TBA",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2976,8 +3009,8 @@ window.EVENTS_REFRESH = [
   "location": "Merritton Community Center, 7 Park Ave, St. Catharines",
   "city": "St. Catharines",
   "region": "Niagara Region",
-  "description": "Mickey's Very Merry Christmas Market - Niagara's only Disney-themed market. Organized by the organizer / Teagan's Treasures. Vendor protection: invoicing with Visa/Mastercard/debit options.\nHours: not stated by organizer\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1581032113324203/\n",
-  "fees": "$30 per 6ft table",
+  "description": "Mickey's Very Merry Christmas Market - Niagara's only Disney-themed market. Organized by the organizer / Teagan's Treasures. Vendor protection: invoicing with Visa/Mastercard/debit options.\nFee: $30 per 6ft table\nHours: not stated by organizer\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1581032113324203/\n",
+  "fees": "$30/6ft table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2987,8 +3020,8 @@ window.EVENTS_REFRESH = [
   "location": "St. Luke's Parish Hall, 1382 Ontario Street, Burlington, ON",
   "city": "Burlington",
   "region": "Halton Region",
-  "description": "Holiday market hosted by Bright Bits Resin at St. Luke's Parish Hall, Burlington. Fee includes a 6ft table spot and 2 chairs.\nHow to apply: see the source post\nSource: https://facebook.com/groups/1013767978664673/permalink/39342606398687352/",
-  "fees": "$80 returning vendors / $100 new vendors",
+  "description": "Holiday market hosted by Bright Bits Resin at St. Luke's Parish Hall, Burlington. Fee includes a 6ft table spot and 2 chairs.\nFee: $80 returning vendors / $100 new vendors\nHow to apply: see the source post\nSource: https://facebook.com/groups/1013767978664673/permalink/39342606398687352/",
+  "fees": "$80 returning / $100 new",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2996,8 +3029,8 @@ window.EVENTS_REFRESH = [
   "date": "2026-12-12",
   "time": "Time not listed",
   "location": "Village Union Public School",
-  "city": "Oshawa",
-  "region": "Durham Region",
+  "city": "",
+  "region": "Rest of Ontario",
   "description": "Santa event and market at Village Union Public School (town not stated in the source post; Durham District School Board school).\nListing type: Vendor call\nHow to apply: see the source post; applications due Nov 6, 2026\nSource: https://facebook.com/groups/1013767978664673/permalink/39381865474761444/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
@@ -3009,8 +3042,8 @@ window.EVENTS_REFRESH = [
   "location": "Something New, 416 Concession Street, Hamilton, ON",
   "city": "Hamilton",
   "region": "Hamilton",
-  "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
-  "fees": "$45",
+  "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nFee: $45\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
+  "fees": "$45/table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3020,7 +3053,7 @@ window.EVENTS_REFRESH = [
   "location": "St. Simeon Stylites Melkite Catholic Church, 8700 Jerome St, Windsor, ON",
   "city": "Windsor",
   "region": "Windsor-Essex",
-  "description": "Annual Christmas Bazaar at St. Simeon Stylites Melkite Catholic Church — vendor table registration is open. Vendors, small business owners, artisans, and entrepreneurs are invited to reserve a table. Spaces are limited, so reserve early.\nTheme: Christmas\nHow to apply: see the source post\nHours: 10:00 AM – 7:00 PM\nSource: https://facebook.com/groups/2320917288223463/permalink/4532311373750699/",
+  "description": "Annual Christmas Bazaar at St. Simeon Stylites Melkite Catholic Church — vendor table registration is open. Vendors, small business owners, artisans, and entrepreneurs are invited to reserve a table. Spaces are limited, so reserve early.\nTheme: Christmas\nFee: $100 per vendor table\nHow to apply: see the source post\nHours: 10:00 AM – 7:00 PM\nSource: https://facebook.com/groups/2320917288223463/permalink/4532311373750699/",
   "fees": "$100 per vendor table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3031,7 +3064,7 @@ window.EVENTS_REFRESH = [
   "location": "Port of Whitby Marina, 301 Watson St W, Whitby, ON",
   "city": "Whitby",
   "region": "Durham Region",
-  "description": "Vendor market series by Willow & Wildflower Events. $85. Port of Whitby Marina, 301 Watson St W, Whitby. Vendor applications: https://forms.gle/jqTyu66CjFmAs7CM6 —\nHours: 10:00 AM – 4:00 PM\nSource: https://www.facebook.com/groups/1746193395565570/posts/3466330410218518/",
+  "description": "Vendor market series by Willow & Wildflower Events. $85. Port of Whitby Marina, 301 Watson St W, Whitby. Vendor applications: https://forms.gle/jqTyu66CjFmAs7CM6 —\nFee: $85\nHours: 10:00 AM – 4:00 PM\nSource: https://www.facebook.com/groups/1746193395565570/posts/3466330410218518/",
   "fees": "$85",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3042,7 +3075,7 @@ window.EVENTS_REFRESH = [
   "location": "Little Beasts Brewing Co., 2075 Forbes St, Whitby, ON",
   "city": "Whitby",
   "region": "Durham Region",
-  "description": "Hours: 1:00 PM – 6:00 PM\nAdmission: Free\nAttractions: Shop & sip with local vendors, photo ops, raffle prizes, family-friendly festive fun\nSource: https://facebook.com/groups/1746193395565570/permalink/3485346728316886/\n\n",
+  "description": "Fee: not stated by organizer (DM for details)\nHours: 1:00 PM – 6:00 PM\nAdmission: Free\nAttractions: Shop & sip with local vendors, photo ops, raffle prizes, family-friendly festive fun\nSource: https://facebook.com/groups/1746193395565570/permalink/3485346728316886/\n\n",
   "fees": "not stated by organizer (DM for details)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3064,8 +3097,8 @@ window.EVENTS_REFRESH = [
   "location": "Millennium Square, Pickering, ON",
   "city": "Pickering",
   "region": "Durham Region",
-  "description": "City of Pickering holiday market at the waterfront (Nautical Village), 1,000+ attendees/day. Vendor fee: $131.84 + HST — Premium booth, 10x10 space including tent, table, and two chairs. Vendor applications open; apply by Mon Oct 19, 2026 (selected vendors notified by Oct 28). Theme: Christmas / holiday season. Tags: holiday market, winter. How to apply: City of Pickering 2026 Vendor Application form at forms.pickering.ca/Forms/CSD2601-Vendor-Application-for-city-led-events, or mail to City of Pickering, One The Esplanade, Pickering, ON L1V 6K7, Attn: Cultural Services. Organizer: City of Pickering, Community Services,. Source: pickering.ca.\nHours: 11:30 AM – 3:00 PM\nAttractions: Ice skating, hands-on crafts, live entertainment, miniature train rides, local artisan vendor market, hot chocolate and fireside s'mores",
-  "fees": "$131.84 + HST",
+  "description": "City of Pickering holiday market at the waterfront (Nautical Village), 1,000+ attendees/day. Vendor fee: $131.84 + HST — Premium booth, 10x10 space including tent, table, and two chairs. Vendor applications open; apply by Mon Oct 19, 2026 (selected vendors notified by Oct 28). Theme: Christmas / holiday season. Tags: holiday market, winter. How to apply: City of Pickering 2026 Vendor Application form at forms.pickering.ca/Forms/CSD2601-Vendor-Application-for-city-led-events, or mail to City of Pickering, One The Esplanade, Pickering, ON L1V 6K7, Attn: Cultural Services. Organizer: City of Pickering, Community Services,. Source: pickering.ca.\nFee: $131.84 + HST\nHours: 11:30 AM – 3:00 PM\nAttractions: Ice skating, hands-on crafts, live entertainment, miniature train rides, local artisan vendor market, hot chocolate and fireside s'mores",
+  "fees": "$131.84 + HST (premium 10x10, tent+table+chairs)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3098,7 +3131,7 @@ window.EVENTS_REFRESH = [
   "city": "Belleville",
   "region": "Kingston & Area",
   "description": "3rd annual Gingerbread Market by Costa Crafted Events: 30+ local vendors, door prizes, raffles, gingerbread house contest ($2 entry, 1 PM, winner at 2 PM), Santa photos $5 (11 AM–2 PM). Toy and food donations appreciated for the community. Vendor fee not published — see application form. Theme: Christmas / holiday season. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.\nHours: 10:00 AM – 4:00 PM\nAttractions: Door prizes, raffles, gingerbread house contest ($2 entry, 1 PM, winner at 2 PM), Santa photos $5 (11 AM–2 PM); toy and food donations appreciated\nVendors expected: 30+ local vendors",
-  "fees": "",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3119,8 +3152,8 @@ window.EVENTS_REFRESH = [
   "location": "ODAS Park, 4500 Fairgrounds Rd, Orillia, ON",
   "city": "Orillia",
   "region": "Simcoe County",
-  "description": "Christmas market at ODAS Park. Vendor fee: $95 for an 8ft table and 2 chairs (limited spots). How to apply: see the source post link for how to apply. NOTE: the organizer is the ONLY person booking spots and collecting funds - do not engage anyone else claiming to be the organizer. Organizer: see the source post.\nSource: https://facebook.com/groups/524928052267953/permalink/1566291291464952/",
-  "fees": "$95",
+  "description": "Christmas market at ODAS Park. Vendor fee: $95 for an 8ft table and 2 chairs (limited spots). How to apply: see the source post link for how to apply. NOTE: the organizer is the ONLY person booking spots and collecting funds - do not engage anyone else claiming to be the organizer. Organizer: see the source post.\nFee: $95\nSource: https://facebook.com/groups/524928052267953/permalink/1566291291464952/",
+  "fees": "$95/8ft table + 2 chairs",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3130,8 +3163,8 @@ window.EVENTS_REFRESH = [
   "location": "The Latcham Centre, 121 Queen St, Port Perry",
   "city": "Port Perry",
   "region": "Durham Region",
-  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Sunday, December 13, 12–4 PM. Table fees range from $50 to $80 depending on table — confirm with organizer. To apply: DM the organizer on Facebook.\nSource: Organizer's flyer via Paul",
-  "fees": "$50–$80",
+  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Sunday, December 13, 12–4 PM. Table fees range from $50 to $80 depending on table — confirm with organizer. To apply: DM the organizer on Facebook.\nFee: $50–$80\nSource: Organizer's flyer via Paul",
+  "fees": "$50–$80 (range — confirm with organizer)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3141,7 +3174,7 @@ window.EVENTS_REFRESH = [
   "location": "Meridian Community Centre, 100 Meridian Way, Fonthill, ON",
   "city": "Fonthill",
   "region": "Niagara Region",
-  "description": "Monthly trading card show — calling all card collectors, Pokemon fans, sports card lovers, and TCG addicts. Buy, sell, trade, hunt for your next big pull, or just talk cards. Organizer: Toploaders Anonymous. Note: submitted on the organizer's behalf.\nHours: 9:00 AM – 3:00 PM\nAdmission: Free\nSource: organizer\\'s Facebook post",
+  "description": "Monthly trading card show — calling all card collectors, Pokemon fans, sports card lovers, and TCG addicts. Buy, sell, trade, hunt for your next big pull, or just talk cards. Organizer: Toploaders Anonymous. Note: submitted on the organizer's behalf.\nFee: $75\nHours: 9:00 AM – 3:00 PM\nAdmission: Free\nSource: organizer\\'s Facebook post",
   "fees": "$75",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3152,7 +3185,7 @@ window.EVENTS_REFRESH = [
   "location": "Gloucester Centre (Entrance 3), 1980 Ogilvie Road, Ottawa",
   "city": "Ottawa",
   "region": "Ottawa",
-  "description": "How to apply: SoapLadz.ca/Market\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2628683637567194/\n\n",
+  "description": "Fee: $65+HST/night or $300+HST early-bird season rate (until Oct 31)\nHow to apply: SoapLadz.ca/Market\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2628683637567194/\n\n",
   "fees": "$65+HST/night or $300+HST early-bird season rate (until Oct 31)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3163,8 +3196,8 @@ window.EVENTS_REFRESH = [
   "location": "The Latcham Centre, 121 Queen St, Port Perry",
   "city": "Port Perry",
   "region": "Durham Region",
-  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Friday, December 18, 5–9 PM. Table fees range from $50 to $80 depending on table — confirm with organizer. To apply: DM the organizer on Facebook.\nSource: Organizer's flyer via Paul",
-  "fees": "$50–$80",
+  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Friday, December 18, 5–9 PM. Table fees range from $50 to $80 depending on table — confirm with organizer. To apply: DM the organizer on Facebook.\nFee: $50–$80\nSource: Organizer's flyer via Paul",
+  "fees": "$50–$80 (range — confirm with organizer)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3174,8 +3207,8 @@ window.EVENTS_REFRESH = [
   "location": "Toronto Botanical Garden, 777 Lawrence Ave E, Toronto, ON",
   "city": "Toronto",
   "region": "Toronto",
-  "description": "Toronto Botanical Garden's annual Holiday EcoMarket — a sustainable, nature-inspired, relaxed shopping experience with 100+ eco-minded local vendors across the Visitor Centre and outdoor courtyards, an indoor food court, outdoor bonfires with free marshmallow roasting, and free drop-in family crafting on Saturday and Sunday. A different mix of vendors each weekend; the market also runs Nov 20–22, 2026 (separate listing). TBG members get early access on Fridays, 12:00 PM – 2:00 PM.\n\nHours: Fri 2:00 PM – 6:00 PM; Sat–Sun 10:00 AM – 4:00 PM\nAdmission: Free\nSource: https://torontobotanicalgarden.ca/enjoy/events-at-the-garden/",
-  "fees": "Indoor 6ft space from $170 + HST (single day) / $485 + HST (full weekend); outdoor 10x10 space $110 + HST (single day) / $305 + HST (full weekend); 15-AMP power +$45 + HST (per the organizer's application form; vendors are accepted for one weekend only)",
+  "description": "Toronto Botanical Garden's annual Holiday EcoMarket — a sustainable, nature-inspired, relaxed shopping experience with 100+ eco-minded local vendors across the Visitor Centre and outdoor courtyards, an indoor food court, outdoor bonfires with free marshmallow roasting, and free drop-in family crafting on Saturday and Sunday. A different mix of vendors each weekend; the market also runs Nov 20–22, 2026 (separate listing). TBG members get early access on Fridays, 12:00 PM – 2:00 PM.\n\nHours: Fri 2:00 PM – 6:00 PM; Sat–Sun 10:00 AM – 4:00 PM\nAdmission: Free\nFee: Indoor 6ft space from $170 + HST (single day) / $485 + HST (full weekend); outdoor 10x10 space $110 + HST (single day) / $305 + HST (full weekend); 15-AMP power +$45 + HST (per the organizer's application form; vendors are accepted for one weekend only)\nSource: https://torontobotanicalgarden.ca/enjoy/events-at-the-garden/",
+  "fees": "Indoor 6ft from $170 + HST/day, $485 + HST/weekend; outdoor 10x10 $110 + HST/day, $305 + HST/weekend; power +$45 + HST",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3185,7 +3218,7 @@ window.EVENTS_REFRESH = [
   "location": "East Ferris Community Centre, 1267 Village Road, East Ferris, ON",
   "city": "East Ferris",
   "region": "Rest of Ontario",
-  "description": "Christmas market by The Nameless Brand North Bay Markets — looking for local vendors to save last-minute holiday shoppers from another generic gift card. DIY Christmas ornament station and photo section.\nTheme: Christmas / holiday season\nHow to apply: register via the link in the source post\nHours: 10:00 AM – 2:00 PM\nAttractions: DIY Christmas ornament station, photo section\nSource: https://facebook.com/groups/1559725434912476/permalink/2131143301104017/",
+  "description": "Christmas market by The Nameless Brand North Bay Markets — looking for local vendors to save last-minute holiday shoppers from another generic gift card. DIY Christmas ornament station and photo section.\nTheme: Christmas / holiday season\nHow to apply: register via the link in the source post\nFee: $55 per table or $100 for 2 tables\nHours: 10:00 AM – 2:00 PM\nAttractions: DIY Christmas ornament station, photo section\nSource: https://facebook.com/groups/1559725434912476/permalink/2131143301104017/",
   "fees": "$55 per table or $100 for 2 tables",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3196,8 +3229,8 @@ window.EVENTS_REFRESH = [
   "location": "Gale Centre Arena, 5152 Thorold Stone Rd, Niagara Falls, ON",
   "city": "Niagara Falls",
   "region": "Niagara Region",
-  "description": "City-sponsored indoor vendor market with Santa meet n' greet, cookie decorating, open skate and more. Vendor fee: $65 for a 6ft space (15 available) or $75 for an 8ft space (6 available). How to apply: https://forms.gle/uEN7utpVqfdmfoV98. Organizer: see the source post.\nSource: https://facebook.com/groups/524928052267953/permalink/1568884794538935/",
-  "fees": "$65/$75",
+  "description": "City-sponsored indoor vendor market with Santa meet n' greet, cookie decorating, open skate and more. Vendor fee: $65 for a 6ft space (15 available) or $75 for an 8ft space (6 available). How to apply: https://forms.gle/uEN7utpVqfdmfoV98. Organizer: see the source post.\nFee: $65/$75\nSource: https://facebook.com/groups/524928052267953/permalink/1568884794538935/",
+  "fees": "$65/6ft space or $75/8ft space",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3208,7 +3241,7 @@ window.EVENTS_REFRESH = [
   "city": "Cobourg",
   "region": "Northumberland",
   "description": "Holiday vendor market by Costa Crafted Events. Vendor fee not published — see application form. Theme: Christmas / holiday season. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
-  "fees": "",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3218,8 +3251,8 @@ window.EVENTS_REFRESH = [
   "location": "Garry's Garden Gallery, 5 Commerce Rd, Lindsay, ON K9V 5Y3",
   "city": "Lindsay",
   "region": "Kawarthas and Peterborough",
-  "description": "Vendor call: Christmas market in Garry's Garden Gallery's covered, heated greenhouse.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, greenhouse, weekend\nHours: not published (Saturday & Sunday markets)\nVendor types wanted: makers, artisans & local vendors; handcrafted goods\nHow to apply: https://garrysgardengallery.com/pages/christmas-market-vendor-application (also via link in their Instagram bio)\nSource: https://facebook.com/groups/1746193395565570/permalink/3483982515119974/\nNote: Nov 13-15 kickoff weekend is full for vendors.\n\n",
-  "fees": "not published (TBD)",
+  "description": "Vendor call: Christmas market in Garry's Garden Gallery's covered, heated greenhouse.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, greenhouse, weekend\nHours: not published (Saturday & Sunday markets)\nFee: not published (TBD)\nVendor types wanted: makers, artisans & local vendors; handcrafted goods\nHow to apply: https://garrysgardengallery.com/pages/christmas-market-vendor-application (also via link in their Instagram bio)\nSource: https://facebook.com/groups/1746193395565570/permalink/3483982515119974/\nNote: Nov 13-15 kickoff weekend is full for vendors.\n\n",
+  "fees": "Not published (TBD)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3230,7 +3263,7 @@ window.EVENTS_REFRESH = [
   "city": "Kingston",
   "region": "Kingston & Area",
   "description": "The Holiday Collector Expo with RJ Vendor Events — a festive day of buying, selling, and trading, just in time for Christmas.\nTheme: Christmas / Collectibles\nVendor types wanted: Trading cards — sports, Pokémon & TCG; hobby items & games; memorabilia; toys, comics & collectibles\nHow to apply: see the source post\nHours: 9:00 AM – 3:00 PM\nSource: https://facebook.com/groups/3489789037828435/permalink/3617876638353007/",
-  "fees": "",
+  "fees": "Not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3240,8 +3273,8 @@ window.EVENTS_REFRESH = [
   "location": "Holy Trinity Banquet Hall, 880 Barton St E, Hamilton, ON",
   "city": "Hamilton",
   "region": "Hamilton",
-  "description": "Lunch with Santa at Holy Trinity Banquet Hall in Hamilton — spaghetti lunch, photos with Santa, and cookie decorating. To apply, message the organizer or comment on the source post and they will send the application link.\nTheme: Christmas / holiday season\nAttractions: Spaghetti lunch, photos with Santa, cookie decorating\nHow to apply: Message the organizer or comment on the source post for the application link\nSource: https://facebook.com/groups/524928052267953/permalink/1585591179534963/",
-  "fees": "$125",
+  "description": "Lunch with Santa at Holy Trinity Banquet Hall in Hamilton — spaghetti lunch, photos with Santa, and cookie decorating. To apply, message the organizer or comment on the source post and they will send the application link.\nTheme: Christmas / holiday season\nAttractions: Spaghetti lunch, photos with Santa, cookie decorating\nFee: $125\nHow to apply: Message the organizer or comment on the source post for the application link\nSource: https://facebook.com/groups/524928052267953/permalink/1585591179534963/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3251,8 +3284,8 @@ window.EVENTS_REFRESH = [
   "location": "Something New, 416 Concession Street, Hamilton, ON",
   "city": "Hamilton",
   "region": "Hamilton",
-  "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
-  "fees": "$45",
+  "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nFee: $45\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
+  "fees": "$45/table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3262,7 +3295,7 @@ window.EVENTS_REFRESH = [
   "location": "Meridian Community Centre, 100 Meridian Way, Fonthill, Ontario",
   "city": "Fonthill",
   "region": "Niagara Region",
-  "description": "Holiday market mixing Christmas cheer with spooky magic - handmade goods, unique finds, local vendors. Vendor fee: $75. How to apply: see the source post link for how to apply. Organizer: Casey House.\nHours: 10:00 AM – 4:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1561447115282703/",
+  "description": "Holiday market mixing Christmas cheer with spooky magic - handmade goods, unique finds, local vendors. Vendor fee: $75. How to apply: see the source post link for how to apply. Organizer: Casey House.\nFee: $75\nHours: 10:00 AM – 4:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1561447115282703/",
   "fees": "$75",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3296,7 +3329,7 @@ window.EVENTS_REFRESH = [
   "city": "Ancaster",
   "region": "Hamilton",
   "description": "5th annual holiday festival vendor call from This Great City Business Network — local businesses, artisans, makers, food vendors and retailers, free admission for shoppers, family event at the Ancaster Fairgrounds. Vendor fee: not published — contact organizer. How to apply: vendor application at https:///christmasfest-2026-vendor-application/ (organizer states: WE DO NOT DO E-TRANSFER). Organizer: This Great City Business Network.\nHours: 11:00 AM – 4:30 PM\nAdmission: Free\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28102412052763289/",
-  "fees": "not published — contact organizer",
+  "fees": "Not published — contact organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3307,7 +3340,7 @@ window.EVENTS_REFRESH = [
   "city": "Windsor",
   "region": "Windsor-Essex",
   "description": "The Holiday Collective — a Christmas market in Windsor looking for local makers and small businesses to join. Spots are limited.\nTheme: Christmas\nHours: 10:00 AM – 3:00 PM\nVendor types wanted: Local makers and small businesses\nHow to apply: https://forms.gle/h2tm9BkpyMzv7njY7\nSource: https://facebook.com/groups/222210128370316/permalink/2173059686618674/",
-  "fees": "",
+  "fees": "Not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3317,7 +3350,7 @@ window.EVENTS_REFRESH = [
   "location": "Winona Gardens heated greenhouse, Winona",
   "city": "Winona",
   "region": "Hamilton",
-  "description": "Hours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
+  "description": "Fee: not stated by organizer\nHours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3328,7 +3361,7 @@ window.EVENTS_REFRESH = [
   "location": "Meridian Community Centre, 100 Meridian Way, Fonthill, ON",
   "city": "Fonthill",
   "region": "Niagara Region",
-  "description": "Monthly trading card show — calling all card collectors, Pokemon fans, sports card lovers, and TCG addicts. Buy, sell, trade, hunt for your next big pull, or just talk cards. Organizer: Toploaders Anonymous. Note: submitted on the organizer's behalf.\nSource: organizer\\'s Facebook post",
+  "description": "Monthly trading card show — calling all card collectors, Pokemon fans, sports card lovers, and TCG addicts. Buy, sell, trade, hunt for your next big pull, or just talk cards. Organizer: Toploaders Anonymous. Note: submitted on the organizer's behalf.\nFee: $75\nSource: organizer\\'s Facebook post",
   "fees": "$75",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3339,8 +3372,19 @@ window.EVENTS_REFRESH = [
   "location": "Winona Gardens heated greenhouse, Winona",
   "city": "Winona",
   "region": "Hamilton",
-  "description": "Hours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
+  "description": "Fee: not stated by organizer\nHours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
   "fees": "not stated by organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Cancer Fundraiser Market",
+  "date": "2027-01-30",
+  "time": "11 a.m.–3 p.m.",
+  "location": "Metropolitan Bible Church, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "Cancer Fundraiser Market at Metropolitan Bible Church in Ottawa - a day of shopping, raffles, games and live music raising money for the Ottawa Cancer Foundation, organized in memory of the organizer's mother.\nVendor fee: $60\nListing type: Vendor call\nHours: 11:00 AM - 3:00 PM\nHow to apply: https://forms.gle/S6SpHje46dLCszDY6\nSource: https://facebook.com/groups/524928052267953/permalink/1591784665582281/",
+  "fees": "$60",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3350,7 +3394,7 @@ window.EVENTS_REFRESH = [
   "location": "Winona Gardens heated greenhouse, Winona",
   "city": "Winona",
   "region": "Hamilton",
-  "description": "Hours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
+  "description": "Fee: not stated by organizer\nHours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3372,8 +3416,8 @@ window.EVENTS_REFRESH = [
   "location": "Oakville Place, Oakville, ON",
   "city": "Oakville",
   "region": "Halton Region",
-  "description": "Gotta Luv Butter Tart Festivals. 10x10 space; tables/chairs NOT provided; tablecloths must reach the floor (black/white preferred); no cooking inside the mall; no homemade signs; no outdoor chairs.\n\nApply: https://forms.gle/JAhxheu8gpv2A1QG8\nSource: https://facebook.com/groups/524928052267953/permalink/1576155597145188/\n\n",
-  "fees": "$185",
+  "description": "Gotta Luv Butter Tart Festivals. 10x10 space; tables/chairs NOT provided; tablecloths must reach the floor (black/white preferred); no cooking inside the mall; no homemade signs; no outdoor chairs.\n\nFee: $185\nApply: https://forms.gle/JAhxheu8gpv2A1QG8\nSource: https://facebook.com/groups/524928052267953/permalink/1576155597145188/\n\n",
+  "fees": "$185 (10x10)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3383,7 +3427,7 @@ window.EVENTS_REFRESH = [
   "location": "Winona Gardens heated greenhouse, Winona",
   "city": "Winona",
   "region": "Hamilton",
-  "description": "Hours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
+  "description": "Fee: not stated by organizer\nHours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3394,8 +3438,8 @@ window.EVENTS_REFRESH = [
   "location": "Kingston Shrine Club, 3260 Princess St, Kingston, ON",
   "city": "Kingston",
   "region": "Kingston & Area",
-  "description": "Made with Love Market — a vendor market presented by RJ Vendor Events at the Kingston Shrine Club. Vendor setup runs 7:30–9:00 AM. Registration is open.\nTheme: TBD\nHow to apply: see the source post\nHours: 9:00 AM – 3:00 PM\nSource: https://facebook.com/groups/3489789037828435/permalink/3610410265766311/",
-  "fees": "$50 per table",
+  "description": "Made with Love Market — a vendor market presented by RJ Vendor Events at the Kingston Shrine Club. Vendor setup runs 7:30–9:00 AM. Registration is open.\nTheme: TBD\nFee: $50 per table\nHow to apply: see the source post\nHours: 9:00 AM – 3:00 PM\nSource: https://facebook.com/groups/3489789037828435/permalink/3610410265766311/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3405,7 +3449,7 @@ window.EVENTS_REFRESH = [
   "location": "Winona Gardens heated greenhouse, Winona",
   "city": "Winona",
   "region": "Hamilton",
-  "description": "Hours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
+  "description": "Fee: not stated by organizer\nHours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3416,7 +3460,7 @@ window.EVENTS_REFRESH = [
   "location": "Winona Gardens heated greenhouse, Winona",
   "city": "Winona",
   "region": "Hamilton",
-  "description": "Hours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
+  "description": "Fee: not stated by organizer\nHours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3427,7 +3471,7 @@ window.EVENTS_REFRESH = [
   "location": "Winona Gardens heated greenhouse, Winona",
   "city": "Winona",
   "region": "Hamilton",
-  "description": "Hours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
+  "description": "Fee: not stated by organizer\nHours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3438,8 +3482,8 @@ window.EVENTS_REFRESH = [
   "location": "Georgian Mall, Barrie, ON",
   "city": "Barrie",
   "region": "Simcoe County",
-  "description": "Gotta Luv Butter Tart Festivals. 10x10 space; tables/chairs NOT provided.\n\nVendor types wanted: no cookies, pretzels, popcorn, chocolate bars, body creams, fragrances\nApply: https://forms.gle/8CKQHbusPaoqb1T1A\nSource: https://facebook.com/groups/524928052267953/permalink/1576155597145188/\n\n",
-  "fees": "$150",
+  "description": "Gotta Luv Butter Tart Festivals. 10x10 space; tables/chairs NOT provided.\n\nVendor types wanted: no cookies, pretzels, popcorn, chocolate bars, body creams, fragrances\nFee: $150\nApply: https://forms.gle/8CKQHbusPaoqb1T1A\nSource: https://facebook.com/groups/524928052267953/permalink/1576155597145188/\n\n",
+  "fees": "$150 (10x10)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3449,7 +3493,7 @@ window.EVENTS_REFRESH = [
   "location": "Winona Gardens heated greenhouse, Winona",
   "city": "Winona",
   "region": "Hamilton",
-  "description": "Hours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
+  "description": "Fee: not stated by organizer\nHours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3460,7 +3504,7 @@ window.EVENTS_REFRESH = [
   "location": "Winona Gardens heated greenhouse, Winona",
   "city": "Winona",
   "region": "Hamilton",
-  "description": "Hours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
+  "description": "Fee: not stated by organizer\nHours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3471,8 +3515,8 @@ window.EVENTS_REFRESH = [
   "location": "Kingston Shrine Club, 3260 Princess St, Kingston, ON",
   "city": "Kingston",
   "region": "Kingston & Area",
-  "description": "Hop Into Spring Market — a spring vendor market presented by RJ Vendor Events at the Kingston Shrine Club. Vendor setup runs 8:00–9:00 AM.\nTheme: Spring\nHow to apply: see the source post\nHours: 9:00 AM – 3:00 PM\nSource: https://facebook.com/groups/3489789037828435/permalink/3610410265766311/",
-  "fees": "$50 per table",
+  "description": "Hop Into Spring Market — a spring vendor market presented by RJ Vendor Events at the Kingston Shrine Club. Vendor setup runs 8:00–9:00 AM.\nTheme: Spring\nFee: $50 per table\nHow to apply: see the source post\nHours: 9:00 AM – 3:00 PM\nSource: https://facebook.com/groups/3489789037828435/permalink/3610410265766311/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3482,7 +3526,7 @@ window.EVENTS_REFRESH = [
   "location": "Winona Gardens heated greenhouse, Winona",
   "city": "Winona",
   "region": "Hamilton",
-  "description": "Hours: 9 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Easter weekend edition of the Winona Gardens winter market series (the weekly Saturday run, Jan 23 – Mar 20, runs 10 AM – 3 PM)\nListing type: Vendor call\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
+  "description": "Fee: not stated by organizer\nHours: 9 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Easter weekend edition of the Winona Gardens winter market series (the weekly Saturday run, Jan 23 – Mar 20, runs 10 AM – 3 PM)\nListing type: Vendor call\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3493,7 +3537,7 @@ window.EVENTS_REFRESH = [
   "location": "Winona Gardens heated greenhouse, Winona",
   "city": "Winona",
   "region": "Hamilton",
-  "description": "Hours: 9 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Easter weekend edition of the Winona Gardens winter market series (the weekly Saturday run, Jan 23 – Mar 20, runs 10 AM – 3 PM)\nListing type: Vendor call\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
+  "description": "Fee: not stated by organizer\nHours: 9 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Easter weekend edition of the Winona Gardens winter market series (the weekly Saturday run, Jan 23 – Mar 20, runs 10 AM – 3 PM)\nListing type: Vendor call\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
   "fees": "not stated by organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3504,8 +3548,8 @@ window.EVENTS_REFRESH = [
   "location": "Sunderland, Ontario",
   "city": "Sunderland",
   "region": "Durham Region",
-  "description": "Vendor call: Sunderland Maple Syrup Festival 2027.\n\nTags: maple, festival, spring\nHours: not published\nHow to apply: vendor application form via the organizer's Facebook post (no direct link published)\nsee the source post link for how to apply.\nSource: https://facebook.com/groups/145130302589219/permalink/2626881214414103/\nNote: vendor spaces limited; applications reviewed for product diversity.\n\n",
-  "fees": "not published (TBD)",
+  "description": "Vendor call: Sunderland Maple Syrup Festival 2027.\n\nTags: maple, festival, spring\nHours: not published\nFee: not published (TBD)\nHow to apply: vendor application form via the organizer's Facebook post (no direct link published)\nsee the source post link for how to apply.\nSource: https://facebook.com/groups/145130302589219/permalink/2626881214414103/\nNote: vendor spaces limited; applications reviewed for product diversity.\n\n",
+  "fees": "Not published (TBD)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3515,8 +3559,19 @@ window.EVENTS_REFRESH = [
   "location": "Garnet B. Rickard Recreation Complex, Bowmanville, ON",
   "city": "Bowmanville",
   "region": "Durham Region",
-  "description": "Gotta Luv Butter Tart Festivals. 8x10 space; tables/chairs NOT provided. Butter tart contest; limited vendors in the full hall.\n\nApply: https://forms.gle/HPqyyhHBACoJiBw57\nSource: https://facebook.com/groups/524928052267953/permalink/1576155597145188/\n\n",
-  "fees": "$150",
+  "description": "Gotta Luv Butter Tart Festivals. 8x10 space; tables/chairs NOT provided. Butter tart contest; limited vendors in the full hall.\n\nFee: $150\nApply: https://forms.gle/HPqyyhHBACoJiBw57\nSource: https://facebook.com/groups/524928052267953/permalink/1576155597145188/\n\n",
+  "fees": "$150 (8x10)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Old South Artisan & Vendor Market",
+  "date": "2027-04-24",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Wortley Road Public School, 301 Wortley Road, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "Old South Artisan & Vendor Market - the 9th Annual Wortley Road School Fundraiser Market in London. Indoor-outdoor pop-up market with 130+ vendors; family event with shopping, food and activities. Admission: Free.\nVendor fee: $40-$70 (space cost)\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM\nHow to apply: Email oldsouthmarketfundraiser@gmail.com\nSource: https://facebook.com/groups/524928052267953/permalink/1592240608870020/",
+  "fees": "$40-$70",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3526,8 +3581,8 @@ window.EVENTS_REFRESH = [
   "location": "Petawawa Civic Centre, 16 Civic Centre Rd, Petawawa, ON",
   "city": "Petawawa",
   "region": "Rest of Ontario",
-  "description": "The Ottawa Valley's largest and longest running home & vendor show. Hours: Fri 12-8 PM, Sat 10 AM-6 PM, Sun 10 AM-3 PM (per organizer website showcaseinpetawawa.ca). Vendor fee: varies by booth — e-transfer, credit card, or cheque. Includes tables, chairs, pipe & drape, Wi-Fi internet. Expected attendance: 10,000. How to apply: https://showcaseinpetawawa.ca. Organizer: see the source post.\nTags: petawawa, pembroke, home show\nVendor types wanted: Art & Design — Fine Art, Art & Design — Photography, Art & Design — Sculpture & Ceramics, Art & Design — Digital Art & Graphic Design, Handmade Crafts — Woodworking, Handmade Crafts — Glasswork, Handmade Crafts — Metalwork & Blacksmithing, Handmade Crafts — Leather Goods, Handmade Crafts — Textiles & Fiber Arts, Handmade Crafts — Paper Goods & Stationery, Fashion & Apparel — Handmade Clothing, Fashion & Apparel — Upcycled & Vintage Clothing, Fashion & Apparel — Accessories, Fashion & Apparel — Children & Baby Apparel, Jewelry — Fine Jewelry, Jewelry — Artisan & Costume Jewelry, Jewelry — Upcycled/Vintage Jewelry, Home & Living — Candles & Home Fragrance, Home & Living — Home Decor, Home & Living — Kitchen & Dining, Home & Living — Garden & Plants, Health, Beauty & Wellness — Skincare & Bath, Health, Beauty & Wellness — Cosmetics & Haircare, Health, Beauty & Wellness — Holistic Wellness, Cottage Food & Specialty Grocery — Baked Goods, Cottage Food & Specialty Grocery — Preserves & Condiments, Cottage Food & Specialty Grocery — Confections, Cottage Food & Specialty Grocery — Beverages, Cottage Food & Specialty Grocery — Honey & Maple Products, Ready-to-Eat Food & Food Trucks — Food Trucks & Trailers, Ready-to-Eat Food & Food Trucks — Pop-up Concessions, Ready-to-Eat Food & Food Trucks — Hot Food Booths, Ready-to-Eat Food & Food Trucks — Cold Refreshments, Kids & Toys — Handmade Toys, Kids & Toys — Games & Puzzles, Kids & Toys — Educational & Sensory Play Goods, Pet Products — Pet Treats & Food, Pet Products — Pet Accessories, Pet Products — Pet Toys & Grooming Products, Seasonal & Holiday — Christmas/Holiday Ornaments & Decor, Seasonal & Holiday — Halloween/Autumn Decorations, Seasonal & Holiday — Spring/Easter Accents, Commercial, Boutique & Resellers — Boutique Truck/Mobile Fashion Vans, Commercial, Boutique & Resellers — Curated Vintage & Antiques, Commercial, Boutique & Resellers — Fair Trade Imports, Commercial, Boutique & Resellers — Direct Sales / MLM, Services & Interactive Booths — Face Painting & Henna Artists, Services & Interactive Booths — Caricature & Live Portrait Artists, Services & Interactive Booths — Tarot Card / Psychic Readings\nSource: https://www.facebook.com/ShowcaseVendorEvents/",
-  "fees": "Varies",
+  "description": "The Ottawa Valley's largest and longest running home & vendor show. Hours: Fri 12-8 PM, Sat 10 AM-6 PM, Sun 10 AM-3 PM (per organizer website showcaseinpetawawa.ca). Vendor fee: varies by booth — e-transfer, credit card, or cheque. Includes tables, chairs, pipe & drape, Wi-Fi internet. Expected attendance: 10,000. How to apply: https://showcaseinpetawawa.ca. Organizer: see the source post.\nTags: petawawa, pembroke, home show\nVendor types wanted: Art & Design — Fine Art, Art & Design — Photography, Art & Design — Sculpture & Ceramics, Art & Design — Digital Art & Graphic Design, Handmade Crafts — Woodworking, Handmade Crafts — Glasswork, Handmade Crafts — Metalwork & Blacksmithing, Handmade Crafts — Leather Goods, Handmade Crafts — Textiles & Fiber Arts, Handmade Crafts — Paper Goods & Stationery, Fashion & Apparel — Handmade Clothing, Fashion & Apparel — Upcycled & Vintage Clothing, Fashion & Apparel — Accessories, Fashion & Apparel — Children & Baby Apparel, Jewelry — Fine Jewelry, Jewelry — Artisan & Costume Jewelry, Jewelry — Upcycled/Vintage Jewelry, Home & Living — Candles & Home Fragrance, Home & Living — Home Decor, Home & Living — Kitchen & Dining, Home & Living — Garden & Plants, Health, Beauty & Wellness — Skincare & Bath, Health, Beauty & Wellness — Cosmetics & Haircare, Health, Beauty & Wellness — Holistic Wellness, Cottage Food & Specialty Grocery — Baked Goods, Cottage Food & Specialty Grocery — Preserves & Condiments, Cottage Food & Specialty Grocery — Confections, Cottage Food & Specialty Grocery — Beverages, Cottage Food & Specialty Grocery — Honey & Maple Products, Ready-to-Eat Food & Food Trucks — Food Trucks & Trailers, Ready-to-Eat Food & Food Trucks — Pop-up Concessions, Ready-to-Eat Food & Food Trucks — Hot Food Booths, Ready-to-Eat Food & Food Trucks — Cold Refreshments, Kids & Toys — Handmade Toys, Kids & Toys — Games & Puzzles, Kids & Toys — Educational & Sensory Play Goods, Pet Products — Pet Treats & Food, Pet Products — Pet Accessories, Pet Products — Pet Toys & Grooming Products, Seasonal & Holiday — Christmas/Holiday Ornaments & Decor, Seasonal & Holiday — Halloween/Autumn Decorations, Seasonal & Holiday — Spring/Easter Accents, Commercial, Boutique & Resellers — Boutique Truck/Mobile Fashion Vans, Commercial, Boutique & Resellers — Curated Vintage & Antiques, Commercial, Boutique & Resellers — Fair Trade Imports, Commercial, Boutique & Resellers — Direct Sales / MLM, Services & Interactive Booths — Face Painting & Henna Artists, Services & Interactive Booths — Caricature & Live Portrait Artists, Services & Interactive Booths — Tarot Card / Psychic Readings\nFee: Varies\nSource: https://www.facebook.com/ShowcaseVendorEvents/",
+  "fees": "Varies by booth",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3535,10 +3590,10 @@ window.EVENTS_REFRESH = [
   "date": "2027-05-09",
   "time": "10 a.m.–4 p.m.",
   "location": "Location TBA (per organizer form)",
-  "city": "TBA",
+  "city": "",
   "region": "Rest of Ontario",
   "description": "Mother's Day vendor market by Costa Crafted Events. Venue and hours not yet published — see application form. Vendor fee not published. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
-  "fees": "",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3549,7 +3604,7 @@ window.EVENTS_REFRESH = [
   "city": "Cobourg",
   "region": "Northumberland",
   "description": "Summer vendor market by Costa Crafted Events. Venue and hours not yet published — see application form. Vendor fee not published. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
-  "fees": "",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3560,7 +3615,7 @@ window.EVENTS_REFRESH = [
   "city": "Belleville",
   "region": "Kingston & Area",
   "description": "Fall vendor market by Costa Crafted Events. Venue and hours not yet published — see application form. Vendor fee not published. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
-  "fees": "",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3571,7 +3626,7 @@ window.EVENTS_REFRESH = [
   "city": "Belleville",
   "region": "Kingston & Area",
   "description": "Holiday vendor market by Costa Crafted Events. Venue and hours not yet published — see application form. Vendor fee not published. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
-  "fees": "",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3582,7 +3637,7 @@ window.EVENTS_REFRESH = [
   "city": "Cobourg",
   "region": "Northumberland",
   "description": "Holiday vendor market by Costa Crafted Events. Venue and hours not yet published — see application form. Vendor fee not published. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
-  "fees": "",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
