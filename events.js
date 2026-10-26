@@ -2112,6 +2112,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Glenwood United Church Christmas Sale",
+  "date": "2026-11-28",
+  "time": "Time not listed",
+  "location": "Glenwood United Church, Windsor, ON",
+  "city": "Windsor",
+  "region": "Windsor-Essex",
+  "description": "Christmas Sale at Glenwood United Church in Windsor — the church is looking for a few more vendors to round out the sale. Emphasis is on hand-crafted items; direct-sales vendors and food vendors are not being accepted at this time. Hours and vendor fee were not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nVendor types wanted: Hand-crafted items (no direct sales, no food vendors)\nHow to apply: see the source post\nSource: https://facebook.com/groups/2320917288223463/permalink/4541962492785587/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Hawks Holiday Bazaar",
   "date": "2026-11-28",
   "time": "9 a.m.–3 p.m.",
@@ -2585,6 +2596,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Christmas Art Market — Call for Artists",
+  "date": "2026-12-05",
+  "time": "Time not listed",
+  "location": "12 Cann St, Huntsville, ON",
+  "city": "Huntsville",
+  "region": "Rest of Ontario",
+  "description": "Call for artists — Christmas Art Market at the art gallery at 12 Cann St in Huntsville. Hours and vendor fee were not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nVendor types wanted: Artists\nHow to apply: see the source post\nSource: https://facebook.com/groups/168481472256405/permalink/990583453379532/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Christmas in Kendal",
   "date": "2026-12-05",
   "time": "10 a.m.–4 p.m.",
@@ -3044,6 +3066,17 @@ window.EVENTS_REFRESH = [
   "region": "Windsor-Essex",
   "description": "East Windsor Holiday Family Markets — a two-day holiday family market at Collège Boréal in Windsor's east end. Vendors may join one day or both days; the space is 10×10 with two chairs included.\nTheme: Christmas\nVendor types wanted: Crafters, artisans and small businesses\nFee: $40 per day for a 10×10 space\nHow to apply: see the source post\nHours: 10:00 AM – 3:00 PM (both days)\nSource: https://facebook.com/groups/2320917288223463/permalink/4534527220195781/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Essex Swim & Lifesaving Club — Vendors Wanted",
+  "date": "2026-12-12",
+  "time": "9 a.m.–4 p.m.",
+  "location": "Essex Recreation Complex, Essex, ON",
+  "city": "Essex",
+  "region": "Windsor-Essex",
+  "description": "Fundraiser vendor show for the Essex Swim & Lifesaving Club at the Essex Recreation Complex — all proceeds go towards supporting the club's athletes. Vendor spaces are 8x6 ft, starting at $60 for one day or $100 for both days; tables are not provided. Priority will be given to vendors committing to both days.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 4:00 PM\nHow to apply: see the source post\nSource: https://facebook.com/groups/2320917288223463/permalink/4543743969274106/",
+  "fees": "$60 for 1 day; $100 for 2 days (8x6 space)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
