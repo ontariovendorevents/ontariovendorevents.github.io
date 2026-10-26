@@ -2,6 +2,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Brawley Woods Haunted Walk — Vendors Wanted (Oct 23–25)",
   "date": "2026-10-23",
+  "endDate": "2026-10-25",
   "time": "Time not listed",
   "location": "Brawley Woods, 1320 Brawley Rd W, Whitby, ON",
   "city": "Whitby",
@@ -13,6 +14,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Haunt at Harrison",
   "date": "2026-10-23",
+  "endDate": "2026-10-25",
   "time": "9 a.m.–5 p.m.",
   "location": "Harrison Park, Owen Sound, Ontario",
   "city": "Owen Sound",
@@ -24,6 +26,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Fall Harvest Market (vendor call)",
   "date": "2026-10-24",
+  "endDate": "2026-10-25",
   "time": "12 p.m.–8 p.m.",
   "location": "Lime Ridge Mall, Hamilton, ON",
   "city": "Hamilton",
@@ -35,6 +38,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Gleam Makers Collective October Makers Market",
   "date": "2026-10-24",
+  "endDate": "2026-10-25",
   "time": "10 a.m.–5 p.m.",
   "location": "Madison Ave & Dupont St, Toronto, ON (below Casa Loma, near Dupont Station)",
   "city": "Toronto",
@@ -90,6 +94,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "MACABRISTA: A Halloween Feast + Fair",
   "date": "2026-10-25",
+  "endDate": "2026-10-29",
   "time": "2 p.m.–12 a.m.",
   "location": "Motorista Studio, 25 Commercial Rd, Toronto, ON",
   "city": "Toronto",
@@ -123,6 +128,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Ottawa Rock N' Gem Show",
   "date": "2026-10-29",
+  "endDate": "2026-11-01",
   "time": "Time not listed",
   "location": "Cohere Centre, Ottawa, ON",
   "city": "Ottawa",
@@ -134,6 +140,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Brawley Woods Haunted Walk — Vendors Wanted (Oct 30–Nov 1)",
   "date": "2026-10-30",
+  "endDate": "2026-11-01",
   "time": "Time not listed",
   "location": "Brawley Woods, 1320 Brawley Rd W, Whitby, ON",
   "city": "Whitby",
@@ -156,6 +163,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Fall Harvest Market (vendor call)",
   "date": "2026-10-31",
+  "endDate": "2026-11-01",
   "time": "12 p.m.–8 p.m.",
   "location": "Lime Ridge Mall, Hamilton, ON",
   "city": "Hamilton",
@@ -233,6 +241,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Nepean Sportsplex Christmas Craft Show",
   "date": "2026-11-05",
+  "endDate": "2026-11-08",
   "time": "10 a.m.–4 p.m.",
   "location": "Nepean Sportsplex, 1701 Woodroffe Avenue, Ottawa, ON",
   "city": "Ottawa",
@@ -266,6 +275,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "London Rock N' Gem Show",
   "date": "2026-11-06",
+  "endDate": "2026-11-08",
   "time": "Time not listed",
   "location": "RBC Place, London, ON",
   "city": "London",
@@ -288,6 +298,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "A Country Christmas Gathering Tour - Nov 7-8",
   "date": "2026-11-07",
+  "endDate": "2026-11-08",
   "time": "10 a.m.–3 p.m.",
   "location": "Grand Trunk Market, 28 McMaster Road, Trenton, Ontario",
   "city": "Trenton",
@@ -299,6 +310,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Breslau Holiday Market",
   "date": "2026-11-07",
+  "endDate": "2026-11-08",
   "time": "9 a.m.–5 p.m.",
   "location": "Breslau Community Centre, Breslau, Ontario",
   "city": "Breslau",
@@ -497,6 +509,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Rotary Club of Gananoque Christmas Craft Fair (43rd annual)",
   "date": "2026-11-07",
+  "endDate": "2026-11-08",
   "time": "9 a.m.–5 p.m.",
   "location": "Gananoque, Ontario",
   "city": "Gananoque",
@@ -607,6 +620,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Distillery Winter Village",
   "date": "2026-11-12",
+  "endDate": "2027-01-03",
   "time": "Time not listed",
   "location": "Distillery Historic District, 55 Mill St, Toronto, ON",
   "city": "Toronto",
@@ -618,6 +632,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Downtown Whitby BIA Christmas Market",
   "date": "2026-11-13",
+  "endDate": "2026-11-14",
   "time": "Time not listed",
   "location": "Downtown Whitby, Whitby, ON",
   "city": "Whitby",
@@ -629,6 +644,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Kincardine Holiday Market",
   "date": "2026-11-13",
+  "endDate": "2026-11-14",
   "time": "9 a.m.–5 p.m.",
   "location": "Davidson Centre, 601 Durham St, Kincardine, ON",
   "city": "Kincardine",
@@ -695,6 +711,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "A Country Christmas Gathering Tour - Nov 14-15",
   "date": "2026-11-14",
+  "endDate": "2026-11-15",
   "time": "10 a.m.–3 p.m.",
   "location": "Grand Trunk Market, 28 McMaster Road, Trenton, Ontario",
   "city": "Trenton",
@@ -816,6 +833,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Christmas on Campus (LEAP Events)",
   "date": "2026-11-14",
+  "endDate": "2026-11-15",
   "time": "11 a.m.–4 p.m.",
   "location": "Kemptville Campus, 75 Campus Drive, Kemptville, ON",
   "city": "Kemptville",
@@ -871,6 +889,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "International Fest Cambridge Christmas Market",
   "date": "2026-11-14",
+  "endDate": "2026-11-15",
   "time": "11 a.m.–7 p.m.",
   "location": "Polish Club Cambridge, 265 Avenue Rd, Cambridge, ON",
   "city": "Cambridge",
@@ -1025,6 +1044,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "The Inspired Artisan's Christmas Market",
   "date": "2026-11-14",
+  "endDate": "2026-11-15",
   "time": "10 a.m.–4 p.m.",
   "location": "Elora Legion, Elora, ON",
   "city": "Elora",
@@ -1201,6 +1221,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Holly Jolly Market (Picton)",
   "date": "2026-11-20",
+  "endDate": "2026-11-22",
   "time": "12 p.m.–4 p.m.",
   "location": "Crystal Palace, 375 Main Street, Picton, ON",
   "city": "Picton",
@@ -1234,6 +1255,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Stouffville Holiday Market",
   "date": "2026-11-20",
+  "endDate": "2026-11-21",
   "time": "Time not listed",
   "location": "6240 Main St & Civic Square, Stouffville, ON",
   "city": "Stouffville",
@@ -1245,6 +1267,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Toronto Botanical Garden Holiday EcoMarket (Nov 20–22)",
   "date": "2026-11-20",
+  "endDate": "2026-11-22",
   "time": "Time not listed",
   "location": "Toronto Botanical Garden, 777 Lawrence Ave E, Toronto, ON",
   "city": "Toronto",
@@ -1410,6 +1433,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Paris Sip n Shop Holiday Market X Pickle Lovers Pop-Up",
   "date": "2026-11-21",
+  "endDate": "2026-11-22",
   "time": "9 a.m.–5 p.m.",
   "location": "Paris Fairgrounds, 139 Silver St, Paris, ON",
   "city": "Paris",
@@ -1520,6 +1544,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Swedish Christmas Fair",
   "date": "2026-11-21",
+  "endDate": "2026-11-22",
   "time": "Time not listed",
   "location": "George Brown Waterfront Campus, 51 Dockside Dr, Toronto, ON",
   "city": "Toronto",
@@ -1630,6 +1655,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "WinterFest Hamilton",
   "date": "2026-11-21",
+  "endDate": "2026-11-22",
   "time": "12 p.m.–8 p.m.",
   "location": "Lime Ridge Mall, Hamilton, ON",
   "city": "Hamilton",
@@ -1817,6 +1843,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "The Red Barn Christmas Market",
   "date": "2026-11-26",
+  "endDate": "2026-11-29",
   "time": "Time not listed",
   "location": "The Eddie Hotel & Farm, 15786 Loyalist Parkway, Prince Edward County, ON",
   "city": "Prince Edward County",
@@ -1839,6 +1866,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Aurora Christmas Market (Nov 27–29)",
   "date": "2026-11-27",
+  "endDate": "2026-11-29",
   "time": "Time not listed",
   "location": "Aurora Town Square, 50 Victoria Street, Aurora, ON",
   "city": "Aurora",
@@ -1850,6 +1878,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Deck the Mall (B Morey Made)",
   "date": "2026-11-27",
+  "endDate": "2026-11-29",
   "time": "9:30 a.m.–5 p.m.",
   "location": "Georgian Mall, Barrie, ON",
   "city": "Barrie",
@@ -1872,6 +1901,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "One Of A Kind Christmas Show",
   "date": "2026-11-27",
+  "endDate": "2026-12-06",
   "time": "Time not listed",
   "location": "Enercare Centre, 100 Princes' Blvd, Toronto, ON",
   "city": "Toronto",
@@ -1883,6 +1913,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Ottawa Valley Heritage Markets Christmas Market",
   "date": "2026-11-27",
+  "endDate": "2026-11-28",
   "time": "4 p.m.–3 p.m.",
   "location": "Algonquin College – Waterfront Campus, Main Hall, Pembroke, ON",
   "city": "Pembroke",
@@ -1949,6 +1980,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Black Friday Market",
   "date": "2026-11-28",
+  "endDate": "2026-11-29",
   "time": "Time not listed",
   "location": "Pen Centre, 221 Glendale Ave, St. Catharines, ON",
   "city": "St. Catharines",
@@ -2059,6 +2091,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Elora Holiday Market",
   "date": "2026-11-28",
+  "endDate": "2026-11-29",
   "time": "9 a.m.–5 p.m.",
   "location": "Elora Grandway Event Centre, Elora, Ontario",
   "city": "Elora",
@@ -2323,6 +2356,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Southern Georgian Bay Christmas Market",
   "date": "2026-11-28",
+  "endDate": "2026-11-29",
   "time": "9 a.m.–5 p.m.",
   "location": "Alpine Ski Club, The Blue Mountains, Ontario",
   "city": "The Blue Mountains",
@@ -2356,6 +2390,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Sugar & Snow Holiday Market 2026",
   "date": "2026-11-28",
+  "endDate": "2026-11-29",
   "time": "10 a.m.–4 p.m.",
   "location": "Chestnut Hill Developments Recreation Complex, 1867 Valley Farm Rd, Pickering, ON",
   "city": "Pickering",
@@ -2389,6 +2424,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "WinterFest Hamilton",
   "date": "2026-11-28",
+  "endDate": "2026-11-29",
   "time": "12 p.m.–8 p.m.",
   "location": "Lime Ridge Mall, Hamilton, ON",
   "city": "Hamilton",
@@ -2510,6 +2546,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Aurora Christmas Market (Dec 4–6)",
   "date": "2026-12-04",
+  "endDate": "2026-12-06",
   "time": "Time not listed",
   "location": "Aurora Town Square, 50 Victoria Street, Aurora, ON",
   "city": "Aurora",
@@ -2664,6 +2701,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "London Holiday Market",
   "date": "2026-12-05",
+  "endDate": "2026-12-06",
   "time": "9 a.m.–5 p.m.",
   "location": "Westmount Shopping Centre, London, ON",
   "city": "London",
@@ -2675,6 +2713,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Magic of Christmas Market (1D Studios)",
   "date": "2026-12-05",
+  "endDate": "2026-12-06",
   "time": "10 a.m.–6 p.m.",
   "location": "1D Studios, 2935 Conroy Rd, Ottawa, ON",
   "city": "Ottawa",
@@ -2829,6 +2868,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Winona Gardens Christmas Market",
   "date": "2026-12-05",
+  "endDate": "2026-12-06",
   "time": "9 a.m.–4 p.m.",
   "location": "Winona Gardens, Winona, ON",
   "city": "Winona",
@@ -2851,6 +2891,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "WinterFest Hamilton",
   "date": "2026-12-05",
+  "endDate": "2026-12-06",
   "time": "12 p.m.–8 p.m.",
   "location": "Lime Ridge Mall, Hamilton, ON",
   "city": "Hamilton",
@@ -2895,6 +2936,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Holiday Craft Market (Toad Hall Niagara)",
   "date": "2026-12-06",
+  "endDate": "2026-12-07",
   "time": "Time not listed",
   "location": "Toad Hall Niagara, 1413 Lakeshore Road, Niagara-on-the-Lake, ON",
   "city": "Niagara-on-the-Lake",
@@ -2983,6 +3025,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Grateful Market Christmas Market",
   "date": "2026-12-10",
+  "endDate": "2026-12-23",
   "time": "2 p.m.–10 p.m.",
   "location": "Motorista Studio, Toronto, ON",
   "city": "Toronto",
@@ -3060,6 +3103,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "East Windsor Holiday Family Markets",
   "date": "2026-12-12",
+  "endDate": "2026-12-13",
   "time": "10 a.m.–3 p.m.",
   "location": "Collège Boréal, 7515 Forest Glade Dr, Windsor, ON",
   "city": "Windsor",
@@ -3071,6 +3115,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Essex Swim & Lifesaving Club — Vendors Wanted",
   "date": "2026-12-12",
+  "endDate": "2026-12-13",
   "time": "9 a.m.–4 p.m.",
   "location": "Essex Recreation Complex, Essex, ON",
   "city": "Essex",
@@ -3236,6 +3281,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "WinterFest Hamilton",
   "date": "2026-12-12",
+  "endDate": "2026-12-13",
   "time": "12 p.m.–8 p.m.",
   "location": "Lime Ridge Mall, Hamilton, ON",
   "city": "Hamilton",
@@ -3335,6 +3381,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Toronto Botanical Garden Holiday EcoMarket (Dec 18–20)",
   "date": "2026-12-18",
+  "endDate": "2026-12-20",
   "time": "Time not listed",
   "location": "Toronto Botanical Garden, 777 Lawrence Ave E, Toronto, ON",
   "city": "Toronto",
@@ -3434,6 +3481,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "WinterFest Hamilton",
   "date": "2026-12-19",
+  "endDate": "2026-12-20",
   "time": "12 p.m.–8 p.m.",
   "location": "Lime Ridge Mall, Hamilton, ON",
   "city": "Hamilton",
@@ -3676,6 +3724,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Sunderland Maple Syrup Festival 2027",
   "date": "2027-04-10",
+  "endDate": "2027-04-11",
   "time": "9 a.m.–5 p.m.",
   "location": "Sunderland, Ontario",
   "city": "Sunderland",
@@ -3709,6 +3758,7 @@ window.EVENTS_REFRESH = [
  {
   "title": "Petawawa Showcase",
   "date": "2027-04-30",
+  "endDate": "2027-05-02",
   "time": "Time not listed",
   "location": "Petawawa Civic Centre, 16 Civic Centre Rd, Petawawa, ON",
   "city": "Petawawa",
