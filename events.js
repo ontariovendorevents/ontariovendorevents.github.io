@@ -12,75 +12,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "Haunt at Harrison",
-  "date": "2026-10-23",
-  "endDate": "2026-10-25",
-  "time": "9 a.m.–5 p.m.",
-  "location": "Harrison Park, Owen Sound, Ontario",
-  "city": "Owen Sound",
-  "region": "Rest of Ontario",
-  "description": "Three-day Halloween experience and market at Harrison Park. Vendors may attend 1, 2 or all 3 days; payment plans available; onsite overnight security. Vendor fee: not published - contact organizer. Hours not published - confirm with organizer. How to apply: email address not published in post - reach out via the Haunt at Harrison Facebook page. Organizer: Haunt at Harrison. Admission: Free daytime festival (Sat & Sun 12-5 PM); haunted attractions ticketed (Fri 5-10 PM, Sat 6-10 PM, Sun 6-9 PM). Attractions: haunted house, lantern walk, scare trails, escape rooms, live entertainment, circus performers, fire breathers, roaming scare actors, local vendors, daytime & nighttime market, haunted mini putt, food & drinks. Attendee info sources: https://www.owensoundtourism.ca/en/community-news-events/events-festivals/show/haunt-at-harrison and https://events.frontdoorplus.com/event/2482\nSource: https://facebook.com/groups/524928052267953/permalink/1564596878301060/",
-  "fees": "not published - contact organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Fall Harvest Market (vendor call)",
-  "date": "2026-10-24",
-  "endDate": "2026-10-25",
-  "time": "12 p.m.–8 p.m.",
-  "location": "Lime Ridge Mall, Hamilton, ON",
-  "city": "Hamilton",
-  "region": "Hamilton",
-  "description": "Fall festival market at Lime Ridge Mall seeking vendors; runs every October weekend. Vendor fee: not published - contact organizer. How to apply: https:///thehammer. Organizer: The Hammer. Admission: Tickets starting at $6.99. Attractions: unlimited train rides, bouncy castles, children's hay maze, trucks and tractors, face painting, pumpkin bowling, character meet-and-greets, giant lawn games, axe throwing, live music, pumpkin painting, 35-foot walk-in tree attraction, marshmallow fire pits, artisan vendors, beer garden, fall food and beverages (Sat & Sun 12-8 PM; food, beer garden, fire pits and pumpkin painting cost extra). Attendee info sources: https://limeridgemall.ca/events/lime-ridge-mall-fall-harvest-market-at-lime-ridge-this-october/?shem=aimgspe and https://urbanicity.com/hamiltons-street-eats-market-transforming-into-fall-harvest-market-for-autumn-vibes/\nSource: https://facebook.com/groups/524928052267953/permalink/1564685448292203/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Gleam Makers Collective October Makers Market",
-  "date": "2026-10-24",
-  "endDate": "2026-10-25",
-  "time": "10 a.m.–5 p.m.",
-  "location": "Madison Ave & Dupont St, Toronto, ON (below Casa Loma, near Dupont Station)",
-  "city": "Toronto",
-  "region": "Toronto",
-  "description": "Curated October makers markets near Dupont Station and Casa Loma, Toronto. Seeking handmade/ceramics, illustration, textiles, crochet, skincare, candles, pet goods, specialty food, original homeware and creative workshops (handmade only; small market, limited repeat categories). Vendor fee: $50 per market date (includes one 4-foot table and one chair, plus event promotion including TTC advertising). How to apply: https://gleammakers.com/vendors/. Organizer: Gleam Makers Collective (Gleam & Sip Matcha Catering + Cafe).\nFee: $50 Vendors expected: handmade ceramics, jewellery, leather goods, fibre art, illustration, stationery, skincare, concrete design, accessories, gifts. Attendee info source: https://gleammakers.com/\nHours: 10:00 AM – 5:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1570297551064326/",
-  "fees": "$50 per market date (incl. 4-ft table + chair)",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Haunted Museum Weekend — Craft Vendors (Oct 24)",
-  "date": "2026-10-24",
-  "time": "Time not listed",
-  "location": "Wallaceburg & District Museum, Jeanne Gordon Hall, 505 King St, Wallaceburg, ON",
-  "city": "Wallaceburg",
-  "region": "Rest of Ontario",
-  "description": "Haunted Museum Weekend craft vendor night at the Wallaceburg & District Museum (inside the Jeanne Gordon Hall); funds raised support the museum. Event time not published in the post — contact organizer. Vendor fee: $35 per night or $120 for all four nights. How to apply: scan to apply via the QR code in the flyer (application link not published in the post). Organizer: see the source post.\nFee: $35/$120\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28139289509075543/",
-  "fees": "$35 per night / $120 all four nights",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Diwali & Karwa Chauth Bazaar 2026",
-  "date": "2026-10-25",
-  "time": "12 p.m.–9 p.m.",
-  "location": "Noor Convention Centre, 2084 Steeles Ave E, Brampton",
-  "city": "Brampton",
-  "region": "Peel Region",
-  "description": "Theme: Diwali\nFee: not stated by organizer\nHours: 12:00 PM – 9:00 PM\nAdmission: Free (free parking)\nAttractions: Live singing, magic show, kids' entertainment, free henna 4–5 PM, DJ and dance floor, free gifts for guests\nSource: https://facebook.com/groups/1190141658320918/permalink/1969958890339187/\n",
-  "fees": "not stated by organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Halloween Fun Fair — River Road Nature School",
-  "date": "2026-10-25",
-  "time": "12 p.m.–3 p.m.",
-  "location": "River Road Nature School, Cayuga",
-  "city": "Cayuga",
-  "region": "Rest of Ontario",
-  "description": "Free Halloween fun fair in Cayuga, hosted by the Special Needs Resource Centre with Balance Support & Self Care Studios and Fundamental Life Services. Outdoor event; vendors are asked to bring candy for trick-or-treaters at their booths.\nListing type: Vendor call\nFee: Free vendor spaces\nHow to apply: message the poster via the source post for details\nSource: https://facebook.com/groups/524928052267953/permalink/1589092669184814/",
-  "fees": "Free vendor spaces",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Halloween at Firemans Park (Niagara Collectors Market)",
   "date": "2026-10-25",
   "time": "Time not listed",
@@ -101,17 +32,6 @@ window.EVENTS_REFRESH = [
   "region": "Toronto",
   "description": "Vendor call: MACABRISTA — A Halloween Feast + Fair (Oct 25-29, 2 PM-12 AM daily). Curated artisan market + live fire feast, music, entertainment, sponsor activations. Booth pricing: 1 day Standard $130 / Premium+Power $150; 2 days $240 / $270; 5 days $500 / $550. Includes ~45 sq ft booth, free parking, Wi-Fi; power with Premium. How to apply: vendor intake form https://forms.gle/EirQSdrnvSk86iaC6. Organizer: The Grateful Market x Motorista Studio.\nFee: $130/$150 Admission: Free walk-in daily 2 PM-midnight; the feast is ticketed at $35/person (or $100 for four), drinks not included. Attractions: 50-vendor nocturnal market, art and light installations, live musicians from 8 PM, Toronto Ghostbusters' giant inflatable and Ecto-6IX car, goodie bag to take home (all ages, free parking). Attendee info source: https://macabrista.com/\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28278391371832022/",
   "fees": "1 day $130 Standard / $150 Premium+Power; 2 days $240/$270; 5 days $500/$550",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Spooktacular Vendor Event",
-  "date": "2026-10-25",
-  "time": "10 a.m.–4 p.m.",
-  "location": "244 Killaly St W, Port Colborne (Mrs. Bubbles Pet Spa & Doggie Daycare)",
-  "city": "",
-  "region": "Rest of Ontario",
-  "description": "Vendor call: Halloween vendor event, indoor & outdoor spots.\n\nTheme: Halloween\nTags: halloween, spooky, indoor, outdoor\nHours: 10:00 AM - 4:00 PM (vendor setup 8:30-9:30 AM)\nFee: indoor $75; outdoor $50\nHow to apply: see the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2626352091133682/\nAttractions: costume contest & parade at 1 PM, treat bags for kids, bouncy castle, on-the-spot mini tattoos.\n\n",
-  "fees": "Indoor $75; outdoor $50",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
