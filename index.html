@@ -1160,7 +1160,7 @@
         <span id="legend-events">0 events</span>
       </div>
       <div class="kofi-button"><a href="https://ko-fi.com/evergreenember" target="_blank" rel="noopener noreferrer" aria-label="Support me on Ko-fi (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none"><path fill="#fff" d="M3 6.5h13.5v7A5.5 5.5 0 0 1 11 19H8.5A5.5 5.5 0 0 1 3 13.5v-7Z"/><path stroke="#1c211e" stroke-width="1.8" d="M16.5 8h1.25a3.25 3.25 0 0 1 0 6.5H16"/><path fill="#ff5e5b" d="M9.75 15.1 6.5 12a2.15 2.15 0 0 1 3.25-2.8A2.15 2.15 0 0 1 13 12l-3.25 3.1Z"/></svg><span>Support me on Ko-fi</span></a></div>
-      <div class="snapshot">Calendar snapshot · October 25, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v31 · Changelog</button></div>
+      <div class="snapshot">Calendar snapshot · October 26, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v32 · Changelog</button></div>
       <p class="disclaimer">We do our best to check all of the events, but it still remains on each individual to do their due diligence.</p>
       <p class="credit">Ontario Vendor Events is built and curated by <a href="https://linktr.ee/evergreen.n.ember" target="_blank" rel="noopener noreferrer">Evergreen &amp; Ember</a></p>
     </footer>
@@ -1172,6 +1172,7 @@
       </div>
       <div class="changelog-body">
         <p class="changelog-note">Page features and improvements. New event listings aren't logged here — the page always shows the latest from the calendar.</p>
+        <section class="changelog-entry"><h3>v32 — Oct 26, 2026</h3><ul><li>Multi-day events now show up on every day they run. Pick any day of a weekend market in the Specific date calendar and it appears; the calendar dots cover all of its days; and the This weekend and month filters include events that run into them. Cards for multi-day events also show their full date range when the title doesn't already.</li></ul></section>
         <section class="changelog-entry"><h3>v31 — Oct 25, 2026</h3><ul><li>Easier date picking: “Specific date” now opens a calendar right inside the filter area instead of a floating pop-up. Days with markets carry a dot and days without are greyed out, the day buttons are bigger for tapping, and the picked date shows on the button with an × to clear it back to All dates.</li></ul></section>
         <section class="changelog-entry"><h3>v30 — Oct 25, 2026</h3><ul><li>The buttons at the top of the page now follow your view. “Submit an event” appears only in the Organizer view — submitting is an organizer's job — and “Open full calendar” steps aside in the Shopper view, where each market's details still carry their own calendar link. Vendors keep the calendar button for browsing what's coming up.</li></ul></section>
         <section class="changelog-entry"><h3>v29 — Oct 25, 2026</h3><ul><li>New view switch at the top of the filters: Vendor, Shopper or Organizer. Vendor is the view you've always had — fees, deadlines and how to apply. Shopper hides the vendor details and leads with times, places and admission. Organizer adds a listing panel for market organizers, with the submission form, how listing works, and the free “Featured on OVE” badge. The page remembers your pick on this device.</li></ul></section>
@@ -1229,7 +1230,23 @@
         .sort(function (a, b) { return a.date.localeCompare(b.date); });
       var selectedDate = '';
       var eventCounts = {};
-      EVENTS.forEach(function (event) { eventCounts[event.date] = (eventCounts[event.date] || 0) + 1; });
+      function nextIsoDay(iso) {
+        var d = new Date(iso + 'T12:00:00');
+        d.setDate(d.getDate() + 1);
+        return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+      }
+      function eventEndDate(event) {
+        return event.endDate && event.endDate > event.date ? event.endDate : event.date;
+      }
+      EVENTS.forEach(function (event) {
+        var end = eventEndDate(event);
+        var cursor = event.date;
+        while (true) {
+          eventCounts[cursor] = (eventCounts[cursor] || 0) + 1;
+          if (cursor >= end) break;
+          cursor = nextIsoDay(cursor);
+        }
+      });
       while (region.options.length > 1) region.remove(1);
       Array.from(new Set(EVENTS.map(function (event) { return event.region; })))
         .sort(function (a, b) { return a.localeCompare(b); })
@@ -1332,6 +1349,34 @@
       };
       var clockIcon = '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"></circle><path d="M12 7v5l3 2"></path></svg>';
       var pinIcon = '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 10c0 5-8 11-8 11S4 15 4 10a8 8 0 1 1 16 0Z"></path><circle cx="12" cy="10" r="2.5"></circle></svg>';
+      var calendarIcon = '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="16" rx="2"></rect><path d="M16 3v4M8 3v4M3 10h18"></path></svg>';
+      function formatDateRange(startIso, endIso) {
+        var s = new Date(startIso + 'T12:00:00');
+        var e = new Date(endIso + 'T12:00:00');
+        var sMon = s.toLocaleDateString('en-CA', { month: 'short' });
+        var eMon = e.toLocaleDateString('en-CA', { month: 'short' });
+        if (startIso.slice(0, 4) !== endIso.slice(0, 4)) {
+          return sMon + ' ' + s.getDate() + ', ' + s.getFullYear() + ' – ' + eMon + ' ' + e.getDate() + ', ' + e.getFullYear();
+        }
+        if (sMon === eMon) return sMon + ' ' + s.getDate() + ' – ' + e.getDate();
+        return sMon + ' ' + s.getDate() + ' – ' + eMon + ' ' + e.getDate();
+      }
+      function titleShowsRange(title, startIso, endIso) {
+        var norm = String(title || '').toLowerCase().replace(/[\u2013\u2014]/g, '-').replace(/\./g, '').replace(/\s+/g, ' ');
+        function monDay(iso) {
+          var d = new Date(iso + 'T12:00:00');
+          return { mon: d.toLocaleDateString('en-CA', { month: 'short' }).toLowerCase().replace(/\./g, ''), day: d.getDate() };
+        }
+        var s = monDay(startIso);
+        var e = monDay(endIso);
+        var patterns = [
+          s.mon + ' ' + s.day + '-' + e.mon + ' ' + e.day,
+          s.mon + ' ' + s.day + ' - ' + e.mon + ' ' + e.day,
+          s.mon + ' ' + s.day + '-' + e.day,
+          s.mon + ' ' + s.day + ' - ' + e.day
+        ];
+        return patterns.some(function (p) { return norm.indexOf(p) !== -1; });
+      }
       var feeIcon = '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 7.5V5h16v14H4v-2.5"></path><path d="M7 9.5h-3a2.5 2.5 0 0 0 0 5h3M15.5 9.5h.01M15.5 14.5h.01"></path></svg>';
       var ticketIcon = '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 8a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v2.5a2.5 2.5 0 0 0 0 5V18a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-2.5a2.5 2.5 0 0 0 0-5V8Z"></path><path d="M13 6v2M13 11v2M13 16v2"></path></svg>';
 
@@ -1566,14 +1611,18 @@
           var tagClass = regionClasses[event.region] || 'durham';
           var detailsId = 'event-details-' + index;
           var feeDisplay = feeLabel ? 'Fee: ' + feeLabel : 'Fee not listed';
-          var metaHTML = '<span>' + clockIcon + escapeHTML(event.time) + '</span><span>' + pinIcon + escapeHTML(event.location) + '</span>';
+          var metaHTML = '';
+          if (event.endDate && event.endDate > event.date && !titleShowsRange(event.title, event.date, event.endDate)) {
+            metaHTML += '<span>' + calendarIcon + escapeHTML(formatDateRange(event.date, event.endDate)) + '</span>';
+          }
+          metaHTML += '<span>' + clockIcon + escapeHTML(event.time) + '</span><span>' + pinIcon + escapeHTML(event.location) + '</span>';
           if (currentRole === 'shopper') {
             var admissionLabel = parseAdmission(event.description);
             if (admissionLabel) metaHTML += '<span>' + ticketIcon + 'Admission: ' + escapeHTML(admissionLabel) + '</span>';
           } else {
             metaHTML += '<span>' + feeIcon + escapeHTML(feeDisplay) + '</span>';
           }
-          return '<article class="event-card" data-title="' + escapeHTML(searchText) + '" data-region="' + escapeHTML(event.region) + '" data-city="' + escapeHTML(event.city) + '" data-date="' + event.date + '" data-fee="' + (feeValue === null ? '' : feeValue) + '">' +
+          return '<article class="event-card" data-title="' + escapeHTML(searchText) + '" data-region="' + escapeHTML(event.region) + '" data-city="' + escapeHTML(event.city) + '" data-date="' + event.date + '" data-end-date="' + eventEndDate(event) + '" data-fee="' + (feeValue === null ? '' : feeValue) + '">' +
             '<div class="date-block"><span class="month">' + month + '</span><span class="day">' + day + '</span><span class="weekday">' + weekday + '</span><span class="year">' + year + '</span></div>' +
             '<div class="event-info"><h3><button class="event-toggle" type="button" aria-expanded="false" aria-controls="' + detailsId + '">' + escapeHTML(event.title) + '</button></h3>' +
             '<div class="meta">' + metaHTML + '</div>' +
@@ -1616,14 +1665,16 @@
         feeMax.setAttribute('aria-valuetext', '$' + max + ' maximum');
       }
 
-      function isThisWeekend(dateString) {
+      function isThisWeekend(dateString, endString) {
         var now = new Date();
         var day = now.getDay();
         var daysUntilSaturday = day === 0 ? -1 : (6 - day + 7) % 7;
         var saturday = new Date(now.getFullYear(), now.getMonth(), now.getDate() + daysUntilSaturday);
         var sunday = new Date(saturday.getFullYear(), saturday.getMonth(), saturday.getDate() + 1);
-        var eventDate = new Date(dateString + 'T12:00:00');
-        return eventDate.toDateString() === saturday.toDateString() || eventDate.toDateString() === sunday.toDateString();
+        function isoOf(d) {
+          return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+        }
+        return dateString <= isoOf(sunday) && (endString || dateString) >= isoOf(saturday);
       }
 
       function formatSpecificDate(iso) {
@@ -1686,10 +1737,20 @@
           var feeMatch = currentRole === 'shopper' ? true : hasListedFee ?
             Number(card.dataset.fee) >= minimumFee && Number(card.dataset.fee) <= maximumFee :
             !feeHideUnlisted.checked;
-          var dateMatch = selectedDate ? card.dataset.date === selectedDate :
-            activeRange === 'all' ||
-            (activeRange === 'weekend' && isThisWeekend(card.dataset.date)) ||
-            card.dataset.date.indexOf(activeRange) === 0;
+          var cardEndDate = card.dataset.endDate || card.dataset.date;
+          var dateMatch;
+          if (selectedDate) {
+            dateMatch = card.dataset.date <= selectedDate && selectedDate <= cardEndDate;
+          } else if (activeRange === 'all') {
+            dateMatch = true;
+          } else if (activeRange === 'weekend') {
+            dateMatch = isThisWeekend(card.dataset.date, cardEndDate);
+          } else {
+            var rangeParts = activeRange.split('-');
+            var monthStart = activeRange + '-01';
+            var monthEnd = activeRange + '-' + String(new Date(Number(rangeParts[0]), Number(rangeParts[1]), 0).getDate()).padStart(2, '0');
+            dateMatch = card.dataset.date <= monthEnd && cardEndDate >= monthStart;
+          }
           var collectionMatch = !activeCollection || (card._collections || []).indexOf(activeCollection) !== -1;
           var match = textMatch && regionMatch && cityMatch && feeMatch && dateMatch && collectionMatch;
           if (match) visible += 1;
