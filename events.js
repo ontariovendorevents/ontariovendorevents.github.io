@@ -473,6 +473,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "North Bay Winter Outdoor Market Experience",
+  "date": "2026-11-07",
+  "time": "4 p.m.–8 p.m.",
+  "location": "Jack Burrows Parkette, 100 Ferguson Street, North Bay, ON",
+  "city": "North Bay",
+  "region": "Rest of Ontario",
+  "description": "Outdoor Christmas market in downtown North Bay, in front of the North Bay Museum. Four festive evenings of local shopping and holiday entertainment — each evening has its own lineup. Evenings: Sat Nov 7, Sat Nov 14 and Sat Nov 21, 4:00 PM – 8:00 PM, and the finale Fri Nov 27, 5:00 PM – 9:00 PM alongside the Downtown Old Fashioned Christmas Walk.\nThis evening: live music by the Restoration Band.\nTheme: Christmas\nListing type: Vendor call\nAdmission: Free\nAttractions: The Maker's Market with local makers and handcrafted gifts, Santa Claus visits and Santa's Workshop, Elf Academy, festive mini-train rides, live music, Christmas lights and displays, Self-Guided Christmas Movie Tour, North Bay Museum tours, Dionne Quints Museum tours\nFee: not published\nHours: 4:00 PM – 8:00 PM\nHow to apply: https://themakersmarketnorthbay.ca\nSource: https://www.tourismnorthbay.com/see-do/winter-fun/winter-market/\nSource: https://facebook.com/events/s/north-bay-winter-outdoor-marke/1522730289868726/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Puppy Love Fundraiser (Pickering Animal Shelter)",
   "date": "2026-11-07",
   "time": "10 a.m.–4 p.m.",
@@ -924,6 +935,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "North Bay Winter Outdoor Market Experience",
+  "date": "2026-11-14",
+  "time": "4 p.m.–8 p.m.",
+  "location": "Jack Burrows Parkette, 100 Ferguson Street, North Bay, ON",
+  "city": "North Bay",
+  "region": "Rest of Ontario",
+  "description": "Outdoor Christmas market in downtown North Bay, in front of the North Bay Museum. Four festive evenings of local shopping and holiday entertainment — each evening has its own lineup. Evenings: Sat Nov 7, Sat Nov 14 and Sat Nov 21, 4:00 PM – 8:00 PM, and the finale Fri Nov 27, 5:00 PM – 9:00 PM alongside the Downtown Old Fashioned Christmas Walk.\nThis evening: live music by Constellation Theatre, plus circus artist Joey Albert.\nTheme: Christmas\nListing type: Vendor call\nAdmission: Free\nAttractions: The Maker's Market with local makers and handcrafted gifts, Santa Claus visits and Santa's Workshop, Elf Academy, festive mini-train rides, live music, Christmas lights and displays, Self-Guided Christmas Movie Tour, North Bay Museum tours, Dionne Quints Museum tours\nFee: not published\nHours: 4:00 PM – 8:00 PM\nHow to apply: https://themakersmarketnorthbay.ca\nSource: https://www.tourismnorthbay.com/see-do/winter-fun/winter-market/\nSource: https://facebook.com/events/s/north-bay-winter-outdoor-marke/1522730289868726/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Philoptochos Christmas Bazaar",
   "date": "2026-11-14",
   "time": "10 a.m.–3 p.m.",
@@ -1075,6 +1097,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Theme: Holiday / Christmas\nFee: not published\nAttractions: Raffle (per caption — proceeds from vendor tables and raffle go back to the community)\nHow to apply: see the source post\nHours: 9:00 AM – 2:00 PM\nSource: https://www.facebook.com/groups/1013767978664673/permalink/38025473100400695/",
   "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Royal City Nursery Festive Holiday Market",
+  "date": "2026-11-15",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Royal City Nursery, Guelph, ON",
+  "city": "Guelph",
+  "region": "Rest of Ontario",
+  "description": "Festive Holiday Market in the Christmas wonderland-themed greenhouse at Royal City Nursery in Guelph - a curated selection of local vendors with handcrafted items, tasty treats and gift ideas. Booth size 6 ft x 5 ft. Vendors can choose one or more dates (Sat Nov 14, Sun Nov 15 and Sun Dec 6, 2026).\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM\nHow to apply: https://royalcitynursery.com/holiday-market-vendor-application-form/\nSource: https://facebook.com/groups/524928052267953/permalink/1592588488835232/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1360,6 +1393,17 @@ window.EVENTS_REFRESH = [
   "city": "Shanty Bay",
   "region": "Simcoe County",
   "description": "Merry Makers Market — an outdoor vendor market in Shanty Bay. The organizer's post noted applications were closing soon and outdoor spaces are limited. Show hours and vendor fee were not published in the post — confirm with the organizer.\nTheme: TBD\nVendor types wanted: TBD\nHow to apply: https://gformsapp.com/f2/Q_qNJPiEfH8pwRlB5B3CJg\nSource: https://facebook.com/groups/168481472256405/permalink/985133980591146/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "North Bay Winter Outdoor Market Experience",
+  "date": "2026-11-21",
+  "time": "4 p.m.–8 p.m.",
+  "location": "Jack Burrows Parkette, 100 Ferguson Street, North Bay, ON",
+  "city": "North Bay",
+  "region": "Rest of Ontario",
+  "description": "Outdoor Christmas market in downtown North Bay, in front of the North Bay Museum. Four festive evenings of local shopping and holiday entertainment — each evening has its own lineup. Evenings: Sat Nov 7, Sat Nov 14 and Sat Nov 21, 4:00 PM – 8:00 PM, and the finale Fri Nov 27, 5:00 PM – 9:00 PM alongside the Downtown Old Fashioned Christmas Walk.\nThis evening: live music by CHAZZ, plus King & Queen stilt walkers.\nTheme: Christmas\nListing type: Vendor call\nAdmission: Free\nAttractions: The Maker's Market with local makers and handcrafted gifts, Santa Claus visits and Santa's Workshop, Elf Academy, festive mini-train rides, live music, Christmas lights and displays, Self-Guided Christmas Movie Tour, North Bay Museum tours, Dionne Quints Museum tours\nFee: not published\nHours: 4:00 PM – 8:00 PM\nHow to apply: https://themakersmarketnorthbay.ca\nSource: https://www.tourismnorthbay.com/see-do/winter-fun/winter-market/\nSource: https://facebook.com/events/s/north-bay-winter-outdoor-marke/1522730289868726/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1815,6 +1859,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "North Bay Winter Outdoor Market Experience",
+  "date": "2026-11-27",
+  "time": "5 p.m.–9 p.m.",
+  "location": "Jack Burrows Parkette, 100 Ferguson Street, North Bay, ON",
+  "city": "North Bay",
+  "region": "Rest of Ontario",
+  "description": "Outdoor Christmas market in downtown North Bay, in front of the North Bay Museum. Four festive evenings of local shopping and holiday entertainment — each evening has its own lineup. Evenings: Sat Nov 7, Sat Nov 14 and Sat Nov 21, 4:00 PM – 8:00 PM, and the finale Fri Nov 27, 5:00 PM – 9:00 PM alongside the Downtown Old Fashioned Christmas Walk.\nFinale evening, running alongside the Downtown Old Fashioned Christmas Walk; live music by Birds of a Feather.\nTheme: Christmas\nListing type: Vendor call\nAdmission: Free\nAttractions: The Maker's Market with local makers and handcrafted gifts, Santa Claus visits and Santa's Workshop, Elf Academy, festive mini-train rides, live music, Christmas lights and displays, Self-Guided Christmas Movie Tour, North Bay Museum tours, Dionne Quints Museum tours\nFee: not published\nHours: 5:00 PM – 9:00 PM\nHow to apply: https://themakersmarketnorthbay.ca\nSource: https://www.tourismnorthbay.com/see-do/winter-fun/winter-market/\nSource: https://facebook.com/events/s/north-bay-winter-outdoor-marke/1522730289868726/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "One Of A Kind Christmas Show",
   "date": "2026-11-27",
   "time": "Time not listed",
@@ -1900,6 +1955,17 @@ window.EVENTS_REFRESH = [
   "region": "Niagara Region",
   "description": "Two-day vendor market during Pen Centre mall hours. Vendor fee: not published - contact organizer. How to apply: application on website https://eventsconnectedcanada.ca/vendors-apply-here. Organizer: Events Connected Canada (eventsconnectedcanada.ca).\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28173291105675383/",
   "fees": "not published - contact organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Bloomingdale Christmas Market (5th Annual)",
+  "date": "2026-11-28",
+  "time": "Time not listed",
+  "location": "Bloomingdale, ON",
+  "city": "Bloomingdale",
+  "region": "Waterloo Region",
+  "description": "5th Annual Christmas Market fundraiser in Bloomingdale - a few vendor spaces still available. Specifically looking for: woodworking, candy / freeze dried candy, jewellery, glass art / pebble art, BBQ sauces, meat / jerky, and unique vendors. 600-1000 attendees in previous years. Venue, hours and vendor fee not stated in the post - message the poster or comment on the source post for more info or the application form.\nListing type: Vendor call\nHow to apply: Message the poster or comment on the source post for the application form\nSource: https://facebook.com/groups/971632669514677/permalink/29535046492746580/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3630,6 +3696,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Whitby School Fun Fair — Hot Food Vendor Call",
+  "date": "2027-06-10",
+  "time": "4:30 p.m.–8 p.m.",
+  "location": "Whitby, ON (school — exact location provided on booking)",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "Hot food vendor call for a Whitby school fun fair - the school community is about 550 K-8 students plus their families. Hot food vendors and food trucks only (no desserts, sweets or ice cream). No vendor fee - the organizer welcomes, but does not require, a small percentage-of-sales donation back to the school. Exact school location provided upon booking confirmation.\nListing type: Vendor call\nHours: 4:30 PM - 8:00 PM\nHow to apply: DM the poster with business name, website / social media links, menu and price list, and contact name, email and phone.\nSource: https://facebook.com/groups/524928052267953/permalink/1593077238786357/",
+  "fees": "No vendor fee",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Costa Crafted Events: Summer Market (Cobourg)",
   "date": "2027-07-24",
   "time": "10 a.m.–4 p.m.",
@@ -3671,50 +3748,6 @@ window.EVENTS_REFRESH = [
   "region": "Northumberland",
   "description": "Holiday vendor market by Costa Crafted Events. Venue and hours not yet published — see application form. Vendor fee not published. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
   "fees": "not published",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "North Bay Winter Outdoor Market Experience",
-  "date": "2026-11-07",
-  "time": "4 p.m.–8 p.m.",
-  "location": "Jack Burrows Parkette, 100 Ferguson Street, North Bay, ON",
-  "city": "North Bay",
-  "region": "Rest of Ontario",
-  "description": "Outdoor Christmas market in downtown North Bay, in front of the North Bay Museum. Four festive evenings of local shopping and holiday entertainment — each evening has its own lineup. Evenings: Sat Nov 7, Sat Nov 14 and Sat Nov 21, 4:00 PM – 8:00 PM, and the finale Fri Nov 27, 5:00 PM – 9:00 PM alongside the Downtown Old Fashioned Christmas Walk.\nThis evening: live music by the Restoration Band.\nTheme: Christmas\nListing type: Vendor call\nAdmission: Free\nAttractions: The Maker's Market with local makers and handcrafted gifts, Santa Claus visits and Santa's Workshop, Elf Academy, festive mini-train rides, live music, Christmas lights and displays, Self-Guided Christmas Movie Tour, North Bay Museum tours, Dionne Quints Museum tours\nFee: not published\nHours: 4:00 PM – 8:00 PM\nHow to apply: https://themakersmarketnorthbay.ca\nSource: https://www.tourismnorthbay.com/see-do/winter-fun/winter-market/\nSource: https://facebook.com/events/s/north-bay-winter-outdoor-marke/1522730289868726/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "North Bay Winter Outdoor Market Experience",
-  "date": "2026-11-14",
-  "time": "4 p.m.–8 p.m.",
-  "location": "Jack Burrows Parkette, 100 Ferguson Street, North Bay, ON",
-  "city": "North Bay",
-  "region": "Rest of Ontario",
-  "description": "Outdoor Christmas market in downtown North Bay, in front of the North Bay Museum. Four festive evenings of local shopping and holiday entertainment — each evening has its own lineup. Evenings: Sat Nov 7, Sat Nov 14 and Sat Nov 21, 4:00 PM – 8:00 PM, and the finale Fri Nov 27, 5:00 PM – 9:00 PM alongside the Downtown Old Fashioned Christmas Walk.\nThis evening: live music by Constellation Theatre, plus circus artist Joey Albert.\nTheme: Christmas\nListing type: Vendor call\nAdmission: Free\nAttractions: The Maker's Market with local makers and handcrafted gifts, Santa Claus visits and Santa's Workshop, Elf Academy, festive mini-train rides, live music, Christmas lights and displays, Self-Guided Christmas Movie Tour, North Bay Museum tours, Dionne Quints Museum tours\nFee: not published\nHours: 4:00 PM – 8:00 PM\nHow to apply: https://themakersmarketnorthbay.ca\nSource: https://www.tourismnorthbay.com/see-do/winter-fun/winter-market/\nSource: https://facebook.com/events/s/north-bay-winter-outdoor-marke/1522730289868726/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "North Bay Winter Outdoor Market Experience",
-  "date": "2026-11-21",
-  "time": "4 p.m.–8 p.m.",
-  "location": "Jack Burrows Parkette, 100 Ferguson Street, North Bay, ON",
-  "city": "North Bay",
-  "region": "Rest of Ontario",
-  "description": "Outdoor Christmas market in downtown North Bay, in front of the North Bay Museum. Four festive evenings of local shopping and holiday entertainment — each evening has its own lineup. Evenings: Sat Nov 7, Sat Nov 14 and Sat Nov 21, 4:00 PM – 8:00 PM, and the finale Fri Nov 27, 5:00 PM – 9:00 PM alongside the Downtown Old Fashioned Christmas Walk.\nThis evening: live music by CHAZZ, plus King & Queen stilt walkers.\nTheme: Christmas\nListing type: Vendor call\nAdmission: Free\nAttractions: The Maker's Market with local makers and handcrafted gifts, Santa Claus visits and Santa's Workshop, Elf Academy, festive mini-train rides, live music, Christmas lights and displays, Self-Guided Christmas Movie Tour, North Bay Museum tours, Dionne Quints Museum tours\nFee: not published\nHours: 4:00 PM – 8:00 PM\nHow to apply: https://themakersmarketnorthbay.ca\nSource: https://www.tourismnorthbay.com/see-do/winter-fun/winter-market/\nSource: https://facebook.com/events/s/north-bay-winter-outdoor-marke/1522730289868726/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "North Bay Winter Outdoor Market Experience",
-  "date": "2026-11-27",
-  "time": "5 p.m.–9 p.m.",
-  "location": "Jack Burrows Parkette, 100 Ferguson Street, North Bay, ON",
-  "city": "North Bay",
-  "region": "Rest of Ontario",
-  "description": "Outdoor Christmas market in downtown North Bay, in front of the North Bay Museum. Four festive evenings of local shopping and holiday entertainment — each evening has its own lineup. Evenings: Sat Nov 7, Sat Nov 14 and Sat Nov 21, 4:00 PM – 8:00 PM, and the finale Fri Nov 27, 5:00 PM – 9:00 PM alongside the Downtown Old Fashioned Christmas Walk.\nFinale evening, running alongside the Downtown Old Fashioned Christmas Walk; live music by Birds of a Feather.\nTheme: Christmas\nListing type: Vendor call\nAdmission: Free\nAttractions: The Maker's Market with local makers and handcrafted gifts, Santa Claus visits and Santa's Workshop, Elf Academy, festive mini-train rides, live music, Christmas lights and displays, Self-Guided Christmas Movie Tour, North Bay Museum tours, Dionne Quints Museum tours\nFee: not published\nHours: 5:00 PM – 9:00 PM\nHow to apply: https://themakersmarketnorthbay.ca\nSource: https://www.tourismnorthbay.com/see-do/winter-fun/winter-market/\nSource: https://facebook.com/events/s/north-bay-winter-outdoor-marke/1522730289868726/",
-  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
