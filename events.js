@@ -1914,6 +1914,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Christmas Makers Market",
+  "date": "2026-11-28",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Merrickville Community Centre, 106 Read Street, Merrickville, ON",
+  "city": "Merrickville",
+  "region": "Rest of Ontario",
+  "description": "Christmas Makers Market in Merrickville, run by Merrickville's Makers Market - two days of Christmas shopping with local artisans and makers: jewellery, pottery, wood working, clothing, bath & body, home decor, visual arts, crochet, baked goods and more.\nListing type: Shopper event\nHours: 10:00 AM - 4:00 PM\nWebsite: www.merrickvillesmakersmarkets.ca\nSource: https://facebook.com/100063778351355/posts/pfbid02LE8V9gyD2ofpqVSzhmsSM3s16Y41syDWh5bGYu17cEp5LPv4KwJsKtuoXyCvpzhkl/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Christmas Time in Arthur — Outdoor Christmas Market",
   "date": "2026-11-28",
   "time": "9 a.m.–2 p.m.",
@@ -2306,6 +2317,17 @@ window.EVENTS_REFRESH = [
   "city": "Hamilton",
   "region": "Hamilton",
   "description": "Winter market run at Lime Ridge Mall in Hamilton by Street Eats Market; runs Saturdays and Sundays, Nov 21 to Dec 20, 2026, 12 to 8 PM.\nListing type: Vendor call\nHow to apply: apply online at www.streeteatsmarket.com; vendor applications end November 1, 2026\nSource: https://www.instagram.com/reel/Dexh6wyRhMO/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Christmas Makers Market",
+  "date": "2026-11-29",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Merrickville Community Centre, 106 Read Street, Merrickville, ON",
+  "city": "Merrickville",
+  "region": "Rest of Ontario",
+  "description": "Christmas Makers Market in Merrickville, run by Merrickville's Makers Market - two days of Christmas shopping with local artisans and makers: jewellery, pottery, wood working, clothing, bath & body, home decor, visual arts, crochet, baked goods and more.\nListing type: Shopper event\nHours: 10:00 AM - 4:00 PM\nWebsite: www.merrickvillesmakersmarkets.ca\nSource: https://facebook.com/100063778351355/posts/pfbid02LE8V9gyD2ofpqVSzhmsSM3s16Y41syDWh5bGYu17cEp5LPv4KwJsKtuoXyCvpzhkl/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
