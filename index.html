@@ -483,6 +483,77 @@
     .coll-chip[aria-pressed="true"] { background: var(--brand-soft); border-color: var(--brand); color: var(--brand-strong); }
     .collections-label { font-weight: 800; color: var(--muted); font-size: .88rem; }
 
+    .role-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 14px;
+    }
+    .role-toggle {
+      display: inline-flex;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: var(--surface);
+      overflow: hidden;
+    }
+    .role-btn {
+      min-height: 40px;
+      padding: 0 20px;
+      border: 0;
+      background: transparent;
+      color: var(--muted);
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .role-btn + .role-btn { border-left: 1px solid var(--line); }
+    .role-btn:hover { color: var(--ink); }
+    .role-btn[aria-pressed="true"] { background: var(--brand-strong); color: #fff; }
+    .role-btn[aria-pressed="true"]:hover { color: #fff; }
+    .role-hint { color: var(--muted); font-size: .88rem; }
+
+    .organizer-panel {
+      margin: -8px 0 34px;
+      padding: clamp(16px, 2.5vw, 24px);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: var(--surface);
+      box-shadow: 0 10px 30px rgba(24, 56, 34, .07);
+    }
+    .organizer-panel h2 { margin: 0 0 8px; font-size: clamp(1.4rem, 2.6vw, 1.8rem); }
+    .organizer-panel h3 { margin: 18px 0 6px; font-size: 1.02rem; }
+    .organizer-panel p { margin: 0 0 10px; color: var(--muted); max-width: 720px; }
+    .organizer-panel p strong { color: var(--ink); }
+    .organizer-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 22px;
+      align-items: start;
+    }
+    .organizer-actions { display: flex; gap: 10px; flex-wrap: wrap; margin: 12px 0 4px; }
+    .organizer-badge { text-align: center; }
+    .organizer-badge img {
+      width: 148px;
+      height: 148px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      display: block;
+    }
+    .organizer-badge a {
+      display: inline-block;
+      margin-top: 8px;
+      color: var(--brand-strong);
+      font-weight: 700;
+      font-size: .88rem;
+      text-underline-offset: 3px;
+    }
+    .organizer-panel ul { margin: 0; padding-left: 20px; color: var(--muted); max-width: 720px; }
+    .organizer-panel li + li { margin-top: 5px; }
+    @media (max-width: 680px) {
+      .organizer-grid { grid-template-columns: 1fr; }
+      .organizer-badge { text-align: left; }
+    }
+
     .signup-band {
       position: relative;
       margin: -8px 0 34px;
@@ -929,6 +1000,15 @@
     </section>
 
     <section class="toolbar" aria-label="Filter events">
+      <div class="role-row">
+        <span class="field-label" id="role-label">Viewing as</span>
+        <div class="role-toggle" role="group" aria-labelledby="role-label">
+          <button class="role-btn" type="button" data-role="vendor" aria-pressed="true">Vendor</button>
+          <button class="role-btn" type="button" data-role="shopper" aria-pressed="false">Shopper</button>
+          <button class="role-btn" type="button" data-role="organizer" aria-pressed="false">Organizer</button>
+        </div>
+        <span class="role-hint" id="role-hint">Fees, deadlines and how to apply — the seller's view.</span>
+      </div>
       <div class="filters">
         <label class="control search-control">
           <span class="field-label">Search</span>
@@ -951,7 +1031,7 @@
             <option value="Oshawa">Oshawa</option>
           </select>
         </label>
-        <div class="control fee-control" role="group" aria-labelledby="fee-label">
+        <div class="control fee-control" id="fee-control" role="group" aria-labelledby="fee-label">
           <div class="fee-head">
             <span class="field-label" id="fee-label">Table fee</span>
             <output class="fee-value" id="fee-value">Any listed fee</output>
@@ -996,6 +1076,30 @@
       </div>
     </section>
 
+    <section class="organizer-panel" id="organizer-panel" aria-labelledby="organizer-title" hidden>
+      <div class="organizer-grid">
+        <div>
+          <h2 id="organizer-title">For organizers</h2>
+          <p>Run a market, craft show or fair? Listings here are read exactly the way vendors see them — check your own event below, fee and application details included.</p>
+          <div class="organizer-actions">
+            <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfi4jFs74WjrxqpPmFfuGv8PPKfEK3W8HMbOb4BrLlKFjr3gQ/viewform" target="_blank" rel="noopener noreferrer">List your market</a>
+          </div>
+          <p><strong>Need a correction?</strong> A date change, a fee fix, a sold-out update — use the same form, name the event, and say what changed. Every submission is reviewed before the listing is touched.</p>
+          <h3>How listing works</h3>
+          <ul>
+            <li><strong>Public on every listing:</strong> the date, time and place, theme and hours, and the vendor fee and how-to-apply exactly as you publish them.</li>
+            <li><strong>Never published:</strong> your contact details. Names, emails and phone numbers stay off this page — they live only in the internal review sheet.</li>
+            <li>Listings refresh from the calendar every morning, so an approved correction shows up the next day.</li>
+          </ul>
+        </div>
+        <div class="organizer-badge">
+          <img src="featured-badge.png" alt="Featured on Ontario Vendor Events badge" width="148" height="148" />
+          <a href="featured-badge.png" target="_blank" rel="noopener noreferrer">Get the “Featured on OVE” badge</a>
+          <p>Listed here? The badge is free to share on your own posts and pages.</p>
+        </div>
+      </div>
+    </section>
+
     <section aria-live="polite" aria-labelledby="results-title">
       <div class="results-head">
         <h2 id="results-title">Upcoming events</h2>
@@ -1020,6 +1124,7 @@
       <details><summary>What is Ontario Vendor Events?</summary><p>A free, hand-curated calendar of vendor markets, craft shows and fairs across Ontario. Every listing comes from an organizer's own post or page — nothing is scraped in bulk, and every event is checked before it goes up.</p></details>
       <details><summary>What does each listing show?</summary><p>The date, time and location, the vendor fee when the organizer publishes one, application deadlines, and how to apply — with a link back to the original post so you can confirm the details yourself.</p></details>
       <details><summary>Who is it for, and what does it cost?</summary><p>Shoppers looking for markets to visit, and vendors looking for shows to sell at. Browsing is free for everyone, and organizers can submit an event for free.</p></details>
+      <details><summary>What are the Vendor, Shopper and Organizer views?</summary><p>Three ways to read the same calendar, switched at the top of the filters. Vendor view shows fees and how to apply; Shopper view hides the vendor details and leads with times, places and admission; Organizer view adds the listing tools for the people running the markets. The page remembers your pick on this device.</p></details>
       <details><summary>How often is it updated?</summary><p>The page refreshes from the calendar every morning, and new vendor calls are added most days as organizers post them.</p></details>
       <details><summary>I'm an organizer — how do I get my event listed?</summary><p>Use the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfi4jFs74WjrxqpPmFfuGv8PPKfEK3W8HMbOb4BrLlKFjr3gQ/viewform" target="_blank" rel="noopener noreferrer">event submission form</a> — it's free, and every submission is reviewed before it appears.</p></details>
       <details><summary>Is there an app?</summary><p>An Android app is on its way. Until it launches, everything lives here on the page and in the Ontario Vendor Events Facebook community.</p></details>
@@ -1032,7 +1137,7 @@
         <span id="legend-events">0 events</span>
       </div>
       <div class="kofi-button"><a href="https://ko-fi.com/evergreenember" target="_blank" rel="noopener noreferrer" aria-label="Support me on Ko-fi (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none"><path fill="#fff" d="M3 6.5h13.5v7A5.5 5.5 0 0 1 11 19H8.5A5.5 5.5 0 0 1 3 13.5v-7Z"/><path stroke="#1c211e" stroke-width="1.8" d="M16.5 8h1.25a3.25 3.25 0 0 1 0 6.5H16"/><path fill="#ff5e5b" d="M9.75 15.1 6.5 12a2.15 2.15 0 0 1 3.25-2.8A2.15 2.15 0 0 1 13 12l-3.25 3.1Z"/></svg><span>Support me on Ko-fi</span></a></div>
-      <div class="snapshot">Calendar snapshot · October 25, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v28 · Changelog</button></div>
+      <div class="snapshot">Calendar snapshot · October 25, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v29 · Changelog</button></div>
       <p class="disclaimer">We do our best to check all of the events, but it still remains on each individual to do their due diligence.</p>
       <p class="credit">Ontario Vendor Events is built and curated by <a href="https://linktr.ee/evergreen.n.ember" target="_blank" rel="noopener noreferrer">Evergreen &amp; Ember</a></p>
     </footer>
@@ -1044,6 +1149,7 @@
       </div>
       <div class="changelog-body">
         <p class="changelog-note">Page features and improvements. New event listings aren't logged here — the page always shows the latest from the calendar.</p>
+        <section class="changelog-entry"><h3>v29 — Oct 25, 2026</h3><ul><li>New view switch at the top of the filters: Vendor, Shopper or Organizer. Vendor is the view you've always had — fees, deadlines and how to apply. Shopper hides the vendor details and leads with times, places and admission. Organizer adds a listing panel for market organizers, with the submission form, how listing works, and the free “Featured on OVE” badge. The page remembers your pick on this device.</li></ul></section>
         <section class="changelog-entry"><h3>v28 — Oct 24, 2026</h3><ul><li>Sharing upgrade: the page now carries a proper description and preview card, so the link shows a real headline and image when it is shared on Facebook, Instagram or anywhere else.</li><li>New "Good to know" section at the bottom of the page answering the common questions — what the calendar is, what each listing shows, and how organizers get listed.</li></ul></section>
         <section class="changelog-entry"><h3>v27 — Oct 24, 2026</h3><ul><li>New Collections row above the date filters: one-tap seasonal picks (Halloween, Christmas &amp; Holiday, Fall &amp; Harvest, and more as their seasons come) with live counts, built from the listings themselves. Collections combine with the search, region, city, fee and date filters.</li></ul></section>
         <section class="changelog-entry"><h3>v26 — Oct 24, 2026</h3><ul><li>Added a privacy-friendly visit counter (GoatCounter) so we can see how many people use the page and where they found it. No cookies, no personal data collected.</li></ul></section>
@@ -1134,6 +1240,16 @@
       var changelogClose = document.getElementById('changelog-close');
       var activeRange = 'all';
       var activeCollection = '';
+      var currentRole = 'vendor';
+      try {
+        var savedRole = window.localStorage.getItem('ove_role');
+        if (savedRole === 'shopper' || savedRole === 'organizer' || savedRole === 'vendor') currentRole = savedRole;
+      } catch (roleError) { /* localStorage unavailable — stay on the vendor default */ }
+      var ROLE_HINTS = {
+        vendor: 'Fees, deadlines and how to apply — the seller\u2019s view.',
+        shopper: 'Times, places and admission — vendor details hidden.',
+        organizer: 'The vendor view, plus the listing tools for organizers.'
+      };
       var COLLECTIONS = [
         { key: 'halloween', label: '\u{1F383} Halloween', test: function (text) { return /halloween|haunted|spooky|trick[ -]?or[ -]?treat|ghoul/.test(text); } },
         { key: 'christmas', label: '\u{1F385} Christmas & Holiday', test: function (text, month) { return /christmas|santa|yuletide|noel|winter wonderland|mistletoe/.test(text) || ((month === 11 || month === 12) && /holiday|festive/.test(text)); } },
@@ -1188,6 +1304,7 @@
       var clockIcon = '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"></circle><path d="M12 7v5l3 2"></path></svg>';
       var pinIcon = '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 10c0 5-8 11-8 11S4 15 4 10a8 8 0 1 1 16 0Z"></path><circle cx="12" cy="10" r="2.5"></circle></svg>';
       var feeIcon = '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 7.5V5h16v14H4v-2.5"></path><path d="M7 9.5h-3a2.5 2.5 0 0 0 0 5h3M15.5 9.5h.01M15.5 14.5h.01"></path></svg>';
+      var ticketIcon = '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 8a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v2.5a2.5 2.5 0 0 0 0 5V18a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-2.5a2.5 2.5 0 0 0 0-5V8Z"></path><path d="M13 6v2M13 11v2M13 16v2"></path></svg>';
 
       function escapeHTML(value) {
         return String(value).replace(/[&<>"']/g, function (char) {
@@ -1296,8 +1413,73 @@
         return details;
       }
 
+      function parseAdmission(description) {
+        var raw = String(description || '');
+        var lines = raw
+          .replace(/\s+(?=(?:Admission|Attractions|Vendors expected|Attendee info sources?):)/gi, '\n')
+          .split(/\r?\n/);
+        for (var i = 0; i < lines.length; i += 1) {
+          var match = lines[i].trim().match(/^Admission:\s*(.+)$/i);
+          if (match) {
+            var text = match[1].trim()
+              .replace(/\s+(?:Organizer|Theme|Tags|Source|Hours|Listing type|Vendor types wanted):.*$/i, '')
+              .trim();
+            if (text) return text;
+          }
+        }
+        return '';
+      }
+
+      function shopperLines(parsed) {
+        var emailPattern = /[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/i;
+        var kept = [];
+        parsed.description.forEach(function (line) {
+          if (/^Listing type:/i.test(line)) return;
+          var sentences = line.split(/(?<=[.!?])\s+/);
+          var survivors = [];
+          sentences.forEach(function (sentence) {
+            var text = sentence.trim();
+            if (!text) return;
+            if (/^Admission:/i.test(text)) return; /* surfaced on the card instead */
+            if (emailPattern.test(text)) return;
+            if (/listing type:/i.test(text)) return;
+            if (/source post/i.test(text)) return;
+            if (/\bvendor fees?\b|\btable fees?\b|\bbooth fees?\b|\bseller fees?\b|\bexhibitor fees?\b/i.test(text)) return;
+            if (/\bappl(?:y|ies|ied|ication|ications)\b/i.test(text)) return;
+            if (/\bfees?\b/i.test(text) && (/\$\s?\d/.test(text) || /\bvendor|table|booth|seller|exhibitor\b/i.test(text))) return;
+            text = text.replace(/https?:\/\/(?:docs\.google\.com\/forms|forms\.gle)\S*/gi, '').replace(/\s{2,}/g, ' ').trim();
+            if (text) survivors.push(text);
+          });
+          var joined = survivors.join(' ');
+          if (joined) kept.push(joined);
+        });
+        return kept;
+      }
+
       function formatDetails(event) {
         var parsed = parseLabeledDescription(event.description);
+        if (currentRole === 'shopper') {
+          var shopperHours = parsed.hours || (event.time && event.time !== 'Time not listed' ? event.time : '');
+          var admissionText = parseAdmission(event.description);
+          var shopperRows = [];
+          if (admissionText) shopperRows.push({ label: 'Admission', value: escapeHTML(admissionText) });
+          shopperRows.push({ label: 'Hours', value: shopperHours ? escapeHTML(shopperHours) : 'TBD' });
+          if (parsed.theme) shopperRows.push({ label: 'Theme', value: formatInline(parsed.theme, 'Theme') });
+          var shopperHTML = '<dl class="detail-list">' + shopperRows.map(function (row) {
+            return '<div class="detail-row"><dt>' + escapeHTML(row.label) + '</dt><dd>' + row.value + '</dd></div>';
+          }).join('') + '</dl>';
+          var summaryLines = shopperLines(parsed);
+          if (summaryLines.length) {
+            shopperHTML += '<div class="detail-summary">' + summaryLines.map(function (line) {
+              return '<p>' + formatInline(line, 'Details') + '</p>';
+            }).join('') + '</div>';
+          }
+          shopperHTML += '<div class="detail-actions"><a class="calendar-link" href="' + escapeHTML(event.url) + '" target="_blank" rel="noopener noreferrer">' + (/calendar\/embed/.test(event.url) ? 'Open full calendar ↗' : 'Open event in calendar ↗') + '</a></div>';
+          if (parsed.tags.length) {
+            shopperHTML += '<p class="event-tags">Tags: ' + parsed.tags.map(escapeHTML).join(', ') + '</p>';
+          }
+          return shopperHTML;
+        }
         var feeText = String(event.fees || '').trim() || parsed.feeLabel;
         var hoursText = parsed.hours || (event.time && event.time !== 'Time not listed' ? event.time : '');
         var sourceHTML = 'TBD';
@@ -1345,13 +1527,27 @@
             event.description, event.fees, event.apply, event.contact,
             parsed.theme, feeLabel, parsed.tags.join(' '), parsed.vendorTypes.join(' ')
           ].join(' ');
+          if (currentRole === 'shopper') {
+            searchText = [
+              event.title, event.location, event.city, event.region,
+              shopperLines(parsed).join(' '), parseAdmission(event.description),
+              parsed.theme, parsed.tags.join(' ')
+            ].join(' ');
+          }
           var tagClass = regionClasses[event.region] || 'durham';
           var detailsId = 'event-details-' + index;
           var feeDisplay = feeLabel ? 'Fee: ' + feeLabel : 'Fee not listed';
+          var metaHTML = '<span>' + clockIcon + escapeHTML(event.time) + '</span><span>' + pinIcon + escapeHTML(event.location) + '</span>';
+          if (currentRole === 'shopper') {
+            var admissionLabel = parseAdmission(event.description);
+            if (admissionLabel) metaHTML += '<span>' + ticketIcon + 'Admission: ' + escapeHTML(admissionLabel) + '</span>';
+          } else {
+            metaHTML += '<span>' + feeIcon + escapeHTML(feeDisplay) + '</span>';
+          }
           return '<article class="event-card" data-title="' + escapeHTML(searchText) + '" data-region="' + escapeHTML(event.region) + '" data-city="' + escapeHTML(event.city) + '" data-date="' + event.date + '" data-fee="' + (feeValue === null ? '' : feeValue) + '">' +
             '<div class="date-block"><span class="month">' + month + '</span><span class="day">' + day + '</span><span class="weekday">' + weekday + '</span><span class="year">' + year + '</span></div>' +
             '<div class="event-info"><h3><button class="event-toggle" type="button" aria-expanded="false" aria-controls="' + detailsId + '">' + escapeHTML(event.title) + '</button></h3>' +
-            '<div class="meta"><span>' + clockIcon + escapeHTML(event.time) + '</span><span>' + pinIcon + escapeHTML(event.location) + '</span><span>' + feeIcon + escapeHTML(feeDisplay) + '</span></div>' +
+            '<div class="meta">' + metaHTML + '</div>' +
             '<div class="event-details" id="' + detailsId + '" hidden>' + formatDetails(event) + '</div></div>' +
             '<span class="city-tag ' + tagClass + '">' + escapeHTML(event.city) + '</span></article>';
         }).join('');
@@ -1459,7 +1655,7 @@
           var regionMatch = regionValue === 'all' || card.dataset.region === regionValue;
           var cityMatch = cityValue === 'all' || card.dataset.city === cityValue;
           var hasListedFee = card.dataset.fee !== '';
-          var feeMatch = hasListedFee ?
+          var feeMatch = currentRole === 'shopper' ? true : hasListedFee ?
             Number(card.dataset.fee) >= minimumFee && Number(card.dataset.fee) <= maximumFee :
             !feeHideUnlisted.checked;
           var dateMatch = invalidDate ? false : specificDateValue ? card.dataset.date === specificDateValue :
@@ -1575,6 +1771,36 @@
         });
       });
 
+      var roleButtons = Array.prototype.slice.call(document.querySelectorAll('.role-btn'));
+      var roleHint = document.getElementById('role-hint');
+      var organizerPanel = document.getElementById('organizer-panel');
+      var feeControl = document.getElementById('fee-control');
+
+      function syncRoleUI() {
+        roleButtons.forEach(function (button) {
+          button.setAttribute('aria-pressed', button.dataset.role === currentRole ? 'true' : 'false');
+        });
+        if (roleHint) roleHint.textContent = ROLE_HINTS[currentRole] || '';
+        if (organizerPanel) organizerPanel.hidden = currentRole !== 'organizer';
+        if (feeControl) feeControl.hidden = currentRole === 'shopper';
+      }
+
+      function setRole(role) {
+        if (role === currentRole) { syncRoleUI(); return; }
+        currentRole = role;
+        try { window.localStorage.setItem('ove_role', role); } catch (roleError) { /* persistence is best-effort */ }
+        activeCollection = '';
+        syncRoleUI();
+        renderCards();
+        buildCollectionChips();
+        applyFilters(true);
+      }
+
+      roleButtons.forEach(function (button) {
+        button.addEventListener('click', function () { setRole(button.dataset.role); });
+      });
+
+      syncRoleUI();
       renderCards();
       buildCollectionChips();
       initializeFeeFilter();
