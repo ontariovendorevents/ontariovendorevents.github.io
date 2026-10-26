@@ -140,6 +140,7 @@
     }
     .intro-copy strong { color: var(--ink); }
     .intro-actions { display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-end; }
+    .intro-actions [hidden] { display: none !important; }
     .kofi-button { display: flex; align-items: center; min-height: 46px; }
     .kofi-button a {
       display: inline-flex;
@@ -993,8 +994,8 @@
         <p class="intro-copy"><strong>Browse craft shows, vendor markets, and maker events across Ontario</strong> by region, city, month, or keyword.</p>
       </div>
       <div class="intro-actions" aria-label="Calendar actions">
-        <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfi4jFs74WjrxqpPmFfuGv8PPKfEK3W8HMbOb4BrLlKFjr3gQ/viewform" target="_blank" rel="noopener noreferrer">Submit an event</a>
-        <a class="btn" href="https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com" target="_blank" rel="noopener noreferrer">Open full calendar</a>
+        <a class="btn btn-primary" id="submit-event-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfi4jFs74WjrxqpPmFfuGv8PPKfEK3W8HMbOb4BrLlKFjr3gQ/viewform" target="_blank" rel="noopener noreferrer">Submit an event</a>
+        <a class="btn" id="full-calendar-btn" href="https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com" target="_blank" rel="noopener noreferrer">Open full calendar</a>
         <div class="kofi-button"><a href="https://ko-fi.com/evergreenember" target="_blank" rel="noopener noreferrer" aria-label="Support me on Ko-fi (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none"><path fill="#fff" d="M3 6.5h13.5v7A5.5 5.5 0 0 1 11 19H8.5A5.5 5.5 0 0 1 3 13.5v-7Z"/><path stroke="#1c211e" stroke-width="1.8" d="M16.5 8h1.25a3.25 3.25 0 0 1 0 6.5H16"/><path fill="#ff5e5b" d="M9.75 15.1 6.5 12a2.15 2.15 0 0 1 3.25-2.8A2.15 2.15 0 0 1 13 12l-3.25 3.1Z"/></svg><span>Support me on Ko-fi</span></a></div>
       </div>
     </section>
@@ -1137,7 +1138,7 @@
         <span id="legend-events">0 events</span>
       </div>
       <div class="kofi-button"><a href="https://ko-fi.com/evergreenember" target="_blank" rel="noopener noreferrer" aria-label="Support me on Ko-fi (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none"><path fill="#fff" d="M3 6.5h13.5v7A5.5 5.5 0 0 1 11 19H8.5A5.5 5.5 0 0 1 3 13.5v-7Z"/><path stroke="#1c211e" stroke-width="1.8" d="M16.5 8h1.25a3.25 3.25 0 0 1 0 6.5H16"/><path fill="#ff5e5b" d="M9.75 15.1 6.5 12a2.15 2.15 0 0 1 3.25-2.8A2.15 2.15 0 0 1 13 12l-3.25 3.1Z"/></svg><span>Support me on Ko-fi</span></a></div>
-      <div class="snapshot">Calendar snapshot · October 25, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v29 · Changelog</button></div>
+      <div class="snapshot">Calendar snapshot · October 25, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v30 · Changelog</button></div>
       <p class="disclaimer">We do our best to check all of the events, but it still remains on each individual to do their due diligence.</p>
       <p class="credit">Ontario Vendor Events is built and curated by <a href="https://linktr.ee/evergreen.n.ember" target="_blank" rel="noopener noreferrer">Evergreen &amp; Ember</a></p>
     </footer>
@@ -1149,6 +1150,7 @@
       </div>
       <div class="changelog-body">
         <p class="changelog-note">Page features and improvements. New event listings aren't logged here — the page always shows the latest from the calendar.</p>
+        <section class="changelog-entry"><h3>v30 — Oct 25, 2026</h3><ul><li>The buttons at the top of the page now follow your view. “Submit an event” appears only in the Organizer view — submitting is an organizer's job — and “Open full calendar” steps aside in the Shopper view, where each market's details still carry their own calendar link. Vendors keep the calendar button for browsing what's coming up.</li></ul></section>
         <section class="changelog-entry"><h3>v29 — Oct 25, 2026</h3><ul><li>New view switch at the top of the filters: Vendor, Shopper or Organizer. Vendor is the view you've always had — fees, deadlines and how to apply. Shopper hides the vendor details and leads with times, places and admission. Organizer adds a listing panel for market organizers, with the submission form, how listing works, and the free “Featured on OVE” badge. The page remembers your pick on this device.</li></ul></section>
         <section class="changelog-entry"><h3>v28 — Oct 24, 2026</h3><ul><li>Sharing upgrade: the page now carries a proper description and preview card, so the link shows a real headline and image when it is shared on Facebook, Instagram or anywhere else.</li><li>New "Good to know" section at the bottom of the page answering the common questions — what the calendar is, what each listing shows, and how organizers get listed.</li></ul></section>
         <section class="changelog-entry"><h3>v27 — Oct 24, 2026</h3><ul><li>New Collections row above the date filters: one-tap seasonal picks (Halloween, Christmas &amp; Holiday, Fall &amp; Harvest, and more as their seasons come) with live counts, built from the listings themselves. Collections combine with the search, region, city, fee and date filters.</li></ul></section>
@@ -1775,6 +1777,8 @@
       var roleHint = document.getElementById('role-hint');
       var organizerPanel = document.getElementById('organizer-panel');
       var feeControl = document.getElementById('fee-control');
+      var submitEventBtn = document.getElementById('submit-event-btn');
+      var fullCalendarBtn = document.getElementById('full-calendar-btn');
 
       function syncRoleUI() {
         roleButtons.forEach(function (button) {
@@ -1783,6 +1787,12 @@
         if (roleHint) roleHint.textContent = ROLE_HINTS[currentRole] || '';
         if (organizerPanel) organizerPanel.hidden = currentRole !== 'organizer';
         if (feeControl) feeControl.hidden = currentRole === 'shopper';
+        // v30 (Paul, Oct 25, 2026): the hero buttons follow the view —
+        // submitting an event is an organizer action, and the Shopper
+        // view doesn't need the full-calendar door either (each
+        // market's details keep their own calendar link).
+        if (submitEventBtn) submitEventBtn.hidden = currentRole !== 'organizer';
+        if (fullCalendarBtn) fullCalendarBtn.hidden = currentRole === 'shopper';
       }
 
       function setRole(role) {
