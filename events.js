@@ -1089,6 +1089,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "St. Lawrence Market Winter Market",
+  "date": "2026-11-19",
+  "time": "11 a.m.–7 p.m.",
+  "location": "Market Street, St. Lawrence Market, Toronto, ON",
+  "city": "Toronto",
+  "region": "Toronto",
+  "description": "3rd annual Winter Market at St. Lawrence Market - a free outdoor holiday market on Market Street beside the South Market in downtown Toronto, with live music, festive food and drinks, free photos with Santa every weekend, and 75+ local makers and vintage vendors at the Weekend Holiday Vendor Market (Saturdays and Sundays). The Toronto Santa Claus Parade ends at the market on Sunday Nov 22.\nListing type: Shopper event\nRuns: Thursdays through Sundays, Nov 19 - Dec 22, 2026, plus bonus days Mon Dec 21 and Tue Dec 22, 2026\nHours: Thu & Fri 11:00 AM - 7:00 PM; Sat & Sun 10:00 AM - 7:00 PM; bonus days Dec 21 & 22, 10:00 AM - 7:00 PM\nAdmission: Free\nNote: The organizer page still shows the previous edition; the 2026 dates above come from the 2026 announcement video (TodoToronto, posted Oct 2026).\nSource: https://vt.tiktok.com/ZSgC6xxYK/\nSource: https://www.stlawrencemarket.com/events/event_detail/830/Winter%2520Market",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Tait Street Public School Holiday Night Market",
   "date": "2026-11-19",
   "time": "5 p.m.–8 p.m.",
