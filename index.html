@@ -355,31 +355,32 @@
     .specific-date {
       display: inline-flex;
       align-items: center;
-      gap: 8px;
-      min-height: 36px;
-      padding: 0 5px 0 12px;
+      gap: 2px;
+      min-height: 40px;
+      padding: 0 4px 0 2px;
       border: 1px solid var(--line);
       border-radius: 9px;
       background: var(--surface);
-      color: var(--muted);
       font-size: .88rem;
       font-weight: 700;
     }
-    .specific-date input {
-      min-width: 112px;
-      width: 112px;
-      min-height: 32px;
-      padding: 0 4px;
+    .specific-date.has-date { border-color: var(--brand); background: var(--brand-soft); }
+    .date-picker-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      min-height: 38px;
+      padding: 0 10px;
       border: 0;
+      border-radius: 6px;
       background: transparent;
       color: var(--ink);
+      font: inherit;
+      cursor: pointer;
     }
-    .specific-date input::placeholder {
-      color: var(--placeholder);
-      opacity: 1;
-    }
-    .specific-date input:focus-visible { outline-offset: 0; }
-    .date-picker-toggle {
+    .date-picker-toggle:hover { background: var(--brand-soft); }
+    .date-picker-toggle svg { width: 19px; height: 19px; color: var(--brand-strong); flex: none; }
+    .specific-date-clear {
       display: inline-flex;
       align-items: center;
       justify-content: center;
@@ -387,53 +388,46 @@
       height: 32px;
       padding: 0;
       border: 0;
-      border-radius: 6px;
+      border-radius: 50%;
       background: transparent;
-      color: var(--brand-strong);
+      color: var(--muted);
+      font-size: 1.05rem;
+      line-height: 1;
       cursor: pointer;
     }
-    .date-picker-toggle:hover { background: var(--brand-soft); }
-    .date-picker-toggle svg { width: 19px; height: 19px; }
-    .date-error {
-      flex-basis: 100%;
-      color: #a52e29;
-      font-size: .78rem;
-      font-weight: 700;
-    }
-    .date-error:empty { display: none; }
+    .specific-date-clear:hover { background: var(--brand-soft); color: var(--ink); }
     .date-picker-panel {
-      position: absolute;
-      right: 0;
-      top: calc(100% + 6px);
-      z-index: 10;
-      width: min(310px, calc(100% - 32px));
+      flex: 1 1 100%;
+      width: 100%;
+      max-width: 400px;
+      margin-top: 4px;
       padding: 14px;
       border: 1px solid var(--line);
       border-radius: 12px;
       background: var(--surface);
-      box-shadow: var(--shadow);
     }
     .date-picker-head {
       display: grid;
-      grid-template-columns: 36px minmax(0, 1fr) 36px;
+      grid-template-columns: 40px minmax(0, 1fr) 40px;
       align-items: center;
       gap: 6px;
       margin-bottom: 10px;
     }
     .date-picker-head strong { text-align: center; }
     .date-picker-head button {
-      width: 36px;
-      height: 36px;
+      width: 40px;
+      height: 40px;
       border: 1px solid var(--line);
       border-radius: 7px;
       background: var(--surface-2);
       color: var(--ink);
+      font-size: 1.1rem;
       cursor: pointer;
     }
     .date-grid {
       display: grid;
       grid-template-columns: repeat(7, minmax(0, 1fr));
-      gap: 3px;
+      gap: 4px;
     }
     .date-grid span {
       padding: 4px 0;
@@ -443,20 +437,49 @@
       text-align: center;
     }
     .date-grid button {
-      aspect-ratio: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 3px;
       min-width: 0;
-      padding: 0;
+      min-height: 46px;
+      padding: 4px 0;
       border: 1px solid transparent;
-      border-radius: 6px;
+      border-radius: 8px;
       background: transparent;
       color: var(--ink);
+      font-size: .95rem;
       cursor: pointer;
     }
+    .date-grid button .dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: var(--brand-strong);
+    }
+    .date-grid button.has-events { font-weight: 800; }
     .date-grid button:hover { border-color: var(--brand); background: var(--brand-soft); }
-    .date-grid button[aria-current="date"] { border-color: var(--brand); font-weight: 800; }
+    .date-grid button[aria-current="date"] { border-color: var(--brand); }
     .date-grid button[aria-selected="true"] { background: var(--brand-strong); color: #fff; }
-    @media (prefers-color-scheme: dark) {
-      .date-error { color: #ffaaa6; }
+    .date-grid button[aria-selected="true"] .dot { background: #fff; }
+    .date-grid button:disabled { color: var(--muted); opacity: .35; cursor: default; }
+    .date-grid button:disabled:hover { border-color: transparent; background: transparent; }
+    .date-picker-note {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      margin: 10px 0 0;
+      color: var(--muted);
+      font-size: .78rem;
+      font-weight: 600;
+    }
+    .date-picker-note .dot-sample {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: var(--brand-strong);
+      flex: none;
     }
     .chip {
       min-height: 36px;
@@ -971,7 +994,7 @@
       .chip { width: 100%; }
       .chip:first-child { grid-column: 1 / -1; }
       .specific-date { grid-column: 1 / -1; justify-content: space-between; }
-      .specific-date input { min-width: 0; }
+      .date-picker-panel { grid-column: 1 / -1; max-width: none; }
       .results-head { align-items: center; }
       .event-card { gap: 12px; }
       .meta { display: grid; gap: 5px; }
@@ -1053,19 +1076,18 @@
         <button class="chip" type="button" data-range="2026-10" aria-pressed="false">October</button>
         <button class="chip" type="button" data-range="2026-11" aria-pressed="false">November</button>
         <button class="chip" type="button" data-range="2026-12" aria-pressed="false">December</button>
-        <div class="specific-date">
-          <label for="specific-date">Specific date</label>
-          <input id="specific-date" type="text" inputmode="numeric" placeholder="mm/dd/yyyy" autocomplete="off" aria-describedby="date-error" />
-          <button class="date-picker-toggle" id="date-picker-toggle" type="button" aria-label="Show date picker" aria-haspopup="dialog" aria-expanded="false" aria-controls="date-picker"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="16" rx="2"></rect><path d="M16 3v4M8 3v4M3 10h18"></path></svg></button>
+        <div class="specific-date" id="specific-date-wrap">
+          <button class="date-picker-toggle" id="date-picker-toggle" type="button" aria-label="Choose a specific date" aria-expanded="false" aria-controls="date-picker"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="16" rx="2"></rect><path d="M16 3v4M8 3v4M3 10h18"></path></svg><span id="specific-date-label">Specific date</span></button>
+          <button class="specific-date-clear" id="specific-date-clear" type="button" aria-label="Clear specific date" title="Clear specific date" hidden>&times;</button>
         </div>
-        <span class="date-error" id="date-error" aria-live="polite"></span>
-        <div class="date-picker-panel" id="date-picker" role="dialog" aria-label="Choose a date" hidden>
+        <div class="date-picker-panel" id="date-picker" aria-label="Choose a date" hidden>
           <div class="date-picker-head">
             <button id="date-prev" type="button" aria-label="Previous month">‹</button>
             <strong id="date-picker-month"></strong>
             <button id="date-next" type="button" aria-label="Next month">›</button>
           </div>
           <div class="date-grid" id="date-grid"></div>
+          <p class="date-picker-note"><span class="dot-sample" aria-hidden="true"></span>Days with a dot have events — tap one to see just that day.</p>
         </div>
       </div>
     </section>
@@ -1138,7 +1160,7 @@
         <span id="legend-events">0 events</span>
       </div>
       <div class="kofi-button"><a href="https://ko-fi.com/evergreenember" target="_blank" rel="noopener noreferrer" aria-label="Support me on Ko-fi (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none"><path fill="#fff" d="M3 6.5h13.5v7A5.5 5.5 0 0 1 11 19H8.5A5.5 5.5 0 0 1 3 13.5v-7Z"/><path stroke="#1c211e" stroke-width="1.8" d="M16.5 8h1.25a3.25 3.25 0 0 1 0 6.5H16"/><path fill="#ff5e5b" d="M9.75 15.1 6.5 12a2.15 2.15 0 0 1 3.25-2.8A2.15 2.15 0 0 1 13 12l-3.25 3.1Z"/></svg><span>Support me on Ko-fi</span></a></div>
-      <div class="snapshot">Calendar snapshot · October 25, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v30 · Changelog</button></div>
+      <div class="snapshot">Calendar snapshot · October 25, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v31 · Changelog</button></div>
       <p class="disclaimer">We do our best to check all of the events, but it still remains on each individual to do their due diligence.</p>
       <p class="credit">Ontario Vendor Events is built and curated by <a href="https://linktr.ee/evergreen.n.ember" target="_blank" rel="noopener noreferrer">Evergreen &amp; Ember</a></p>
     </footer>
@@ -1150,6 +1172,7 @@
       </div>
       <div class="changelog-body">
         <p class="changelog-note">Page features and improvements. New event listings aren't logged here — the page always shows the latest from the calendar.</p>
+        <section class="changelog-entry"><h3>v31 — Oct 25, 2026</h3><ul><li>Easier date picking: “Specific date” now opens a calendar right inside the filter area instead of a floating pop-up. Days with markets carry a dot and days without are greyed out, the day buttons are bigger for tapping, and the picked date shows on the button with an × to clear it back to All dates.</li></ul></section>
         <section class="changelog-entry"><h3>v30 — Oct 25, 2026</h3><ul><li>The buttons at the top of the page now follow your view. “Submit an event” appears only in the Organizer view — submitting is an organizer's job — and “Open full calendar” steps aside in the Shopper view, where each market's details still carry their own calendar link. Vendors keep the calendar button for browsing what's coming up.</li></ul></section>
         <section class="changelog-entry"><h3>v29 — Oct 25, 2026</h3><ul><li>New view switch at the top of the filters: Vendor, Shopper or Organizer. Vendor is the view you've always had — fees, deadlines and how to apply. Shopper hides the vendor details and leads with times, places and admission. Organizer adds a listing panel for market organizers, with the submission form, how listing works, and the free “Featured on OVE” badge. The page remembers your pick on this device.</li></ul></section>
         <section class="changelog-entry"><h3>v28 — Oct 24, 2026</h3><ul><li>Sharing upgrade: the page now carries a proper description and preview card, so the link shows a real headline and image when it is shared on Facebook, Instagram or anywhere else.</li><li>New "Good to know" section at the bottom of the page answering the common questions — what the calendar is, what each listing shows, and how organizers get listed.</li></ul></section>
@@ -1192,8 +1215,9 @@
       var feeValue = document.getElementById('fee-value');
       var feeSliders = document.getElementById('fee-sliders');
       var feeHideUnlisted = document.getElementById('fee-hide-unlisted');
-      var specificDate = document.getElementById('specific-date');
-      var dateError = document.getElementById('date-error');
+      var specificDateWrap = document.getElementById('specific-date-wrap');
+      var specificDateLabel = document.getElementById('specific-date-label');
+      var specificDateClear = document.getElementById('specific-date-clear');
       var datePickerToggle = document.getElementById('date-picker-toggle');
       var datePicker = document.getElementById('date-picker');
       var datePickerMonth = document.getElementById('date-picker-month');
@@ -1203,6 +1227,9 @@
       var pickerMonth = new Date(2026, 9, 1);
       EVENTS = EVENTS.slice()
         .sort(function (a, b) { return a.date.localeCompare(b.date); });
+      var selectedDate = '';
+      var eventCounts = {};
+      EVENTS.forEach(function (event) { eventCounts[event.date] = (eventCounts[event.date] || 0) + 1; });
       while (region.options.length > 1) region.remove(1);
       Array.from(new Set(EVENTS.map(function (event) { return event.region; })))
         .sort(function (a, b) { return a.localeCompare(b); })
@@ -1599,17 +1626,16 @@
         return eventDate.toDateString() === saturday.toDateString() || eventDate.toDateString() === sunday.toDateString();
       }
 
-      function parseSpecificDate(value) {
-        var trimmed = value.trim();
-        if (!trimmed) return '';
-        var match = trimmed.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
-        if (!match) return null;
-        var month = Number(match[1]);
-        var day = Number(match[2]);
-        var year = Number(match[3]);
-        var date = new Date(year, month - 1, day);
-        if (date.getFullYear() !== year || date.getMonth() !== month - 1 || date.getDate() !== day) return null;
-        return String(year) + '-' + String(month).padStart(2, '0') + '-' + String(day).padStart(2, '0');
+      function formatSpecificDate(iso) {
+        return new Date(iso + 'T12:00:00').toLocaleDateString('en-CA', { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' });
+      }
+
+      function syncSpecificDate() {
+        specificDateLabel.textContent = selectedDate ? formatSpecificDate(selectedDate) : 'Specific date';
+        specificDateClear.hidden = !selectedDate;
+        specificDateWrap.classList.toggle('has-date', !!selectedDate);
+        datePickerToggle.setAttribute('aria-label', selectedDate ?
+          'Change specific date (currently ' + formatSpecificDate(selectedDate) + ')' : 'Choose a specific date');
       }
 
       function renderDatePicker() {
@@ -1617,7 +1643,6 @@
         var month = pickerMonth.getMonth();
         var firstDay = new Date(year, month, 1).getDay();
         var daysInMonth = new Date(year, month + 1, 0).getDate();
-        var selected = parseSpecificDate(specificDate.value);
         var today = new Date();
         datePickerMonth.textContent = pickerMonth.toLocaleDateString('en-CA', { month: 'long', year: 'numeric' });
         var html = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'].map(function (dayName) {
@@ -1628,8 +1653,13 @@
           var iso = String(year) + '-' + String(month + 1).padStart(2, '0') + '-' + String(day).padStart(2, '0');
           var dateLabel = new Date(year, month, day).toLocaleDateString('en-CA', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
           var isToday = today.getFullYear() === year && today.getMonth() === month && today.getDate() === day;
-          html += '<button type="button" data-date="' + iso + '" aria-label="' + dateLabel + '"' +
-            (isToday ? ' aria-current="date"' : '') + (selected === iso ? ' aria-selected="true"' : '') + '>' + day + '</button>';
+          var dayCount = eventCounts[iso] || 0;
+          if (dayCount) {
+            html += '<button type="button" class="has-events" data-date="' + iso + '" aria-label="' + dateLabel + ' — ' + dayCount + (dayCount === 1 ? ' event' : ' events') + '"' +
+              (isToday ? ' aria-current="date"' : '') + (selectedDate === iso ? ' aria-selected="true"' : '') + '>' + day + '<span class="dot" aria-hidden="true"></span></button>';
+          } else {
+            html += '<button type="button" data-date="' + iso + '" aria-label="' + dateLabel + ' — no events" disabled>' + day + '</button>';
+          }
         }
         dateGrid.innerHTML = html;
       }
@@ -1646,10 +1676,6 @@
         var cityValue = city.value;
         var minimumFee = Number(feeMin.value);
         var maximumFee = Number(feeMax.value);
-        var specificDateValue = parseSpecificDate(specificDate.value);
-        var invalidDate = specificDateValue === null;
-        dateError.textContent = invalidDate ? 'Enter a valid date as mm/dd/yyyy.' : '';
-        specificDate.setAttribute('aria-invalid', invalidDate ? 'true' : 'false');
         var visible = 0;
 
         cards.forEach(function (card) {
@@ -1660,7 +1686,7 @@
           var feeMatch = currentRole === 'shopper' ? true : hasListedFee ?
             Number(card.dataset.fee) >= minimumFee && Number(card.dataset.fee) <= maximumFee :
             !feeHideUnlisted.checked;
-          var dateMatch = invalidDate ? false : specificDateValue ? card.dataset.date === specificDateValue :
+          var dateMatch = selectedDate ? card.dataset.date === selectedDate :
             activeRange === 'all' ||
             (activeRange === 'weekend' && isThisWeekend(card.dataset.date)) ||
             card.dataset.date.indexOf(activeRange) === 0;
@@ -1702,9 +1728,8 @@
         applyFilters(false);
       });
       datePickerToggle.addEventListener('click', function () {
-        var parsed = parseSpecificDate(specificDate.value);
-        if (parsed) {
-          var parts = parsed.split('-');
+        if (selectedDate) {
+          var parts = selectedDate.split('-');
           pickerMonth = new Date(Number(parts[0]), Number(parts[1]) - 1, 1);
         }
         var willOpen = datePicker.hidden;
@@ -1712,7 +1737,9 @@
         datePickerToggle.setAttribute('aria-expanded', willOpen ? 'true' : 'false');
         if (willOpen) {
           renderDatePicker();
-          datePicker.querySelector('button[data-date]')?.focus();
+          var focusTarget = datePicker.querySelector('button[aria-selected="true"]') ||
+            datePicker.querySelector('button[data-date]:not([disabled])');
+          if (focusTarget) focusTarget.focus();
         }
       });
       datePrev.addEventListener('click', function () {
@@ -1725,27 +1752,29 @@
       });
       dateGrid.addEventListener('click', function (event) {
         var button = event.target.closest('button[data-date]');
-        if (!button) return;
-        var parts = button.dataset.date.split('-');
-        specificDate.value = parts[1] + '/' + parts[2] + '/' + parts[0];
+        if (!button || button.disabled) return;
+        selectedDate = button.dataset.date;
         activeRange = 'all';
         chips.forEach(function (item) { item.setAttribute('aria-pressed', 'false'); });
+        syncSpecificDate();
         closeDatePicker();
         applyFilters(true);
-        specificDate.focus();
+        datePickerToggle.focus();
+      });
+      specificDateClear.addEventListener('click', function () {
+        selectedDate = '';
+        activeRange = 'all';
+        chips.forEach(function (item) { item.setAttribute('aria-pressed', item.dataset.range === 'all' ? 'true' : 'false'); });
+        syncSpecificDate();
+        closeDatePicker();
+        applyFilters(true);
+        datePickerToggle.focus();
       });
       document.addEventListener('keydown', function (event) {
         if (event.key === 'Escape' && !datePicker.hidden) {
           closeDatePicker();
           datePickerToggle.focus();
         }
-      });
-      specificDate.addEventListener('input', function () {
-        activeRange = 'all';
-        chips.forEach(function (item) {
-          item.setAttribute('aria-pressed', !specificDate.value && item.dataset.range === 'all' ? 'true' : 'false');
-        });
-        applyFilters(true);
       });
       var signupToggle = document.getElementById('signup-toggle');
       var signupPanel = document.getElementById('signup-panel');
@@ -1767,7 +1796,9 @@
       chips.forEach(function (chip) {
         chip.addEventListener('click', function () {
           activeRange = chip.dataset.range;
-          specificDate.value = '';
+          selectedDate = '';
+          syncSpecificDate();
+          closeDatePicker();
           chips.forEach(function (item) { item.setAttribute('aria-pressed', item === chip ? 'true' : 'false'); });
           applyFilters(true);
         });
@@ -1811,6 +1842,7 @@
       });
 
       syncRoleUI();
+      syncSpecificDate();
       renderCards();
       buildCollectionChips();
       initializeFeeFilter();
