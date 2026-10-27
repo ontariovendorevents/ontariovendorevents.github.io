@@ -1062,6 +1062,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "St. John Bosco Christmas Market",
+  "date": "2026-11-19",
+  "time": "5 p.m.–9 p.m.",
+  "location": "St. John Bosco, 1600 Clearbrook Drive, Oshawa, ON L1J 1Y1",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "Christmas Market at St. John Bosco Catholic School in Oshawa — vendors wanted of all kinds: handmade crafts, direct sales, home décor, food & treats, jewellery, beauty & wellness, baked goods, art, personalized items and more, with a limit of 2 vendors per craft. Tables are $40 each; an electrical plug-in is available for $10.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 9:00 PM\nVendor types wanted: Handmade crafts, direct sales, home décor, food & treats, jewellery, beauty & wellness, baked goods, art, personalized items (limit 2 vendors per craft)\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1594546165306131/",
+  "fees": "$40 per table; +$10 electrical plug-in",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "St. Lawrence Market Winter Market",
   "date": "2026-11-19",
   "time": "11 a.m.–7 p.m.",
