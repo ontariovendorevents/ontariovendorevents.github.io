@@ -706,6 +706,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Christmas Market & Second-Hand Treasures Sale",
+  "date": "2026-11-14",
+  "time": "10 a.m.–2 p.m.",
+  "location": "Westview Baptist Church, 1000 Wonderland Rd South, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "Christmas Market & Second-Hand Treasures Sale at Westview Baptist Church — handmade gifts and home décor, baked treats, quilts, photography, preserves, jewelry, soaps, crochet creations and second-hand treasures. Shoppers are invited to bring a non-perishable food donation for the church's Community Food Cupboard.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nAdmission: Free\nSource: https://facebook.com/groups/971632669514677/permalink/29477200901864473/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Christmas Market Chelmsford",
   "date": "2026-11-14",
   "time": "10 a.m.–4 p.m.",
