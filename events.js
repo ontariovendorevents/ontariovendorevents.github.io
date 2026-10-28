@@ -2097,6 +2097,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Herrle's Christmas Market",
+  "date": "2026-11-28",
+  "endDate": "2026-11-29",
+  "time": "9 a.m.–3 p.m.",
+  "location": "Herrle's Country Farm Market, 1243 Erbs Rd, St. Agatha, ON",
+  "city": "St. Agatha",
+  "region": "Waterloo Region",
+  "description": "Christmas market at Herrle's Country Farm Market in St. Agatha — a two-day holiday market at the family-run farm market (est. 1964), with a lineup of local vendors announced by the organizer.\nListing type: Shopper event\nTheme: Christmas\nHours: Sat 9:00 AM - 4:00 PM; Sun 11:00 AM - 3:00 PM\nSource: https://www.instagram.com/p/De15AYHRMY_/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Holiday Artisan Market at Gardenerette",
   "date": "2026-11-28",
   "time": "10 a.m.–3 p.m.",
