@@ -2143,6 +2143,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Grand Oak Christmas Market & Open House",
+  "date": "2026-11-28",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Grand Oak Culinary Market, 4600 Victoria Ave, Vineland, ON L0R 2E0",
+  "city": "Vineland",
+  "region": "Niagara Region",
+  "description": "6th Annual Christmas Market & Open House at Grand Oak Culinary Market in Vineland — a festive day of shopping with a lineup of local vendors, unique gifts and handmade treasures, plus the annual gift basket raffle supporting a local charity. Free admission.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nSource: https://www.instagram.com/p/DezxeXHRhQB/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Hawks Holiday Bazaar",
   "date": "2026-11-28",
   "time": "9 a.m.–3 p.m.",
