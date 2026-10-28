@@ -1229,6 +1229,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Vintage Christmas & Holiday Market",
+  "date": "2026-11-20",
+  "endDate": "2026-11-22",
+  "time": "5 p.m.–5 p.m.",
+  "location": "The Gardens at Pillar and Post, 48 John Street West, Niagara-on-the-Lake, ON L0S 1J0",
+  "city": "Niagara-on-the-Lake",
+  "region": "Niagara Region",
+  "description": "First annual Vintage Christmas & Holiday Market in The Gardens at Pillar and Post — the gardens transform into an enchanting woodland Christmas village with local artisans and vendors, signature culinary experiences, festive workshops, and a visit with Santa. Admission to the outdoor Christmas Market is free. Tickets are required for some experiences, including the Sip & Savour Event, Vintage Holiday Tea, workshops, and the Victorian Nutcracker Feast.\nListing type: Shopper event\nTheme: Christmas\nHours: Fri 5:00 PM - 9:00 PM (Sip & Savour kickoff, ticketed); Sat 11:00 AM - 5:00 PM; Sun 11:00 AM - 5:00 PM\nSource: https://www.instagram.com/p/DecKZU_DYK1/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Bear-y Merry Christmas Market",
   "date": "2026-11-21",
   "time": "10 a.m.–4 p.m.",
