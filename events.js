@@ -3111,6 +3111,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Vaughan Holiday Market",
+  "date": "2026-12-06",
+  "time": "11 a.m.–7 p.m.",
+  "location": "Bellvue Event Centre, 8083 Jane Street, Vaughan, ON L4K 2M7",
+  "city": "Vaughan",
+  "region": "York Region",
+  "description": "Vaughan Holiday Market at Bellvue Event Centre in Vaughan — Celebrate Vaughan's holiday market with 100+ vendors selling artisan goods, handmade gifts, gourmet treats and seasonal decor, plus Santa photos. Free admission and free parking.\nListing type: Vendor call\nTheme: Christmas\nHours: 11:00 AM - 7:00 PM\nHow to apply: Vendor applications via the organizer's vendor page: https://www.torontomademarket.com/apply\nSource: https://www.instagram.com/p/DewUP_axFu6/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Grateful Market Christmas Market",
   "date": "2026-12-10",
   "endDate": "2026-12-23",
