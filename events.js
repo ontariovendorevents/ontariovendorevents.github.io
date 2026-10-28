@@ -239,6 +239,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Christmas Under the Dome Market 2026",
+  "date": "2026-11-07",
+  "time": "10 a.m.–3:45 p.m.",
+  "location": "Barrie Sports Dome, 211 Marsellus Drive, Barrie, ON",
+  "city": "Barrie",
+  "region": "Simcoe County",
+  "description": "Christmas Under the Dome Market 2026 at the Barrie Sports Dome — shop amazing local vendors, enjoy live music, and discover unique Christmas gifts, with delicious food from Carib Dish. Raffle in support of the Barrie Food Bank: bring 5 non-perishable food items to receive a free raffle ticket, or raffle tickets are $2.00 each.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 3:45 PM\nAdmission: Free\nSource: https://facebook.com/groups/1463525213937500/permalink/4296382560651737/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Cooksville United Church Fall Bazaar",
   "date": "2026-11-07",
   "time": "10 a.m.–2 p.m.",
