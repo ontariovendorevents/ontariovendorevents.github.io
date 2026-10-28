@@ -2141,6 +2141,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Holly Jolly Christmas Craft Show (Ottawa Craft Shows)",
+  "date": "2026-11-28",
+  "time": "11 a.m.–4 p.m.",
+  "location": "Merivale Mall, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "Holly Jolly Christmas Craft Show by Ottawa Craft Shows at Merivale Mall in Ottawa — a few vendor spots are left. The show features about 100 local vendors, live Christmas music, and free photos with Santa, Mrs. Claus, and their elves. Vendor fee was not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nHours: 11:00 AM - 4:00 PM\nVendor types wanted: Local vendors\nHow to apply: see the source post\nSource: https://facebook.com/groups/377595892794556/permalink/2248829245671202/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "K-W Navy League Winter Market",
   "date": "2026-11-28",
   "time": "10 a.m.–3 p.m.",
@@ -2149,6 +2160,17 @@ window.EVENTS_REFRESH = [
   "region": "Waterloo Region",
   "description": "Winter market hosted by the K-W Navy League in Waterloo.\nListing type: Vendor call\nFee: $25\nHow to apply: register at kwnavyleague.com\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28536589322678891/",
   "fees": "$25",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Kearney Christmas Fun Fair",
+  "date": "2026-11-28",
+  "time": "9 a.m.–2 p.m.",
+  "location": "Kearney, ON",
+  "city": "Kearney",
+  "region": "Rest of Ontario",
+  "description": "Kearney Christmas Fun Fair in Kearney — vendor spots are still available. The fair benefits the Kearney Lions' Christmas hampers. The venue and vendor fee were not stated in the flyer.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 2:00 PM\nHow to apply: see the source post\nSource: https://facebook.com/groups/168481472256405/permalink/992759673161910/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2364,6 +2386,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "École Sainte-Marie Mère de Dieu Christmas Market",
+  "date": "2026-11-28",
+  "time": "Time not listed",
+  "location": "École Sainte-Marie Mère de Dieu, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "Christmas Market at École Sainte-Marie Mère de Dieu in Ottawa — three vendor spots have opened up. The school is looking to fill three categories: ceramics or glassware; candles; and food items (especially cheese, charcuterie, honey, and jams — the chocolate, bakery, and maple categories are full). All proceeds from the market go directly to supporting the school. Hours and vendor fee were not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nVendor types wanted: Ceramics or glassware; candles; food items (cheese, charcuterie, honey, jams)\nHow to apply: see the source post\nSource: https://facebook.com/groups/377595892794556/permalink/2250058738881586/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Christmas Makers Market",
   "date": "2026-11-29",
   "time": "10 a.m.–4 p.m.",
@@ -2452,6 +2485,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Christmas market — J-AAR Expo Centre, Western Fair District",
+  "date": "2026-12-03",
+  "endDate": "2026-12-06",
+  "time": "Time not listed",
+  "location": "J-AAR Expo Centre, Western Fair District, 845 Florence St, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "Christmas market at the J-AAR Expo Centre in the Western Fair District, London — a festive celebration of handmade crafts and unique gifts, welcoming vendors to showcase their products and connect with Christmas shoppers. The post gives no formal event name, hours, or vendor fee.\nListing type: Vendor call\nTheme: Christmas\nVendor types wanted: Handmade crafts and unique gifts\nHow to apply: Register via the vendor registration form: https://forms.office.com/r/KJQYazsVvC\nSource: https://facebook.com/groups/1180850233912666/permalink/1481678920496461/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "St. Robert 4th Annual Christmas Market",
   "date": "2026-12-03",
   "time": "6 p.m.–9 p.m.",
@@ -2516,6 +2561,17 @@ window.EVENTS_REFRESH = [
   "region": "Rest of Ontario",
   "description": "4th Annual Country Girl's Christmas Market in Meaford — a festive holiday shopping market welcoming vendors of handmade goods, holiday décor, specialty foods, gifts, and unique products. Also runs Sat Nov 28. Venue and hours have not been published by the organizer — confirm both when you request an application.\nTheme: Christmas / holiday season\nFee: not stated by organizer\nHow to apply: Email the organizer to request an application — email address is in the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1584363616324386/",
   "fees": "not stated by organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "A Plaid & Handmade Christmas Market",
+  "date": "2026-12-05",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Trent Port Historical Society, 55 King St, Trenton, ON",
+  "city": "Trenton",
+  "region": "Kingston & Area",
+  "description": "A Plaid & Handmade Christmas Market by the Downtown Trenton DBIA at the Trent Port Historical Society in Trenton — a juried market, and all products must be handmade or handcrafted; no commercially manufactured or resale products will be accepted. A few vendor spaces remain, plus a limited number of outdoor spaces for handcrafted holiday greenery such as wreaths, festive arrangements, and swags. Vendor fee was not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nVendor types wanted: Handmade and handcrafted vendors, local artisans (juried — handmade only)\nHow to apply: see the source post\nSource: https://facebook.com/groups/249514765440654/permalink/2985764191815684/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2984,6 +3040,17 @@ window.EVENTS_REFRESH = [
   "region": "Ottawa",
   "description": "Fee: $65+HST/night or $300+HST early-bird season rate (until Oct 31)\nHow to apply: SoapLadz.ca/Market\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2628683637567194/\n\n",
   "fees": "$65+HST/night or $300+HST early-bird season rate (until Oct 31)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "12 Days to Christmas Craft Fair",
+  "date": "2026-12-12",
+  "time": "10 a.m.–2 p.m.",
+  "location": "St Andrew's Presbyterian Church Hall, 3529 McBean St, Richmond, ON",
+  "city": "Richmond",
+  "region": "Ottawa",
+  "description": "12 Days to Christmas Craft Fair at St Andrew's Presbyterian Church Hall in Richmond, for local makers, artisans, and small businesses. Vendor spaces are $35 per space; table rental is an additional $5 per table and an electrical outlet is an additional $5 (subject to availability). The painting, jewellery, and knitting categories are full and are no longer being accepted. Applications are reviewed in the order they are received, and spaces are limited.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nVendor types wanted: Makers, artisans, and small businesses (painting, jewellery, and knitting categories are full)\nHow to apply: Apply via the application form: https://docs.google.com/forms/d/e/1FAIpQLScN6re9llVP4WN7KvZghe70y9ooN8TYfAxvKIZcsNPX1bVDgQ/viewform?usp=header\nSource: https://facebook.com/groups/377595892794556/permalink/2249435855610541/",
+  "fees": "$35 per space (+$5 table rental, +$5 electrical)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
