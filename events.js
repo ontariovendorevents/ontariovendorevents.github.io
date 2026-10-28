@@ -1351,6 +1351,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Port Perry Legion Christmas Craft Sale",
+  "date": "2026-11-21",
+  "time": "9 a.m.–3 p.m.",
+  "location": "Royal Canadian Legion Branch 419, 484 Bay St, Port Perry, ON",
+  "city": "Port Perry",
+  "region": "Durham Region",
+  "description": "Annual Christmas Craft Sale at the Royal Canadian Legion Branch 419 in Port Perry — amazing handmade items to choose from to start your Christmas shopping.\nListing type: Shopper event\nTheme: Christmas\nHours: 9:00 AM - 3:00 PM\nAdmission: Free\nSource: organizer's Facebook post",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Santa Paws Sniff n' Shop",
   "date": "2026-11-21",
   "time": "11 a.m.–5 p.m.",
