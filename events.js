@@ -1229,6 +1229,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Very Merry Holiday Market",
+  "date": "2026-11-20",
+  "endDate": "2026-11-22",
+  "time": "4 p.m.–3 p.m.",
+  "location": "118-120 Broadway, Downtown Orangeville, Orangeville, ON",
+  "city": "Orangeville",
+  "region": "Rest of Ontario",
+  "description": "Very Merry Holiday Market — the open-air, European-style market at the heart of the Joy + Lights Festival in Downtown Orangeville, with rows of wooden chalets offering handcrafted gifts, holiday decor and festive food and drink. Weekend 1 (Merry & Bright) also features the Christmas Tree Lighting on Fri Nov 20 at about 7 PM and the Santa Claus Parade on Sat Nov 21 at 5 PM. Market hours are the BIA's published times, listed by the BIA as to be confirmed.\nListing type: Vendor call\nTheme: Christmas\nHours: Fri 4:00 PM - 8:30 PM; Sat 11:00 AM - 7:00 PM; Sun 11:00 AM - 3:00 PM\nHow to apply: Vendor information and application on the Downtown Orangeville BIA site: https://downtownorangeville.ca/joy-lights-holiday-market-vendor-information/ First-round acceptances have been sent; later applications join the waitlist.\nSource: https://www.instagram.com/p/De4_fJ_S5du/",
+  "fees": "$45-$95/day or $125-$275/weekend depending on space (hut, canopy or food truck), taxes extra",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Vintage Christmas & Holiday Market",
   "date": "2026-11-20",
   "endDate": "2026-11-22",
@@ -1930,6 +1942,18 @@ window.EVENTS_REFRESH = [
   "region": "Niagara Region",
   "description": "Ridley Christmas Market at Ridley College in St. Catharines, organized by the Ridley College Family Guild — over 60 carefully selected vendors with local artisans, makers, small businesses and specialty foods, plus live music, a visit from Santa, free family skating and food. Free admission, open to everyone.\nListing type: Shopper event\nTheme: Christmas\nHours: Fri 2:00 PM - 7:00 PM; Sat 10:00 AM - 4:00 PM\nSource: https://allevents.in/st-catharines/ridley-christmas-market-2026/200030667921932",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Very Merry Holiday Market",
+  "date": "2026-11-27",
+  "endDate": "2026-11-29",
+  "time": "4 p.m.–3 p.m.",
+  "location": "118-120 Broadway, Downtown Orangeville, Orangeville, ON",
+  "city": "Orangeville",
+  "region": "Rest of Ontario",
+  "description": "Very Merry Holiday Market — the open-air, European-style market at the heart of the Joy + Lights Festival in Downtown Orangeville, with rows of wooden chalets offering handcrafted gifts, holiday decor and festive food and drink. Weekend 2 (Firelight & Frost) also features outdoor skating on Second Street on a synthetic rink, Nov 27-29. Market hours are the BIA's published times, listed by the BIA as to be confirmed.\nListing type: Vendor call\nTheme: Christmas\nHours: Fri 4:00 PM - 8:30 PM; Sat 11:00 AM - 7:00 PM; Sun 11:00 AM - 3:00 PM\nHow to apply: Vendor information and application on the Downtown Orangeville BIA site: https://downtownorangeville.ca/joy-lights-holiday-market-vendor-information/ First-round acceptances have been sent; later applications join the waitlist.\nSource: https://www.instagram.com/p/De4_fJ_S5du/",
+  "fees": "$45-$95/day or $125-$275/weekend depending on space (hut, canopy or food truck), taxes extra",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
