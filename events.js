@@ -573,6 +573,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "1st Annual Niagara Book Lovers Christmas Market",
+  "date": "2026-11-14",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Meridian Community Centre, 100 Meridian Way, Fonthill, ON",
+  "city": "Fonthill",
+  "region": "Niagara Region",
+  "description": "1st Annual Niagara Book Lovers Christmas Market at the Meridian Community Centre in Fonthill — a Christmas market for book lovers, with local authors and book vendors. Organizer: Niagara Summer Market Series.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nSource: https://allevents.in/org/niagara-summer-market-series/24339364",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "29th Annual Hullswater Christmas Craft and Gift Show",
   "date": "2026-11-14",
   "time": "9 a.m.–3 p.m.",
@@ -1017,6 +1028,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Deck the Halls Holiday Market",
+  "date": "2026-11-15",
+  "time": "11 a.m.–5 p.m.",
+  "location": "The Niagara Falls Exchange, 5943 Sylvia Place, Niagara Falls, ON",
+  "city": "Niagara Falls",
+  "region": "Niagara Region",
+  "description": "Deck the Halls Holiday Market, organized by the City of Niagara Falls — held at The Exchange (5943 Sylvia Place) and the Niagara Falls History Museum (5810 Ferry St). Free admission. Vendor applications closed September 27, 2026; the City advises applications are only ever accepted through the Niagara Falls Exchange website.\nListing type: Shopper event\nTheme: Christmas\nHours: 11:00 AM - 5:00 PM\nSource: https://nfexchange.ca/about/deck-the-halls",
+  "fees": "$100 (8x7 ft booth)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Julie Payette School Holiday Market",
   "date": "2026-11-15",
   "time": "9 a.m.–2 p.m.",
@@ -1169,6 +1191,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Theme: Christmas\nFee: not stated by organizer\nHow to apply: see the source post\nHours: 5:00 PM – 8:00 PM\nSource: https://facebook.com/groups/1013767978664673/permalink/39079942611620400/\n\n",
   "fees": "not stated by organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Starlight Market (Jordan Village)",
+  "date": "2026-11-20",
+  "time": "4 p.m.–9 p.m.",
+  "location": "Lincoln Museum & Cultural Centre, 3800 Main Street, Jordan, ON",
+  "city": "Jordan",
+  "region": "Niagara Region",
+  "description": "Starlight Market in Jordan Village (Town of Lincoln), part of Christmas in the Village — shop the market at the Lincoln Museum & Cultural Centre and enjoy local beverages and craft activities, then watch the lighting of Jordan Village at 6:00 PM on Main Street. Free admission.\nListing type: Shopper event\nTheme: Christmas\nHours: 4:00 PM - 9:00 PM\nSource: https://www.jordanvillage.ca/christmas-in-the-village.html",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1783,6 +1816,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "16th Annual Holiday HandMade Market",
+  "date": "2026-11-27",
+  "endDate": "2026-11-29",
+  "time": "12 p.m.–4 p.m.",
+  "location": "Niagara Falls Convention Centre, 6815 Stanley Avenue, Niagara Falls, ON",
+  "city": "Niagara Falls",
+  "region": "Niagara Region",
+  "description": "16th Annual Holiday HandMade Market at the Niagara Falls Convention Centre — 200+ Canadian makers with one-of-a-kind handcrafted gifts, plus wine, food, music and art. Shopper admission: adults $10.95, under 16 free; pre-purchase tickets online (no tickets at the gate). Booth spaces from $482 + $95 electrical + HST (details on the application page). The main 2026 application window closed January 11, 2026; late applications are still accepted and are curated/waitlisted if a space opens up.\nListing type: Vendor call\nTheme: Christmas\nHours: Fri 12:00 PM - 7:00 PM; Sat 10:00 AM - 6:00 PM; Sun 11:00 AM - 4:00 PM\nHow to apply: Late applications via the organizer's application page: https://handmademarket.ca/apply\nSource: https://handmademarket.ca/apply",
+  "fees": "5'x10' $482; 5'x20' $964; 10'x10' $605; 10'x20' $1,210 (each + $95 electrical + HST)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "5th Annual Gloucester Night Market",
   "date": "2026-11-27",
   "time": "4 p.m.–8 p.m.",
@@ -1861,6 +1906,18 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Indoor craft sale at the Latcham Centre by the waterfront. Friday, November 27, 5–9 PM. Table fees range from $50 to $80 depending on table — confirm with organizer. To apply: DM the organizer on Facebook.\nFee: $50–$80\nHours: 5:00 PM – 9:00 PM\nSource: Organizer's flyer via Paul",
   "fees": "$50–$80 (range — confirm with organizer)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Ridley Christmas Market 2026",
+  "date": "2026-11-27",
+  "endDate": "2026-11-28",
+  "time": "2 p.m.–4 p.m.",
+  "location": "Ridley College, 2 Ridley Road, St. Catharines, ON L2R 7C3",
+  "city": "St. Catharines",
+  "region": "Niagara Region",
+  "description": "Ridley Christmas Market at Ridley College in St. Catharines, organized by the Ridley College Family Guild — over 60 carefully selected vendors with local artisans, makers, small businesses and specialty foods, plus live music, a visit from Santa, free family skating and food. Free admission, open to everyone.\nListing type: Shopper event\nTheme: Christmas\nHours: Fri 2:00 PM - 7:00 PM; Sat 10:00 AM - 4:00 PM\nSource: https://allevents.in/st-catharines/ridley-christmas-market-2026/200030667921932",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2172,6 +2229,17 @@ window.EVENTS_REFRESH = [
   "region": "Waterloo Region",
   "description": "Winter market hosted by the K-W Navy League in Waterloo.\nListing type: Vendor call\nFee: $25\nHow to apply: register at kwnavyleague.com\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28536589322678891/",
   "fees": "$25",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Kameridge Evergreens Holiday Market",
+  "date": "2026-11-28",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Kameridge Evergreens Tree Farm, 360 Metler Road, Ridgeville, ON L0S 1M0",
+  "city": "Ridgeville",
+  "region": "Niagara Region",
+  "description": "Kameridge Evergreens Holiday Market at Kameridge Evergreens Tree Farm in Ridgeville (Pelham) — a Hallmark-style Christmas market with 25+ local vendors, hot cider and Christmas trees, indoors and outdoors. Organizer: Little Hearts Markets. Free admission and free parking; pet friendly. Booth fee was not published on the application page.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nHow to apply: Apply via the organizer's application page: https://littleheartsmarkets.com/kameridgeevergreensholidaymarket2026\nSource: https://littleheartsmarkets.com/kameridgeevergreensholidaymarket2026",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2562,6 +2630,17 @@ window.EVENTS_REFRESH = [
   "region": "Hamilton",
   "description": "Step into a season of enchantment and become part of the 2nd Annual Magic of Midwinter Market — a curated indoor winter market celebrating creativity, craftsmanship, seasonal magic, and unforgettable holiday shopping. Vendor fee: $150 + HST (Lancaster Room 7x8 space, wall with electricity & 2 chairs). Application deadline Nov 20. Theme: Winter. Tags: handmade holiday gifts, artisan goods, magical décor, winter treats, local Ontario makers. Vendor types wanted: Art & Design — Fine Art, Photography, Sculpture & Ceramics, Digital Art & Graphic Design; Handmade Crafts — Woodworking, Glasswork, Metalwork & Blacksmithing, Leather Goods, Textiles & Fiber Arts, Paper Goods & Stationery; Fashion & Apparel — Handmade Clothing, Upcycled & Vintage Clothing, Accessories, Children & Baby Apparel; Jewelry — Fine Jewelry, Artisan & Costume Jewelry, Upcycled/Vintage Jewelry; Home & Living — Candles & Home Fragrance, Home Decor, Kitchen & Dining; Health, Beauty & Wellness — Skincare & Bath, Cosmetics & Haircare, Holistic Wellness; Cottage Food & Specialty Grocery — Baked Goods, Preserves & Condiments, Confections, Beverages, Honey & Maple Products; Kids & Toys — Handmade Toys, Games & Puzzles, Educational & Sensory Play Goods; Pet Products — Pet Treats & Food, Pet Accessories, Pet Toys & Grooming Products; Seasonal & Holiday — Christmas/Holiday Ornaments & Decor; Services & Interactive Booths — Face Painting & Henna Artists, Tarot Card / Psychic Readings. How to apply: online registration at www.eventsinsynergy.ca/upcoming events. Organizer: Events In Synergy. Source: organizer form submission.\nFee: $150 + HST\nSource: https://facebook.com/groups/971632669514677/permalink/25806119038972696/",
   "fees": "$150 + HST (Lancaster Room 7x8)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "3rd Annual Port Dalhousie Christmas Market",
+  "date": "2026-12-05",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Port Dalhousie Lions Club, 201 Main Street, St. Catharines, ON",
+  "city": "St. Catharines",
+  "region": "Niagara Region",
+  "description": "3rd Annual Port Dalhousie Christmas Market at the Port Dalhousie Lions Club in St. Catharines — a festive indoor holiday market with local vendors, unique gifts, Christmas treats and handmade finds. Free admission; family-friendly.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nSource: https://www.facebook.com/events/1595333108804844/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
