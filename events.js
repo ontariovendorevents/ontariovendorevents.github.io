@@ -250,6 +250,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Columbus United Church Outdoor Christmas Market",
+  "date": "2026-11-07",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Columbus United Church, 3285 Simcoe St, Oshawa, ON",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "Outdoor Christmas Market at Columbus United Church in Columbus (Oshawa) — a holiday tradition with local shopping and handmade gifts, tasty treats by the Charles Best Diabetes Centre, festive music, kids' activities and a visit from Santa. The church is still accepting vendors; the vendor fee is not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nHow to apply: see the source post for vendor contact details\nSource: https://facebook.com/groups/1746193395565570/permalink/3511252069059685/",
+  "fees": "Not published - contact organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Cooksville United Church Fall Bazaar",
   "date": "2026-11-07",
   "time": "10 a.m.–2 p.m.",
@@ -1253,6 +1264,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Alliston Community Christian School Christmas Market",
+  "date": "2026-11-21",
+  "time": "9 a.m.–2 p.m.",
+  "location": "Alliston Community Christian School, 4428 Adjala-Tecumseth Townline, Alliston, ON",
+  "city": "Alliston",
+  "region": "Simcoe County",
+  "description": "Christmas Market at Alliston Community Christian School (ACCS) in Alliston, organized by the ACCS Fundraising Committee. Only a few vendor spots are left, and only those selected will be contacted. The vendor fee is not stated in the post — see the application form.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 2:00 PM\nHow to apply: Apply via the vendor application form: https://forms.cloud.microsoft/r/Z056f6Ui6w\nSource: https://facebook.com/groups/1463525213937500/permalink/4309895239300469/",
+  "fees": "Not published - see application form",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Bear-y Merry Christmas Market",
   "date": "2026-11-21",
   "time": "10 a.m.–4 p.m.",
@@ -1272,6 +1294,17 @@ window.EVENTS_REFRESH = [
   "region": "Simcoe County",
   "description": "Theme: Christmas\nFee: $40 per table (6 ft table and 2 chairs included, set up day of event)\nAdmission: Free — collecting for Christmas Cheer at the door\nHow to apply: see the source post (application deadline November 7, 2026)\nHours: 9:00 AM – 2:00 PM\nAttractions: Free parking; Christmas Cheer collection at the door\nSource: https://facebook.com/groups/584393464986784/permalink/28771909169141836/\n\nOrganizer-confirmed by form submission Oct 17, 2026.",
   "fees": "$40 per table (6 ft table + 2 chairs included)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Dr. C.F. Cannon Autumn Craft Sale",
+  "date": "2026-11-21",
+  "time": "11 a.m.–4 p.m.",
+  "location": "Dr. C.F. Cannon, 1196 Cedar St, Oshawa, ON",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "Autumn Craft Sale at Dr. C.F. Cannon in Oshawa — crafts, a raffle draw and refreshments, and the first 50 children receive a bling bag. Free entry. Vendor spaces are $40 per booth.\nListing type: Vendor call\nTheme: Christmas\nHours: 11:00 AM - 4:00 PM\nAdmission: Free\nHow to apply: Register via the vendor registration form: https://forms.gle/hTnpoHwxMTaxwHoX6\nSource: https://facebook.com/groups/1013767978664673/permalink/39561529876795002/",
+  "fees": "$40 per booth",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1682,6 +1715,17 @@ window.EVENTS_REFRESH = [
   "region": "York Region",
   "description": "Holiday Canadian Vendors Fair at Chartwell in Thornhill - vendors of unique products, gifts, makeup, jewellery, clothing, shoes, candles, perfumes, soaps, candies, cookies, tea and holiday treats. Vendor space is limited.\nListing type: Vendor call\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1590858985674849/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Links of Kent Christmas Holiday Market",
+  "date": "2026-11-22",
+  "time": "3 p.m.–7 p.m.",
+  "location": "Links of Kent, 120 Indian Creek Rd W, Chatham, ON",
+  "city": "Chatham",
+  "region": "Rest of Ontario",
+  "description": "Christmas Holiday Market at Links of Kent Golf Club & Event Centre in Chatham. The organizer is looking for vendors, and applications and questions are handled by email only. The vendor fee is not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nHours: 3:00 PM - 7:00 PM\nHow to apply: see the source post\nSource: https://facebook.com/groups/ontariocanadavendorevents/permalink/4472203323090002/",
+  "fees": "Not published - contact organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2635,6 +2679,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Dr. Emily Stowe Public School Holiday Market",
+  "date": "2026-12-03",
+  "time": "4:30 p.m.–8:30 p.m.",
+  "location": "Dr. Emily Stowe Public School, 71 Sandringham Dr, Courtice, ON",
+  "city": "Courtice",
+  "region": "Durham Region",
+  "description": "Holiday Market at Dr. Emily Stowe Public School in Courtice — gifts, vendors, a bake sale, games and more, plus a food and toy drive. Vendor applications are being accepted by email; the vendor fee is not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nHours: 4:30 PM - 8:30 PM\nHow to apply: see the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2649454882156736/",
+  "fees": "Not published - contact organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "St. Robert 4th Annual Christmas Market",
   "date": "2026-12-03",
   "time": "6 p.m.–9 p.m.",
@@ -2779,6 +2834,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Christmas at the Lions Den",
+  "date": "2026-12-05",
+  "time": "10 a.m.–2 p.m.",
+  "location": "Dorchester Community Centre, 2066 Dorchester Rd, Dorchester, ON",
+  "city": "Dorchester",
+  "region": "London & Area",
+  "description": "Christmas at the Lions Den — a festive holiday market at the Dorchester Community Centre, organized by MHH Events & Entertainment. Crafters, makers, bakers, artisans and small businesses are wanted; spaces are limited, so apply early. The vendor fee is not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nHow to apply: Details and application via the MHH Events group: https://www.facebook.com/groups/mhhevents\nSource: https://facebook.com/groups/524928052267953/permalink/1595957915164956/",
+  "fees": "Not published - see application",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Christmas in Kendal",
   "date": "2026-12-05",
   "time": "10 a.m.–4 p.m.",
@@ -2866,6 +2932,28 @@ window.EVENTS_REFRESH = [
   "region": "Rest of Ontario",
   "description": "Vendor applications now open for Miracle on Main Street in Downtown Milton, hosted in partnership with Tiger Jeet Singh Foundation and Halton Regional Police Service. Vendor fee: not published - contact organizer. How to apply: application form at https://forms.gle/crFEBhmTFNVGbg5C8. Organizer: Tiger Jeet Singh Foundation.\nHours: 12:00 PM – 5:00 PM\nAdmission: Free — a new unwrapped toy donation is requested/encouraged\nAttractions: Free amusement rides, live entertainment/music, petting zoo, pony rides, photos with Santa, local vendors, charity toy drive\nSource: https://facebook.com/groups/524928052267953/permalink/1570896931004388/",
   "fees": "Not published - contact organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Moose Lodge 1142 Christmas Craft Show",
+  "date": "2026-12-05",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Moose Lodge 1142, 1860 Barton St E, Hamilton, ON",
+  "city": "Hamilton",
+  "region": "Hamilton",
+  "description": "Christmas Craft Show at Moose Lodge 1142 in Hamilton — homemade crafts only, no commercial vendors please. Tables are $25 each. The kitchen will be open all day, and all proceeds go to the Women of the Moose.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nVendor types wanted: Homemade crafts only (no commercial vendors)\nHow to apply: see the source post\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28633652659639223/",
+  "fees": "$25 per table",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Nottinghill Preschool Holiday Market",
+  "date": "2026-12-05",
+  "time": "9 a.m.–12 p.m.",
+  "location": "Glen Abbey United Church, 1469 Nottinghill Gate, Oakville, ON",
+  "city": "Oakville",
+  "region": "Halton Region",
+  "description": "Annual Holiday Market of the Nottinghill Co-operative Preschool, held at Glen Abbey United Church in Oakville and open to the public. New and past vendors are invited to showcase and sell their unique products to the school community and beyond. Tables are $35 each.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 12:00 PM\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1595741098519971/",
+  "fees": "$35 per table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3200,6 +3288,17 @@ window.EVENTS_REFRESH = [
   "region": "Ottawa",
   "description": "Fee: $65+HST/night or $300+HST early-bird season rate (until Oct 31)\nHow to apply: SoapLadz.ca/Market\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2628683637567194/\n\n",
   "fees": "$65+HST/night or $300+HST early-bird season rate (until Oct 31)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Mystic Magic Market",
+  "date": "2026-12-11",
+  "time": "Time not listed",
+  "location": "Mystic Avenue, 24 King St E, Colborne, ON",
+  "city": "Colborne",
+  "region": "Northumberland",
+  "description": "Mystic Magic Market at Mystic Avenue in Colborne — a curated holiday gathering of talented makers and artisans offering unique creations and thoughtful gifts. Only 10 vendor spots are available, and vendors are selected so that products complement one another without duplicates; submitting an application does not guarantee acceptance. It is free for vendors to participate; accepted vendors pay a $50 reservation fee, which is returned when they attend (no refunds for cancellations after November 11, 2026).\nListing type: Vendor call\nTheme: Christmas\nHours: Hours not published - confirm with organizer\nHow to apply: Apply via the application page: https://MysticAvenueYogaandWellnessStudio.as.me/MysticMagicMarket\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28628956140108875/",
+  "fees": "Free for vendors; $50 refundable reservation fee",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3966,6 +4065,17 @@ window.EVENTS_REFRESH = [
   "region": "Northumberland",
   "description": "Summer vendor market by Costa Crafted Events. Venue and hours not yet published — see application form. Vendor fee not published. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
   "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Coldwater Steampunk and Oddity Days 2027",
+  "date": "2027-08-21",
+  "time": "Time not listed",
+  "location": "Coldwater, ON",
+  "city": "Coldwater",
+  "region": "Simcoe County",
+  "description": "Coldwater Steampunk and Oddity Days 2027 — 'Curious Creatures': a unique opportunity for artisans, makers and purveyors of the unusual in Coldwater, Ontario. Vendor applications for 2027 are open and spaces are almost full, so apply early. Steampunk attire is required for vendors. The vendor fee and the event hours are not stated in the post.\nListing type: Vendor call\nTheme: Steampunk / oddities\nHours: Hours not published - confirm with organizer\nHow to apply: Apply via the 2027 vendor application form: https://docs.google.com/forms/d/e/1FAIpQLSe3r9Ee4jWRuTCz6tjaQL0N4PftK5PTrlsBTLJSPbwB2W0hCA/viewform\nSource: https://facebook.com/groups/524928052267953/permalink/1596154345145313/",
+  "fees": "Not published - see application form",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
