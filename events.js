@@ -2735,6 +2735,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Winter Activity Night at Emily Carr PS",
+  "date": "2026-12-04",
+  "time": "5 p.m.–7:30 p.m.",
+  "location": "Emily Carr Public School, 44 Hawthorne Road, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "School fundraiser evening at Emily Carr Public School in London, seeking local vendors. Setup is 4:00-4:30 PM. The vendor booth fee is $25, and all proceeds support the school's Outdoor Greening Project. Shoppers can stroll the vendors at no charge. A $25 Winter Family Package includes hot chocolate, holiday crafts and activities, a digital photo with Santa by Hill Place Photography, and a Santa letter station. Pizza is available by pre-order through Zeffy or by the slice at the event; Santa photos are by donation for those not buying the package.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 7:30 PM\nHow to apply: see the source post\nSource: https://www.facebook.com/events/1418545307097971/",
+  "fees": "$25",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "2nd Annual Magic of Midwinter Market",
   "date": "2026-12-05",
   "time": "12 p.m.–5 p.m.",
