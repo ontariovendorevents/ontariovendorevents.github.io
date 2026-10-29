@@ -2812,6 +2812,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Brooklin Holiday Market",
+  "date": "2026-12-05",
+  "endDate": "2026-12-06",
+  "time": "9:30 a.m.–4 p.m.",
+  "location": "Brooklin High School, 20 Carnwith Dr West, Brooklin, ON L1M 0K7",
+  "city": "Brooklin",
+  "region": "Durham Region",
+  "description": "Annual indoor Christmas market at Brooklin High School in Brooklin — over 70 vendors, a Candy Cane Cafe (lunch food, treats, sweets and drinks), an indoor walk-through light display, a visit with Santa, a raffle with prizes from sponsors and vendors, and fun and games for all. Vendor fees are $100 for one day or $150 for both days (students $50 for one day, $65 for both days); an extra table is $10. Vendor tables are cafeteria split tables, about 2.5 ft wide with a bench and two tiers; some 6 ft tables are also available. Setup is Friday, December 4, 5:00-7:00 PM, or Saturday/Sunday 7:30-8:30 AM. Vendor payment is through DDSB School Cash Online after acceptance.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:30 AM - 4:00 PM daily\nHow to apply: Apply via the vendor application form: https://forms.gle/uwdxFuXoFBwXwCyY7\nSource: Organizer submission via the OVE Submit an Event form",
+  "fees": "$100 one day / $150 two days",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Chicopee Hills Public School Holiday Market",
   "date": "2026-12-05",
   "time": "11 a.m.–3 p.m.",
