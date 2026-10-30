@@ -772,6 +772,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Christmas Market at Aspira Red Oak Retirement Community",
+  "date": "2026-11-14",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Aspira Red Oak Retirement Community, Kanata, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "Christmas Market at the Aspira Red Oak Retirement Community in Kanata (Ottawa) — vendors are invited to join the market. Tables are a $20 donation to the Kanata Food Cupboard, payable on the day of the event.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nVendor types wanted: Vendors of all kinds\nHow to apply: see the source post\nSource: https://facebook.com/groups/377595892794556/permalink/2250586708828789/",
+  "fees": "$20 donation to the Kanata Food Cupboard, payable on the day of the event",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Christmas in Bayfield Makers Market",
   "date": "2026-11-14",
   "time": "10 a.m.–4 p.m.",
@@ -3457,6 +3468,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Deck the Halls Christmas Craft Show (Ottawa Craft Shows)",
+  "date": "2026-12-12",
+  "time": "11 a.m.–4 p.m.",
+  "location": "Merivale Mall, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "Deck the Halls Christmas Craft Show by Ottawa Craft Shows at Merivale Mall in Ottawa — the second of the organizer's two big Christmas shows this year, and a few vendor spots are left. The show features 100 local vendors, live Christmas music, and free photos with Santa, Mrs. Claus, and their elves. Vendor fee was not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nHours: 11:00 AM - 4:00 PM\nVendor types wanted: Local vendors\nHow to apply: see the source post\nSource: https://facebook.com/groups/377595892794556/permalink/2250478602172933/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "East Windsor Holiday Family Markets",
   "date": "2026-12-12",
   "endDate": "2026-12-13",
@@ -3500,6 +3522,18 @@ window.EVENTS_REFRESH = [
   "region": "Hamilton",
   "description": "Fee: $60 (indoor, 6ft x 5ft space, table & chairs included)\nHow to apply: https://forms.gle/Agha9H3Dn4JReomU6\nHours: 10:00 AM – 3:00 PM\nAdmission: Free\nAttractions: Free door prize ballot, penny sale raffles, sweets & treats; food drive donations welcome\nSource: https://facebook.com/groups/524928052267953/permalink/1579547646805983/\n\n",
   "fees": "$60 (indoor, 6ft x 5ft, table & chairs included)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Holiday Market at Grosvenor Lodge",
+  "date": "2026-12-12",
+  "endDate": "2026-12-13",
+  "time": "11 a.m.–5 p.m.",
+  "location": "Grosvenor Lodge, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "Holiday Market at Grosvenor Lodge in London — the organizer is looking for vendors for a holiday market at the lodge. There are no table fees, as it is the organizer's first market. Interested vendors can message the organizer via the source post to receive a Google application form. IMPORTANT — organizer warning: false emails are circulating claiming an $80 vendor fee; that is not true, and the organizer only corresponds with potential vendors via her Facebook account.\nListing type: Vendor call\nTheme: Christmas\nHours: 11:00 AM - 5:00 PM\nVendor types wanted: Vendors of all kinds\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2735035700272140/",
+  "fees": "Free — no table fees (organizer's first market)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
