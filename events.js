@@ -606,6 +606,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Niemi's Christmas Market",
+  "date": "2026-11-13",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Niemi Family Farm, 18463 Highway 48, Mount Albert, ON",
+  "city": "Mount Albert",
+  "region": "York Region",
+  "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Union Sports Club Night Market - Toy Drive",
   "date": "2026-11-13",
   "time": "5 p.m.–9 p.m.",
@@ -925,6 +936,17 @@ window.EVENTS_REFRESH = [
   "region": "Niagara Region",
   "description": "Theme: Christmas\nVendor types wanted: Vendors, crafters, WAHMs, small businesses & young entrepreneurs\nFee: not published\nAttractions: Santa visit, free crafts for kids to take home, raffles, bake sale, family photos, lunch available\nHow to apply: see the source post\nHours: 10:00 AM – 3:00 PM\nVendors expected: Close to 100 tables\nSource: https://facebook.com/groups/524928052267953/permalink/1567009758059772/",
   "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Niemi's Christmas Market",
+  "date": "2026-11-14",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Niemi Family Farm, 18463 Highway 48, Mount Albert, ON",
+  "city": "Mount Albert",
+  "region": "York Region",
+  "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1260,6 +1282,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Niemi's Christmas Market",
+  "date": "2026-11-20",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Niemi Family Farm, 18463 Highway 48, Mount Albert, ON",
+  "city": "Mount Albert",
+  "region": "York Region",
+  "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "St. John XXIII Catholic School Christmas Market",
   "date": "2026-11-20",
   "time": "5 p.m.–8 p.m.",
@@ -1491,6 +1524,17 @@ window.EVENTS_REFRESH = [
   "city": "Shanty Bay",
   "region": "Simcoe County",
   "description": "Merry Makers Market — an outdoor vendor market in Shanty Bay. The organizer's post noted applications were closing soon and outdoor spaces are limited. Show hours and vendor fee were not published in the post — confirm with the organizer.\nTheme: TBD\nVendor types wanted: TBD\nHow to apply: https://gformsapp.com/f2/Q_qNJPiEfH8pwRlB5B3CJg\nSource: https://facebook.com/groups/168481472256405/permalink/985133980591146/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Niemi's Christmas Market",
+  "date": "2026-11-21",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Niemi Family Farm, 18463 Highway 48, Mount Albert, ON",
+  "city": "Mount Albert",
+  "region": "York Region",
+  "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2008,6 +2052,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Niemi's Christmas Market",
+  "date": "2026-11-27",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Niemi Family Farm, 18463 Highway 48, Mount Albert, ON",
+  "city": "Mount Albert",
+  "region": "York Region",
+  "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "North Bay Winter Outdoor Market Experience",
   "date": "2026-11-27",
   "time": "5 p.m.–9 p.m.",
@@ -2466,6 +2521,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Niemi's Christmas Market",
+  "date": "2026-11-28",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Niemi Family Farm, 18463 Highway 48, Mount Albert, ON",
+  "city": "Mount Albert",
+  "region": "York Region",
+  "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Norwich November Christmas Bazaar",
   "date": "2026-11-28",
   "time": "10 a.m.–2 p.m.",
@@ -2812,6 +2878,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Niemi's Christmas Market",
+  "date": "2026-12-04",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Niemi Family Farm, 18463 Highway 48, Mount Albert, ON",
+  "city": "Mount Albert",
+  "region": "York Region",
+  "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "St. Gabriel Christmas Market",
   "date": "2026-12-04",
   "time": "Time not listed",
@@ -3054,6 +3131,17 @@ window.EVENTS_REFRESH = [
   "region": "Hamilton",
   "description": "Christmas Craft Show at Moose Lodge 1142 in Hamilton — homemade crafts only, no commercial vendors please. Tables are $25 each. The kitchen will be open all day, and all proceeds go to the Women of the Moose.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nVendor types wanted: Homemade crafts only (no commercial vendors)\nHow to apply: see the source post\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28633652659639223/",
   "fees": "$25 per table",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Niemi's Christmas Market",
+  "date": "2026-12-05",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Niemi Family Farm, 18463 Highway 48, Mount Albert, ON",
+  "city": "Mount Albert",
+  "region": "York Region",
+  "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3424,6 +3512,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Niemi's Christmas Market",
+  "date": "2026-12-11",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Niemi Family Farm, 18463 Highway 48, Mount Albert, ON",
+  "city": "Mount Albert",
+  "region": "York Region",
+  "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "12 Days to Christmas Craft Fair",
   "date": "2026-12-12",
   "time": "10 a.m.–2 p.m.",
@@ -3589,6 +3688,17 @@ window.EVENTS_REFRESH = [
   "region": "Niagara Region",
   "description": "Mickey's Very Merry Christmas Market - Niagara's only Disney-themed market. Organized by the organizer / Teagan's Treasures. Vendor protection: invoicing with Visa/Mastercard/debit options.\nFee: $30 per 6ft table\nHours: not stated by organizer\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1581032113324203/\n",
   "fees": "$30/6ft table",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Niemi's Christmas Market",
+  "date": "2026-12-12",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Niemi Family Farm, 18463 Highway 48, Mount Albert, ON",
+  "city": "Mount Albert",
+  "region": "York Region",
+  "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3791,6 +3901,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Niemi's Christmas Market",
+  "date": "2026-12-18",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Niemi Family Farm, 18463 Highway 48, Mount Albert, ON",
+  "city": "Mount Albert",
+  "region": "York Region",
+  "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Port Perry Market",
   "date": "2026-12-18",
   "time": "5 p.m.–9 p.m.",
@@ -3876,6 +3997,17 @@ window.EVENTS_REFRESH = [
   "city": "Hamilton",
   "region": "Hamilton",
   "description": "Lunch with Santa at Holy Trinity Banquet Hall in Hamilton — spaghetti lunch, photos with Santa, and cookie decorating. To apply, message the organizer or comment on the source post and they will send the application link.\nTheme: Christmas / holiday season\nAttractions: Spaghetti lunch, photos with Santa, cookie decorating\nFee: $125\nHow to apply: Message the organizer or comment on the source post for the application link\nSource: https://facebook.com/groups/524928052267953/permalink/1585591179534963/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Niemi's Christmas Market",
+  "date": "2026-12-19",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Niemi Family Farm, 18463 Highway 48, Mount Albert, ON",
+  "city": "Mount Albert",
+  "region": "York Region",
+  "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
