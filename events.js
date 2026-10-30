@@ -2900,6 +2900,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Neighbourhood Holiday Market",
+  "date": "2026-12-04",
+  "time": "5 p.m.–9 p.m.",
+  "location": "Bankers Commons Courtyard, 383 Water St, Peterborough, ON",
+  "city": "Peterborough",
+  "region": "Kawarthas and Peterborough",
+  "description": "The 5th annual Holiday Night Market, presented by The Neighbourhood Vintage in collaboration with First Friday Ptbo, in the Bankers Commons Courtyard in downtown Peterborough (access via the alleyway at 383 Water St.). A cozy outdoor holiday market: shop with over 25 local vendors, enjoy seasonal food and beverages, and listen to live music. Vendor applications open in October, per the organizer's website; no vendor fee is published — see the organizer's site for application details.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 9:00 PM\nSource: https://theneighbourhoodvintage.com/pages/neighbourhood-markets",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Niemi's Christmas Market",
   "date": "2026-12-04",
   "time": "12 p.m.–8 p.m.",
