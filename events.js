@@ -972,6 +972,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "St. Jerome Christmas Market",
+  "date": "2026-11-14",
+  "time": "11 a.m.–4 p.m.",
+  "location": "St. Jerome School Yard, Toronto, ON",
+  "city": "Toronto",
+  "region": "Toronto",
+  "description": "Vendor call for local makers, crafters, small businesses and artisans: join the St. Jerome Christmas Market at St. Jerome School Yard in Toronto and showcase your products to the community while helping shoppers find unique gifts for the holiday season. Support local businesses, connect with families in the community, and be part of a festive holiday event. Vendor options: $50 bring your own table, or $60 with a borrowed table (limited quantity available). Spaces are limited.\nListing type: Vendor call\nTheme: Christmas\nHours: 11:00 AM - 4:00 PM\nHow to apply: see the source post\nSource: https://facebook.com/groups/168906712839821/permalink/1055042140892936/",
+  "fees": "$50 bring your own table / $60 with a borrowed table",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "St. Leo's C.W.L. Vendors' Fair",
   "date": "2026-11-14",
   "time": "9 a.m.–3 p.m.",
@@ -2765,6 +2776,17 @@ window.EVENTS_REFRESH = [
   "region": "York Region",
   "description": "One of the Top 100 Festivals and Events in Ontario, at Aurora Town Square. Seasonal vendors, food vendors, hands-on workshops and activities — a different mix of vendors on site each night. Runs two weekends: Nov 27–29 and Dec 4–6, 2026 (the first weekend is a separate listing).\n\nHours: 5:00 PM – 8:30 PM each evening\nAdmission: Free\nFee: TBD (vendor applications open via the Town of Aurora; no fee published on the event page)\nSource: https://www.aurora.ca/christmasmarket",
   "fees": "TBD",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Gananoque Outdoor Christmas Market",
+  "date": "2026-12-04",
+  "time": "Time not listed",
+  "location": "Gananoque, ON",
+  "city": "Gananoque",
+  "region": "Kingston & Area",
+  "description": "The Town of Gananoque is looking for vendors for an outdoor Christmas market. Time and exact location not yet published — email the BIA for details.\nListing type: Vendor call\nTheme: Christmas\nHours: Time not listed\nHow to apply: see the source post\nSource: https://facebook.com/groups/ontariocanadavendorevents/permalink/4474783692831965/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
