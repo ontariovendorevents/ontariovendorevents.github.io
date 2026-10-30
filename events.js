@@ -1293,6 +1293,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "St. Jacobs Holiday Sip & Shop Night Market",
+  "date": "2026-11-20",
+  "time": "5 p.m.–10 p.m.",
+  "location": "St. Jacobs Farmers' Market, 878 Weber St N, Woolwich, ON N2J 4A9",
+  "city": "Woolwich",
+  "region": "Waterloo Region",
+  "description": "Twinkling Nights, Festive Delights: Sip, Shop & Enjoy the Holiday Lights! St. Jacobs Farmers' Market turns into an evening holiday shopping destination for its Holiday Sip & Shop Night Market, with over 100 curated artisans and makers alongside the market's year-round vendors, seasonal drinks to sip while you browse, and festive live music. Vendor call: booths are 10 ft wide spaces, located outside on the market property with limited spaces inside the Market Building; the market is looking for artisans, unique crafters, holiday decor, seasonal treats, Christmas decor, stockings, fandom gifts, hobby enthusiasts, Etsy shop sellers, 3D printers and more. Shopper admission: tickets are $8 plus fees and tax (ages 11+); children 10 and under are free.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 10:00 PM\nApply: https://www.stjacobsmarket.com/event-vendor-application\nSource: https://www.stjacobsmarket.com/event-details-registration/holiday-sip-shop-night-market-2026-11-27-17-00",
+  "fees": "$85",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "St. John XXIII Catholic School Christmas Market",
   "date": "2026-11-20",
   "time": "5 p.m.–8 p.m.",
@@ -2118,6 +2129,17 @@ window.EVENTS_REFRESH = [
   "region": "Niagara Region",
   "description": "Ridley Christmas Market at Ridley College in St. Catharines, organized by the Ridley College Family Guild — over 60 carefully selected vendors with local artisans, makers, small businesses and specialty foods, plus live music, a visit from Santa, free family skating and food. Free admission, open to everyone.\nListing type: Shopper event\nTheme: Christmas\nHours: Fri 2:00 PM - 7:00 PM; Sat 10:00 AM - 4:00 PM\nSource: https://allevents.in/st-catharines/ridley-christmas-market-2026/200030667921932",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "St. Jacobs Holiday Sip & Shop Night Market",
+  "date": "2026-11-27",
+  "time": "5 p.m.–10 p.m.",
+  "location": "St. Jacobs Farmers' Market, 878 Weber St N, Woolwich, ON N2J 4A9",
+  "city": "Woolwich",
+  "region": "Waterloo Region",
+  "description": "Twinkling Nights, Festive Delights: Sip, Shop & Enjoy the Holiday Lights! St. Jacobs Farmers' Market turns into an evening holiday shopping destination for its Holiday Sip & Shop Night Market, with over 100 curated artisans and makers alongside the market's year-round vendors, seasonal drinks to sip while you browse, and festive live music. Vendor call: booths are 10 ft wide spaces, located outside on the market property with limited spaces inside the Market Building; the market is looking for artisans, unique crafters, holiday decor, seasonal treats, Christmas decor, stockings, fandom gifts, hobby enthusiasts, Etsy shop sellers, 3D printers and more. Shopper admission: tickets are $8 plus fees and tax (ages 11+); children 10 and under are free.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 10:00 PM\nApply: https://www.stjacobsmarket.com/event-vendor-application\nSource: https://www.stjacobsmarket.com/event-details-registration/holiday-sip-shop-night-market-2026-11-27-17-00",
+  "fees": "$85",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
