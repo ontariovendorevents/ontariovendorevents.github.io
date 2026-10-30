@@ -415,6 +415,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Pickering Village United Church Christmas Market",
+  "date": "2026-11-07",
+  "time": "10 a.m.–2 p.m.",
+  "location": "Pickering Village United Church, 300 Church St N, Ajax, ON",
+  "city": "Ajax",
+  "region": "Durham Region",
+  "description": "Christmas market at Pickering Village United Church in Ajax — over 22 local vendors with handcrafted gift ideas, plus a bake sale, basket raffles, jams & jellies, and quilts & cards. A Christmas luncheon is available for $15. The venue is wheelchair accessible.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nSource: Organizer's flyer",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Puppy Love Fundraiser (Pickering Animal Shelter)",
   "date": "2026-11-07",
   "time": "10 a.m.–4 p.m.",
