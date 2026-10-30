@@ -125,6 +125,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Uxbridge Holiday Market",
+  "date": "2026-11-01",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Uxbridge Arena & Community Centre, 291 Brock St W, Uxbridge, ON",
+  "city": "Uxbridge",
+  "region": "Durham Region",
+  "description": "Sunday holiday market series at Uxbridge Arena & Community Centre in Uxbridge, presented by Hurt Berry Farm and the Uxbridge Farmers' Market. A local alternative to mall shopping for the holiday season, with unique and handcrafted gift ideas, artisan crafts, seasonal goods and delicious local treats. The series runs six Sundays: Nov 1, 8, 15 and 22, and Dec 6 and 13, 2026 (no market Nov 29).\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nPresented by Hurt Berry Farm and the Uxbridge Farmers' Market\nSource: https://www.instagram.com/p/DfFN2ShlYup/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Nepean Sportsplex Christmas Craft Show",
   "date": "2026-11-05",
   "endDate": "2026-11-08",
@@ -512,6 +523,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Vendor market series by Willow & Wildflower Events. $85. Port of Whitby Marina, 301 Watson St W, Whitby. Vendor applications: https://forms.gle/jqTyu66CjFmAs7CM6 —\nFee: $85\nHours: 10:00 AM – 4:00 PM\nSource: https://www.facebook.com/groups/1746193395565570/posts/3466330410218518/",
   "fees": "$85",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Uxbridge Holiday Market",
+  "date": "2026-11-08",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Uxbridge Arena & Community Centre, 291 Brock St W, Uxbridge, ON",
+  "city": "Uxbridge",
+  "region": "Durham Region",
+  "description": "Sunday holiday market series at Uxbridge Arena & Community Centre in Uxbridge, presented by Hurt Berry Farm and the Uxbridge Farmers' Market. A local alternative to mall shopping for the holiday season, with unique and handcrafted gift ideas, artisan crafts, seasonal goods and delicious local treats. The series runs six Sundays: Nov 1, 8, 15 and 22, and Dec 6 and 13, 2026 (no market Nov 29).\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nPresented by Hurt Berry Farm and the Uxbridge Farmers' Market\nSource: https://www.instagram.com/p/DfFN2ShlYup/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1068,6 +1090,17 @@ window.EVENTS_REFRESH = [
   "city": "Guelph",
   "region": "Rest of Ontario",
   "description": "Festive Holiday Market in the Christmas wonderland-themed greenhouse at Royal City Nursery in Guelph - a curated selection of local vendors with handcrafted items, tasty treats and gift ideas. Booth size 6 ft x 5 ft. Vendors can choose one or more dates (Sat Nov 14, Sun Nov 15 and Sun Dec 6, 2026).\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM\nHow to apply: https://royalcitynursery.com/holiday-market-vendor-application-form/\nSource: https://facebook.com/groups/524928052267953/permalink/1592588488835232/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Uxbridge Holiday Market",
+  "date": "2026-11-15",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Uxbridge Arena & Community Centre, 291 Brock St W, Uxbridge, ON",
+  "city": "Uxbridge",
+  "region": "Durham Region",
+  "description": "Sunday holiday market series at Uxbridge Arena & Community Centre in Uxbridge, presented by Hurt Berry Farm and the Uxbridge Farmers' Market. A local alternative to mall shopping for the holiday season, with unique and handcrafted gift ideas, artisan crafts, seasonal goods and delicious local treats. The series runs six Sundays: Nov 1, 8, 15 and 22, and Dec 6 and 13, 2026 (no market Nov 29).\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nPresented by Hurt Berry Farm and the Uxbridge Farmers' Market\nSource: https://www.instagram.com/p/DfFN2ShlYup/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1814,6 +1847,17 @@ window.EVENTS_REFRESH = [
   "region": "Niagara Region",
   "description": "Monthly trading card show — calling all card collectors, Pokemon fans, sports card lovers, and TCG addicts. Buy, sell, trade, hunt for your next big pull, or just talk cards. Organizer: Toploaders Anonymous. Note: submitted on the organizer's behalf.\nFee: $75\nHours: 9:00 AM–3:00 PM\nAdmission: Free entry\nSource: organizer\\'s Facebook post",
   "fees": "$75",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Uxbridge Holiday Market",
+  "date": "2026-11-22",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Uxbridge Arena & Community Centre, 291 Brock St W, Uxbridge, ON",
+  "city": "Uxbridge",
+  "region": "Durham Region",
+  "description": "Sunday holiday market series at Uxbridge Arena & Community Centre in Uxbridge, presented by Hurt Berry Farm and the Uxbridge Farmers' Market. A local alternative to mall shopping for the holiday season, with unique and handcrafted gift ideas, artisan crafts, seasonal goods and delicious local treats. The series runs six Sundays: Nov 1, 8, 15 and 22, and Dec 6 and 13, 2026 (no market Nov 29).\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nPresented by Hurt Berry Farm and the Uxbridge Farmers' Market\nSource: https://www.instagram.com/p/DfFN2ShlYup/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3269,6 +3313,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Uxbridge Holiday Market",
+  "date": "2026-12-06",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Uxbridge Arena & Community Centre, 291 Brock St W, Uxbridge, ON",
+  "city": "Uxbridge",
+  "region": "Durham Region",
+  "description": "Sunday holiday market series at Uxbridge Arena & Community Centre in Uxbridge, presented by Hurt Berry Farm and the Uxbridge Farmers' Market. A local alternative to mall shopping for the holiday season, with unique and handcrafted gift ideas, artisan crafts, seasonal goods and delicious local treats. The series runs six Sundays: Nov 1, 8, 15 and 22, and Dec 6 and 13, 2026 (no market Nov 29).\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nPresented by Hurt Berry Farm and the Uxbridge Farmers' Market\nSource: https://www.instagram.com/p/DfFN2ShlYup/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Vaughan Holiday Market",
   "date": "2026-12-06",
   "time": "11 a.m.–7 p.m.",
@@ -3644,6 +3699,17 @@ window.EVENTS_REFRESH = [
   "region": "Niagara Region",
   "description": "Monthly trading card show — calling all card collectors, Pokemon fans, sports card lovers, and TCG addicts. Buy, sell, trade, hunt for your next big pull, or just talk cards. Organizer: Toploaders Anonymous. Note: submitted on the organizer's behalf.\nFee: $75\nHours: 9:00 AM – 3:00 PM\nAdmission: Free\nSource: organizer\\'s Facebook post",
   "fees": "$75",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Uxbridge Holiday Market",
+  "date": "2026-12-13",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Uxbridge Arena & Community Centre, 291 Brock St W, Uxbridge, ON",
+  "city": "Uxbridge",
+  "region": "Durham Region",
+  "description": "Sunday holiday market series at Uxbridge Arena & Community Centre in Uxbridge, presented by Hurt Berry Farm and the Uxbridge Farmers' Market. A local alternative to mall shopping for the holiday season, with unique and handcrafted gift ideas, artisan crafts, seasonal goods and delicious local treats. The series runs six Sundays: Nov 1, 8, 15 and 22, and Dec 6 and 13, 2026 (no market Nov 29).\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nPresented by Hurt Berry Farm and the Uxbridge Farmers' Market\nSource: https://www.instagram.com/p/DfFN2ShlYup/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
