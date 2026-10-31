@@ -1,17 +1,5 @@
 window.EVENTS_REFRESH = [
  {
-  "title": "MACABRISTA: A Halloween Feast + Fair",
-  "date": "2026-10-25",
-  "endDate": "2026-10-29",
-  "time": "2 p.m.–12 a.m.",
-  "location": "Motorista Studio, 25 Commercial Rd, Toronto, ON",
-  "city": "Toronto",
-  "region": "Toronto",
-  "description": "Vendor call: MACABRISTA — A Halloween Feast + Fair (Oct 25-29, 2 PM-12 AM daily). Curated artisan market + live fire feast, music, entertainment, sponsor activations. Booth pricing: 1 day Standard $130 / Premium+Power $150; 2 days $240 / $270; 5 days $500 / $550. Includes ~45 sq ft booth, free parking, Wi-Fi; power with Premium. How to apply: vendor intake form https://forms.gle/EirQSdrnvSk86iaC6. Organizer: The Grateful Market x Motorista Studio.\nFee: $130/$150 Admission: Free walk-in daily 2 PM-midnight; the feast is ticketed at $35/person (or $100 for four), drinks not included. Attractions: 50-vendor nocturnal market, art and light installations, live musicians from 8 PM, Toronto Ghostbusters' giant inflatable and Ecto-6IX car, goodie bag to take home (all ages, free parking). Attendee info source: https://macabrista.com/\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28278391371832022/",
-  "fees": "1 day $130 Standard / $150 Premium+Power; 2 days $240/$270; 5 days $500/$550",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Ottawa Rock N' Gem Show",
   "date": "2026-10-29",
   "endDate": "2026-11-01",
@@ -33,17 +21,6 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Brawley Woods Haunted Halloween Walk vendor call — vendors of all kinds wanted (handmade goods, Halloween & fall vendors, artists and all things unique). Haunted forest walk with 24 movie-like scenes, live actors and animatronics. Walk hours: Fri & Sat 7 PM–11 PM, Sun 7 PM–10 PM (vendor hours not published — confirm with organizer). Vendor fees: $70/day, $200/weekend (3 days), $600 for the last three weekends — confirm with organizer. NOTE: the vendor application includes a release agreement requiring a Certificate of Insurance for Commercial General Liability ($5M) with Brawley Woods and the City of Whitby named as additional insureds. Apply: https://docs.google.com/forms/d/e/1FAIpQLSfabCrx9hWMA4-OewJGE1qR2Wo0ipvAhhHPWQXEkViJd3ro2g/viewform. see the source post link for how to apply.\nTheme: Halloween\nTags: vendors wanted, haunted walk, fall vendors, artisan vendors\nVendor types wanted: All vendor types\nFee: $70/$200/$600\nSource: https://www.facebook.com/groups/1275920009575497/permalink/2550637795437039/",
   "fees": "$70/day; $200/weekend (3 days); $600 for last three weekends",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Port Perry Market",
-  "date": "2026-10-30",
-  "time": "5 p.m.–9 p.m.",
-  "location": "The Latcham Centre, 121 Queen St, Port Perry",
-  "city": "Port Perry",
-  "region": "Durham Region",
-  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Friday, October 30, 5–9 PM. Table fees: 8-ft $65, bring-your-own-table $60. To apply: DM the organizer on Facebook.\nFee: $60/$65\nHours: 5:00 PM – 9:00 PM\nSource: https://www.facebook.com/groups/1013767978664673/posts/38839227885691875/",
-  "fees": "$50–$80 (range — confirm with organizer)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
