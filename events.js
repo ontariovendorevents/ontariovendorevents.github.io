@@ -370,6 +370,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Naughty or Nice Pop-Up Christmas Market",
+  "date": "2026-11-07",
+  "time": "11 a.m.–3 p.m.",
+  "location": "Station Gallery, 1450 Henry St, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "Vendor call from Dragonfly Vendor Events: looking for vendors — just a handful of spots left. Naughty or Nice is an early Christmas pop-up market at Station Gallery in Whitby with local vendors, food and hot drinks. The market is in support of first responders and Wounded Warriors Canada, with raffle proceeds going to charity. To apply, see the source post.\nListing type: Vendor call\nTheme: Christmas\nHours: 11:00 AM - 3:00 PM\nSource: https://facebook.com/groups/1013767978664673/permalink/39610651628549493/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Nepean Day Market",
   "date": "2026-11-07",
   "time": "12 p.m.–5 p.m.",
@@ -602,6 +613,17 @@ window.EVENTS_REFRESH = [
   "region": "London & Area",
   "description": "Friday night market (indoor and outdoor) by Braffs Events; proceeds go to the Lidup4branden teen toy drive. Vendor fees: inside single 6ft table $40, double $70; outside BYO table and tent $30; kitchen rental $60. Organizer advertises via billboard (St Thomas-London corridor) and paid Facebook ads. How to apply: contact the organizer via Facebook.\nFee: $30/$40/$70\nHours: 5:00 PM – 9:00 PM\nAttractions: Teen toy drive in support of Lidup4Branden — bring a toy to donate\nSource: https://facebook.com/groups/524928052267953/permalink/1567386381355443/",
   "fees": "Inside: $40 single 6ft / $70 double; outside BYO table+tent $30; kitchen rental $60",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "17th Annual Treats and Treasures",
+  "date": "2026-11-14",
+  "time": "9 a.m.–3 p.m.",
+  "location": "Maranatha CRC, 735 Frontenac Crescent, Woodstock, ON",
+  "city": "Woodstock",
+  "region": "London & Area",
+  "description": "Vendor call: the 17th annual Treats and Treasures show in Woodstock still has a few tables available — message the organizer on Facebook to apply. Over 70 vendor tables. Free admission and coffee for shoppers.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 3:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1597760754984672/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1351,6 +1373,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "4th Annual Christmas Countdown Market",
+  "date": "2026-11-21",
+  "endDate": "2026-11-22",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Masonic Centre of Elgin, 42703 Fruit Ridge Line, St. Thomas, ON",
+  "city": "St. Thomas",
+  "region": "London & Area",
+  "description": "Vendor call from Event Dynamics: come on out to the 4th annual Christmas Countdown Market at the Masonic Centre of Elgin in St. Thomas, running Saturday and Sunday, 10:00 AM – 4:00 PM both days. Vendor applications are open via the Google Forms link below.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nApply: https://docs.google.com/forms/d/e/1FAIpQLSfMCYfig3fIrARkjI_7Oe2CvHUolBLFok0GeG7MWbrzmXP7mg/viewform\nSource: https://facebook.com/groups/145130302589219/permalink/2651074948661396/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Alliston Community Christian School Christmas Market",
   "date": "2026-11-21",
   "time": "9 a.m.–2 p.m.",
@@ -1381,6 +1415,18 @@ window.EVENTS_REFRESH = [
   "region": "Simcoe County",
   "description": "Theme: Christmas\nFee: $40 per table (6 ft table and 2 chairs included, set up day of event)\nAdmission: Free — collecting for Christmas Cheer at the door\nHow to apply: see the source post (application deadline November 7, 2026)\nHours: 9:00 AM – 2:00 PM\nAttractions: Free parking; Christmas Cheer collection at the door\nSource: https://facebook.com/groups/584393464986784/permalink/28771909169141836/\n\nOrganizer-confirmed by form submission Oct 17, 2026.",
   "fees": "$40 per table (6 ft table + 2 chairs included)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Christmas in Burlington Craft Show",
+  "date": "2026-11-21",
+  "endDate": "2026-11-22",
+  "time": "Time not listed",
+  "location": "Burlington Centre, 777 Guelph Line, Burlington, ON L7R 3N2",
+  "city": "Burlington",
+  "region": "Halton Region",
+  "description": "Vendor call from Rose Event: the Christmas in Burlington Craft Show runs Saturday November 21 and Sunday November 22 at Burlington Centre, with artisan and handmade products, holiday decor and gifts, and local vendors. Limited spaces available — suitable for serious vendors only. Market hours were not published; contact the organizer via the source post for details and to apply.\nListing type: Vendor call\nTheme: Christmas\nHours: Not listed\nSource: https://facebook.com/groups/torontovbnetwork/permalink/29071143459186048/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1569,6 +1615,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Annual Christmas Craft Sale at the Royal Canadian Legion Branch 419 in Port Perry — amazing handmade items to choose from to start your Christmas shopping.\nListing type: Shopper event\nTheme: Christmas\nHours: 9:00 AM - 3:00 PM\nAdmission: Free\nSource: organizer's Facebook post",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Riverside United Church Christmas Market",
+  "date": "2026-11-21",
+  "time": "9 a.m.–2 p.m.",
+  "location": "Riverside United Church, 881 Glidden Ave, Windsor, ON",
+  "city": "Windsor",
+  "region": "Windsor-Essex",
+  "description": "Vendor call: Riverside United Church in Windsor is calling all direct sales consultants for its Christmas Market — Scentsy, Tupperware, Avon, Pampered Chef, Norwex, Epicure, Watkins, Sweetlegs, Mary Kay and more. One consultant per company, and the show is almost sold out. Vendors provide their own tables and displays. To apply, see the source post.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 2:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2651419835293574/",
+  "fees": "$35",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3098,6 +3155,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Let It Market",
+  "date": "2026-12-05",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Collège Boréal, 21 Lasalle Blvd, Sudbury, ON",
+  "city": "Sudbury",
+  "region": "Rest of Ontario",
+  "description": "Vendor call: Let It Market in Sudbury is still looking for vendors — direct-sales brands welcome (the call names Avon, Pampered Chef, Norwex and Farmasi). The market runs Saturday December 5 and Sunday December 6 at Collège Boréal. Apply via the Google Forms link below.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nApply: https://forms.gle/WsoobtETXoqFZtDR6\nSource: https://facebook.com/groups/524928052267953/permalink/1597134718380609/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "London Holiday Market",
   "date": "2026-12-05",
   "endDate": "2026-12-06",
@@ -3385,6 +3453,17 @@ window.EVENTS_REFRESH = [
   "city": "Georgetown",
   "region": "Halton Region",
   "description": "A children's Christmas market for young entrepreneurs and their families, held during the Christmas in the Park event at Dominion Seed House Gardens, Georgetown (food trucks, live music, Santa visits, Light Up the Hills). Booth is a 10x10 space and includes two Business Building Meetings for young vendors.\nHow to apply: Register at https://www.kindvibekids.ca/\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28521346240869866/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Let It Market",
+  "date": "2026-12-06",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Collège Boréal, 21 Lasalle Blvd, Sudbury, ON",
+  "city": "Sudbury",
+  "region": "Rest of Ontario",
+  "description": "Vendor call: Let It Market in Sudbury is still looking for vendors — direct-sales brands welcome (the call names Avon, Pampered Chef, Norwex and Farmasi). The market runs Saturday December 5 and Sunday December 6 at Collège Boréal. Apply via the Google Forms link below.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nApply: https://forms.gle/WsoobtETXoqFZtDR6\nSource: https://facebook.com/groups/524928052267953/permalink/1597134718380609/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
