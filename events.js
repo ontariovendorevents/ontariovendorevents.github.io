@@ -205,6 +205,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Craftadian Burlington Holiday Market",
+  "date": "2026-11-07",
+  "endDate": "2026-11-08",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Ron Joyce Centre, 4350 South Service Rd, Burlington, ON",
+  "city": "Burlington",
+  "region": "Halton Region",
+  "description": "Shopper event: Craftadian's Burlington Holiday Market at Ron Joyce Centre in Burlington — a curated handmade market with 120 Canadian makers, with different makers each day. The market runs Saturday November 7 and Sunday November 8, 10:00 AM - 4:00 PM each day. Tickets are $5 online or $6 at the door, with free parking. Vendor applications for the 2026 holiday markets closed on July 5, 2026.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nSource: https://www.craftadian.ca/general-terms-and-conditions/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Fall One Stop and Shop",
   "date": "2026-11-07",
   "time": "8 a.m.–1:30 p.m.",
@@ -1002,6 +1014,17 @@ window.EVENTS_REFRESH = [
   "region": "Rest of Ontario",
   "description": "Theme: Christmas\nVendor types wanted: Artisan vendors — small, carefully curated show (variety and quality products)\nFee: not published\nHow to apply: Apply via the linked application form (Google Form) — https://forms.gle/hiy7W33N3f3Z9mYj9\nHours: Sat 10:00 AM – 5:00 PM; Sun 10:00 AM – 4:00 PM\nVendors expected: 22 curated vendors\nSource: https://facebook.com/groups/524928052267953/permalink/1567988327961915/",
   "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "The Mom Market Windsor (Kingsville)",
+  "date": "2026-11-14",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Kingsville Lakeside Pavilion, 315 Queen St, Kingsville, ON",
+  "city": "Kingsville",
+  "region": "Windsor-Essex",
+  "description": "Vendor call from The Mom Market: vendor applications are open via the organizer's website for its market at Kingsville Lakeside Pavilion in Kingsville, running Saturday November 14, 10:00 AM - 3:00 PM. To apply, use the vendor application link on the source page.\nListing type: Vendor call\nHours: 10:00 AM - 3:00 PM\nSource: https://themommarketco.com/windsor",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3067,6 +3090,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Craftadian Hamilton Holiday Market",
+  "date": "2026-12-05",
+  "endDate": "2026-12-06",
+  "time": "10 a.m.–4 p.m.",
+  "location": "McMaster Innovation Park, 175 Longwood Road S, Hamilton, ON",
+  "city": "Hamilton",
+  "region": "Hamilton",
+  "description": "Shopper event: Craftadian's Hamilton Holiday Market at McMaster Innovation Park in Hamilton — a curated handmade market with different vendors each day. The market runs Saturday December 5 and Sunday December 6, 10:00 AM - 4:00 PM each day. Vendor applications for the 2026 holiday markets closed on July 5, 2026.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nSource: https://www.craftadian.ca/general-terms-and-conditions/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Garry's Garden Gallery Christmas Market",
   "date": "2026-12-05",
   "time": "Time not listed",
@@ -3802,6 +3837,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "The Mom Market Windsor (WFCU Centre)",
+  "date": "2026-12-12",
+  "endDate": "2026-12-13",
+  "time": "10 a.m.–3 p.m.",
+  "location": "WFCU Centre, 8787 McHugh St, Windsor, ON",
+  "city": "Windsor",
+  "region": "Windsor-Essex",
+  "description": "Vendor call from The Mom Market: vendor applications are open via the organizer's website for its market at WFCU Centre in Windsor, running Saturday December 12 and Sunday December 13, 10:00 AM - 3:00 PM both days. To apply, use the vendor application link on the source page.\nListing type: Vendor call\nHours: 10:00 AM - 3:00 PM\nSource: https://themommarketco.com/windsor",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Winter Puppet Market",
   "date": "2026-12-12",
   "time": "12 p.m.–6 p.m.",
@@ -4065,6 +4112,28 @@ window.EVENTS_REFRESH = [
   "region": "Niagara Region",
   "description": "Holiday market mixing Christmas cheer with spooky magic - handmade goods, unique finds, local vendors. Vendor fee: $75. How to apply: see the source post link for how to apply. Organizer: Casey House.\nFee: $75\nHours: 10:00 AM – 4:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1561447115282703/",
   "fees": "$75",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "The Mom Market Peel Region",
+  "date": "2026-12-19",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Small Arms Inspection Building, 1352 Lakeshore Rd E, Mississauga, ON",
+  "city": "Mississauga",
+  "region": "Peel Region",
+  "description": "Vendor call from The Mom Market: vendor applications are open via the organizer's website for its market at Small Arms Inspection Building in Mississauga, running Saturday December 19, 10:00 AM - 4:00 PM. To apply, use the vendor application link on the source page.\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM\nSource: https://themommarketco.com/peel-region",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "The Mom Market Windsor (WFCU Centre)",
+  "date": "2026-12-19",
+  "time": "10 a.m.–3 p.m.",
+  "location": "WFCU Centre, 8787 McHugh St, Windsor, ON",
+  "city": "Windsor",
+  "region": "Windsor-Essex",
+  "description": "Vendor call from The Mom Market: vendor applications are open via the organizer's website for its market at WFCU Centre in Windsor, running Saturday December 19, 10:00 AM - 3:00 PM. To apply, use the vendor application link on the source page.\nListing type: Vendor call\nHours: 10:00 AM - 3:00 PM\nSource: https://themommarketco.com/windsor",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
