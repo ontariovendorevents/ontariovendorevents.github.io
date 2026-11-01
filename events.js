@@ -3944,7 +3944,7 @@ window.EVENTS_REFRESH = [
   "location": "Kingsway College, 1200 Leland Rd, Oshawa, ON L1K 2H5",
   "city": "Oshawa",
   "region": "Durham Region",
-  "description": "Picks and Giggles' 11th Annual Classic Holiday Market at Kingsway College in Oshawa — a curated market of established and emerging handmade and design artisans: jewelry, food, accessories, fashion, art, and home and lifestyle goods, designed and made in Canada. Vendor applications are closed and the market is full.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 5:00 PM\nSource: https://picksandgiggles.com/classic-holiday-market/",
+  "description": "Picks and Giggles' 11th Annual Classic Holiday Market at Kingsway College in Oshawa — a curated market of established and emerging handmade and design artisans: jewelry, food, accessories, fashion, art, and home and lifestyle goods, designed and made in Canada. Vendor applications are closed and the market is full.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 5:00 PM\nAdmission: $5\nSource: https://picksandgiggles.com/classic-holiday-market/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
