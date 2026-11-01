@@ -438,6 +438,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Waverly Public School Holiday Market",
+  "date": "2026-11-07",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Waverly Public School, 100 Waverly St S, Oshawa, ON",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "Holiday market at Waverly Public School in Oshawa with 40+ vendors, food, a raffle and a 50/50 draw. All table fees, raffle and 50/50 proceeds benefit the Waverly SCC for school and student needs. A Scholastic Book Fair runs during the market, open 11:00 AM - 1:00 PM.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nSource: Organizer's flyer",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "A Very Merry Christmas Market",
   "date": "2026-11-08",
   "time": "11 a.m.–3 p.m.",
