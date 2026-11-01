@@ -217,6 +217,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Deseronto Christmas Market",
+  "date": "2026-11-07",
+  "time": "9 a.m.–2 p.m.",
+  "location": "Deseronto Banquet Hall, 51 Mechanic St, Deseronto, ON K0K 1X0",
+  "city": "Deseronto",
+  "region": "Kingston & Area",
+  "description": "A Christmas market at the Deseronto Banquet Hall with local vendors, handmade items and holiday decor. Santa and Mrs. Claus will be there, with Christmas photo opportunities. The market is also collecting for the Deseronto Angel Tree - unwrapped toys, gift cards or cash donations are appreciated to help make the holidays brighter for local kids.\nListing type: Event\nTheme: Christmas\nHours: 9:00 AM - 2:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2653447415090816/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Fall One Stop and Shop",
   "date": "2026-11-07",
   "time": "8 a.m.–1:30 p.m.",
