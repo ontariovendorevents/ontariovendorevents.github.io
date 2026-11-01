@@ -36,61 +36,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "Gleam Makers Collective October Makers Market",
-  "date": "2026-10-31",
-  "time": "10 a.m.–5 p.m.",
-  "location": "Madison Ave & Dupont St, Toronto, ON (below Casa Loma, near Dupont Station)",
-  "city": "Toronto",
-  "region": "Toronto",
-  "description": "Curated October makers markets near Dupont Station and Casa Loma, Toronto. Seeking handmade/ceramics, illustration, textiles, crochet, skincare, candles, pet goods, specialty food, original homeware and creative workshops (handmade only; small market, limited repeat categories). Vendor fee: $50 per market date (includes one 4-foot table and one chair, plus event promotion including TTC advertising). How to apply: https://gleammakers.com/vendors/. Organizer: Gleam Makers Collective (Gleam & Sip Matcha Catering + Cafe).\nFee: $50 Vendors expected: handmade ceramics, jewellery, leather goods, fibre art, illustration, stationery, skincare, concrete design, accessories, gifts. Attendee info source: https://gleammakers.com/\nHours: 10:00 AM – 5:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1570297551064326/",
-  "fees": "$50 per market date (incl. 4-ft table + chair)",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Manotick South Market - Harvest Hallow",
-  "date": "2026-10-31",
-  "time": "10 a.m.–2 p.m.",
-  "location": "The Swan on the Rideau, 2730 River Rd, Manotick, ON",
-  "city": "Manotick",
-  "region": "Ottawa",
-  "description": "Halloween-themed market at The Swan on the Rideau. Vendor fee: not published - contact organizer. How to apply: send a message to reserve a spot. Organizer: Manotick South Market.\nHours: 10:00 AM – 2:00 PM\nAttractions: Pumpkins, games, costumes and Halloween fun\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28206983558972804/",
-  "fees": "not published - contact organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Something New Saturday Vendor Market",
-  "date": "2026-10-31",
-  "time": "9 a.m.–4:30 p.m.",
-  "location": "Something New, 416 Concession Street, Hamilton, ON",
-  "city": "Hamilton",
-  "region": "Hamilton",
-  "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nFee: $45\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
-  "fees": "$45/table",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Trick or Treat Halloween Market",
-  "date": "2026-10-31",
-  "time": "10 a.m.–6 p.m.",
-  "location": "221 Glendale Ave, St. Catharines, ON",
-  "city": "St. Catharines",
-  "region": "Niagara Region",
-  "description": "Vendor call: Trick or Treat Halloween Market (few spots left). Vendor fee: not published — contact organizer. How to apply: vendor application on the organizer website https://eventsconnectedcanada.ca/vendors-apply-here. Organizer: Events Connected Canada.\nHours: 10:00 AM – 6:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28228048553532971/",
-  "fees": "not published - contact organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Trinket or Treat at Crystal Cave",
-  "date": "2026-10-31",
-  "time": "10 a.m.–5 p.m.",
-  "location": "Crystal Cave",
-  "city": "",
-  "region": "Rest of Ontario",
-  "description": "Halloween handmade vendor day at Crystal Cave (town not stated in the source post); vendors decorate their tents and dress up.\nListing type: Vendor call\nHow to apply: comment on the source post with what you sell\nSource: https://facebook.com/groups/1913011498920304/permalink/4787526624802096/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Pickle Me Softly",
   "date": "2026-11-01",
   "time": "11 a.m.–4 p.m.",
