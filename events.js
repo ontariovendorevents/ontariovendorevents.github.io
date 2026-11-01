@@ -305,6 +305,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Kendal Community Market",
+  "date": "2026-11-07",
+  "time": "9:30 a.m.–3 p.m.",
+  "location": "Kendal Community Centre, 6742 Newtonville Road, Orono, ON",
+  "city": "Orono",
+  "region": "Durham Region",
+  "description": "A community market at Kendal Community Centre in Orono with something for everyone - homemade tarts, sourdough and other baked goods, local honey, maple syrup, fresh produce and foods, wood products and boards, unique finds, chunky knits, beef tallow products, Christmas and home decor, jewellery, knitted indoor and outdoor apparel, travel offers, cleaning products, health and wellbeing, baby items and toys, Scentsy, Avon and Tupperware, plus a Lions Club \"New to You\" Sale. Draws and giveaways; cash and e-transfer accepted.\nListing type: Shopper event\nTheme: Christmas\nHours: 9:30 AM - 3:00 PM\nSource: Organizer's flyer",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Lakeside Wrapped in Wonder Holiday Market",
   "date": "2026-11-07",
   "time": "10 a.m.–3 p.m.",
