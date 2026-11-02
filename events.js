@@ -488,7 +488,7 @@ window.EVENTS_REFRESH = [
   "time": "9 a.m.–5 p.m.",
   "location": "Gananoque, Ontario",
   "city": "Gananoque",
-  "region": "Rest of Ontario",
+  "region": "Kingston & Area",
   "description": "43rd annual two-day Christmas craft fair with 90+ vendors, all under one roof. Vendor fee: not published - contact organizer. Hours not published - confirm with organizer. How to apply: see the source post link for how to apply. Organizer: Rotary Club of Gananoque.\nVendors expected: Over 90 vendors\nSource: https://facebook.com/groups/524928052267953/permalink/1562611615166253/",
   "fees": "not published - contact organizer",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
@@ -1321,11 +1321,11 @@ window.EVENTS_REFRESH = [
   "title": "Watford Christmas Joy Market",
   "date": "2026-11-14",
   "time": "9 a.m.–2 p.m.",
-  "location": "East Lambton Community Complex, Watford",
+  "location": "East Lambton Community Complex, 61 Centennial Ave, Watford, ON",
   "city": "Watford",
   "region": "London & Area",
-  "description": "Theme: Christmas\nTags: ShopLocal, SupportSmallBusiness, HolidayMarkets, LocalVendors, CommunityEvents, ChristmasMarkets, AZEvents\nFee: not published\nHow to apply: Apply via the Watford vendor application form (Google Form) linked in the post — https://forms.gle/nNAN1RU4s3tVg3uc6\nHours: 9:00 AM – 2:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28141094792228348/",
-  "fees": "not published",
+  "description": "Annual Christmas Market supporting the Watford public school snack program.\nTheme: Christmas\nTags: ShopLocal, SupportSmallBusiness, HolidayMarkets, LocalVendors, CommunityEvents, ChristmasMarkets, AZEvents\nHours: 9:00 AM – 2:00 PM\nFee: $60\nHow to apply: Apply via the Watford vendor application form (Google Form) — https://docs.google.com/forms/d/e/1FAIpQLSesgdT0cxzk1RXh8s74BVNSCSMkJz0xdde6qHUpl9weEV_vuw/viewform\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28141094792228348/",
+  "fees": "$60",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
