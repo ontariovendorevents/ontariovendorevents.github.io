@@ -24,29 +24,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "Fall Harvest Market (vendor call)",
-  "date": "2026-10-31",
-  "endDate": "2026-11-01",
-  "time": "12 p.m.–8 p.m.",
-  "location": "Lime Ridge Mall, Hamilton, ON",
-  "city": "Hamilton",
-  "region": "Hamilton",
-  "description": "Fall festival market at Lime Ridge Mall seeking vendors; runs every October weekend. Vendor fee: not published - contact organizer. How to apply: https:///thehammer. Organizer: The Hammer. Admission: Tickets starting at $6.99. Attractions: unlimited train rides, bouncy castles, children's hay maze, trucks and tractors, face painting, pumpkin bowling, character meet-and-greets, giant lawn games, axe throwing, live music, pumpkin painting, 35-foot walk-in tree attraction, marshmallow fire pits, artisan vendors, beer garden, fall food and beverages (Sat & Sun 12-8 PM; food, beer garden, fire pits and pumpkin painting cost extra). Attendee info sources: https://limeridgemall.ca/events/lime-ridge-mall-fall-harvest-market-at-lime-ridge-this-october/?shem=aimgspe and https://urbanicity.com/hamiltons-street-eats-market-transforming-into-fall-harvest-market-for-autumn-vibes/\nSource: https://facebook.com/groups/524928052267953/permalink/1564685448292203/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Pickle Me Softly",
-  "date": "2026-11-01",
-  "time": "11 a.m.–4 p.m.",
-  "location": "Wolfhead Distillery, Amherstburg, ON",
-  "city": "Amherstburg",
-  "region": "Windsor-Essex",
-  "description": "Pickle Me Softly — Southwestern Ontario's only pickle celebration and yacht rock day party at Wolfhead Distillery. Vendor category spots are strictly capped, and bookings are handled only by the organizer (applications are not accepted through Facebook Messenger).\nTheme: Food festival / pickle celebration\nVendor types wanted: Artisanal pickles; pickle-inspired food or drinks; custom crafts; apparel; unique handmade goods\nHow to apply: https://forms.gle/3HcBDLeNMAeYbu6B8\nHours: 11:00 AM – 4:00 PM\nSource: https://facebook.com/groups/222210128370316/permalink/2164280584163251/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Santa's Cottage Christmas Barn Market",
   "date": "2026-11-01",
   "endDate": "2026-12-23",
@@ -55,17 +32,6 @@ window.EVENTS_REFRESH = [
   "city": "Oshawa",
   "region": "Durham Region",
   "description": "Santa's Cottage Christmas Barn Market in Oshawa: a season-long barn market running November 1 - December 23. Market hours: Tuesday - Thursday 3:00 PM - 8:00 PM, Friday - Sunday 9:00 AM - 5:00 PM. Free entry.\nListing type: Event\nTheme: Christmas\nHours: Tue-Thu 3:00 PM - 8:00 PM, Fri-Sun 9:00 AM - 5:00 PM\nSource: https://www.santascottage.ca/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Uxbridge Holiday Market",
-  "date": "2026-11-01",
-  "time": "10 a.m.–3 p.m.",
-  "location": "Uxbridge Arena & Community Centre, 291 Brock St W, Uxbridge, ON",
-  "city": "Uxbridge",
-  "region": "Durham Region",
-  "description": "Sunday holiday market series at Uxbridge Arena & Community Centre in Uxbridge, presented by Hurt Berry Farm and the Uxbridge Farmers' Market. A local alternative to mall shopping for the holiday season, with unique and handcrafted gift ideas, artisan crafts, seasonal goods and delicious local treats. The series runs six Sundays: Nov 1, 8, 15 and 22, and Dec 6 and 13, 2026 (no market Nov 29).\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nPresented by Hurt Berry Farm and the Uxbridge Farmers' Market\nSource: https://www.instagram.com/p/DfFN2ShlYup/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
