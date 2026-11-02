@@ -1538,6 +1538,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Christmas Magic (Downtown Cobourg)",
+  "date": "2026-11-20",
+  "time": "4 p.m.–8 p.m.",
+  "location": "Historic Main Street, Cobourg, ON",
+  "city": "Cobourg",
+  "region": "Northumberland",
+  "description": "Downtown Cobourg Christmas Magic — an evening Main Street Christmas celebration in the heart of downtown. Vendor call: artisan and food vendors wanted — small-batch products, handmade artisan goods, unique gifts and holiday treasures. Vendor booths on the historic main street.\nListing type: Vendor call\nTheme: Christmas\nHours: 4:00 PM – 8:00 PM\nFee: not published\nVendor types wanted: Artisan and food vendors — small-batch, handmade, unique gifts\nHow to apply: Email Downtown Cobourg with subject line \"Christmas Magic Vendor Application\" — address in the source post\nSource: https://www.facebook.com/100063741032151/posts/1759912246143460/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Christmas Night Market at the Ranch",
   "date": "2026-11-20",
   "time": "6 p.m.–9 p.m.",
