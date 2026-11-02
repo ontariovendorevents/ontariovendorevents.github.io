@@ -1181,7 +1181,7 @@
         <span id="legend-events">0 events</span>
       </div>
       <div class="kofi-button"><a href="https://ko-fi.com/evergreenember" target="_blank" rel="noopener noreferrer" aria-label="Support me on Ko-fi (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none"><path fill="#fff" d="M3 6.5h13.5v7A5.5 5.5 0 0 1 11 19H8.5A5.5 5.5 0 0 1 3 13.5v-7Z"/><path stroke="#1c211e" stroke-width="1.8" d="M16.5 8h1.25a3.25 3.25 0 0 1 0 6.5H16"/><path fill="#ff5e5b" d="M9.75 15.1 6.5 12a2.15 2.15 0 0 1 3.25-2.8A2.15 2.15 0 0 1 13 12l-3.25 3.1Z"/></svg><span>Support me on Ko-fi</span></a></div>
-      <div class="snapshot">Calendar snapshot · November 2, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v36 · Changelog</button></div>
+      <div class="snapshot">Calendar snapshot · November 2, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v37 · Changelog</button></div>
       <p class="disclaimer">We do our best to check all of the events, but it still remains on each individual to do their due diligence.</p>
       <p class="credit">Ontario Vendor Events is built and curated by <a href="https://linktr.ee/evergreen.n.ember" target="_blank" rel="noopener noreferrer">Evergreen &amp; Ember</a></p>
     </footer>
@@ -1193,6 +1193,7 @@
       </div>
       <div class="changelog-body">
         <p class="changelog-note">Page features and improvements. New event listings aren't logged here — the page always shows the latest from the calendar.</p>
+        <section class="changelog-entry"><h3>v37 — Nov 2, 2026</h3><ul><li>Fixed a stale-page problem: the calendar&rsquo;s data file is now stamped with a version that changes whenever the listings change, so your browser always loads the latest markets. Some phones were quietly showing a months-old copy of the page, with out-of-date seasonal collections to match.</li></ul></section>
         <section class="changelog-entry"><h3>v36 — Nov 2, 2026</h3><ul><li>The Ontario Vendor Events app is live on Google Play for Android, and the “Is there an app?” answer in Good to know now links straight to it. The app shows the same markets as this page, with saved markets and new-event alerts; on iPhone, this page remains the same calendar in your browser.</li></ul></section>
         <section class="changelog-entry"><h3>v35 — Nov 1, 2026</h3><ul><li>For organizers: the &ldquo;For organizers&rdquo; panel now spells out what your event poster must show to get listed &mdash; event name, date with start and end times, venue with full street address and town, a contact, and the vendor fee with how to apply (or the admission price for shoppers). Posters missing the venue or the hours can&rsquo;t be listed until they&rsquo;re updated, and the submission form now asks for the same things up front.</li></ul></section>
         <section class="changelog-entry"><h3>v34 — Oct 26, 2026</h3><ul><li>Easier to find in search: the page now introduces itself to Google as Ontario's calendar of craft shows, Christmas markets and vendor events, and every listing carries structured date-and-place details behind the scenes, so these markets can surface properly in search results. A site map is published too.</li></ul></section>
@@ -1228,7 +1229,7 @@
     </dialog>
   </main>
 
-  <script src="events.js"></script>
+  <script src="events.js?v=eb0e86089d"></script>
   <script>
     (function () {
       var EVENTS = window.EVENTS_REFRESH || [];
