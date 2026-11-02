@@ -47,6 +47,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Santa's Cottage Christmas Barn Market",
+  "date": "2026-11-01",
+  "endDate": "2026-12-23",
+  "time": "Time not listed",
+  "location": "Santa's Cottage, 4405 Ritson Rd N, Oshawa, ON",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "Santa's Cottage Christmas Barn Market in Oshawa: a season-long barn market running November 1 - December 23. Market hours: Tuesday - Thursday 3:00 PM - 8:00 PM, Friday - Sunday 9:00 AM - 5:00 PM. Free entry.\nListing type: Event\nTheme: Christmas\nHours: Tue-Thu 3:00 PM - 8:00 PM, Fri-Sun 9:00 AM - 5:00 PM\nSource: https://www.santascottage.ca/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Uxbridge Holiday Market",
   "date": "2026-11-01",
   "time": "10 a.m.–3 p.m.",
@@ -147,6 +159,17 @@ window.EVENTS_REFRESH = [
   "region": "Kingston & Area",
   "description": "Outdoor country Christmas market weekend, part of A Country Christmas Gathering Tour. Vendor fee: $40/day or $60 for both days. Application deadline: October 15, 2026. How to apply: see the source post link for how to apply. Organizer: Marshland Creations.\nFee: $40/$60\nHours: 10:00 AM – 3:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1569077401186341/",
   "fees": "$40/day or $60 for 2 days",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Abilities Centre Festival of Trees and Holiday Market",
+  "date": "2026-11-07",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Abilities Centre, 1 Jim Flaherty St, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "The Abilities Centre's Festival of Trees and Holiday Market in Whitby. Ticketed event - see the source page for tickets.\nListing type: Event\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nSource: https://abilitiescentre.org/event/2026-abilities-centre-festival-of-trees-and-holiday-market/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -449,6 +472,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "One-of-a-Kind Craft Show at the 420 Wing",
+  "date": "2026-11-07",
+  "time": "9 a.m.–3 p.m.",
+  "location": "420 Wing Oshawa, 1000 Stevenson Rd N, Oshawa, ON",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "The One-of-a-Kind Craft Show at the 420 Wing in Oshawa. KX96's listing includes a vendor call - contact the organizer via the source listing to confirm space and fee.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 3:00 PM\nSource: https://www.kx96.fm/index.php/component/jevents/eventdetail/3044/-/one-of-a-kind-craft-show-at-the-420-wing-oshawa?Itemid=101",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Pickering Village United Church Christmas Market",
   "date": "2026-11-07",
   "time": "10 a.m.–2 p.m.",
@@ -456,6 +490,17 @@ window.EVENTS_REFRESH = [
   "city": "Ajax",
   "region": "Durham Region",
   "description": "Christmas market at Pickering Village United Church in Ajax — over 22 local vendors with handcrafted gift ideas, plus a bake sale, basket raffles, jams & jellies, and quilts & cards. A Christmas luncheon is available for $15. The venue is wheelchair accessible.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nSource: Organizer's flyer",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Poinsettia Bazaar & Craft Market",
+  "date": "2026-11-07",
+  "time": "10 a.m.–2 p.m.",
+  "location": "St. Matthew's Anglican Church, 135 Wilson Rd S, Oshawa, ON",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "The Poinsettia Bazaar & Craft Market at St. Matthew's Anglican Church in Oshawa.\nListing type: Event\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nSource: https://tvrogers.com/durham-region/events/event/206031",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -512,6 +557,17 @@ window.EVENTS_REFRESH = [
   "city": "Tobermory",
   "region": "Rest of Ontario",
   "description": "1st Annual Fall into Winter Event by Tobermory All Seasons Market. Contact: see the source post link for how to apply.\nHours: 10:00 AM – 1:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1573006814126733/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Tyrone Holiday Market",
+  "date": "2026-11-07",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Tyrone Community Centre, 2716 Concession Rd 7, Tyrone, ON",
+  "city": "Tyrone",
+  "region": "Durham Region",
+  "description": "The Tyrone Holiday Market at the Tyrone Community Centre in Clarington, with Santa visiting 11:00 AM - 1:00 PM. Free admission.\nListing type: Event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nSource: https://kx96.fm/index.php/community/kx96-events/eventdetail/3014/-/tyrone-holiday-market",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1263,6 +1319,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "The Mom Market Christmas Waterfront Market",
+  "date": "2026-11-14",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Port Whitby Marina, 301 Watson St W, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "The Mom Market's Christmas Waterfront Market at Port Whitby Marina in Whitby, running Saturday November 14 and Saturday December 12, 10:00 AM - 4:00 PM. Vendor applications are open - apply via the source page.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nSource: https://themommarketco.com/durham-region",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "The Mom Market Windsor (Kingsville)",
   "date": "2026-11-14",
   "time": "10 a.m.–3 p.m.",
@@ -1395,6 +1462,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Vintage Modern Christmas Market",
+  "date": "2026-11-15",
+  "time": "11 a.m.–5 p.m.",
+  "location": "Kawartha Downs, 1382 County Rd 28, Fraserville, ON",
+  "city": "Fraserville",
+  "region": "Kawarthas and Peterborough",
+  "description": "The Vintage Modern Christmas Market at Kawartha Downs in Fraserville: 50+ vendors of vintage and handmade goods, with a concession and bar.\nListing type: Event\nTheme: Christmas\nHours: 11:00 AM - 5:00 PM\nSource: https://northumberlandvintageshow.com/christmas-market",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "A Very Vine Christmas",
   "date": "2026-11-19",
   "time": "5 p.m.–8:30 p.m.",
@@ -1483,6 +1561,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Bright & Merry Market",
+  "date": "2026-11-20",
+  "time": "5 p.m.–9 p.m.",
+  "location": "Downtown Oshawa (City Hall to Memorial Park), Oshawa, ON",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "The City of Oshawa's Bright & Merry Market downtown, from City Hall (50 Centre St S) to Memorial Park: holiday shopping, family activities and the North Parkette illumination at 8:30 PM. Free admission.\nListing type: Event\nTheme: Christmas\nHours: 5:00 PM - 9:00 PM\nSource: https://www.oshawa.ca/explore-play/city-events/bright-and-merry-market/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Christmas Night Market at the Ranch",
   "date": "2026-11-20",
   "time": "6 p.m.–9 p.m.",
@@ -1535,6 +1624,17 @@ window.EVENTS_REFRESH = [
   "city": "Mount Albert",
   "region": "York Region",
   "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Port Perry Lakefront Farmers' Market Holiday Pop-Up",
+  "date": "2026-11-20",
+  "time": "5 p.m.–8 p.m.",
+  "location": "Latcham Centre, 121 Queen St, Port Perry, ON",
+  "city": "Port Perry",
+  "region": "Durham Region",
+  "description": "A holiday pop-up from the Port Perry Lakefront Farmers' Market at the Latcham Centre: evening shopping with market vendors.\nListing type: Event\nTheme: Christmas\nHours: 5:00 PM - 8:00 PM\nSource: https://www.portperryfarmersmarket.ca/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1685,6 +1785,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Autumn Craft Sale at Dr. C.F. Cannon in Oshawa — crafts, a raffle draw and refreshments, and the first 50 children receive a bling bag. Free entry. Vendor spaces are $40 per booth.\nListing type: Vendor call\nTheme: Christmas\nHours: 11:00 AM - 4:00 PM\nAdmission: Free\nHow to apply: Register via the vendor registration form: https://forms.gle/hTnpoHwxMTaxwHoX6\nSource: https://facebook.com/groups/1013767978664673/permalink/39561529876795002/",
   "fees": "$40 per booth",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Eastdale 39th Annual Craft Show",
+  "date": "2026-11-21",
+  "time": "10 a.m.–4:30 p.m.",
+  "location": "Eastdale Collegiate, 265 Harmony Rd N, Oshawa, ON",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "Eastdale Collegiate's 39th annual craft show in Oshawa, running Saturday November 21 and Sunday November 22, 10:00 AM - 4:30 PM both days. Vendor spaces are available; new applications are processed on a first-come basis - apply via the show's vendor page.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 4:30 PM\nSource: https://sites.google.com/ddsb.ca/eastdalecraftshow/event-info",
+  "fees": "$130",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2128,6 +2239,17 @@ window.EVENTS_REFRESH = [
   "region": "Halton Region",
   "description": "The Acton District School Christmas Market still has vendor room — the organizer is specifically looking for pottery, stained glass, knitting (no stuffies), woodworking, and other unique items.\nTheme: Christmas / holiday season\nVendor types wanted: Pottery, stained glass, knitting, woodworking, unique handmade items\nFee: not stated by organizer\nApply: https://forms.gle/71VcSDnZwP3QcN7q9\nSource: https://facebook.com/groups/609827307950034/permalink/1442089068057183/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Eastdale 39th Annual Craft Show",
+  "date": "2026-11-22",
+  "time": "10 a.m.–4:30 p.m.",
+  "location": "Eastdale Collegiate, 265 Harmony Rd N, Oshawa, ON",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "Eastdale Collegiate's 39th annual craft show in Oshawa, running Saturday November 21 and Sunday November 22, 10:00 AM - 4:30 PM both days. Vendor spaces are available; new applications are processed on a first-come basis - apply via the show's vendor page.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 4:30 PM\nSource: https://sites.google.com/ddsb.ca/eastdalecraftshow/event-info",
+  "fees": "$130",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2603,6 +2725,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Cedarcroft Place Christmas Market",
+  "date": "2026-11-28",
+  "time": "10 a.m.–2 p.m.",
+  "location": "Cedarcroft Place Retirement Residence, 649 King St E, Oshawa, ON",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "A Christmas market at Cedarcroft Place Retirement Residence in Oshawa, with a 50/50 draw and a resident-run table. Free parking at St. Gertrude's Church.\nListing type: Event\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nSource: https://1drv.ms/x/c/16368b85e1286267/IQBQaSQ37sVgSLxayjX_18-BAWfxiJoQL7Pj9oYKQVN-vYk",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Christmas Makers Market",
   "date": "2026-11-28",
   "time": "10 a.m.–4 p.m.",
@@ -2655,6 +2788,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Christmas market at Faith United, 1778 Nash Rd, Courtice. Wheelchair accessible. Vendor info: contact the organizer (see the source post link for how to apply.) (per the organizer’s public flyer). Vendor fee not posted publicly — available from the organizer (see the source post link). Spots are filling up (per organizer).\nSource: organizer\\'s Facebook post",
   "fees": "TBA",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Durham Christmas Market 2026",
+  "date": "2026-11-28",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Ajax Community Centre, 75 Centennial Rd, Ajax, ON",
+  "city": "Ajax",
+  "region": "Durham Region",
+  "description": "The Durham Christmas Market at the Ajax Community Centre (HMS Room): local vendors and holiday shopping. Free admission; RSVP suggested via the source page.\nListing type: Event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nSource: https://durhamchristmasmarket.info/TicketCheckout",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2836,6 +2980,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Jingle & Roar Christmas Market",
+  "date": "2026-11-28",
+  "time": "4 p.m.–11 p.m.",
+  "location": "Beaverton Fairgrounds, Beaverton, ON",
+  "city": "Beaverton",
+  "region": "Durham Region",
+  "description": "The Beaverton Lions' Jingle & Roar Christmas Market at the Beaverton Fairgrounds: local vendors, Christmas trees, wagon rides, live entertainment, a BBQ and the Santa parade the same evening. Free to attend.\nListing type: Event\nTheme: Christmas\nHours: 4:00 PM - 11:00 PM\nSource: https://www.beavertonlions.ca/calendar-of-event",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "K-W Navy League Winter Market",
   "date": "2026-11-28",
   "time": "10 a.m.–3 p.m.",
@@ -2965,6 +3120,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Annual holiday craft show at Port Perry High School — a fundraiser for the PPHS Music Department with 95 vendor booths. Handmade crafts are preferred and craft categories are limited. Booths are 10 ft long by 6 ft deep with two chairs provided; a table is only provided if ordered and paid for in advance. Registration opened in February (returning vendors first, then the waitlist); payment is through School Cash online only — no cheques, cash, PayPal or e-transfers. Setup Fri Nov 27, 4:30–8:00 PM and Sat Nov 28, 8:00–9:59 AM.\nTheme: Christmas / holiday season\nVendor types wanted: handmade crafts (categories limited)\nAdmission: $5.00; seniors 65+ and children under 12 free\nHours: 10:00 AM–3:00 PM\nHow to apply: https://sites.google.com/view/portperryhscraftshow/registration-form (vendor info: https://sites.google.com/view/portperryhscraftshow/information-for-vendors; the School Cash payment link is emailed by the organizer)\nFee: $75 booth only; $100 with an 8 ft table (plus a School Cash transaction fee)\nSource: https://sites.google.com/view/portperryhscraftshow/home",
   "fees": "$75 booth only; $100 with 8 ft table (plus School Cash transaction fee)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Port Perry Holiday Market (Big Brothers Big Sisters of North Durham)",
+  "date": "2026-11-28",
+  "time": "9 a.m.–4 p.m.",
+  "location": "1655 Reach St, Port Perry, ON",
+  "city": "Port Perry",
+  "region": "Durham Region",
+  "description": "A holiday market in Port Perry hosted by Big Brothers Big Sisters of North Durham. Vendor registration is open; a deposit (credited toward the table cost) secures a booth.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 4:00 PM\nSource: https://bbbsnorthdurham.com/",
+  "fees": "$25/$50 deposit",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3169,6 +3335,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "It's Almost Christmas Holiday Market",
+  "date": "2026-11-29",
+  "time": "2 p.m.–7 p.m.",
+  "location": "Ajax Community Centre, 75 Centennial Rd, Ajax, ON",
+  "city": "Ajax",
+  "region": "Durham Region",
+  "description": "The Town of Ajax's It's Almost Christmas Holiday Market at the Ajax Community Centre. Free admission.\nListing type: Event\nTheme: Christmas\nHours: 2:00 PM - 7:00 PM\nSource: https://ajax.ca/event/its-almost-christmas-holiday-market-2026/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Legion Branch 43 Christmas Market",
   "date": "2026-11-29",
   "time": "9 a.m.–4 p.m.",
@@ -3325,6 +3502,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Moonlight Magic Market",
+  "date": "2026-12-04",
+  "time": "5 p.m.–9 p.m.",
+  "location": "Historic Downtown Bowmanville, Temperance St, Bowmanville, ON",
+  "city": "Bowmanville",
+  "region": "Durham Region",
+  "description": "Bowmanville's Moonlight Magic night market in the historic downtown: evening shopping on Temperance Street, with the tree lighting at 6:30 PM.\nListing type: Event\nTheme: Christmas\nHours: 5:00 PM - 9:00 PM\nSource: https://bowmanville.com/events/moonlight-magic",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Neighbourhood Holiday Market",
   "date": "2026-12-04",
   "time": "5 p.m.–9 p.m.",
@@ -3366,6 +3554,17 @@ window.EVENTS_REFRESH = [
   "region": "Toronto",
   "description": "First annual Christmas market at St. Gabriel Catholic Elementary School, North York. Starts 4:30 PM; end time not published.\nListing type: Vendor call\nFee: $50 per table / $40 bring your own table\nHow to apply: via the QR/link in the event flyer (see source post)\nSource: https://facebook.com/groups/ontariocanadavendorevents/permalink/4463835653926769/",
   "fees": "$50 per table / $40 bring your own",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Uxbridge Holiday Trail Markets",
+  "date": "2026-12-04",
+  "time": "5 p.m.–8 p.m.",
+  "location": "Downtown Uxbridge, Brock, Main and Toronto Streets, Uxbridge, ON",
+  "city": "Uxbridge",
+  "region": "Durham Region",
+  "description": "Uxbridge's Holiday Trail: downtown markets on Brock, Main and Toronto Streets with live music, a free trolley, Santa and Mrs. Claus and the Toonie Trail, Friday December 4 and Saturday December 5, 5:00 PM - 8:00 PM. Free to attend.\nListing type: Event\nTheme: Christmas\nHours: 5:00 PM - 8:00 PM\nSource: https://www.uxbridge.ca/explore-and-play/events/events-calendar",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3788,6 +3987,17 @@ window.EVENTS_REFRESH = [
   "region": "Toronto",
   "description": "Vendor call for the Toronto Dark Arts Market's Northern Noir Market – dark, weird, alternative art/crafts (art, crafts, clothing, jewellery, taxidermy & oddities, literature, decor, housewares, toys, etc.). Preference for dark/creepy holiday-themed items and gift items. Public 11 AM–5 PM, free admission. Vendor fee: $40–$200 depending on table size. How to apply: Apply ONLY via www.torontodarkartsmarket.com – the organizer never uses Jotform, Google docs, Gmail or DMs, and never communicates via Facebook. Application deadline: Oct 13, 2026, 1 PM; notifications by Oct 15. Organizer: Toronto Dark Arts Market. SCAM NOTE from organizer: any comments offering spots/tickets for this event are scams.\nFee: $40/$200\nAdmission: Free\nSource: https://facebook.com/groups/524928052267953/permalink/1570696554357759/",
   "fees": "$40-$200 depending on table size",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Uxbridge Holiday Trail Markets",
+  "date": "2026-12-05",
+  "time": "5 p.m.–8 p.m.",
+  "location": "Downtown Uxbridge, Brock, Main and Toronto Streets, Uxbridge, ON",
+  "city": "Uxbridge",
+  "region": "Durham Region",
+  "description": "Uxbridge's Holiday Trail: downtown markets on Brock, Main and Toronto Streets with live music, a free trolley, Santa and Mrs. Claus and the Toonie Trail, Friday December 4 and Saturday December 5, 5:00 PM - 8:00 PM. Free to attend.\nListing type: Event\nTheme: Christmas\nHours: 5:00 PM - 8:00 PM\nSource: https://www.uxbridge.ca/explore-and-play/events/events-calendar",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -4290,6 +4500,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Fee: not stated by organizer (DM for details)\nHours: 1:00 PM – 6:00 PM\nAdmission: Free\nAttractions: Shop & sip with local vendors, photo ops, raffle prizes, family-friendly festive fun\nSource: https://facebook.com/groups/1746193395565570/permalink/3485346728316886/\n\n",
   "fees": "not stated by organizer (DM for details)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "The Mom Market Christmas Waterfront Market",
+  "date": "2026-12-12",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Port Whitby Marina, 301 Watson St W, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "The Mom Market's Christmas Waterfront Market at Port Whitby Marina in Whitby, running Saturday November 14 and Saturday December 12, 10:00 AM - 4:00 PM. Vendor applications are open - apply via the source page.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nSource: https://themommarketco.com/durham-region",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
