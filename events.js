@@ -105,13 +105,13 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "4th Annual Christmas in the Hamlet",
+  "title": "4th Annual Christmas in The Hamptons — Gifts + Craft Show",
   "date": "2026-11-07",
   "time": "9 a.m.–3 p.m.",
-  "location": "Hampton, ON",
+  "location": "5360 Old Scugog Rd, Hampton, ON",
   "city": "Hampton",
   "region": "Durham Region",
-  "description": "The 4th annual Christmas in the Hamlet in Hampton - two market locations on the same street, two separate events on the same day.\nListing type: Event\nTheme: Christmas\nHours: 9:00 AM - 3:00 PM\nSource: https://facebook.com/groups/DHMM3.0/permalink/2320741205379867/",
+  "description": "The 4th annual Christmas in The Hamptons gifts + craft show in Hampton, at 5360 Old Scugog Rd — unique gifts, handmade treasures, home décor, art, jewelry, candles and so much more from amazing local vendors. One of two separate events on the same day on the same street, alongside the Hampton United Church Christmas Craft & Bake Sale at 5454 Old Scugog Rd. The poster does not publish a vendor fee, a vendor application route or an admission price.\nListing type: Event\nTheme: Christmas\nHours: 9:00 AM - 3:00 PM\nSource: https://facebook.com/groups/DHMM3.0/permalink/2320741205379867/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -275,11 +275,11 @@ window.EVENTS_REFRESH = [
  {
   "title": "Hampton United Church Annual Christmas Craft & Bake Sale",
   "date": "2026-11-07",
-  "time": "9 a.m.–2 p.m.",
+  "time": "9 a.m.–3 p.m.",
   "location": "Hampton United Church, 5454 Old Scugog Rd, Hampton, ON",
   "city": "Hampton",
   "region": "Durham Region",
-  "description": "Hampton United Church's annual Christmas craft and bake sale in Hampton: free admission, homemade baked goods, 20+ local artisans, a silent auction and the Jingle Bell Cafe.\nListing type: Event\nTheme: Christmas\nHours: 9:00 AM - 2:00 PM\nSource: https://facebook.com/groups/DHMM3.0/permalink/2320741205379867/",
+  "description": "Hampton United Church's annual Christmas craft and bake sale in Hampton: free admission, homemade baked goods, 20+ local artisans, a silent auction and the Jingle Bell Cafe.\nListing type: Event\nTheme: Christmas\nHours: 9:00 AM - 3:00 PM\nSource: https://facebook.com/groups/DHMM3.0/permalink/2320741205379867/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
