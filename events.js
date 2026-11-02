@@ -4448,6 +4448,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Paws & Claus — Pet-Themed Christmas Craft Market",
+  "date": "2026-12-12",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Fitzroy Harbour Community Centre, Fitzroy Harbour, ON",
+  "city": "Fitzroy Harbour",
+  "region": "Ottawa",
+  "description": "Paws & Claus — a pet-themed Christmas craft market hosted by Kenzie's Canine Club at the Fitzroy Harbour Community Centre, with 10–15 local vendors offering pet-themed gifts, handmade crafts, treats, baked goods and more. Free entry — donations at the door go to Freedom Dog Rescue, which will be on site collecting them. Door prize raffle: $2 a ticket or 3 for $5, all proceeds to Freedom Dog Rescue (draw at 2:30 PM). Please note the hall doesn't allow pets inside, so this one is people-only shopping. Tables are $25 and a few spots are left; table fees hold your spot and are refundable until December 1.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nVendor types wanted: Pet-themed gifts, handmade crafts, treats, baked goods and more\nHow to apply: Fill out the vendor sign-up form linked in the source post\nSource: https://facebook.com/groups/377595892794556/permalink/2255053335048793/",
+  "fees": "$25 per table",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Santa at the Village — Village Union PS",
   "date": "2026-12-12",
   "time": "Time not listed",
@@ -4656,6 +4667,17 @@ window.EVENTS_REFRESH = [
   "region": "Ottawa",
   "description": "Fee: $65+HST/night or $300+HST early-bird season rate (until Oct 31)\nHow to apply: SoapLadz.ca/Market\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2628683637567194/\n\n",
   "fees": "$65+HST/night or $300+HST early-bird season rate (until Oct 31)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Friday Night Vintage Market",
+  "date": "2026-12-18",
+  "time": "4 p.m.–9 p.m.",
+  "location": "Royal Canadian Legion Branch #644, 1570 Marentette Ave, Windsor, ON",
+  "city": "Windsor",
+  "region": "Windsor-Essex",
+  "description": "Friday Night Vintage Market at Royal Canadian Legion Branch #644 in Windsor — vintage items only. Nearly 50% sold out in just 24 hours; the last event had 20 unique vendors and sold out well before the date with a waitlist, so book early. The Legion bar will be open inside the event space so customers can have a drink and stroll the aisles. $30 for an 8'x10' spot, which includes one 8ft table. Organizers' anti-scam note: avoid scammers — the only way to register is through the registration form link below; there are no other organizers.\nListing type: Vendor call\nTheme: Vintage\nHours: 4:00 PM - 9:00 PM\nVendor types wanted: Vintage items only\nHow to apply: Register via the registration form: https://forms.gle/8mnMEMUMAGj19yCSA (the only way to register)\nSource: https://facebook.com/groups/2320917288223463/permalink/4550362968612206/",
+  "fees": "$30 per 8'x10' spot (includes one 8ft table)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -4900,6 +4922,17 @@ window.EVENTS_REFRESH = [
   "region": "Ottawa",
   "description": "Cancer Fundraiser Market at Metropolitan Bible Church in Ottawa - a day of shopping, raffles, games and live music raising money for the Ottawa Cancer Foundation, organized in memory of the organizer's mother.\nVendor fee: $60\nListing type: Vendor call\nHours: 11:00 AM - 3:00 PM\nHow to apply: https://forms.gle/S6SpHje46dLCszDY6\nSource: https://facebook.com/groups/524928052267953/permalink/1591784665582281/",
   "fees": "$60",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Oakville Indoor Community Market (Lorvale Academy)",
+  "date": "2027-01-30",
+  "time": "4 p.m.–6 p.m.",
+  "location": "Lorvale Academy, 373 Wyecroft Rd, Oakville, ON",
+  "city": "Oakville",
+  "region": "Halton Region",
+  "description": "Indoor community market at Lorvale Academy in Oakville — free admission for the public. The vendor fee is $100 plus a $100 refundable security deposit; the full $200 is payable upfront via e-Transfer, and the $100 security deposit will be returned within 7 days after the event, provided the refund conditions are met.\nListing type: Vendor call\nTheme: Community market\nHours: 4:00 PM - 6:00 PM\nVendor types wanted: Food, drinks, handmade crafts, gifts, clothing, accessories, games and activities\nHow to apply: see the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2652655228503368/",
+  "fees": "$100 + $100 refundable security deposit — full $200 payable upfront by e-Transfer, deposit returned within 7 days after the event if refund conditions are met",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
