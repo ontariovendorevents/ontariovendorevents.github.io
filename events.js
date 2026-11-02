@@ -1987,6 +1987,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "The Mini Market",
+  "date": "2026-11-21",
+  "time": "9 a.m.–12 p.m.",
+  "location": "250 Telson Road, Markham, ON",
+  "city": "Markham",
+  "region": "York Region",
+  "description": "The Mini Market — GreMich & Grit's outdoor holiday market at 250 Telson Road in Markham. Only 7 vendor spaces are available per market. Each vendor is assigned one parking spot (approx. 9' x 18'); bring your own table, canopy and creative display, or sell right from your vehicle trunk. Outdoor market — rain or shine. Local makers, crafters, artisans and small businesses are welcome. Apply for one market or multiple dates; no ongoing commitment required. The introductory vendor fee is $20 per market.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 12:00 PM\nVendor types wanted: Local makers, crafters, artisans and small businesses\nHow to apply: see the source post\nSource: Organizer's poster",
+  "fees": "$20 per market",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "The Nightmare Before Christmas Market",
   "date": "2026-11-21",
   "time": "11 a.m.–5 p.m.",
@@ -3058,6 +3069,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "The Mini Market",
+  "date": "2026-11-28",
+  "time": "9 a.m.–12 p.m.",
+  "location": "250 Telson Road, Markham, ON",
+  "city": "Markham",
+  "region": "York Region",
+  "description": "The Mini Market — GreMich & Grit's outdoor holiday market at 250 Telson Road in Markham. Only 7 vendor spaces are available per market. Each vendor is assigned one parking spot (approx. 9' x 18'); bring your own table, canopy and creative display, or sell right from your vehicle trunk. Outdoor market — rain or shine. Local makers, crafters, artisans and small businesses are welcome. Apply for one market or multiple dates; no ongoing commitment required. The introductory vendor fee is $20 per market.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 12:00 PM\nVendor types wanted: Local makers, crafters, artisans and small businesses\nHow to apply: see the source post\nSource: Organizer's poster",
+  "fees": "$20 per market",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "We Love Willowdale Christmas Market",
   "date": "2026-11-28",
   "time": "2 p.m.–8 p.m.",
@@ -3733,6 +3755,17 @@ window.EVENTS_REFRESH = [
   "region": "Halton Region",
   "description": "Hours: not stated by organizer\nFee: not stated by organizer\nAdmission: Free — Oakville Galleries states admission is always free (gallery-wide policy; no fair-specific admission published)\nVendors expected: Up to 40 artisans, selected through a juried application process\nSource: https://facebook.com/groups/1190141658320918/permalink/1968859247115818/\n",
   "fees": "not stated by organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "The Mini Market",
+  "date": "2026-12-05",
+  "time": "9 a.m.–12 p.m.",
+  "location": "250 Telson Road, Markham, ON",
+  "city": "Markham",
+  "region": "York Region",
+  "description": "The Mini Market — GreMich & Grit's outdoor holiday market at 250 Telson Road in Markham. Only 7 vendor spaces are available per market. Each vendor is assigned one parking spot (approx. 9' x 18'); bring your own table, canopy and creative display, or sell right from your vehicle trunk. Outdoor market — rain or shine. Local makers, crafters, artisans and small businesses are welcome. Apply for one market or multiple dates; no ongoing commitment required. The introductory vendor fee is $20 per market.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 12:00 PM\nVendor types wanted: Local makers, crafters, artisans and small businesses\nHow to apply: see the source post\nSource: Organizer's poster",
+  "fees": "$20 per market",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
