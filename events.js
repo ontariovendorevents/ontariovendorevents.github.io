@@ -1,29 +1,5 @@
 window.EVENTS_REFRESH = [
  {
-  "title": "Ottawa Rock N' Gem Show",
-  "date": "2026-10-29",
-  "endDate": "2026-11-01",
-  "time": "Time not listed",
-  "location": "Cohere Centre, Ottawa, ON",
-  "city": "Ottawa",
-  "region": "Ottawa",
-  "description": "Ottawa Rock N' Gem Show — a four-day show (Thu Oct 29 – Sun Nov 1) drawing rockhounds, families, collectors, and shoppers from across the region. The organizer is looking to expand the vendor lineup with fresh, unique businesses. Show hours and vendor fee not published — confirm with the organizer.\nTheme: TBD\nVendor types wanted: Crystals, gems & minerals; fossils & geological items; handcrafted jewelry; metaphysical supplies; art, decor & unique creations; rock/geo-themed goods\nHow to apply: see the source post\nSource: https://facebook.com/groups/723619655265936/permalink/1930948284533061/",
-  "fees": "Not published",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Brawley Woods Haunted Walk — Vendors Wanted (Oct 30–Nov 1)",
-  "date": "2026-10-30",
-  "endDate": "2026-11-01",
-  "time": "Time not listed",
-  "location": "Brawley Woods, 1320 Brawley Rd W, Whitby, ON",
-  "city": "Whitby",
-  "region": "Durham Region",
-  "description": "Brawley Woods Haunted Halloween Walk vendor call — vendors of all kinds wanted (handmade goods, Halloween & fall vendors, artists and all things unique). Haunted forest walk with 24 movie-like scenes, live actors and animatronics. Walk hours: Fri & Sat 7 PM–11 PM, Sun 7 PM–10 PM (vendor hours not published — confirm with organizer). Vendor fees: $70/day, $200/weekend (3 days), $600 for the last three weekends — confirm with organizer. NOTE: the vendor application includes a release agreement requiring a Certificate of Insurance for Commercial General Liability ($5M) with Brawley Woods and the City of Whitby named as additional insureds. Apply: https://docs.google.com/forms/d/e/1FAIpQLSfabCrx9hWMA4-OewJGE1qR2Wo0ipvAhhHPWQXEkViJd3ro2g/viewform. see the source post link for how to apply.\nTheme: Halloween\nTags: vendors wanted, haunted walk, fall vendors, artisan vendors\nVendor types wanted: All vendor types\nFee: $70/$200/$600\nSource: https://www.facebook.com/groups/1275920009575497/permalink/2550637795437039/",
-  "fees": "$70/day; $200/weekend (3 days); $600 for last three weekends",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Santa's Cottage Christmas Barn Market",
   "date": "2026-11-01",
   "endDate": "2026-12-23",
