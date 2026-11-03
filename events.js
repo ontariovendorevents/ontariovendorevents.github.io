@@ -173,6 +173,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Christmas Craft Market & Cafe (The Salvation Army Huntsville)",
+  "date": "2026-11-07",
+  "time": "9:30 a.m.–2:30 p.m.",
+  "location": "4 Mary St, Huntsville, ON",
+  "city": "Huntsville",
+  "region": "Rest of Ontario",
+  "description": "Christmas craft market and cafe at The Salvation Army in Huntsville, part of the Muskoka Markets & Events November roundup.\nListing type: Market\nTheme: Christmas\nHours: 9:30 AM – 2:30 PM\nFee: not published\nAdmission: not stated\nSource: https://www.facebook.com/groups/1559725434912476/permalink/2149554679262879/ (Muskoka Markets & Events calendar)",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Christmas Fair (Brebeuf Hall)",
   "date": "2026-11-07",
   "time": "9 a.m.–3 p.m.",
@@ -317,6 +328,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Holiday Market (Canadian Raceboat Hall Of Fame)",
+  "date": "2026-11-07",
+  "time": "9 a.m.–3 p.m.",
+  "location": "1512 Muskoka Rd 118W, Bracebridge, ON",
+  "city": "Bracebridge",
+  "region": "Rest of Ontario",
+  "description": "Holiday market at the Canadian Raceboat Hall of Fame in Bracebridge, part of the Muskoka Markets & Events November roundup.\nListing type: Market\nTheme: Christmas\nHours: 9:00 AM – 3:00 PM\nFee: not published\nAdmission: not stated\nSource: https://www.facebook.com/groups/1559725434912476/permalink/2149554679262879/ (Muskoka Markets & Events calendar)",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Holiday Wellness Healing & Crafts",
   "date": "2026-11-07",
   "time": "9 a.m.–3 p.m.",
@@ -380,6 +402,17 @@ window.EVENTS_REFRESH = [
   "region": "Halton Region",
   "description": "Curated holiday market presented by Curious Machine Events and hosted by the organizer Resin, kicking off the holiday shopping season with local artisans; limited to 28 vendors. Vendor fee: $100 per table ($80 for returning vendors). How to apply: see the source post link for how to apply. Organizer: Bright Bits Resin; point of contact: the organizer (flyer warns only the organizer is authorized to accept applications/payments).\nFee: $80/$100\nHours: 10:00 AM – 3:00 PM\nVendors expected: Up to 28 vendors\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28111096645228163/",
   "fees": "$100 per table ($80 returning vendors)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Legion Christmas Market (Huntsville Legion)",
+  "date": "2026-11-07",
+  "time": "9 a.m.–4 p.m.",
+  "location": "21 Veterans Way, Huntsville, ON",
+  "city": "Huntsville",
+  "region": "Rest of Ontario",
+  "description": "Christmas market hosted by the Huntsville Legion in Huntsville, part of the Muskoka Markets & Events November roundup.\nListing type: Market\nTheme: Christmas\nHours: 9:00 AM – 4:00 PM\nFee: not published\nAdmission: not stated\nSource: https://www.facebook.com/groups/1559725434912476/permalink/2149554679262879/ (Muskoka Markets & Events calendar)",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -479,6 +512,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "3rd Annual Puppy Love Fundraiser benefiting the Pickering Animal Shelter — indoors at the Rona Garden Center (unheated). Vendor fee: $25 plus 10% of sales donated back to the shelter; 10x10 spots, bring own tables/chairs, no duplicate vendors. How to apply: DM the organizer. Organizer: see the source post.\nFee: $25 + 10% of sales donated\nHours: 10:00 AM – 4:00 PM\nAttractions: Fundraiser market supporting Pickering Animal Shelter\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28157483817256112/",
   "fees": "$25 + 10% of sales donated to shelter",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Riverside Craft Show (Riverside Public School)",
+  "date": "2026-11-07",
+  "time": "9 a.m.–4 p.m.",
+  "location": "755 Brunel Rd, Huntsville, ON",
+  "city": "Huntsville",
+  "region": "Rest of Ontario",
+  "description": "Craft show at Riverside Public School in Huntsville, part of the Muskoka Markets & Events November roundup.\nListing type: Market\nTheme: Christmas\nHours: 9:00 AM – 4:00 PM\nFee: not published\nAdmission: not stated\nSource: https://www.facebook.com/groups/1559725434912476/permalink/2149554679262879/ (Muskoka Markets & Events calendar)",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -615,6 +659,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Legion Christmas Market (Huntsville Legion)",
+  "date": "2026-11-08",
+  "time": "9 a.m.–4 p.m.",
+  "location": "21 Veterans Way, Huntsville, ON",
+  "city": "Huntsville",
+  "region": "Rest of Ontario",
+  "description": "Christmas market hosted by the Huntsville Legion in Huntsville, part of the Muskoka Markets & Events November roundup.\nListing type: Market\nTheme: Christmas\nHours: 9:00 AM – 4:00 PM\nFee: not published\nAdmission: not stated\nSource: https://www.facebook.com/groups/1559725434912476/permalink/2149554679262879/ (Muskoka Markets & Events calendar)",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Markers Market Outdoor Christmas Market + Odessa Ag Society Festival of Trees",
   "date": "2026-11-08",
   "time": "11 a.m.–3 p.m.",
@@ -634,6 +689,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Indoor craft sale at the Latcham Centre by the waterfront. Sunday, November 8, 12–4 PM. Table fees range from $50 to $80 depending on table — confirm with organizer. To apply: DM the organizer on Facebook.\nFee: $50–$80\nHours: 12:00 PM – 4:00 PM\nSource: Organizer's flyer via Paul",
   "fees": "$50–$80 (range — confirm with organizer)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Riverside Craft Show (Riverside Public School)",
+  "date": "2026-11-08",
+  "time": "10 a.m.–3 p.m.",
+  "location": "755 Brunel Rd, Huntsville, ON",
+  "city": "Huntsville",
+  "region": "Rest of Ontario",
+  "description": "Craft show at Riverside Public School in Huntsville, part of the Muskoka Markets & Events November roundup.\nListing type: Market\nTheme: Christmas\nHours: 10:00 AM – 3:00 PM\nFee: not published\nAdmission: not stated\nSource: https://www.facebook.com/groups/1559725434912476/permalink/2149554679262879/ (Muskoka Markets & Events calendar)",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
