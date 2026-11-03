@@ -759,6 +759,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Black Joy Holiday Market",
+  "date": "2026-11-13",
+  "time": "5 p.m.–9 p.m.",
+  "location": "Chestnut Hill Recreation Complex, Pickering, ON",
+  "city": "Pickering",
+  "region": "Durham Region",
+  "description": "Year 5 of the Black Joy Holiday Market, the primary fundraiser for the Afro-Caribbean Food Basket, at Chestnut Hill Recreation Complex in Pickering. Runs alongside the City of Pickering's Winter Nights, City Lights Festival at Esplanade Park. Live DJ, performances and children's activities; indoors. Day 1 of 2.\nHow to apply: vendor application at the link in the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2655048144930743/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Bloom Field Garden's Christmas Sip 'n Shop Open House",
   "date": "2026-11-13",
   "time": "10 a.m.–6 p.m.",
@@ -971,6 +982,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Black Joy Holiday Market",
+  "date": "2026-11-14",
+  "time": "12 p.m.–9 p.m.",
+  "location": "Chestnut Hill Recreation Complex, Pickering, ON",
+  "city": "Pickering",
+  "region": "Durham Region",
+  "description": "Year 5 of the Black Joy Holiday Market, the primary fundraiser for the Afro-Caribbean Food Basket, at Chestnut Hill Recreation Complex in Pickering. Runs alongside the City of Pickering's Winter Nights, City Lights Festival at Esplanade Park. Live DJ, performances and children's activities; indoors. Day 2 of 2.\nHow to apply: vendor application at the link in the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2655048144930743/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Bloom Field Garden's Christmas Sip 'n Shop Open House",
   "date": "2026-11-14",
   "time": "10 a.m.–6 p.m.",
@@ -989,7 +1011,7 @@ window.EVENTS_REFRESH = [
   "city": "Callander",
   "region": "Rest of Ontario",
   "description": "Holiday market with 20+ vendors (new and returning), Santa, a kid ornament making station and goodie bags; pizza and lemonade available for purchase. Featuring woodworking, candles, personalized items, crystals, soaps and more. Vendor fee not published in the post — see the registration form.\nApply: https://forms.gle/Z8tktCcPg5G6a8LH8\nHours: 10:00 AM – 2:00 PM\nAttractions: Santa visit, kids' ornament-making station, goodie bags, pizza and lemonade\nVendors expected: 20+ vendors\nSource: https://facebook.com/groups/1559725434912476/permalink/2129939584557722/",
-  "fees": "",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2666,6 +2688,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "The Friday Collective Holiday Market",
+  "date": "2026-11-27",
+  "time": "4 p.m.–8 p.m.",
+  "location": "Markham GO Train Station, Markham, ON",
+  "city": "Markham",
+  "region": "York Region",
+  "description": "Holiday market by The Friday Collective at Markham GO Train Station — handmade gifts and local artisans. A few vendor spots still available.\nHow to apply: via the Linktree in the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2654526741649550/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Very Merry Holiday Market",
   "date": "2026-11-27",
   "endDate": "2026-11-29",
@@ -2754,6 +2787,17 @@ window.EVENTS_REFRESH = [
   "region": "Waterloo Region",
   "description": "5th Annual Christmas Market fundraiser in Bloomingdale - a few vendor spaces still available. Specifically looking for: woodworking, candy / freeze dried candy, jewellery, glass art / pebble art, BBQ sauces, meat / jerky, and unique vendors. 600-1000 attendees in previous years. Venue, hours and vendor fee not stated in the post - message the poster or comment on the source post for more info or the application form.\nListing type: Vendor call\nHow to apply: Message the poster or comment on the source post for the application form\nSource: https://facebook.com/groups/971632669514677/permalink/29535046492746580/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Callander Community Centre Christmas Market",
+  "date": "2026-11-28",
+  "time": "10 a.m.–2 p.m.",
+  "location": "The Callander Community Centre, Callander, ON",
+  "city": "Callander",
+  "region": "Rest of Ontario",
+  "description": "Holiday market at the Callander Community Centre, from the same market series as the Nov 14 Callander market (separate registration form for this date). Vendor fee not published in the post — see the registration form.\nHow to apply: registration form in the source post\nSource: https://facebook.com/groups/1559725434912476/permalink/2149302155954798/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2953,6 +2997,17 @@ window.EVENTS_REFRESH = [
   "region": "Kingston & Area",
   "description": "Fee: $40 (10'x5' space, tables not provided) + donation (any value) to silent auction or raffle\nInsurance required. Payment and proof of insurance due Oct 31, 2026.\nHow to apply: https://forms.gle/zt4JJmixzfi9Bn8WA\nHours: 9:00 AM – 3:00 PM\nAttractions: Santa photos, silent auction and raffle, bake sale and café\nVendors expected: 130+ vendors attended the 2025 event (organizer-reported)\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28371435925860899/\n\n",
   "fees": "$40 (10'x5', tables not provided) + silent-auction/raffle donation",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Heart of Renfrew Outdoor Holiday Market",
+  "date": "2026-11-28",
+  "time": "3 p.m.–6 p.m.",
+  "location": "Downtown Renfrew, Renfrew, ON",
+  "city": "",
+  "region": "Rest of Ontario",
+  "description": "Outdoor holiday market in downtown Renfrew, part of the annual Light Up the Square celebration, hosted by the Downtown Renfrew BIA.\nHow to apply: email or phone the BIA — details in the source post\nSource: https://facebook.com/groups/145130302589219/permalink/1455322236733866/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3334,6 +3389,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "3rd Annual Christmas Market (Glencairn Church)",
+  "date": "2026-11-29",
+  "time": "2 p.m.–8 p.m.",
+  "location": "Glencairn Church, Kitchener, ON",
+  "city": "Kitchener",
+  "region": "Waterloo Region",
+  "description": "Third annual Christmas market at Glencairn Church in Kitchener — handmade goods, food and treats, clothing, art and gifts. Limited vendor spots.\nHow to apply: call or email — details in the source post\nSource: https://facebook.com/groups/145130302589219/permalink/1455401986725891/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "CNPS 2nd Annual Frost & Fun",
   "date": "2026-11-29",
   "time": "3 p.m.–6 p.m.",
@@ -3497,6 +3563,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Holiday Market at Dr. Emily Stowe Public School in Courtice — gifts, vendors, a bake sale, games and more, plus a food and toy drive. Vendor applications are being accepted by email; the vendor fee is not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nHours: 4:30 PM - 8:30 PM\nHow to apply: see the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2649454882156736/",
   "fees": "Not published - contact organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Holiday Vendor Market Fundraiser & Mitten Drive",
+  "date": "2026-12-03",
+  "time": "5 p.m.–7 p.m.",
+  "location": "Bells Corners Public School, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "Holiday vendor market fundraiser and mitten drive at Bells Corners Public School in Ottawa. Vendor spots include a table.\nHow to apply: reply by email — address in the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2655048941597330/",
+  "fees": "$30 per spot (table included)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3775,6 +3852,17 @@ window.EVENTS_REFRESH = [
   "region": "Hamilton",
   "description": "Shopper event: Craftadian's Hamilton Holiday Market at McMaster Innovation Park in Hamilton — a curated handmade market with different vendors each day. The market runs Saturday December 5 and Sunday December 6, 10:00 AM - 4:00 PM each day. Vendor applications for the 2026 holiday markets closed on July 5, 2026.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nSource: https://www.craftadian.ca/general-terms-and-conditions/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "First Annual Christmas Market (Tillsonburg)",
+  "date": "2026-12-05",
+  "time": "2 p.m.–9 p.m.",
+  "location": "Tillsonburg Community Centre, 45 Hardy Ave, Tillsonburg, ON",
+  "city": "",
+  "region": "Rest of Ontario",
+  "description": "First annual Christmas market at the Tillsonburg Community Centre (Senior Centre) — moved to a bigger space, with a few more vendor spots open.\nHow to apply: message the organizer or email — address in the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2654607328308158/",
+  "fees": "$60 per table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
