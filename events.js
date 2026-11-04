@@ -1994,6 +1994,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Northridge P.S. Merry Market",
+  "date": "2026-11-21",
+  "time": "Time not listed",
+  "location": "Northridge Public School, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "Merry Market at Northridge Public School in London — nearly 30 vendors already confirmed, with a great variety of handmade gifts, jewellery, artwork, Christmas décor, skincare products, sweet treats and more. A few vendor spaces are still available; the organizers are especially looking for woodworking, pottery, specialty foods, ready-to-eat foods, stained glass, leatherwork and sewing/quilting. 100% of vendor registration fees support the school community. Market hours and the vendor fee amount were not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nVendor types wanted: Woodworking, pottery, specialty foods, ready-to-eat foods, stained glass, leatherwork, sewing/quilting\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739838663125177/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Paris Sip n Shop Holiday Market X Pickle Lovers Pop-Up",
   "date": "2026-11-21",
   "endDate": "2026-11-22",
@@ -2279,6 +2290,17 @@ window.EVENTS_REFRESH = [
   "city": "Hamilton",
   "region": "Hamilton",
   "description": "Winter market run at Lime Ridge Mall in Hamilton by Street Eats Market; runs Saturdays and Sundays, Nov 21 to Dec 20, 2026, 12 to 8 PM.\nListing type: Vendor call\nHow to apply: apply online at www.streeteatsmarket.com; vendor applications end November 1, 2026\nSource: https://www.instagram.com/reel/Dexh6wyRhMO/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "eQuinelle Winter Village Market",
+  "date": "2026-11-21",
+  "time": "9:30 a.m.–3 p.m.",
+  "location": "eQuinelle Clubhouse, 140 eQuinelle Dr, Kemptville, ON",
+  "city": "Kemptville",
+  "region": "Rest of Ontario",
+  "description": "Winter Village Market at the eQuinelle Clubhouse in Kemptville — vendor registration is open, with only 3 spots left. Free entrance and free parking for shoppers. The Salvation Army is accepting non-perishable food donations, and the North Grenville District High School Prom Committee is hosting a bake sale table on site. Vendor fee not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:30 AM - 3:00 PM\nVendor types wanted: All vendor types (provide a detailed description of all the items you intend to sell when you register — the organizers check for overlap)\nHow to apply: Fill out the vendor application form: https://forms.gle/8qPAUxMfe4MyY8pt6\nSource: https://facebook.com/groups/721459436123036/permalink/1640694540866183/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2828,6 +2850,17 @@ window.EVENTS_REFRESH = [
   "city": "Merrickville",
   "region": "Rest of Ontario",
   "description": "Christmas Makers Market in Merrickville, run by Merrickville's Makers Market - two days of Christmas shopping with local artisans and makers: jewellery, pottery, wood working, clothing, bath & body, home decor, visual arts, crochet, baked goods and more.\nListing type: Shopper event\nHours: 10:00 AM - 4:00 PM\nWebsite: www.merrickvillesmakersmarkets.ca\nSource: https://facebook.com/100063778351355/posts/pfbid02LE8V9gyD2ofpqVSzhmsSM3s16Y41syDWh5bGYu17cEp5LPv4KwJsKtuoXyCvpzhkl/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Christmas Market at The Playdate Cafe Ottawa",
+  "date": "2026-11-28",
+  "time": "11 a.m.–5 p.m.",
+  "location": "The Playdate Cafe, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "Christmas Market at The Playdate Cafe in Ottawa — the organizers are looking for vendors. Dessert and jewelry vendor spots are already full, so no more of those businesses will be added, to keep it fair. Vendor fee not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nHours: 11:00 AM - 5:00 PM\nVendor types wanted: All vendor types except dessert and jewelry (those categories are full)\nHow to apply: see the source post\nSource: https://facebook.com/groups/721459436123036/permalink/1640576890877948/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3508,6 +3541,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Unitarian House Holiday Craft Fair",
+  "date": "2026-11-29",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Unitarian House, Westboro, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "Holiday Craft Fair at Unitarian House in Westboro, Ottawa — applications are now open for vendors and local artisans. Unitarian House is a smaller organization and its profits are reinvested into the home, so the table fee is only $50; the organizers note they get a lot of foot traffic in the heart of Westboro.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nVendor types wanted: Vendors and local artisans\nHow to apply: see the source post\nSource: https://facebook.com/groups/721459436123036/permalink/1640459974222973/",
+  "fees": "$50 per table",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Waterford Grand Artisan Market & Open House",
   "date": "2026-11-29",
   "time": "2 p.m.–4 p.m.",
@@ -3516,6 +3560,17 @@ window.EVENTS_REFRESH = [
   "region": "Ottawa",
   "description": "Waterford Grand Artisan Market & Open House — the 3rd annual artisan market and open house at the Waterford Grand Retirement Community in Barrhaven. There is no charge for vendors; bring your own table, and the organizer asks vendors to consider donating a gift to the raffle.\nTheme: Christmas\nFee: Free — no charge for the show (bring your own table; raffle gift donation requested)\nHow to apply: see the source post\nHours: 2:00 PM – 4:00 PM\nSource: https://facebook.com/groups/1180850233912666/permalink/1476745477656472/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Imagine Cinemas Vendor Market",
+  "date": "2026-12-01",
+  "time": "5 p.m.–10 p.m.",
+  "location": "Imagine Cinemas, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "Vendor Market at Imagine Cinemas in London — after the success of the Halloween Market, the cinema is hosting a vendor market through December: every Tuesday (Dec 1, 8, 15, 22 and 29) from 5:00 PM to 10:00 PM, plus Saturday December 19 and Sunday December 20 from 5:00 PM to 10:00 PM for the opening weekend of Dune: Part Three and Avengers: Doomsday. There are no vendor fees. Lots of returning vendors, and new creators are welcome to join. This listing is one date in the series — every date in the series is listed separately.\nListing type: Vendor call\nTheme: Christmas / movie opening weekend\nHours: 5:00 PM - 10:00 PM\nVendor types wanted: All vendor types and creators\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739552403153803/",
+  "fees": "Free",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -4342,6 +4397,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Imagine Cinemas Vendor Market",
+  "date": "2026-12-08",
+  "time": "5 p.m.–10 p.m.",
+  "location": "Imagine Cinemas, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "Vendor Market at Imagine Cinemas in London — after the success of the Halloween Market, the cinema is hosting a vendor market through December: every Tuesday (Dec 1, 8, 15, 22 and 29) from 5:00 PM to 10:00 PM, plus Saturday December 19 and Sunday December 20 from 5:00 PM to 10:00 PM for the opening weekend of Dune: Part Three and Avengers: Doomsday. There are no vendor fees. Lots of returning vendors, and new creators are welcome to join. This listing is one date in the series — every date in the series is listed separately.\nListing type: Vendor call\nTheme: Christmas / movie opening weekend\nHours: 5:00 PM - 10:00 PM\nVendor types wanted: All vendor types and creators\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739552403153803/",
+  "fees": "Free",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Grateful Market Christmas Market",
   "date": "2026-12-10",
   "endDate": "2026-12-23",
@@ -4799,6 +4865,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Imagine Cinemas Vendor Market",
+  "date": "2026-12-15",
+  "time": "5 p.m.–10 p.m.",
+  "location": "Imagine Cinemas, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "Vendor Market at Imagine Cinemas in London — after the success of the Halloween Market, the cinema is hosting a vendor market through December: every Tuesday (Dec 1, 8, 15, 22 and 29) from 5:00 PM to 10:00 PM, plus Saturday December 19 and Sunday December 20 from 5:00 PM to 10:00 PM for the opening weekend of Dune: Part Three and Avengers: Doomsday. There are no vendor fees. Lots of returning vendors, and new creators are welcome to join. This listing is one date in the series — every date in the series is listed separately.\nListing type: Vendor call\nTheme: Christmas / movie opening weekend\nHours: 5:00 PM - 10:00 PM\nVendor types wanted: All vendor types and creators\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739552403153803/",
+  "fees": "Free",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "5th Annual Gloucester Night Market",
   "date": "2026-12-18",
   "time": "4 p.m.–8 p.m.",
@@ -4910,6 +4987,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Imagine Cinemas Vendor Market",
+  "date": "2026-12-19",
+  "time": "5 p.m.–10 p.m.",
+  "location": "Imagine Cinemas, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "Vendor Market at Imagine Cinemas in London — after the success of the Halloween Market, the cinema is hosting a vendor market through December: every Tuesday (Dec 1, 8, 15, 22 and 29) from 5:00 PM to 10:00 PM, plus Saturday December 19 and Sunday December 20 from 5:00 PM to 10:00 PM for the opening weekend of Dune: Part Three and Avengers: Doomsday. There are no vendor fees. Lots of returning vendors, and new creators are welcome to join. This listing is one date in the series — every date in the series is listed separately.\nListing type: Vendor call\nTheme: Christmas / movie opening weekend\nHours: 5:00 PM - 10:00 PM\nVendor types wanted: All vendor types and creators\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739552403153803/",
+  "fees": "Free",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Lunch with Santa",
   "date": "2026-12-19",
   "time": "10 a.m.–4 p.m.",
@@ -5010,6 +5098,28 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Christmas Vendor Swap & Market",
+  "date": "2026-12-20",
+  "time": "Time not listed",
+  "location": "Sherkston Community Centre, Sherkston, ON",
+  "city": "Sherkston",
+  "region": "Niagara Region",
+  "description": "Christmas Vendor Swap & Market at the Sherkston Community Centre — a festive day of Christmas shopping, networking, mutual support and holiday cheer for local small businesses, where vendors can showcase and sell their products while taking part in a vendor swap. Each participating vendor contributes a $10 fee plus 20 to 25 small gifts or items for the vendor goodie bags (handmade items, product samples, treats, candy, ornaments or other small goodies — the organizers would also love a business card and/or Christmas card). All contributions are collected into individual goodie bags, and each participating vendor receives one bag filled with surprises from fellow local businesses. Event hours were not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nVendor types wanted: Local small businesses and vendors of all types\nHow to apply: see the source post\nSource: https://facebook.com/groups/647247322686478/permalink/2360534324691094/",
+  "fees": "$10 plus 20-25 small gift/item contributions for the vendor goodie bags",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Imagine Cinemas Vendor Market",
+  "date": "2026-12-20",
+  "time": "5 p.m.–10 p.m.",
+  "location": "Imagine Cinemas, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "Vendor Market at Imagine Cinemas in London — after the success of the Halloween Market, the cinema is hosting a vendor market through December: every Tuesday (Dec 1, 8, 15, 22 and 29) from 5:00 PM to 10:00 PM, plus Saturday December 19 and Sunday December 20 from 5:00 PM to 10:00 PM for the opening weekend of Dune: Part Three and Avengers: Doomsday. There are no vendor fees. Lots of returning vendors, and new creators are welcome to join. This listing is one date in the series — every date in the series is listed separately.\nListing type: Vendor call\nTheme: Christmas / movie opening weekend\nHours: 5:00 PM - 10:00 PM\nVendor types wanted: All vendor types and creators\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739552403153803/",
+  "fees": "Free",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "The Holiday Collective",
   "date": "2026-12-20",
   "time": "10 a.m.–3 p.m.",
@@ -5018,6 +5128,28 @@ window.EVENTS_REFRESH = [
   "region": "Windsor-Essex",
   "description": "The Holiday Collective — a Christmas market in Windsor looking for local makers and small businesses to join. Spots are limited.\nTheme: Christmas\nHours: 10:00 AM – 3:00 PM\nVendor types wanted: Local makers and small businesses\nHow to apply: https://forms.gle/h2tm9BkpyMzv7njY7\nSource: https://facebook.com/groups/222210128370316/permalink/2173059686618674/",
   "fees": "Not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Imagine Cinemas Vendor Market",
+  "date": "2026-12-22",
+  "time": "5 p.m.–10 p.m.",
+  "location": "Imagine Cinemas, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "Vendor Market at Imagine Cinemas in London — after the success of the Halloween Market, the cinema is hosting a vendor market through December: every Tuesday (Dec 1, 8, 15, 22 and 29) from 5:00 PM to 10:00 PM, plus Saturday December 19 and Sunday December 20 from 5:00 PM to 10:00 PM for the opening weekend of Dune: Part Three and Avengers: Doomsday. There are no vendor fees. Lots of returning vendors, and new creators are welcome to join. This listing is one date in the series — every date in the series is listed separately.\nListing type: Vendor call\nTheme: Christmas / movie opening weekend\nHours: 5:00 PM - 10:00 PM\nVendor types wanted: All vendor types and creators\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739552403153803/",
+  "fees": "Free",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Imagine Cinemas Vendor Market",
+  "date": "2026-12-29",
+  "time": "5 p.m.–10 p.m.",
+  "location": "Imagine Cinemas, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "Vendor Market at Imagine Cinemas in London — after the success of the Halloween Market, the cinema is hosting a vendor market through December: every Tuesday (Dec 1, 8, 15, 22 and 29) from 5:00 PM to 10:00 PM, plus Saturday December 19 and Sunday December 20 from 5:00 PM to 10:00 PM for the opening weekend of Dune: Part Three and Avengers: Doomsday. There are no vendor fees. Lots of returning vendors, and new creators are welcome to join. This listing is one date in the series — every date in the series is listed separately.\nListing type: Vendor call\nTheme: Christmas / movie opening weekend\nHours: 5:00 PM - 10:00 PM\nVendor types wanted: All vendor types and creators\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739552403153803/",
+  "fees": "Free",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
