@@ -2216,6 +2216,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Windsor Rock & Mineral Show",
+  "date": "2026-11-21",
+  "time": "10 a.m.–6 p.m.",
+  "location": "Giovanni Caboto Club, 2175 Parent Ave, Windsor, ON",
+  "city": "Windsor",
+  "region": "Windsor-Essex",
+  "description": "Rock and mineral show — crystals, colourful gemstones, fossils, minerals, handcrafted jewellery, polished stones, beads, carvings and unique natural treasures from vendor displays.\nAdmission: $3 single, $5 family; kids under 6 free\nHow to apply: vendor application form — https://form.jotform.com/261745826888274\nSource: https://facebook.com/groups/971632669514677/permalink/29673384865579408/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Winter Fest Vendor Market",
   "date": "2026-11-21",
   "time": "10 a.m.–3 p.m.",
@@ -2456,6 +2467,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Sunday holiday market series at Uxbridge Arena & Community Centre in Uxbridge, presented by Hurt Berry Farm and the Uxbridge Farmers' Market. A local alternative to mall shopping for the holiday season, with unique and handcrafted gift ideas, artisan crafts, seasonal goods and delicious local treats. The series runs six Sundays: Nov 1, 8, 15 and 22, and Dec 6 and 13, 2026 (no market Nov 29).\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nPresented by Hurt Berry Farm and the Uxbridge Farmers' Market\nSource: https://www.instagram.com/p/DfFN2ShlYup/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Windsor Rock & Mineral Show",
+  "date": "2026-11-22",
+  "time": "10 a.m.–5 p.m.",
+  "location": "Giovanni Caboto Club, 2175 Parent Ave, Windsor, ON",
+  "city": "Windsor",
+  "region": "Windsor-Essex",
+  "description": "Day 2 of 2. Rock and mineral show — crystals, colourful gemstones, fossils, minerals, handcrafted jewellery, polished stones, beads, carvings and unique natural treasures from vendor displays.\nAdmission: $3 single, $5 family; kids under 6 free\nHow to apply: vendor application form — https://form.jotform.com/261745826888274\nSource: https://facebook.com/groups/971632669514677/permalink/29673384865579408/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -4187,6 +4209,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Health & Wellness Holiday Market",
+  "date": "2026-12-06",
+  "time": "11 a.m.–5 p.m.",
+  "location": "Art Gallery of Burlington, Burlington, ON",
+  "city": "Burlington",
+  "region": "Halton Region",
+  "description": "Health and wellness holiday market at the Art Gallery of Burlington — psychics and tarot readers, energy healers, holistic practitioners, massage therapists, candle, soap and skincare makers, crystal and jewellery sellers, herbal and natural product makers, and handmade artisans. Tables and marketing included.\nAdmission: Free\nHow to apply: application form — https://docs.google.com/forms/d/e/1FAIpQLSfOcghvym7FMR_SbSJdibyyNuQXJf6zYPeG_SuaNpQQsRPtsw/viewform\nSource: https://facebook.com/groups/145130302589219/permalink/2655889208179970/",
+  "fees": "$150 per table",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Holiday Craft Market (Toad Hall Niagara)",
   "date": "2026-12-06",
   "endDate": "2026-12-07",
@@ -4985,6 +5018,17 @@ window.EVENTS_REFRESH = [
   "region": "Windsor-Essex",
   "description": "The Holiday Collective — a Christmas market in Windsor looking for local makers and small businesses to join. Spots are limited.\nTheme: Christmas\nHours: 10:00 AM – 3:00 PM\nVendor types wanted: Local makers and small businesses\nHow to apply: https://forms.gle/h2tm9BkpyMzv7njY7\nSource: https://facebook.com/groups/222210128370316/permalink/2173059686618674/",
   "fees": "Not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Toronto Dark Arts Market: Winter Bookish Market",
+  "date": "2027-01-16",
+  "time": "11 a.m.–5 p.m.",
+  "location": "Ground Control, 1279 Queen Street West, Toronto, ON",
+  "city": "Toronto",
+  "region": "Toronto",
+  "description": "Winter Bookish Market from the Toronto Dark Arts Market — 35+ authors, writers and publishers, plus makers of zines, graphic novels and magazines and other artisans, with a focus on books and literature and weird, creepy, spooky and alternative wares.\nAdmission: Free\nHow to apply: through the organizer website only (link in source post) — application deadline Tue Nov 17, 2026, 1:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1601368924623855/",
+  "fees": "$40 - $200 depending on size",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
