@@ -315,6 +315,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Holiday Weekend & Market",
+  "date": "2026-11-07",
+  "time": "11 a.m.–6 p.m.",
+  "location": "Horseshoe Valley Resort, 1101 Horseshoe Valley Road West, Barrie, ON",
+  "city": "Barrie",
+  "region": "Simcoe County",
+  "description": "Horseshoe Resort's Holiday Weekend vendor marketplace — 50+ vendors as part of a full holiday weekend at the resort.\nHours: Sat Nov 7, 11:00 AM – 6:00 PM; Sun Nov 8, 11:00 AM – 3:00 PM\nAdmission: not stated\nAttractions: wagon rides and horse meet-and-greets, Santa's Holiday Shop, Holiday Movie Night (Fri), Holiday Hustle 3K Fun Run, Ugly Sweater Après Party, HV Sports sale\nNote: vendor applications for 2026 are firmly closed — listed for shoppers\nSource: https://horseshoeresort.com/events/holiday-weekend-market",
+  "fees": "Applications closed",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Holiday Wellness Healing & Crafts",
   "date": "2026-11-07",
   "time": "9 a.m.–3 p.m.",
@@ -333,7 +344,7 @@ window.EVENTS_REFRESH = [
   "city": "Uxbridge",
   "region": "Durham Region",
   "description": "The Holly Jolly Holiday Market at the Uxbridge Arena: free entry, an Elf Meet & Greet, over 40 vendors, hot chocolate, raffle prizes and a silent auction, raising funds for Vocally Inspired Performers.\nListing type: Event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nSource: https://facebook.com/groups/DHMM3.0/permalink/2320741205379867/",
-  "fees": "",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -657,6 +668,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Holiday Weekend & Market",
+  "date": "2026-11-08",
+  "time": "11 a.m.–3 p.m.",
+  "location": "Horseshoe Valley Resort, 1101 Horseshoe Valley Road West, Barrie, ON",
+  "city": "Barrie",
+  "region": "Simcoe County",
+  "description": "Horseshoe Resort's Holiday Weekend vendor marketplace — 50+ vendors as part of a full holiday weekend at the resort.\nHours: Sat Nov 7, 11:00 AM – 6:00 PM; Sun Nov 8, 11:00 AM – 3:00 PM\nAdmission: not stated\nAttractions: wagon rides and horse meet-and-greets, Santa's Holiday Shop, Holiday Movie Night (Fri), Holiday Hustle 3K Fun Run, Ugly Sweater Après Party, HV Sports sale\nNote: vendor applications for 2026 are firmly closed — listed for shoppers\nSource: https://horseshoeresort.com/events/holiday-weekend-market",
+  "fees": "Applications closed",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Legion Christmas Market (Huntsville Legion)",
   "date": "2026-11-08",
   "time": "9 a.m.–4 p.m.",
@@ -810,6 +832,18 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Save the date — the Downtown Whitby BIA's 8th annual Christmas Market, held in Downtown Whitby. Hours: Fri Nov 13, 4–9 PM; Sat Nov 14, 10 AM–8 PM. This is a save-the-date announcement — vendor details (fees and applications) have not been announced yet; more details to come from the Downtown Whitby BIA.\nTheme: Christmas / holiday season\nFee: not stated by organizer\nSource: Organizer's post via Paul",
   "fees": "not stated by organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Holiday Hills at STACKT Market",
+  "date": "2026-11-13",
+  "endDate": "2027-01-03",
+  "time": "Time not listed",
+  "location": "STACKT Market, 28 Bathurst St, Toronto, ON",
+  "city": "Toronto",
+  "region": "Toronto",
+  "description": "Toronto's holiday festival at the STACKT market shipping-container marketplace — 30+ resident storefronts, rotating pop-ups and weekly vendor markets (including the Kreate Market series Nov 21–22, Nov 28, Dec 12 & Dec 19, and the Barkada Holiday Market Dec 6).\nHours: closed Mondays; Tue–Fri 4:00 PM – 11:00 PM; Sat–Sun 12:00 PM – 11:00 PM\nAdmission: Free (some activities paid)\nAttractions: The Sleigh Ground winter playground, Tunnel of Lights, giant tree, yurt cantina, weekly themed programming\nNote: vendor fee not published\nSource: https://stacktmarket.com/holiday-hills",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1315,6 +1349,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Richmond Hill's Merry Marketplace",
+  "date": "2026-11-14",
+  "time": "4 p.m.–8 p.m.",
+  "location": "Richmond Green Park, 1300 Elgin Mills Road East, Richmond Hill, ON",
+  "city": "Richmond Hill",
+  "region": "York Region",
+  "description": "The City of Richmond Hill's Saturday-evening holiday market at Richmond Green — local artisans and vendors with handcrafted gifts under thousands of lights.\nHours: Saturdays, 4:00 PM – 8:00 PM (lights stay lit nightly until 10:00 PM)\nAdmission: Free\nAttractions: Santa meet-and-greet every Saturday (line closes 7:30 PM), Mrs. Claus, fire pit, themed Saturdays (Nov 14 Grinchmas, Nov 21 Frosty Festivities, Nov 28 Penguin Polar Party, Dec 5 Gingerbread Lane, Dec 12 Reindeer Round Up), mini holiday parades, Artists' Co-Op Holiday Art Gallery & Shop at the Boynton House\nNote: vendor fee not published on the City page\nSource: https://www.richmondhill.ca/en/things-to-do/merry-marketplace.aspx",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Rodney Night Market",
   "date": "2026-11-14",
   "time": "Time not listed",
@@ -1615,6 +1660,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Mistletoe & Mocktails Winter Market",
+  "date": "2026-11-19",
+  "time": "3 p.m.–9 p.m.",
+  "location": "Newcastle Community Hall, 20 King Ave W, Newcastle, ON",
+  "city": "Newcastle",
+  "region": "Durham Region",
+  "description": "An evening winter market at Newcastle Community Hall — local vendors, makers and small businesses with unique gifts, Christmas décor and handmade goods, plus an on-site gift-wrapping station.\nHours: Thu Nov 19, 3:00 PM – 9:00 PM\nAdmission: not stated\nNote: vendor fee not published\nSource: https://www.newcastlecommunityhall.com/upcoming-events",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "St. John Bosco Christmas Market",
   "date": "2026-11-19",
   "time": "5 p.m.–9 p.m.",
@@ -1791,6 +1847,18 @@ window.EVENTS_REFRESH = [
   "region": "Rest of Ontario",
   "description": "Fee: not stated by organizer\nHours: 4:00 PM – 7:00 PM\nAttractions: Activities and photo booths\nSource: https://facebook.com/groups/1190141658320918/permalink/1972075150127561/\n",
   "fees": "not stated by organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "MacKinnon Brothers Holiday Market",
+  "date": "2026-11-20",
+  "endDate": "2026-11-22",
+  "time": "Time not listed",
+  "location": "MacKinnon Brothers Brewing Co., 1915 County Road 22, Bath, ON",
+  "city": "Bath",
+  "region": "Rest of Ontario",
+  "description": "A Very Merry MacKinnon — the MacKinnon Brothers Brewing Co. holiday market on the farm in Bath, with 60+ artisan and food vendors each weekend.\nHours: Fri 4:00 PM – 9:00 PM (Après Hours); Sat & Sun 10:00 AM – 5:00 PM\nAdmission: $10 cash at the gate (includes one complimentary drink); kids 12 & under free\nAttractions: Après Hours with live DJ and trolley rides, Cocktails with Claus, photos with Santa, live music, cookie decorating, wagon and sleigh rides\nNote: vendor applications closed August 14, 2026 — listed for shoppers\nSource: https://mackinnonbrewing.com/the-holiday-market/",
+  "fees": "Applications closed",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2207,6 +2275,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Annual Christmas Craft Sale at the Royal Canadian Legion Branch 419 in Port Perry — amazing handmade items to choose from to start your Christmas shopping.\nListing type: Shopper event\nTheme: Christmas\nHours: 9:00 AM - 3:00 PM\nAdmission: Free\nSource: organizer's Facebook post",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Richmond Hill's Merry Marketplace",
+  "date": "2026-11-21",
+  "time": "4 p.m.–8 p.m.",
+  "location": "Richmond Green Park, 1300 Elgin Mills Road East, Richmond Hill, ON",
+  "city": "Richmond Hill",
+  "region": "York Region",
+  "description": "The City of Richmond Hill's Saturday-evening holiday market at Richmond Green — local artisans and vendors with handcrafted gifts under thousands of lights.\nHours: Saturdays, 4:00 PM – 8:00 PM (lights stay lit nightly until 10:00 PM)\nAdmission: Free\nAttractions: Santa meet-and-greet every Saturday (line closes 7:30 PM), Mrs. Claus, fire pit, themed Saturdays (Nov 14 Grinchmas, Nov 21 Frosty Festivities, Nov 28 Penguin Polar Party, Dec 5 Gingerbread Lane, Dec 12 Reindeer Round Up), mini holiday parades, Artists' Co-Op Holiday Art Gallery & Shop at the Boynton House\nNote: vendor fee not published on the City page\nSource: https://www.richmondhill.ca/en/things-to-do/merry-marketplace.aspx",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2834,6 +2913,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "MacKinnon Brothers Holiday Market",
+  "date": "2026-11-27",
+  "endDate": "2026-11-29",
+  "time": "Time not listed",
+  "location": "MacKinnon Brothers Brewing Co., 1915 County Road 22, Bath, ON",
+  "city": "Bath",
+  "region": "Rest of Ontario",
+  "description": "A Very Merry MacKinnon — the MacKinnon Brothers Brewing Co. holiday market on the farm in Bath, with 60+ artisan and food vendors each weekend.\nHours: Fri 4:00 PM – 9:00 PM (Après Hours); Sat & Sun 10:00 AM – 5:00 PM\nAdmission: $10 cash at the gate (includes one complimentary drink); kids 12 & under free\nAttractions: Après Hours with live DJ and trolley rides, Cocktails with Claus, photos with Santa, live music, cookie decorating, wagon and sleigh rides\nNote: vendor applications closed August 14, 2026 — listed for shoppers\nSource: https://mackinnonbrewing.com/the-holiday-market/",
+  "fees": "Applications closed",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Niemi's Christmas Market",
   "date": "2026-11-27",
   "time": "12 p.m.–8 p.m.",
@@ -2933,6 +3024,18 @@ window.EVENTS_REFRESH = [
   "city": "Markham",
   "region": "York Region",
   "description": "Holiday market by The Friday Collective at Markham GO Train Station — handmade gifts and local artisans. A few vendor spots still available.\nHow to apply: via the Linktree in the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2654526741649550/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "The Merry Market at 100 Kellogg Lane",
+  "date": "2026-11-27",
+  "endDate": "2026-11-29",
+  "time": "Time not listed",
+  "location": "100 Kellogg Lane, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "The Merry Market at 100 Kellogg Lane (The Factory) — London's big indoor holiday market, in its 7th year.\nHours: Fri & Sat 11:00 AM – 9:00 PM; Sun 11:00 AM – 6:00 PM\nAdmission: Free\nAttractions: the 35-ft Kellogg tree with surprise tree-lighting performances, elaborate photo ops, live performances, the Prosecco Pit\nNote: vendor fee not published\nSource: https://100kellogglane.com/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3127,6 +3230,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Dresden Christmas Night Market",
+  "date": "2026-11-28",
+  "time": "2 p.m.–8 p.m.",
+  "location": "Downtown Dresden, Dresden, ON",
+  "city": "Dresden",
+  "region": "Rest of Ontario",
+  "description": "The 9th annual Dresden Christmas Night Market — a large outdoor night market through downtown Dresden with food and dessert trucks; downtown businesses stay open late. Proceeds support the Dresden Sidestreets Youth Centre.\nHours: Sat Nov 28, 2:00 PM – 8:00 PM (the Municipality of Chatham-Kent lists a 3:00 PM start — the organizer's 2:00 PM is shown here)\nAdmission: Free\nAttractions: holiday music, interactive displays, Pop-Up Holiday Bar\nNote: the organizer is still accepting a few vendors in unique categories — apply through the website; vendor fee not published\nHow-to-apply: https://night-market.ca/\nSource: https://night-market.ca/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Durham Christmas Market 2026",
   "date": "2026-11-28",
   "time": "10 a.m.–3 p.m.",
@@ -3213,6 +3327,17 @@ window.EVENTS_REFRESH = [
   "region": "Kawarthas and Peterborough",
   "description": "Vendor call: Christmas market in Garry's Garden Gallery's covered, heated greenhouse.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, greenhouse, weekend\nHours: not published (Saturday & Sunday markets)\nFee: not published (TBD)\nVendor types wanted: makers, artisans & local vendors; handcrafted goods\nHow to apply: https://garrysgardengallery.com/pages/christmas-market-vendor-application (also via link in their Instagram bio)\nSource: https://facebook.com/groups/1746193395565570/permalink/3483982515119974/\nNote: Nov 13-15 kickoff weekend is full for vendors.\n\n",
   "fees": "Not published (TBD)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Gilford Christmas Market",
+  "date": "2026-11-28",
+  "time": "11 a.m.–7 p.m.",
+  "location": "Gilford Local Eatery & Jean & Joy Cafe, 1096 Shore Acres Drive, Gilford, Innisfil, ON",
+  "city": "Innisfil",
+  "region": "Simcoe County",
+  "description": "An open-air waterfront Christmas market at the Gilford Local Eatery — 30+ vendors with Santa, live music, food and crafts.\nHours: Sat Nov 28, 11:00 AM – 7:00 PM\nAdmission: not stated\nNote: vendor fee not published\nSource: https://www.innisfil.ca/community-recreation/events",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3371,6 +3496,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Kingston Holiday Market",
+  "date": "2026-11-28",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Tett Centre for Creativity & Learning, 370 King Street West, Kingston, ON",
+  "city": "Kingston",
+  "region": "Kingston & Area",
+  "description": "The Tett Centre leg of the Kingston Holiday Market, from Kingston Artist Events (the team behind Artfest Kingston and the Downtown Kingston Holiday Market) — about 50–60 local vendors per weekend, a new lineup each weekend, across the Malting Tower, Rehearsal Hall and Gallery.\nHours: Sat & Sun, 10:00 AM – 4:00 PM\nAdmission: Free\nNote: vendor fee not published\nSource: https://kingstonartistevents.com/pages/kingston-holiday-market-info",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Lakeridge Heights Holiday Bazaar",
   "date": "2026-11-28",
   "time": "10 a.m.–2 p.m.",
@@ -3489,6 +3625,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "A holiday market in Port Perry hosted by Big Brothers Big Sisters of North Durham. Vendor registration is open; a deposit (credited toward the table cost) secures a booth.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 4:00 PM\nSource: https://bbbsnorthdurham.com/",
   "fees": "$25/$50 deposit",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Richmond Hill's Merry Marketplace",
+  "date": "2026-11-28",
+  "time": "4 p.m.–8 p.m.",
+  "location": "Richmond Green Park, 1300 Elgin Mills Road East, Richmond Hill, ON",
+  "city": "Richmond Hill",
+  "region": "York Region",
+  "description": "The City of Richmond Hill's Saturday-evening holiday market at Richmond Green — local artisans and vendors with handcrafted gifts under thousands of lights.\nHours: Saturdays, 4:00 PM – 8:00 PM (lights stay lit nightly until 10:00 PM)\nAdmission: Free\nAttractions: Santa meet-and-greet every Saturday (line closes 7:30 PM), Mrs. Claus, fire pit, themed Saturdays (Nov 14 Grinchmas, Nov 21 Frosty Festivities, Nov 28 Penguin Polar Party, Dec 5 Gingerbread Lane, Dec 12 Reindeer Round Up), mini holiday parades, Artists' Co-Op Holiday Art Gallery & Shop at the Boynton House\nNote: vendor fee not published on the City page\nSource: https://www.richmondhill.ca/en/things-to-do/merry-marketplace.aspx",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3693,6 +3840,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Evergreen Winter Market",
+  "date": "2026-11-29",
+  "time": "11 a.m.–5 p.m.",
+  "location": "Evergreen Brick Works, 550 Bayview Ave, Toronto, ON",
+  "city": "Toronto",
+  "region": "Toronto",
+  "description": "Evergreen Brick Works' Sunday winter market — the Ontario Vintage & Artisan Market plus food court vendors in the pavilions.\nHours: Sundays, 11:00 AM – 5:00 PM\nAdmission: pay-what-you-can (organizer suggests $5/person or $20/family)\nAttractions: Winter Garden with fire pits and s'mores (Nov 29 & Dec 6), Winter Lounge live performances, Art Hive, festive workshops, public skating Dec 20 (weather permitting)\nNote: vendor fee not published — vendor inquiries go to the market operators directly\nSource: https://www.evergreen.ca",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Holiday Artisan Market at Gardenerette",
   "date": "2026-11-29",
   "time": "10 a.m.–3 p.m.",
@@ -3723,6 +3881,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "The Town of Ajax's It's Almost Christmas Holiday Market at the Ajax Community Centre. Free admission.\nListing type: Event\nTheme: Christmas\nHours: 2:00 PM - 7:00 PM\nSource: https://ajax.ca/event/its-almost-christmas-holiday-market-2026/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Kingston Holiday Market",
+  "date": "2026-11-29",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Tett Centre for Creativity & Learning, 370 King Street West, Kingston, ON",
+  "city": "Kingston",
+  "region": "Kingston & Area",
+  "description": "The Tett Centre leg of the Kingston Holiday Market, from Kingston Artist Events (the team behind Artfest Kingston and the Downtown Kingston Holiday Market) — about 50–60 local vendors per weekend, a new lineup each weekend, across the Malting Tower, Rehearsal Hall and Gallery.\nHours: Sat & Sun, 10:00 AM – 4:00 PM\nAdmission: Free\nNote: vendor fee not published\nSource: https://kingstonartistevents.com/pages/kingston-holiday-market-info",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3951,6 +4120,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Holly Jolly Holiday Market",
+  "date": "2026-12-04",
+  "endDate": "2026-12-06",
+  "time": "Time not listed",
+  "location": "Covent Garden Market, 130 King Street, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "London's Holly Jolly Holiday Market at Covent Garden Market — artisan vendors on Rotary Square outdoors and the upstairs mezzanine.\nHours: Fri 4:00 PM – 10:00 PM; Sat 10:00 AM – 9:00 PM; Sun 10:00 AM – 5:00 PM\nAdmission: not stated\nAttractions: horse-drawn carriage rides, photos with Santa, carousel, Ferris wheel, live music, kids' crafts\nNote: vendor fee not published\nSource: https://www.londontourism.ca/events/holly-jolly-holiday-market",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Moonlight Magic Market",
   "date": "2026-12-04",
   "time": "5 p.m.–9 p.m.",
@@ -4015,6 +4196,18 @@ window.EVENTS_REFRESH = [
   "region": "Toronto",
   "description": "First annual Christmas market at St. Gabriel Catholic Elementary School, North York. Starts 4:30 PM; end time not published.\nListing type: Vendor call\nFee: $50 per table / $40 bring your own table\nHow to apply: via the QR/link in the event flyer (see source post)\nSource: https://facebook.com/groups/ontariocanadavendorevents/permalink/4463835653926769/",
   "fees": "$50 per table / $40 bring your own",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "The Merry Market at 100 Kellogg Lane",
+  "date": "2026-12-04",
+  "endDate": "2026-12-06",
+  "time": "Time not listed",
+  "location": "100 Kellogg Lane, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "The Merry Market at 100 Kellogg Lane (The Factory) — London's big indoor holiday market, in its 7th year.\nHours: Fri & Sat 11:00 AM – 9:00 PM; Sun 11:00 AM – 6:00 PM\nAdmission: Free\nAttractions: the 35-ft Kellogg tree with surprise tree-lighting performances, elaborate photo ops, live performances, the Prosecco Pit\nNote: vendor fee not published\nSource: https://100kellogglane.com/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -4218,6 +4411,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Kingston Holiday Market",
+  "date": "2026-12-05",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Tett Centre for Creativity & Learning, 370 King Street West, Kingston, ON",
+  "city": "Kingston",
+  "region": "Kingston & Area",
+  "description": "The Tett Centre leg of the Kingston Holiday Market, from Kingston Artist Events (the team behind Artfest Kingston and the Downtown Kingston Holiday Market) — about 50–60 local vendors per weekend, a new lineup each weekend, across the Malting Tower, Rehearsal Hall and Gallery.\nHours: Sat & Sun, 10:00 AM – 4:00 PM\nAdmission: Free\nNote: vendor fee not published\nSource: https://kingstonartistevents.com/pages/kingston-holiday-market-info",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Knox United Church Christmas Market & Bake Sale",
   "date": "2026-12-05",
   "time": "9 a.m.–2 p.m.",
@@ -4396,6 +4600,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Richmond Hill's Merry Marketplace",
+  "date": "2026-12-05",
+  "time": "4 p.m.–8 p.m.",
+  "location": "Richmond Green Park, 1300 Elgin Mills Road East, Richmond Hill, ON",
+  "city": "Richmond Hill",
+  "region": "York Region",
+  "description": "The City of Richmond Hill's Saturday-evening holiday market at Richmond Green — local artisans and vendors with handcrafted gifts under thousands of lights.\nHours: Saturdays, 4:00 PM – 8:00 PM (lights stay lit nightly until 10:00 PM)\nAdmission: Free\nAttractions: Santa meet-and-greet every Saturday (line closes 7:30 PM), Mrs. Claus, fire pit, themed Saturdays (Nov 14 Grinchmas, Nov 21 Frosty Festivities, Nov 28 Penguin Polar Party, Dec 5 Gingerbread Lane, Dec 12 Reindeer Round Up), mini holiday parades, Artists' Co-Op Holiday Art Gallery & Shop at the Boynton House\nNote: vendor fee not published on the City page\nSource: https://www.richmondhill.ca/en/things-to-do/merry-marketplace.aspx",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Something New Saturday Vendor Market",
   "date": "2026-12-05",
   "time": "9 a.m.–4:30 p.m.",
@@ -4552,6 +4767,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Evergreen Winter Market",
+  "date": "2026-12-06",
+  "time": "11 a.m.–5 p.m.",
+  "location": "Evergreen Brick Works, 550 Bayview Ave, Toronto, ON",
+  "city": "Toronto",
+  "region": "Toronto",
+  "description": "Evergreen Brick Works' Sunday winter market — the Ontario Vintage & Artisan Market plus food court vendors in the pavilions.\nHours: Sundays, 11:00 AM – 5:00 PM\nAdmission: pay-what-you-can (organizer suggests $5/person or $20/family)\nAttractions: Winter Garden with fire pits and s'mores (Nov 29 & Dec 6), Winter Lounge live performances, Art Hive, festive workshops, public skating Dec 20 (weather permitting)\nNote: vendor fee not published — vendor inquiries go to the market operators directly\nSource: https://www.evergreen.ca",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Fireside Haven Winter Wonderland",
   "date": "2026-12-06",
   "time": "11 a.m.–3 p.m.",
@@ -4594,6 +4820,17 @@ window.EVENTS_REFRESH = [
   "region": "Halton Region",
   "description": "A children's Christmas market for young entrepreneurs and their families, held during the Christmas in the Park event at Dominion Seed House Gardens, Georgetown (food trucks, live music, Santa visits, Light Up the Hills). Booth is a 10x10 space and includes two Business Building Meetings for young vendors.\nHow to apply: Register at https://www.kindvibekids.ca/\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28521346240869866/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Kingston Holiday Market",
+  "date": "2026-12-06",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Tett Centre for Creativity & Learning, 370 King Street West, Kingston, ON",
+  "city": "Kingston",
+  "region": "Kingston & Area",
+  "description": "The Tett Centre leg of the Kingston Holiday Market, from Kingston Artist Events (the team behind Artfest Kingston and the Downtown Kingston Holiday Market) — about 50–60 local vendors per weekend, a new lineup each weekend, across the Malting Tower, Rehearsal Hall and Gallery.\nHours: Sat & Sun, 10:00 AM – 4:00 PM\nAdmission: Free\nNote: vendor fee not published\nSource: https://kingstonartistevents.com/pages/kingston-holiday-market-info",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -4731,6 +4968,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Holiday Fair in the Square",
+  "date": "2026-12-10",
+  "endDate": "2026-12-20",
+  "time": "Time not listed",
+  "location": "Sankofa Square, 1 Dundas St E, Toronto, ON",
+  "city": "Toronto",
+  "region": "Toronto",
+  "description": "A holiday fair in Sankofa Square (formerly Yonge-Dundas Square) — artisan marketplace, Santa's workshop, fireside lounge, food trucks and rides, in support of Epilepsy Toronto.\nHours: Mon–Fri 4:00 PM – 10:00 PM; Sat–Sun 12:00 PM – 10:00 PM\nAdmission: Free (donations to Epilepsy Toronto appreciated)\nNote: the fair is recruiting vendors for 2026 — apply through the fair's website; vendor fee not published\nHow-to-apply: https://fairinthesquare.ca/\nSource: https://fairinthesquare.ca/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Watford Moonlight Madness",
   "date": "2026-12-10",
   "time": "5 p.m.–8 p.m.",
@@ -4765,6 +5014,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Holly Jolly Holiday Market",
+  "date": "2026-12-11",
+  "endDate": "2026-12-13",
+  "time": "Time not listed",
+  "location": "Covent Garden Market, 130 King Street, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "London's Holly Jolly Holiday Market at Covent Garden Market — artisan vendors on Rotary Square outdoors and the upstairs mezzanine.\nHours: Fri 4:00 PM – 10:00 PM; Sat 10:00 AM – 9:00 PM; Sun 10:00 AM – 5:00 PM\nAdmission: not stated\nAttractions: horse-drawn carriage rides, photos with Santa, carousel, Ferris wheel, live music, kids' crafts\nNote: vendor fee not published\nSource: https://www.londontourism.ca/events/holly-jolly-holiday-market",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Mystic Magic Market",
   "date": "2026-12-11",
   "time": "Time not listed",
@@ -4795,6 +5056,18 @@ window.EVENTS_REFRESH = [
   "city": "Ottawa",
   "region": "Ottawa",
   "description": "Ottawa's big outdoor Christmas market — 60+ local vendors in wooden chalets at Aberdeen Plaza, Lansdowne Park.\nHours: Fri 5:00 PM – 10:00 PM; Sat 10:00 AM – 10:00 PM; Sun 10:00 AM – 8:00 PM\nAdmission: not stated\nAttractions: Twinkle Tunnel light walk, skating rink, Santa's Village, Blitzen's Bar, fire pits, live entertainment on two stages\nNote: vendor fee and application details not published on the organizer's site\nSource: https://ottawachristmasmarket.com/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "The Merry Market at 100 Kellogg Lane",
+  "date": "2026-12-11",
+  "endDate": "2026-12-13",
+  "time": "Time not listed",
+  "location": "100 Kellogg Lane, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "The Merry Market at 100 Kellogg Lane (The Factory) — London's big indoor holiday market, in its 7th year.\nHours: Fri & Sat 11:00 AM – 9:00 PM; Sun 11:00 AM – 6:00 PM\nAdmission: Free\nAttractions: the 35-ft Kellogg tree with surprise tree-lighting performances, elaborate photo ops, live performances, the Prosecco Pit\nNote: vendor fee not published\nSource: https://100kellogglane.com/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -4945,6 +5218,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Kingston Holiday Market",
+  "date": "2026-12-12",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Tett Centre for Creativity & Learning, 370 King Street West, Kingston, ON",
+  "city": "Kingston",
+  "region": "Kingston & Area",
+  "description": "The Tett Centre leg of the Kingston Holiday Market, from Kingston Artist Events (the team behind Artfest Kingston and the Downtown Kingston Holiday Market) — about 50–60 local vendors per weekend, a new lineup each weekend, across the Malting Tower, Rehearsal Hall and Gallery.\nHours: Sat & Sun, 10:00 AM – 4:00 PM\nAdmission: Free\nNote: vendor fee not published\nSource: https://kingstonartistevents.com/pages/kingston-holiday-market-info",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Lakeview Vendor Markets Christmas Event",
   "date": "2026-12-12",
   "time": "9 a.m.–3 p.m.",
@@ -5008,6 +5292,17 @@ window.EVENTS_REFRESH = [
   "region": "Ottawa",
   "description": "Paws & Claus — a pet-themed Christmas craft market hosted by Kenzie's Canine Club at the Fitzroy Harbour Community Centre, with 10–15 local vendors offering pet-themed gifts, handmade crafts, treats, baked goods and more. Free entry — donations at the door go to Freedom Dog Rescue, which will be on site collecting them. Door prize raffle: $2 a ticket or 3 for $5, all proceeds to Freedom Dog Rescue (draw at 2:30 PM). Please note the hall doesn't allow pets inside, so this one is people-only shopping. Tables are $25 and a few spots are left; table fees hold your spot and are refundable until December 1.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nVendor types wanted: Pet-themed gifts, handmade crafts, treats, baked goods and more\nHow to apply: Fill out the vendor sign-up form linked in the source post\nSource: https://facebook.com/groups/377595892794556/permalink/2255053335048793/",
   "fees": "$25 per table",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Richmond Hill's Merry Marketplace",
+  "date": "2026-12-12",
+  "time": "4 p.m.–8 p.m.",
+  "location": "Richmond Green Park, 1300 Elgin Mills Road East, Richmond Hill, ON",
+  "city": "Richmond Hill",
+  "region": "York Region",
+  "description": "The City of Richmond Hill's Saturday-evening holiday market at Richmond Green — local artisans and vendors with handcrafted gifts under thousands of lights.\nHours: Saturdays, 4:00 PM – 8:00 PM (lights stay lit nightly until 10:00 PM)\nAdmission: Free\nAttractions: Santa meet-and-greet every Saturday (line closes 7:30 PM), Mrs. Claus, fire pit, themed Saturdays (Nov 14 Grinchmas, Nov 21 Frosty Festivities, Nov 28 Penguin Polar Party, Dec 5 Gingerbread Lane, Dec 12 Reindeer Round Up), mini holiday parades, Artists' Co-Op Holiday Art Gallery & Shop at the Boynton House\nNote: vendor fee not published on the City page\nSource: https://www.richmondhill.ca/en/things-to-do/merry-marketplace.aspx",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -5167,6 +5462,28 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Evergreen Winter Market",
+  "date": "2026-12-13",
+  "time": "11 a.m.–5 p.m.",
+  "location": "Evergreen Brick Works, 550 Bayview Ave, Toronto, ON",
+  "city": "Toronto",
+  "region": "Toronto",
+  "description": "Evergreen Brick Works' Sunday winter market — the Ontario Vintage & Artisan Market plus food court vendors in the pavilions.\nHours: Sundays, 11:00 AM – 5:00 PM\nAdmission: pay-what-you-can (organizer suggests $5/person or $20/family)\nAttractions: Winter Garden with fire pits and s'mores (Nov 29 & Dec 6), Winter Lounge live performances, Art Hive, festive workshops, public skating Dec 20 (weather permitting)\nNote: vendor fee not published — vendor inquiries go to the market operators directly\nSource: https://www.evergreen.ca",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Kingston Holiday Market",
+  "date": "2026-12-13",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Tett Centre for Creativity & Learning, 370 King Street West, Kingston, ON",
+  "city": "Kingston",
+  "region": "Kingston & Area",
+  "description": "The Tett Centre leg of the Kingston Holiday Market, from Kingston Artist Events (the team behind Artfest Kingston and the Downtown Kingston Holiday Market) — about 50–60 local vendors per weekend, a new lineup each weekend, across the Malting Tower, Rehearsal Hall and Gallery.\nHours: Sat & Sun, 10:00 AM – 4:00 PM\nAdmission: Free\nNote: vendor fee not published\nSource: https://kingstonartistevents.com/pages/kingston-holiday-market-info",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Kris Kringle Christmas Market",
   "date": "2026-12-13",
   "time": "10 a.m.–3 p.m.",
@@ -5267,6 +5584,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Holly Jolly Holiday Market",
+  "date": "2026-12-18",
+  "endDate": "2026-12-20",
+  "time": "Time not listed",
+  "location": "Covent Garden Market, 130 King Street, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "London's Holly Jolly Holiday Market at Covent Garden Market — artisan vendors on Rotary Square outdoors and the upstairs mezzanine.\nHours: Fri 4:00 PM – 10:00 PM; Sat 10:00 AM – 9:00 PM; Sun 10:00 AM – 5:00 PM\nAdmission: not stated\nAttractions: horse-drawn carriage rides, photos with Santa, carousel, Ferris wheel, live music, kids' crafts\nNote: vendor fee not published\nSource: https://www.londontourism.ca/events/holly-jolly-holiday-market",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Niemi's Christmas Market",
   "date": "2026-12-18",
   "time": "12 p.m.–8 p.m.",
@@ -5298,6 +5627,18 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Indoor craft sale at the Latcham Centre by the waterfront. Friday, December 18, 5–9 PM. Table fees range from $50 to $80 depending on table — confirm with organizer. To apply: DM the organizer on Facebook.\nFee: $50–$80\nSource: Organizer's flyer via Paul",
   "fees": "$50–$80 (range — confirm with organizer)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "The Merry Market at 100 Kellogg Lane",
+  "date": "2026-12-18",
+  "endDate": "2026-12-20",
+  "time": "Time not listed",
+  "location": "100 Kellogg Lane, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "The Merry Market at 100 Kellogg Lane (The Factory) — London's big indoor holiday market, in its 7th year.\nHours: Fri & Sat 11:00 AM – 9:00 PM; Sun 11:00 AM – 6:00 PM\nAdmission: Free\nAttractions: the 35-ft Kellogg tree with surprise tree-lighting performances, elaborate photo ops, live performances, the Prosecco Pit\nNote: vendor fee not published\nSource: https://100kellogglane.com/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -5487,6 +5828,17 @@ window.EVENTS_REFRESH = [
   "region": "Niagara Region",
   "description": "Christmas Vendor Swap & Market at the Sherkston Community Centre — a festive day of Christmas shopping, networking, mutual support and holiday cheer for local small businesses, where vendors can showcase and sell their products while taking part in a vendor swap. Each participating vendor contributes a $10 fee plus 20 to 25 small gifts or items for the vendor goodie bags (handmade items, product samples, treats, candy, ornaments or other small goodies — the organizers would also love a business card and/or Christmas card). All contributions are collected into individual goodie bags, and each participating vendor receives one bag filled with surprises from fellow local businesses. Event hours were not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nVendor types wanted: Local small businesses and vendors of all types\nHow to apply: see the source post\nSource: https://facebook.com/groups/647247322686478/permalink/2360534324691094/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Evergreen Winter Market",
+  "date": "2026-12-20",
+  "time": "11 a.m.–5 p.m.",
+  "location": "Evergreen Brick Works, 550 Bayview Ave, Toronto, ON",
+  "city": "Toronto",
+  "region": "Toronto",
+  "description": "Evergreen Brick Works' Sunday winter market — the Ontario Vintage & Artisan Market plus food court vendors in the pavilions.\nHours: Sundays, 11:00 AM – 5:00 PM\nAdmission: pay-what-you-can (organizer suggests $5/person or $20/family)\nAttractions: Winter Garden with fire pits and s'mores (Nov 29 & Dec 6), Winter Lounge live performances, Art Hive, festive workshops, public skating Dec 20 (weather permitting)\nNote: vendor fee not published — vendor inquiries go to the market operators directly\nSource: https://www.evergreen.ca",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
