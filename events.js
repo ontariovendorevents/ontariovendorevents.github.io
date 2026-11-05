@@ -4909,6 +4909,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "VIVA Whitby Shores Christmas Bazaar",
+  "date": "2026-12-12",
+  "time": "10 a.m.–3 p.m.",
+  "location": "V!VA Whitby Shores Retirement Community, 51 Whitby Shores Greenway, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "Christmas Bazaar at V!VA Whitby Shores Retirement Community in Whitby — local bakers, crafters, artists, makers and small businesses, open to everyone.\nAdmission: not stated\nHow to apply: PM the organizer, Kelly-Anne Green Moss, via the source post\nSource: https://www.facebook.com/groups/durhamregioneats/permalink/2903388243373605/",
+  "fees": "$35",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Winter Puppet Market",
   "date": "2026-12-12",
   "time": "12 p.m.–6 p.m.",
