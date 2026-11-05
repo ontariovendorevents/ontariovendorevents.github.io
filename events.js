@@ -1146,6 +1146,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Elora Christmas Market",
+  "date": "2026-11-14",
+  "endDate": "2027-01-03",
+  "time": "Time not listed",
+  "location": "Downtown Elora, 45 Mill St W, Elora, ON",
+  "city": "Elora",
+  "region": "Rest of Ontario",
+  "description": "Elora's destination Christmas market, presented by Kat Florence — designer cedar chalets selling artisan goods, gourmet foods, fashion, home accessories and local art along the market lanes behind the Elora Mews, entered through the Hallway of Lights on Mill Street West.\nHours: Wed–Sun, 12:00 PM – 8:00 PM (closed Mon–Tue); Dec 24 & 25, 12:00 PM – 5:00 PM; also open Dec 31 & Jan 1\nAdmission: Free (organizer states free all season, all ages)\nAttractions: 88,000+ twinkling lights, plein-air fire tables, festive food and drink pop-ups, live music, classic Christmas matinees at the Gorge Cinema\nNote: no vendor booth fee — the organizer buys makers' pieces outright; no public application, contact the market directly\nSource: https://elorachristmasmarket.com/",
+  "fees": "No booth fee",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Forest View Winter Market",
   "date": "2026-11-14",
   "time": "Time not listed",
@@ -1647,6 +1659,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Village Noël Temiskaming",
+  "date": "2026-11-19",
+  "endDate": "2026-11-21",
+  "time": "Time not listed",
+  "location": "New Liskeard Fall Fair Grounds, 10 May Street South, New Liskeard, ON",
+  "city": "New Liskeard",
+  "region": "Rest of Ontario",
+  "description": "A 17th-century New France–themed Christmas village in New Liskeard — 32 heated artisan and food kiosks, costumed characters and live entertainment, drawing about 10,000 visitors.\nHours: Thu Nov 19, 5:00 PM – 7:00 PM (opening evening); Fri Nov 20, 9:00 AM – 7:00 PM; Sat Nov 21, 9:00 AM – 6:00 PM\nAdmission: Free\nNote: 2026 artisan registration closed July 31, 2026 — listed for shoppers. The organizer's registration form lists a 4:00 PM Thursday start vs 5:00 PM on its homepage, and notes hours may change\nSource: https://en.villagenoel.com/",
+  "fees": "Applications closed",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "5th Annual Gloucester Night Market",
   "date": "2026-11-20",
   "time": "4 p.m.–8 p.m.",
@@ -1724,6 +1748,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Friday Harbour Holiday Market",
+  "date": "2026-11-20",
+  "endDate": "2026-11-22",
+  "time": "Time not listed",
+  "location": "The Promenade, Friday Harbour Resort, 3999 Friday Drive, Innisfil, ON",
+  "city": "Innisfil",
+  "region": "Simcoe County",
+  "description": "Friday Harbour Resort's Holiday Market — a Vendor Village of local makers in chalet-style cabins along the Promenade.\nHours: Fri 5:00 PM – 8:00 PM; Sat 12:00 PM – 8:00 PM; Sun 12:00 PM – 6:00 PM\nAdmission: Free (complimentary admission and parking)\nAttractions: 40-foot Christmas tree (lighting Sat Nov 28 at 5:00 PM with fireworks), Santa's Workshop and meet Santa & the Elves, roaming carolers and elves, Frosty's Food Cabin & Rudolph's Lounge, warming lounges, Holiday Toy Drive through Dec 20\nNote: the resort's 'Join the Holiday Market' call seeks makers and small brands for 2026; vendor fee not published\nHow-to-apply: https://www.fridayharbour.com/events\nSource: https://www.fridayharbour.com/events",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Holiday Market for SickKids",
   "date": "2026-11-20",
   "time": "Time not listed",
@@ -1758,6 +1794,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Markham Home for the Holidays",
+  "date": "2026-11-20",
+  "endDate": "2026-11-22",
+  "time": "Time not listed",
+  "location": "Markham Fairgrounds, 10801 McCowan Road, Markham, ON",
+  "city": "Markham",
+  "region": "York Region",
+  "description": "The 39th annual Markham Home for the Holidays — a juried show with 130+ exhibitors from Ontario, Quebec and Alberta across three exhibition buildings at the Markham Fairgrounds.\nHours: Fri 10:00 AM – 7:00 PM; Sat 10:00 AM – 5:00 PM; Sun 10:00 AM – 4:00 PM (advance-ticket holders enter 1 hour early Fri/Sat, 30 min early Sun)\nAdmission: Adults $14, Seniors $12, Youth (13–18) $3, children 12 & under free — at the door, cash only; advance tickets Adult $12.50 / Senior $10.50 (advance sales close Nov 15, 2026); parking free\nAttractions: hourly door prizes, $100 shopping-spree draw for advance ticket holders, Toy Mountain partner\nHow-to-apply: exhibitor fee not published — prospective exhibitors contact the organizer through the website (jurying requires photos of display/products)\nSource: https://homefortheholidays.ca/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Niemi's Christmas Market",
   "date": "2026-11-20",
   "time": "12 p.m.–8 p.m.",
@@ -1766,6 +1814,18 @@ window.EVENTS_REFRESH = [
   "region": "York Region",
   "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Ottawa Christmas Market",
+  "date": "2026-11-20",
+  "endDate": "2026-11-22",
+  "time": "Time not listed",
+  "location": "Aberdeen Plaza, Lansdowne Park, 1000 Exhibition Way, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "Ottawa's big outdoor Christmas market — 60+ local vendors in wooden chalets at Aberdeen Plaza, Lansdowne Park.\nHours: Fri 5:00 PM – 10:00 PM; Sat 10:00 AM – 10:00 PM; Sun 10:00 AM – 8:00 PM\nAdmission: not stated\nAttractions: Twinkle Tunnel light walk, skating rink, Santa's Village, Blitzen's Bar, fire pits, live entertainment on two stages\nNote: vendor fee and application details not published on the organizer's site\nSource: https://ottawachristmasmarket.com/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2738,6 +2798,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Cambridge Holiday Market",
+  "date": "2026-11-27",
+  "endDate": "2026-11-29",
+  "time": "Time not listed",
+  "location": "Cambridge City Hall, 50 Dickson Street, Cambridge, ON",
+  "city": "Cambridge",
+  "region": "Waterloo Region",
+  "description": "The City of Cambridge's main holiday market, part of Winterfest — 100+ local artisans, crafters and makers across all floors of Cambridge City Hall (50 Dickson St) and the Cambridge Centre for the Arts (60 Dickson St).\nHours: Fri 5:00 PM – 9:00 PM; Sat 10:00 AM – 5:00 PM; Sun 10:00 AM – 4:00 PM\nAdmission: Free\nAttractions: free live entertainment, holiday café, outdoor food vendors, Santa's Workshop with elf show and photos with Santa, Fire Hall Museum open next door\nNote: 2026 vendor applications are closed and were accepted only through the City's page — the City warns of scam application emails; listed for shoppers\nSource: https://www.cambridge.ca/recreation-culture/events-festivals/winterfest/cambridge-holiday-market/",
+  "fees": "Applications closed",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Deck the Mall (B Morey Made)",
   "date": "2026-11-27",
   "endDate": "2026-11-29",
@@ -2747,6 +2819,18 @@ window.EVENTS_REFRESH = [
   "region": "Simcoe County",
   "description": "Vendor call: Deck the Mall presented by Events by Morey Made — 3-day vendor event at Georgian Mall. Hours: Fri Nov 27 9:30 AM-9 PM, Sat Nov 28 9:30 AM-6 PM, Sun Nov 29 11 AM-5 PM (per flyer). Vendor fee: $525 for 10x10 space, three days. Media sponsor: barrietoday.com. How to apply: not published — contact organizer. Organizer: Events by Morey Made (info email on flyer).\nFee: $525\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28155629954108165/",
   "fees": "$525 for 10x10 space, three days",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Friday Harbour Holiday Market",
+  "date": "2026-11-27",
+  "endDate": "2026-11-29",
+  "time": "Time not listed",
+  "location": "The Promenade, Friday Harbour Resort, 3999 Friday Drive, Innisfil, ON",
+  "city": "Innisfil",
+  "region": "Simcoe County",
+  "description": "Friday Harbour Resort's Holiday Market — a Vendor Village of local makers in chalet-style cabins along the Promenade.\nHours: Fri 5:00 PM – 8:00 PM; Sat 12:00 PM – 8:00 PM; Sun 12:00 PM – 6:00 PM\nAdmission: Free (complimentary admission and parking)\nAttractions: 40-foot Christmas tree (lighting Sat Nov 28 at 5:00 PM with fireworks), Santa's Workshop and meet Santa & the Elves, roaming carolers and elves, Frosty's Food Cabin & Rudolph's Lounge, warming lounges, Holiday Toy Drive through Dec 20\nNote: the resort's 'Join the Holiday Market' call seeks makers and small brands for 2026; vendor fee not published\nHow-to-apply: https://www.fridayharbour.com/events\nSource: https://www.fridayharbour.com/events",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2781,6 +2865,18 @@ window.EVENTS_REFRESH = [
   "region": "Toronto",
   "description": "Canada's flagship holiday craft show, a tradition for over 50 years: 800+ Canadian artisans from coast to coast with handmade gifts, festive décor, art, fashion and gourmet treats, plus fashion shows, DIY workshops in the Creative Lounge, culinary demos and a carousel.\n\nHours: Fri Nov 27, 10:00 AM – 9:00 PM; Sat Nov 28, 10:00 AM – 8:00 PM; Sun Nov 29, 10:00 AM – 5:00 PM; Mon Nov 30 – Wed Dec 2, 10:00 AM – 8:00 PM; Thu Dec 3, 10:00 AM – 11:00 PM (Late Night Shopping Party); Fri Dec 4, 10:00 AM – 9:00 PM; Sat Dec 5, 10:00 AM – 8:00 PM; Sun Dec 6, 10:00 AM – 5:00 PM\nAdmission: Adult $23 (advance), Senior (65+) $18, Student (with valid ID) $18, Family Pass $42; children 12 & under free\nFee: TBD (exhibitor fees are not published on the public site)\nSource: https://www.oneofakindshow.com/en/home.html",
   "fees": "TBD",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Ottawa Christmas Market",
+  "date": "2026-11-27",
+  "endDate": "2026-11-29",
+  "time": "Time not listed",
+  "location": "Aberdeen Plaza, Lansdowne Park, 1000 Exhibition Way, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "Ottawa's big outdoor Christmas market — 60+ local vendors in wooden chalets at Aberdeen Plaza, Lansdowne Park.\nHours: Fri 5:00 PM – 10:00 PM; Sat 10:00 AM – 10:00 PM; Sun 10:00 AM – 8:00 PM\nAdmission: not stated\nAttractions: Twinkle Tunnel light walk, skating rink, Santa's Village, Blitzen's Bar, fire pits, live entertainment on two stages\nNote: vendor fee and application details not published on the organizer's site\nSource: https://ottawachristmasmarket.com/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3740,6 +3836,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Christkindl Market",
+  "date": "2026-12-03",
+  "endDate": "2026-12-06",
+  "time": "Time not listed",
+  "location": "Kitchener City Hall, 200 King Street West, Kitchener, ON",
+  "city": "Kitchener",
+  "region": "Waterloo Region",
+  "description": "The 30th annual Christkindl Market — Kitchener's German-inspired Christmas market with 90+ local vendors selling handcrafted gifts, décor and food at Kitchener City Hall and Carl Zehr Square.\nHours: Thu 4:00 PM – 9:00 PM; Fri 10:00 AM – 9:00 PM; Sat 10:00 AM – 11:00 PM; Sun 10:00 AM – 4:00 PM\nAdmission: Free (some Entertainment Series events are ticketed)\nAttractions: opening ceremonies and tree lighting Thu Dec 3 at 6:00 PM, Musik Haus Tent concerts, pancake breakfast and brunch with Santa, skating performances, free community performances daily\nNote: vendor applications through the City of Kitchener (kitchener.ca); vendor fee not published. The City warns official contact is only via kitchener.ca — beware scam vendor offers\nSource: https://www.kitchener.ca/arts-culture-and-events/events/christkindl-market/visit-christkindl-market/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Christmas market — J-AAR Expo Centre, Western Fair District",
   "date": "2026-12-03",
   "endDate": "2026-12-06",
@@ -3749,6 +3857,18 @@ window.EVENTS_REFRESH = [
   "region": "London & Area",
   "description": "Christmas market at the J-AAR Expo Centre in the Western Fair District, London — a festive celebration of handmade crafts and unique gifts, welcoming vendors to showcase their products and connect with Christmas shoppers. The post gives no formal event name, hours, or vendor fee.\nListing type: Vendor call\nTheme: Christmas\nVendor types wanted: Handmade crafts and unique gifts\nHow to apply: Register via the vendor registration form: https://forms.office.com/r/KJQYazsVvC\nSource: https://facebook.com/groups/1180850233912666/permalink/1481678920496461/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Christmas on the Bay",
+  "date": "2026-12-03",
+  "endDate": "2026-12-06",
+  "time": "Time not listed",
+  "location": "Meaford Market Square, 12 Nelson Street East, Meaford, ON",
+  "city": "Meaford",
+  "region": "Rest of Ontario",
+  "description": "Meaford's outdoor Christmas market — local artisan and food vendors in decorated wooden stalls at Market Square, with some programming at Meaford Hall next door.\nHours: Thu Dec 3 & Fri Dec 4, 2:00 PM – 8:00 PM; Sat Dec 5, 10:00 AM – 8:00 PM; Sun Dec 6, 10:00 AM – 4:00 PM\nAdmission: Free\nAttractions: live music and entertainment, children's activities, fire bowls, decorated Christmas trees, The Milliner's Christmas Tavern, Friday fish fry; accessible and dog-friendly\nNote: vendor applications for 2026 closed April 30, 2026 — listed for shoppers\nSource: https://christmasonthebay.ca/",
+  "fees": "Applications closed",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3808,6 +3928,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Friday Harbour Holiday Market",
+  "date": "2026-12-04",
+  "endDate": "2026-12-06",
+  "time": "Time not listed",
+  "location": "The Promenade, Friday Harbour Resort, 3999 Friday Drive, Innisfil, ON",
+  "city": "Innisfil",
+  "region": "Simcoe County",
+  "description": "Friday Harbour Resort's Holiday Market — a Vendor Village of local makers in chalet-style cabins along the Promenade.\nHours: Fri 5:00 PM – 8:00 PM; Sat 12:00 PM – 8:00 PM; Sun 12:00 PM – 6:00 PM\nAdmission: Free (complimentary admission and parking)\nAttractions: 40-foot Christmas tree (lighting Sat Nov 28 at 5:00 PM with fireworks), Santa's Workshop and meet Santa & the Elves, roaming carolers and elves, Frosty's Food Cabin & Rudolph's Lounge, warming lounges, Holiday Toy Drive through Dec 20\nNote: the resort's 'Join the Holiday Market' call seeks makers and small brands for 2026; vendor fee not published\nHow-to-apply: https://www.fridayharbour.com/events\nSource: https://www.fridayharbour.com/events",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Gananoque Outdoor Christmas Market",
   "date": "2026-12-04",
   "time": "Time not listed",
@@ -3849,6 +3981,18 @@ window.EVENTS_REFRESH = [
   "region": "York Region",
   "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Ottawa Christmas Market",
+  "date": "2026-12-04",
+  "endDate": "2026-12-06",
+  "time": "Time not listed",
+  "location": "Aberdeen Plaza, Lansdowne Park, 1000 Exhibition Way, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "Ottawa's big outdoor Christmas market — 60+ local vendors in wooden chalets at Aberdeen Plaza, Lansdowne Park.\nHours: Fri 5:00 PM – 10:00 PM; Sat 10:00 AM – 10:00 PM; Sun 10:00 AM – 8:00 PM\nAdmission: not stated\nAttractions: Twinkle Tunnel light walk, skating rink, Santa's Village, Blitzen's Bar, fire pits, live entertainment on two stages\nNote: vendor fee and application details not published on the organizer's site\nSource: https://ottawachristmasmarket.com/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -4563,6 +4707,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Christkindl Market",
+  "date": "2026-12-10",
+  "endDate": "2026-12-13",
+  "time": "Time not listed",
+  "location": "Kitchener City Hall, 200 King Street West, Kitchener, ON",
+  "city": "Kitchener",
+  "region": "Waterloo Region",
+  "description": "The 30th annual Christkindl Market — Kitchener's German-inspired Christmas market with 90+ local vendors selling handcrafted gifts, décor and food at Kitchener City Hall and Carl Zehr Square.\nHours: Thu 4:00 PM – 9:00 PM; Fri 10:00 AM – 9:00 PM; Sat 10:00 AM – 11:00 PM; Sun 10:00 AM – 4:00 PM\nAdmission: Free (some Entertainment Series events are ticketed)\nAttractions: opening ceremonies and tree lighting Thu Dec 3 at 6:00 PM, Musik Haus Tent concerts, pancake breakfast and brunch with Santa, skating performances, free community performances daily\nNote: Mon Dec 7 – Wed Dec 9 are entertainment-only evenings (no market shopping)\nNote: vendor applications through the City of Kitchener (kitchener.ca); vendor fee not published. The City warns official contact is only via kitchener.ca — beware scam vendor offers\nSource: https://www.kitchener.ca/arts-culture-and-events/events/christkindl-market/visit-christkindl-market/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Grateful Market Christmas Market",
   "date": "2026-12-10",
   "endDate": "2026-12-23",
@@ -4597,6 +4753,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Friday Harbour Holiday Market",
+  "date": "2026-12-11",
+  "endDate": "2026-12-13",
+  "time": "Time not listed",
+  "location": "The Promenade, Friday Harbour Resort, 3999 Friday Drive, Innisfil, ON",
+  "city": "Innisfil",
+  "region": "Simcoe County",
+  "description": "Friday Harbour Resort's Holiday Market — a Vendor Village of local makers in chalet-style cabins along the Promenade.\nHours: Fri 5:00 PM – 8:00 PM; Sat 12:00 PM – 8:00 PM; Sun 12:00 PM – 6:00 PM\nAdmission: Free (complimentary admission and parking)\nAttractions: 40-foot Christmas tree (lighting Sat Nov 28 at 5:00 PM with fireworks), Santa's Workshop and meet Santa & the Elves, roaming carolers and elves, Frosty's Food Cabin & Rudolph's Lounge, warming lounges, Holiday Toy Drive through Dec 20\nNote: the resort's 'Join the Holiday Market' call seeks makers and small brands for 2026; vendor fee not published\nHow-to-apply: https://www.fridayharbour.com/events\nSource: https://www.fridayharbour.com/events",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Mystic Magic Market",
   "date": "2026-12-11",
   "time": "Time not listed",
@@ -4616,6 +4784,18 @@ window.EVENTS_REFRESH = [
   "region": "York Region",
   "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Ottawa Christmas Market",
+  "date": "2026-12-11",
+  "endDate": "2026-12-13",
+  "time": "Time not listed",
+  "location": "Aberdeen Plaza, Lansdowne Park, 1000 Exhibition Way, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "Ottawa's big outdoor Christmas market — 60+ local vendors in wooden chalets at Aberdeen Plaza, Lansdowne Park.\nHours: Fri 5:00 PM – 10:00 PM; Sat 10:00 AM – 10:00 PM; Sun 10:00 AM – 8:00 PM\nAdmission: not stated\nAttractions: Twinkle Tunnel light walk, skating rink, Santa's Village, Blitzen's Bar, fire pits, live entertainment on two stages\nNote: vendor fee and application details not published on the organizer's site\nSource: https://ottawachristmasmarket.com/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -5064,6 +5244,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Friday Harbour Holiday Market",
+  "date": "2026-12-18",
+  "endDate": "2026-12-20",
+  "time": "Time not listed",
+  "location": "The Promenade, Friday Harbour Resort, 3999 Friday Drive, Innisfil, ON",
+  "city": "Innisfil",
+  "region": "Simcoe County",
+  "description": "Friday Harbour Resort's Holiday Market — a Vendor Village of local makers in chalet-style cabins along the Promenade.\nHours: Fri 5:00 PM – 8:00 PM; Sat 12:00 PM – 8:00 PM; Sun 12:00 PM – 6:00 PM\nAdmission: Free (complimentary admission and parking)\nAttractions: 40-foot Christmas tree (lighting Sat Nov 28 at 5:00 PM with fireworks), Santa's Workshop and meet Santa & the Elves, roaming carolers and elves, Frosty's Food Cabin & Rudolph's Lounge, warming lounges, Holiday Toy Drive through Dec 20\nNote: the resort's 'Join the Holiday Market' call seeks makers and small brands for 2026; vendor fee not published\nHow-to-apply: https://www.fridayharbour.com/events\nSource: https://www.fridayharbour.com/events",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Friday Night Vintage Market",
   "date": "2026-12-18",
   "time": "4 p.m.–9 p.m.",
@@ -5083,6 +5275,18 @@ window.EVENTS_REFRESH = [
   "region": "York Region",
   "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Ottawa Christmas Market",
+  "date": "2026-12-18",
+  "endDate": "2026-12-20",
+  "time": "Time not listed",
+  "location": "Aberdeen Plaza, Lansdowne Park, 1000 Exhibition Way, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "Ottawa's big outdoor Christmas market — 60+ local vendors in wooden chalets at Aberdeen Plaza, Lansdowne Park.\nHours: Fri 5:00 PM – 10:00 PM; Sat 10:00 AM – 10:00 PM; Sun 10:00 AM – 8:00 PM\nAdmission: not stated\nAttractions: Twinkle Tunnel light walk, skating rink, Santa's Village, Blitzen's Bar, fire pits, live entertainment on two stages\nNote: vendor fee and application details not published on the organizer's site\nSource: https://ottawachristmasmarket.com/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -5319,6 +5523,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Friday Harbour Holiday Market",
+  "date": "2026-12-25",
+  "endDate": "2026-12-27",
+  "time": "Time not listed",
+  "location": "The Promenade, Friday Harbour Resort, 3999 Friday Drive, Innisfil, ON",
+  "city": "Innisfil",
+  "region": "Simcoe County",
+  "description": "Friday Harbour Resort's Holiday Market — a Vendor Village of local makers in chalet-style cabins along the Promenade.\nHours: Fri 5:00 PM – 8:00 PM; Sat 12:00 PM – 8:00 PM; Sun 12:00 PM – 6:00 PM\nAdmission: Free (complimentary admission and parking)\nAttractions: 40-foot Christmas tree (lighting Sat Nov 28 at 5:00 PM with fireworks), Santa's Workshop and meet Santa & the Elves, roaming carolers and elves, Frosty's Food Cabin & Rudolph's Lounge, warming lounges, Holiday Toy Drive through Dec 20\nNote: the resort's 'Join the Holiday Market' call seeks makers and small brands for 2026; vendor fee not published\nHow-to-apply: https://www.fridayharbour.com/events\nSource: https://www.fridayharbour.com/events",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Imagine Cinemas Vendor Market",
   "date": "2026-12-29",
   "time": "5 p.m.–10 p.m.",
@@ -5327,6 +5543,18 @@ window.EVENTS_REFRESH = [
   "region": "London & Area",
   "description": "Vendor Market at Imagine Cinemas in London — after the success of the Halloween Market, the cinema is hosting a vendor market through December: every Tuesday (Dec 1, 8, 15, 22 and 29) from 5:00 PM to 10:00 PM, plus Saturday December 19 and Sunday December 20 from 5:00 PM to 10:00 PM for the opening weekend of Dune: Part Three and Avengers: Doomsday. There are no vendor fees. Lots of returning vendors, and new creators are welcome to join. This listing is one date in the series — every date in the series is listed separately.\nListing type: Vendor call\nTheme: Christmas / movie opening weekend\nHours: 5:00 PM - 10:00 PM\nVendor types wanted: All vendor types and creators\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739552403153803/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Ottawa Christmas Market — New Year's Eve",
+  "date": "2026-12-31",
+  "endDate": "2027-01-01",
+  "time": "6 p.m.–1 a.m.",
+  "location": "Aberdeen Plaza, Lansdowne Park, 1000 Exhibition Way, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "A special New Year's Eve night at the Ottawa Christmas Market — 60+ local vendors in wooden chalets at Aberdeen Plaza, Lansdowne Park.\nHours: Thu Dec 31, 6:00 PM – 1:00 AM\nAdmission: not stated\nAttractions: drone show, midnight fireworks, live entertainment, Twinkle Tunnel light walk, fire pits\nSource: https://ottawachristmasmarket.com/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
