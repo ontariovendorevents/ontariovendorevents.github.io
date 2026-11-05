@@ -514,6 +514,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Sackville Senior Centre Christmas Craft and Bake Sale",
+  "date": "2026-11-07",
+  "time": "10:30 a.m.–4:30 p.m.",
+  "location": "Sackville Senior Centre, 780 Upper Wentworth Street, Hamilton, ON",
+  "city": "Hamilton",
+  "region": "Hamilton",
+  "description": "Christmas craft and bake sale at the Sackville Senior Centre in Hamilton, hosted by Nama's Nook, with curated handmade vendors and a bake table.\nAdmission: Free\nOrganizer: Nama's Nook (via Pop-Up Path)\nSource: https://popuppathinc.com/popup/6ada04d58bf9e63864a26828",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Snowflake Christmas Bazaar",
   "date": "2026-11-07",
   "time": "9 a.m.–2 p.m.",
@@ -621,6 +632,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "The CWL Christmas Bazaar at St. Gertrude's Church in Oshawa: Christmas items, private vendors, a bake sale, 50/50 and penny tables, books, puzzles, jewellery, the 2nd Time Around Table and a Christmas Cafe. Wheelchair accessible. Runs Saturday 9:30 AM - 2:30 PM and Sunday 12:00 - 2:00 PM.\nListing type: Event\nTheme: Christmas\nHours: 12:00 PM - 2:00 PM\nSource: https://facebook.com/groups/DHMM3.0/permalink/2320741205379867/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Caregiver Connection Expo",
+  "date": "2026-11-08",
+  "time": "11 a.m.–5 p.m.",
+  "location": "Ancaster Fair Grounds, 630 Trinity Road South, Jerseyville, ON",
+  "city": "Jerseyville",
+  "region": "Hamilton",
+  "description": "Caregiver Connection Expo at the Ancaster Fair Grounds — support, resources and community, with 50+ healthcare vendors, professionals and community organizations. Hosted by Psw To The Rescue.\nAdmission: Free\nSource: https://popuppathinc.com/popup/6ae65b36c363a73aaac475b7",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -732,6 +754,17 @@ window.EVENTS_REFRESH = [
   "region": "Toronto",
   "description": "Toronto's world-famous Christmas market in the Distillery Historic District — cobblestone streets, Canada's most iconic Christmas tree, artisan vendor cabins, seasonal food and drinks, carollers, Santa and his elves. Tree lighting on opening night, Thu Nov 12 at 6:00 PM (ticketed; profits benefit the Village's charity partners). Closed Christmas Day, Dec 25.\n\nHours: The District opens 10:00 AM daily. Vendor cabins 12:00 PM – 9:00 PM Sun–Thu and 12:00 PM – 10:00 PM Fri–Sat.\nAdmission: Free at non-ticketed times — all day Mon–Wed through Dec 13, before 4:00 PM daily, and Thursdays in November (except opening night). Tickets required on opening night, from 4:00 PM every Fri, Sat and Sun, from 4:00 PM every Thursday in December, and from 4:00 PM daily Dec 14–31: General Admission $16, Flex $18, Express $30 (plus HST and service fee); children 9 and under free. Tickets online only — no on-site box office.\nFee: TBD (vendor applications for the 2026 season are closed; no fee published)\nSource: https://www.thedistillerywintervillage.com/",
   "fees": "TBD",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "A Little Christmas Magic",
+  "date": "2026-11-13",
+  "time": "6 p.m.–9 p.m.",
+  "location": "Williams Fresh Cafe, 1250 Brant Street, Burlington, ON",
+  "city": "Burlington",
+  "region": "Halton Region",
+  "description": "A Little Christmas Magic at Williams Fresh Cafe in Burlington — free photos with Santa and local vendors. Hosted by Psw To The Rescue.\nAdmission: Free\nSource: https://popuppathinc.com/popup/6ae65c500497e3eed4908086",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -855,6 +888,17 @@ window.EVENTS_REFRESH = [
   "region": "Rest of Ontario",
   "description": "Theme: Christmas\nFee: $25\nHours: 9 AM – 3 PM\nSource: https://facebook.com/groups/1559725434912476/permalink/2124672448417769/\n",
   "fees": "$25",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "2nd Annual Sleigh The Season Market",
+  "date": "2026-11-14",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Holy Resurrection Ukrainian Catholic Church Hall, 821 Upper Wentworth Street, Hamilton, ON",
+  "city": "Hamilton",
+  "region": "Hamilton",
+  "description": "Second annual Sleigh The Season market at Holy Resurrection Ukrainian Catholic Church Hall in Hamilton, hosted by The Events Hub.\nAdmission: Free\nSource: https://popuppathinc.com/popup/6ad7e510b963bfc21a612ffa",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1500,6 +1544,18 @@ window.EVENTS_REFRESH = [
   "region": "Kawarthas and Peterborough",
   "description": "The Vintage Modern Christmas Market at Kawartha Downs in Fraserville: 50+ vendors of vintage and handmade goods, with a concession and bar.\nListing type: Event\nTheme: Christmas\nHours: 11:00 AM - 5:00 PM\nSource: https://northumberlandvintageshow.com/christmas-market",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Eising Christmas Craft Show",
+  "date": "2026-11-16",
+  "endDate": "2026-11-21",
+  "time": "10 a.m.–6 p.m.",
+  "location": "Eising Garden Centre, 814 Cockshutt Road, Simcoe, ON",
+  "city": "Simcoe",
+  "region": "Rest of Ontario",
+  "description": "Christmas craft show at Eising Garden Centre in Simcoe, running Nov 16–21 with 150 artisans. Hosted by Nama's Nook.\nAdmission: Free\nSource: https://popuppathinc.com/popup/6ada06db612a871a720e28a8",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3175,6 +3231,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Mistletoe Market (Chedoke Presbyterian Church)",
+  "date": "2026-11-28",
+  "time": "10 a.m.–2 p.m.",
+  "location": "Chedoke Presbyterian Church, 865 Mohawk Road West, Hamilton, ON",
+  "city": "Hamilton",
+  "region": "Hamilton",
+  "description": "Mistletoe Market at Chedoke Presbyterian Church in Hamilton — curated handmade vendors and a bake table. Hosted by Nama's Nook.\nAdmission: Free\nSource: https://popuppathinc.com/popup/6ada07f850ccbdbd2427ee10",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Mount Hope Craft Market",
   "date": "2026-11-28",
   "time": "9 a.m.–1 p.m.",
@@ -3271,6 +3338,17 @@ window.EVENTS_REFRESH = [
   "region": "Rest of Ontario",
   "description": "Hosted by the organizer. Vendor call for holiday market.\nVendor types wanted: baked goods/food made in a public-health-approved kitchen, handmade candles, woodworking, pet products, screen printing\nFee: not stated by organizer\nHours: 10am-3pm\nHow to apply: Application form: https://forms.gle/SVEms2AmWDEDrJFg9 (no-sign-in version: https://forms.gle/oHigomMAtGALiFPj7)\nSource: https://facebook.com/groups/609827307950034/permalink/1435010282098395/\n",
   "fees": "Not published - contact organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "STUFFED! Hamilton Stocking Stuffer Market",
+  "date": "2026-11-28",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Magnolia Hall, 115 Hunter Street West, Hamilton, ON",
+  "city": "Hamilton",
+  "region": "Hamilton",
+  "description": "STUFFED! Hamilton Stocking Stuffer Market at Magnolia Hall — 45+ vendors of stocking-stuffer gifts. Hosted by Blue Key Events.\nAdmission: $7 general, $5 advance ticket online\nSource: https://popuppathinc.com/popup/6ae6587c1be5a1ea7fb7598e",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3548,7 +3626,7 @@ window.EVENTS_REFRESH = [
   "city": "Ottawa",
   "region": "Ottawa",
   "description": "Holiday Craft Fair at Unitarian House in Westboro, Ottawa — applications are now open for vendors and local artisans. Unitarian House is a smaller organization and its profits are reinvested into the home, so the table fee is only $50; the organizers note they get a lot of foot traffic in the heart of Westboro.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nVendor types wanted: Vendors and local artisans\nHow to apply: see the source post\nSource: https://facebook.com/groups/721459436123036/permalink/1640459974222973/",
-  "fees": "$50 per table",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -3570,7 +3648,7 @@ window.EVENTS_REFRESH = [
   "city": "London",
   "region": "London & Area",
   "description": "Vendor Market at Imagine Cinemas in London — after the success of the Halloween Market, the cinema is hosting a vendor market through December: every Tuesday (Dec 1, 8, 15, 22 and 29) from 5:00 PM to 10:00 PM, plus Saturday December 19 and Sunday December 20 from 5:00 PM to 10:00 PM for the opening weekend of Dune: Part Three and Avengers: Doomsday. There are no vendor fees. Lots of returning vendors, and new creators are welcome to join. This listing is one date in the series — every date in the series is listed separately.\nListing type: Vendor call\nTheme: Christmas / movie opening weekend\nHours: 5:00 PM - 10:00 PM\nVendor types wanted: All vendor types and creators\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739552403153803/",
-  "fees": "Free",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -4119,6 +4197,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "St. James Artisan Showcase",
+  "date": "2026-12-05",
+  "time": "11 a.m.–5 p.m.",
+  "location": "St James, 137 Melville Street, Dundas, ON",
+  "city": "Dundas",
+  "region": "Hamilton",
+  "description": "Artisan Showcase at St James in Dundas — curated handmade vendors and a bake table. Hosted by Nama's Nook.\nAdmission: Free\nSource: https://popuppathinc.com/popup/6ada0a586cd98857f063de7f",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "St. Vincent de Paul Catholic Elementary School Christmas Market",
   "date": "2026-12-05",
   "time": "Time not listed",
@@ -4404,7 +4493,7 @@ window.EVENTS_REFRESH = [
   "city": "London",
   "region": "London & Area",
   "description": "Vendor Market at Imagine Cinemas in London — after the success of the Halloween Market, the cinema is hosting a vendor market through December: every Tuesday (Dec 1, 8, 15, 22 and 29) from 5:00 PM to 10:00 PM, plus Saturday December 19 and Sunday December 20 from 5:00 PM to 10:00 PM for the opening weekend of Dune: Part Three and Avengers: Doomsday. There are no vendor fees. Lots of returning vendors, and new creators are welcome to join. This listing is one date in the series — every date in the series is listed separately.\nListing type: Vendor call\nTheme: Christmas / movie opening weekend\nHours: 5:00 PM - 10:00 PM\nVendor types wanted: All vendor types and creators\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739552403153803/",
-  "fees": "Free",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -4516,6 +4605,17 @@ window.EVENTS_REFRESH = [
   "region": "London & Area",
   "description": "Christmas Country Market in Rodney, hosted by Rodney's Country Market (with Finders Keepers). Local artisans, letters to Santa, photo opportunities, petting zoo, baked goods and sweet treats. Free admission and free parking.\nTheme: Christmas / holiday season\nFee: $40\nHow to apply: Message the hosts (Rodney's Country Market / Finders Keepers on Facebook) for details\nAdmission: Free\nAttractions: Letters to Santa, photo opportunities, petting zoo, baked goods, popcorn, hot drinks\nSource: https://facebook.com/groups/524928052267953/permalink/1587991269294954/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Christmas Market (Hypnoses Training Canada)",
+  "date": "2026-12-12",
+  "time": "11 a.m.–5 p.m.",
+  "location": "Hypnoses Training Canada, 4373 Mainway Ave, Burlington, ON",
+  "city": "Burlington",
+  "region": "Halton Region",
+  "description": "Christmas Market — Shop Local & Share the Holiday Spirit — at Hypnoses Training Canada in Burlington. Hosted by Psw To The Rescue. Accepting vendor applications until Nov 17, 2026.\nAdmission: Free\nHow to apply: via Pop-Up Path (Apply Now on the listing)\nSource: https://popuppathinc.com/popup/6ae65ea5d11604aec69b159c",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -4872,7 +4972,7 @@ window.EVENTS_REFRESH = [
   "city": "London",
   "region": "London & Area",
   "description": "Vendor Market at Imagine Cinemas in London — after the success of the Halloween Market, the cinema is hosting a vendor market through December: every Tuesday (Dec 1, 8, 15, 22 and 29) from 5:00 PM to 10:00 PM, plus Saturday December 19 and Sunday December 20 from 5:00 PM to 10:00 PM for the opening weekend of Dune: Part Three and Avengers: Doomsday. There are no vendor fees. Lots of returning vendors, and new creators are welcome to join. This listing is one date in the series — every date in the series is listed separately.\nListing type: Vendor call\nTheme: Christmas / movie opening weekend\nHours: 5:00 PM - 10:00 PM\nVendor types wanted: All vendor types and creators\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739552403153803/",
-  "fees": "Free",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -4994,7 +5094,7 @@ window.EVENTS_REFRESH = [
   "city": "London",
   "region": "London & Area",
   "description": "Vendor Market at Imagine Cinemas in London — after the success of the Halloween Market, the cinema is hosting a vendor market through December: every Tuesday (Dec 1, 8, 15, 22 and 29) from 5:00 PM to 10:00 PM, plus Saturday December 19 and Sunday December 20 from 5:00 PM to 10:00 PM for the opening weekend of Dune: Part Three and Avengers: Doomsday. There are no vendor fees. Lots of returning vendors, and new creators are welcome to join. This listing is one date in the series — every date in the series is listed separately.\nListing type: Vendor call\nTheme: Christmas / movie opening weekend\nHours: 5:00 PM - 10:00 PM\nVendor types wanted: All vendor types and creators\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739552403153803/",
-  "fees": "Free",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -5105,7 +5205,7 @@ window.EVENTS_REFRESH = [
   "city": "Sherkston",
   "region": "Niagara Region",
   "description": "Christmas Vendor Swap & Market at the Sherkston Community Centre — a festive day of Christmas shopping, networking, mutual support and holiday cheer for local small businesses, where vendors can showcase and sell their products while taking part in a vendor swap. Each participating vendor contributes a $10 fee plus 20 to 25 small gifts or items for the vendor goodie bags (handmade items, product samples, treats, candy, ornaments or other small goodies — the organizers would also love a business card and/or Christmas card). All contributions are collected into individual goodie bags, and each participating vendor receives one bag filled with surprises from fellow local businesses. Event hours were not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nVendor types wanted: Local small businesses and vendors of all types\nHow to apply: see the source post\nSource: https://facebook.com/groups/647247322686478/permalink/2360534324691094/",
-  "fees": "$10 plus 20-25 small gift/item contributions for the vendor goodie bags",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -5116,7 +5216,7 @@ window.EVENTS_REFRESH = [
   "city": "London",
   "region": "London & Area",
   "description": "Vendor Market at Imagine Cinemas in London — after the success of the Halloween Market, the cinema is hosting a vendor market through December: every Tuesday (Dec 1, 8, 15, 22 and 29) from 5:00 PM to 10:00 PM, plus Saturday December 19 and Sunday December 20 from 5:00 PM to 10:00 PM for the opening weekend of Dune: Part Three and Avengers: Doomsday. There are no vendor fees. Lots of returning vendors, and new creators are welcome to join. This listing is one date in the series — every date in the series is listed separately.\nListing type: Vendor call\nTheme: Christmas / movie opening weekend\nHours: 5:00 PM - 10:00 PM\nVendor types wanted: All vendor types and creators\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739552403153803/",
-  "fees": "Free",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -5138,7 +5238,7 @@ window.EVENTS_REFRESH = [
   "city": "London",
   "region": "London & Area",
   "description": "Vendor Market at Imagine Cinemas in London — after the success of the Halloween Market, the cinema is hosting a vendor market through December: every Tuesday (Dec 1, 8, 15, 22 and 29) from 5:00 PM to 10:00 PM, plus Saturday December 19 and Sunday December 20 from 5:00 PM to 10:00 PM for the opening weekend of Dune: Part Three and Avengers: Doomsday. There are no vendor fees. Lots of returning vendors, and new creators are welcome to join. This listing is one date in the series — every date in the series is listed separately.\nListing type: Vendor call\nTheme: Christmas / movie opening weekend\nHours: 5:00 PM - 10:00 PM\nVendor types wanted: All vendor types and creators\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739552403153803/",
-  "fees": "Free",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -5149,7 +5249,7 @@ window.EVENTS_REFRESH = [
   "city": "London",
   "region": "London & Area",
   "description": "Vendor Market at Imagine Cinemas in London — after the success of the Halloween Market, the cinema is hosting a vendor market through December: every Tuesday (Dec 1, 8, 15, 22 and 29) from 5:00 PM to 10:00 PM, plus Saturday December 19 and Sunday December 20 from 5:00 PM to 10:00 PM for the opening weekend of Dune: Part Three and Avengers: Doomsday. There are no vendor fees. Lots of returning vendors, and new creators are welcome to join. This listing is one date in the series — every date in the series is listed separately.\nListing type: Vendor call\nTheme: Christmas / movie opening weekend\nHours: 5:00 PM - 10:00 PM\nVendor types wanted: All vendor types and creators\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739552403153803/",
-  "fees": "Free",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
