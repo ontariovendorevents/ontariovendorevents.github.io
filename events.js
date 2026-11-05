@@ -790,6 +790,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Downtown Kingston Holiday Market",
+  "date": "2026-11-13",
+  "time": "6 p.m.–9 p.m.",
+  "location": "261 Princess Street and 181 Sydenham Street, Kingston, ON",
+  "city": "Kingston",
+  "region": "Kingston & Area",
+  "description": "Downtown Kingston's Holiday Market, from the creative team behind Artfest Kingston — shop unique vendors and local artisans for handmade gifts and one-of-a-kind finds at two downtown locations. Part of Downtown Kingston's Embrace the Season holiday lineup.\nAdmission: not stated\nNote: vendor applications closed October 30, 2026 — listed for shoppers.\nSource: https://facebook.com/100064324317300/posts/1573946311426164",
+  "fees": "Applications closed",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Downtown Whitby BIA Christmas Market",
   "date": "2026-11-13",
   "endDate": "2026-11-14",
@@ -1121,6 +1132,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "The Craftmommy Christmas Market in Pickering, with local artisans and vendors; the first 20 visitors get a free eco tote bag.\nListing type: Event\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nSource: https://facebook.com/groups/DHMM3.0/permalink/2320741205379867/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Downtown Kingston Holiday Market",
+  "date": "2026-11-14",
+  "time": "10 a.m.–5 p.m.",
+  "location": "261 Princess Street and 181 Sydenham Street, Kingston, ON",
+  "city": "Kingston",
+  "region": "Kingston & Area",
+  "description": "Downtown Kingston's Holiday Market, from the creative team behind Artfest Kingston — shop unique vendors and local artisans for handmade gifts and one-of-a-kind finds at two downtown locations. Part of Downtown Kingston's Embrace the Season holiday lineup.\nAdmission: not stated\nNote: vendor applications closed October 30, 2026 — listed for shoppers.\nSource: https://facebook.com/100064324317300/posts/1573946311426164",
+  "fees": "Applications closed",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1492,6 +1514,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Downtown Kingston Holiday Market",
+  "date": "2026-11-15",
+  "time": "10 a.m.–5 p.m.",
+  "location": "261 Princess Street and 181 Sydenham Street, Kingston, ON",
+  "city": "Kingston",
+  "region": "Kingston & Area",
+  "description": "Downtown Kingston's Holiday Market, from the creative team behind Artfest Kingston — shop unique vendors and local artisans for handmade gifts and one-of-a-kind finds at two downtown locations. Part of Downtown Kingston's Embrace the Season holiday lineup.\nAdmission: not stated\nNote: vendor applications closed October 30, 2026 — listed for shoppers.\nSource: https://facebook.com/100064324317300/posts/1573946311426164",
+  "fees": "Applications closed",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Julie Payette School Holiday Market",
   "date": "2026-11-15",
   "time": "9 a.m.–2 p.m.",
@@ -1677,6 +1710,17 @@ window.EVENTS_REFRESH = [
   "region": "Rest of Ontario",
   "description": "Christmas night vendor market at Restoration Ranch, 2130 Shirley Rd. Organized by the organizer Social Co. Vendor fee and application details TBA — check back for updates. Plenty of space available (per organizer).\nSource: organizer\\'s Facebook post",
   "fees": "TBA",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Downtown Kingston Holiday Market",
+  "date": "2026-11-20",
+  "time": "6 p.m.–9 p.m.",
+  "location": "261 Princess Street and 181 Sydenham Street, Kingston, ON",
+  "city": "Kingston",
+  "region": "Kingston & Area",
+  "description": "Downtown Kingston's Holiday Market, from the creative team behind Artfest Kingston — shop unique vendors and local artisans for handmade gifts and one-of-a-kind finds at two downtown locations. Part of Downtown Kingston's Embrace the Season holiday lineup.\nAdmission: not stated\nNote: vendor applications closed October 30, 2026 — listed for shoppers.\nSource: https://facebook.com/100064324317300/posts/1573946311426164",
+  "fees": "Applications closed",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1871,6 +1915,17 @@ window.EVENTS_REFRESH = [
   "region": "Halton Region",
   "description": "Vendor call from Rose Event: the Christmas in Burlington Craft Show runs Saturday November 21 and Sunday November 22 at Burlington Centre, with artisan and handmade products, holiday decor and gifts, and local vendors. Limited spaces available — suitable for serious vendors only. Market hours were not published; contact the organizer via the source post for details and to apply.\nListing type: Vendor call\nTheme: Christmas\nHours: Not listed\nSource: https://facebook.com/groups/torontovbnetwork/permalink/29071143459186048/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Downtown Kingston Holiday Market",
+  "date": "2026-11-21",
+  "time": "10 a.m.–5 p.m.",
+  "location": "261 Princess Street and 181 Sydenham Street, Kingston, ON",
+  "city": "Kingston",
+  "region": "Kingston & Area",
+  "description": "Downtown Kingston's Holiday Market, from the creative team behind Artfest Kingston — shop unique vendors and local artisans for handmade gifts and one-of-a-kind finds at two downtown locations. Part of Downtown Kingston's Embrace the Season holiday lineup.\nAdmission: not stated\nNote: vendor applications closed October 30, 2026 — listed for shoppers.\nSource: https://facebook.com/100064324317300/posts/1573946311426164",
+  "fees": "Applications closed",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -2369,6 +2424,17 @@ window.EVENTS_REFRESH = [
   "region": "Halton Region",
   "description": "The Acton District School Christmas Market still has vendor room — the organizer is specifically looking for pottery, stained glass, knitting (no stuffies), woodworking, and other unique items.\nTheme: Christmas / holiday season\nVendor types wanted: Pottery, stained glass, knitting, woodworking, unique handmade items\nFee: not stated by organizer\nApply: https://forms.gle/71VcSDnZwP3QcN7q9\nSource: https://facebook.com/groups/609827307950034/permalink/1442089068057183/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Downtown Kingston Holiday Market",
+  "date": "2026-11-22",
+  "time": "10 a.m.–5 p.m.",
+  "location": "261 Princess Street and 181 Sydenham Street, Kingston, ON",
+  "city": "Kingston",
+  "region": "Kingston & Area",
+  "description": "Downtown Kingston's Holiday Market, from the creative team behind Artfest Kingston — shop unique vendors and local artisans for handmade gifts and one-of-a-kind finds at two downtown locations. Part of Downtown Kingston's Embrace the Season holiday lineup.\nAdmission: not stated\nNote: vendor applications closed October 30, 2026 — listed for shoppers.\nSource: https://facebook.com/100064324317300/posts/1573946311426164",
+  "fees": "Applications closed",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
