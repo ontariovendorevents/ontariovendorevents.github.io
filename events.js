@@ -1593,6 +1593,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Frost Fest Christmas Market",
+  "date": "2026-11-15",
+  "time": "11 a.m.–3 p.m.",
+  "location": "Unifor Local 222, 1425 Phillip Murray Ave, Oshawa, ON",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "Frost Fest Christmas Market at Unifor Local 222 in Oshawa — shop from a variety of vendors with unique gifts, crafts, holiday decor, food and more. Fun for the whole family; open to the public.\nListing type: Event\nTheme: Christmas\nHours: 11:00 AM - 3:00 PM\nAdmission: Free\nAttractions: Crock A Doodle paint-an-ornament activity ($10), a chance to win Toronto Maple Leafs tickets just for showing up, Local 222 merch specials\nNote: vendor fee not published\nSource: https://facebook.com/UniforLocal222/posts/pfbid02P6Tpgt2UXqEFGVbtq8mSzU67sS1H5UEuxydFWjzvysJAdaasLFq2HpWNjCeooyUcl/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Julie Payette School Holiday Market",
   "date": "2026-11-15",
   "time": "9 a.m.–2 p.m.",
