@@ -3751,6 +3751,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "The Holiday Market",
+  "date": "2026-11-28",
+  "time": "11 a.m.–6 p.m.",
+  "location": "133 Southdale Road West, London, ON N6J 2J2",
+  "city": "London",
+  "region": "London & Area",
+  "description": "The Holiday Market is coming to London — two dates filled with Christmas cheer, unique treasures, beautiful handmade gifts, seasonal treats and unforgettable holiday moments, supporting local businesses and creators. The two dates, both at 133 Southdale Road West, are Saturday November 28, 2026 (11:00 AM - 6:00 PM) and Saturday December 5, 2026 (12:00 PM - 6:00 PM); vendor registration is $60 for one date or $100 for both dates, and a free lunch will be offered to vendors. This listing is one date in the series — each date is listed separately.\nListing type: Vendor call\nTheme: Christmas\nHours: 11:00 AM - 6:00 PM\nVendor types wanted: Local businesses and creators — handmade gifts, seasonal treats and more\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2742811789494531/",
+  "fees": "$60 for one weekend (one date), $100 for both weekends",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "The Mini Market",
   "date": "2026-11-28",
   "time": "9 a.m.–12 p.m.",
@@ -4049,6 +4060,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Holiday Market at Dr. Emily Stowe Public School in Courtice — gifts, vendors, a bake sale, games and more, plus a food and toy drive. Vendor applications are being accepted by email; the vendor fee is not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nHours: 4:30 PM - 8:30 PM\nHow to apply: see the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2649454882156736/",
   "fees": "Not published - contact organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Holiday Sip & Shop Market",
+  "date": "2026-12-03",
+  "time": "4 p.m.–9 p.m.",
+  "location": "Paglione Estate Winery, Harrow, ON",
+  "city": "Harrow",
+  "region": "Windsor-Essex",
+  "description": "Holiday Sip & Shop Market at Paglione Estate Winery in Harrow — vendors wanted for an evening holiday market. The organizer says the event looks like it is going to be very well attended. The table fee is $35.\nListing type: Vendor call\nTheme: Christmas\nHours: 4:00 PM - 9:00 PM\nVendor types wanted: All vendor types\nHow to apply: see the source post\nSource: https://facebook.com/groups/222210128370316/permalink/2191300881461221/",
+  "fees": "$35 per table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -4652,6 +4674,17 @@ window.EVENTS_REFRESH = [
   "region": "Halton Region",
   "description": "Hours: not stated by organizer\nFee: not stated by organizer\nAdmission: Free — Oakville Galleries states admission is always free (gallery-wide policy; no fair-specific admission published)\nVendors expected: Up to 40 artisans, selected through a juried application process\nSource: https://facebook.com/groups/1190141658320918/permalink/1968859247115818/\n",
   "fees": "not stated by organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "The Holiday Market",
+  "date": "2026-12-05",
+  "time": "12 p.m.–6 p.m.",
+  "location": "133 Southdale Road West, London, ON N6J 2J2",
+  "city": "London",
+  "region": "London & Area",
+  "description": "The Holiday Market is coming to London — two dates filled with Christmas cheer, unique treasures, beautiful handmade gifts, seasonal treats and unforgettable holiday moments, supporting local businesses and creators. The two dates, both at 133 Southdale Road West, are Saturday November 28, 2026 (11:00 AM - 6:00 PM) and Saturday December 5, 2026 (12:00 PM - 6:00 PM); vendor registration is $60 for one date or $100 for both dates, and a free lunch will be offered to vendors. This listing is one date in the series — each date is listed separately.\nListing type: Vendor call\nTheme: Christmas\nHours: 12:00 PM - 6:00 PM\nVendor types wanted: Local businesses and creators — handmade gifts, seasonal treats and more\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2742811789494531/",
+  "fees": "$60 for one weekend (one date), $100 for both weekends",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
