@@ -3617,6 +3617,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Ottawa Farmers' Market Christmas Market",
+  "date": "2026-11-28",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Cohere Centre, 4899 Uplands Dr, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "The Ottawa Farmers' Market Christmas Market — the market's festive Saturday edition with 100+ local farmers, artisans and food producers offering handcrafted gifts, seasonal treats and fresh local products, at its new location for 2026, the Cohere Centre (formerly the EY Centre).\nListing type: Event\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nAdmission: Free\nAttractions: Festive activities and fun for kids every Saturday; free parking this Saturday\nVendors expected: 100+ local farmers, artisans and food producers\nNote: vendor fee not published — the market's vendors are its regular producer roster\nSource: https://facebook.com/OttawaFarmMkt/posts/pfbid0E2WSa482wB2cZ1fXcX2b2dJqs7uvXZgXefdD1VNtEJh7hY1AC4tga8hVFmMs2cQpl/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Port Perry High School Holiday Craft Show",
   "date": "2026-11-28",
   "time": "10 a.m.–3 p.m.",
@@ -4589,6 +4600,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Ottawa Farmers' Market Christmas Market",
+  "date": "2026-12-05",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Cohere Centre, 4899 Uplands Dr, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "The Ottawa Farmers' Market Christmas Market — the market's festive Saturday edition with 100+ local farmers, artisans and food producers offering handcrafted gifts, seasonal treats and fresh local products, at its new location for 2026, the Cohere Centre (formerly the EY Centre).\nListing type: Event\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nAdmission: Free\nAttractions: Festive activities and fun for kids every Saturday; free parking this Saturday\nVendors expected: 100+ local farmers, artisans and food producers\nNote: vendor fee not published — the market's vendors are its regular producer roster\nSource: https://facebook.com/OttawaFarmMkt/posts/pfbid0E2WSa482wB2cZ1fXcX2b2dJqs7uvXZgXefdD1VNtEJh7hY1AC4tga8hVFmMs2cQpl/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Our Favorite Things — The Christmas Edit (The Craft Show)",
   "date": "2026-12-05",
   "time": "11 a.m.–4 p.m.",
@@ -5328,6 +5350,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Ottawa Farmers' Market Christmas Market",
+  "date": "2026-12-12",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Cohere Centre, 4899 Uplands Dr, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "The Ottawa Farmers' Market Christmas Market — the market's festive Saturday edition with 100+ local farmers, artisans and food producers offering handcrafted gifts, seasonal treats and fresh local products, at its new location for 2026, the Cohere Centre (formerly the EY Centre).\nListing type: Event\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nAdmission: Free\nAttractions: Festive activities and fun for kids every Saturday; parking not listed as free this Saturday\nVendors expected: 100+ local farmers, artisans and food producers\nNote: vendor fee not published — the market's vendors are its regular producer roster\nSource: https://facebook.com/OttawaFarmMkt/posts/pfbid0E2WSa482wB2cZ1fXcX2b2dJqs7uvXZgXefdD1VNtEJh7hY1AC4tga8hVFmMs2cQpl/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Paws & Claus — Pet-Themed Christmas Craft Market",
   "date": "2026-12-12",
   "time": "10 a.m.–3 p.m.",
@@ -5783,6 +5816,17 @@ window.EVENTS_REFRESH = [
   "region": "York Region",
   "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Ottawa Farmers' Market Christmas Market",
+  "date": "2026-12-19",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Cohere Centre, 4899 Uplands Dr, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "The Ottawa Farmers' Market Christmas Market — the market's festive Saturday edition with 100+ local farmers, artisans and food producers offering handcrafted gifts, seasonal treats and fresh local products, at its new location for 2026, the Cohere Centre (formerly the EY Centre).\nListing type: Event\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nAdmission: Free\nAttractions: Festive activities and fun for kids every Saturday; free parking this Saturday\nVendors expected: 100+ local farmers, artisans and food producers\nNote: vendor fee not published — the market's vendors are its regular producer roster\nSource: https://facebook.com/OttawaFarmMkt/posts/pfbid0E2WSa482wB2cZ1fXcX2b2dJqs7uvXZgXefdD1VNtEJh7hY1AC4tga8hVFmMs2cQpl/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
