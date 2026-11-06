@@ -803,12 +803,12 @@ window.EVENTS_REFRESH = [
  {
   "title": "Black Joy Holiday Market",
   "date": "2026-11-13",
-  "time": "5 p.m.–9 p.m.",
+  "time": "5:30 p.m.–8:30 p.m.",
   "location": "Chestnut Hill Recreation Complex, Pickering, ON",
   "city": "Pickering",
   "region": "Durham Region",
-  "description": "Year 5 of the Black Joy Holiday Market, the primary fundraiser for the Afro-Caribbean Food Basket, at Chestnut Hill Recreation Complex in Pickering. Runs alongside the City of Pickering's Winter Nights, City Lights Festival at Esplanade Park. Live DJ, performances and children's activities; indoors. Day 1 of 2.\nHow to apply: vendor application at the link in the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2655048144930743/",
-  "fees": "not published",
+  "description": "Year 5 of the Black Joy Holiday Market, the primary fundraiser for Durham Family and Cultural Centre's Afro-Caribbean Food Basket, at Chestnut Hill Developments Recreation Complex in Pickering. Runs alongside the City of Pickering's Winter Nights, City Lights festivities and fireworks at Esplanade Park. Live DJ, entertainment and children's activities; indoors. Day 1 of 2.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:30 PM - 8:30 PM\nVendor types wanted: Handmade products, clothing, jewelry, skincare, home decor, gifts, food and unique businesses — all businesses welcome\nAttractions: Live DJ, entertainment, children's activities\nNote: vendor spaces are open to all businesses until full; an 8-foot table, tablecloth and two chairs are included\nHow-to-apply: https://forms.gle/SJEMmD3orZb6LGFk7\nSource: https://facebook.com/groups/ontariocanadavendorevents/permalink/4481488618828139/",
+  "fees": "$100 Friday / $200 Saturday",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1060,12 +1060,12 @@ window.EVENTS_REFRESH = [
  {
   "title": "Black Joy Holiday Market",
   "date": "2026-11-14",
-  "time": "12 p.m.–9 p.m.",
+  "time": "12 p.m.–8:30 p.m.",
   "location": "Chestnut Hill Recreation Complex, Pickering, ON",
   "city": "Pickering",
   "region": "Durham Region",
-  "description": "Year 5 of the Black Joy Holiday Market, the primary fundraiser for the Afro-Caribbean Food Basket, at Chestnut Hill Recreation Complex in Pickering. Runs alongside the City of Pickering's Winter Nights, City Lights Festival at Esplanade Park. Live DJ, performances and children's activities; indoors. Day 2 of 2.\nHow to apply: vendor application at the link in the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2655048144930743/",
-  "fees": "not published",
+  "description": "Year 5 of the Black Joy Holiday Market, the primary fundraiser for Durham Family and Cultural Centre's Afro-Caribbean Food Basket, at Chestnut Hill Developments Recreation Complex in Pickering. Runs alongside the City of Pickering's Winter Nights, City Lights festivities and fireworks at Esplanade Park. Live DJ, entertainment and children's activities; indoors. Day 2 of 2.\nListing type: Vendor call\nTheme: Christmas\nHours: 12:00 PM - 8:30 PM\nVendor types wanted: Handmade products, clothing, jewelry, skincare, home decor, gifts, food and unique businesses — all businesses welcome\nAttractions: Live DJ, entertainment, children's activities\nNote: vendor spaces are open to all businesses until full; an 8-foot table, tablecloth and two chairs are included\nHow-to-apply: https://forms.gle/SJEMmD3orZb6LGFk7\nSource: https://facebook.com/groups/ontariocanadavendorevents/permalink/4481488618828139/",
+  "fees": "$100 Friday / $200 Saturday",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
