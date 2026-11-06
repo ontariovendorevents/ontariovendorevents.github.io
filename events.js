@@ -2092,11 +2092,11 @@ window.EVENTS_REFRESH = [
  {
   "title": "Eastdale 39th Annual Craft Show",
   "date": "2026-11-21",
-  "time": "10 a.m.–4:30 p.m.",
+  "time": "10 a.m.–4 p.m.",
   "location": "Eastdale Collegiate, 265 Harmony Rd N, Oshawa, ON",
   "city": "Oshawa",
   "region": "Durham Region",
-  "description": "Eastdale Collegiate's 39th annual craft show in Oshawa, running Saturday November 21 and Sunday November 22, 10:00 AM - 4:30 PM both days. Vendor spaces are available; new applications are processed on a first-come basis - apply via the show's vendor page.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 4:30 PM\nSource: https://sites.google.com/ddsb.ca/eastdalecraftshow/event-info",
+  "description": "Eastdale Collegiate's 39th annual craft show in Oshawa. Vendor spaces are available; new applications are processed on a first-come basis - apply via the show's vendor page.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nAdmission: $2\nAttractions: Door prizes, Santa photos\nVendors expected: 100+ local vendors\nNote: hours and admission from the show's 2026 poster; the show's website still shows 10:00 AM - 4:30 PM both days\nSource: https://sites.google.com/ddsb.ca/eastdalecraftshow/event-info",
   "fees": "$130",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2601,11 +2601,11 @@ window.EVENTS_REFRESH = [
  {
   "title": "Eastdale 39th Annual Craft Show",
   "date": "2026-11-22",
-  "time": "10 a.m.–4:30 p.m.",
+  "time": "10 a.m.–3 p.m.",
   "location": "Eastdale Collegiate, 265 Harmony Rd N, Oshawa, ON",
   "city": "Oshawa",
   "region": "Durham Region",
-  "description": "Eastdale Collegiate's 39th annual craft show in Oshawa, running Saturday November 21 and Sunday November 22, 10:00 AM - 4:30 PM both days. Vendor spaces are available; new applications are processed on a first-come basis - apply via the show's vendor page.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 4:30 PM\nSource: https://sites.google.com/ddsb.ca/eastdalecraftshow/event-info",
+  "description": "Eastdale Collegiate's 39th annual craft show in Oshawa. Vendor spaces are available; new applications are processed on a first-come basis - apply via the show's vendor page.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nAdmission: $2\nAttractions: Door prizes, Santa photos\nVendors expected: 100+ local vendors\nNote: hours and admission from the show's 2026 poster; the show's website still shows 10:00 AM - 4:30 PM both days\nSource: https://sites.google.com/ddsb.ca/eastdalecraftshow/event-info",
   "fees": "$130",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
