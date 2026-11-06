@@ -4232,6 +4232,18 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Spirit of the Season (Guelph)",
+  "date": "2026-12-04",
+  "endDate": "2026-12-06",
+  "time": "Time not listed",
+  "location": "Downtown Guelph (Old Quebec Street Shoppes & Carden Street), Guelph, ON",
+  "city": "Guelph",
+  "region": "Rest of Ontario",
+  "description": "Downtown Guelph's Spirit of the Season festival, organized by the Downtown Guelph Business Association — an indoor Christmas marketplace in the Old Quebec Street Shoppes plus 30+ outdoor vendor huts on Carden Street (closed to traffic), with live entertainment, food and kids' activities.\nListing type: Event\nTheme: Christmas\nHours: Friday 4:00 PM - 9:00 PM; Saturday 11:00 AM - 9:00 PM; Sunday 11:00 AM - 5:00 PM\nAdmission: Free\nAttractions: Guelph Santa Claus Parade and Santa Run (Sat Dec 5), Mayor & Council tree lighting (Fri Dec 4), Grinch visits, live musical performances indoors and outdoors, storefront decorating contest\nNote: juried marketplace; 2026 vendor applications closed May 29, 2026\nSource: https://www.spiritoftheseasonguelph.com/",
+  "fees": "Applications closed",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "St. Catherine's Elementary Christmas Market",
   "date": "2026-12-04",
   "time": "6 p.m.–9 p.m.",
@@ -5134,6 +5146,18 @@ window.EVENTS_REFRESH = [
   "region": "Ottawa",
   "description": "Ottawa's big outdoor Christmas market — 60+ local vendors in wooden chalets at Aberdeen Plaza, Lansdowne Park.\nHours: Fri 5:00 PM – 10:00 PM; Sat 10:00 AM – 10:00 PM; Sun 10:00 AM – 8:00 PM\nAdmission: not stated\nAttractions: Twinkle Tunnel light walk, skating rink, Santa's Village, Blitzen's Bar, fire pits, live entertainment on two stages\nNote: vendor fee and application details not published on the organizer's site\nSource: https://ottawachristmasmarket.com/",
   "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Spirit of the Season (Guelph)",
+  "date": "2026-12-11",
+  "endDate": "2026-12-13",
+  "time": "Time not listed",
+  "location": "Downtown Guelph (Old Quebec Street Shoppes & Carden Street), Guelph, ON",
+  "city": "Guelph",
+  "region": "Rest of Ontario",
+  "description": "Downtown Guelph's Spirit of the Season festival, organized by the Downtown Guelph Business Association — an indoor Christmas marketplace in the Old Quebec Street Shoppes plus 30+ outdoor vendor huts on Carden Street (closed to traffic), with live entertainment, food and kids' activities.\nListing type: Event\nTheme: Christmas\nHours: Friday 4:00 PM - 9:00 PM; Saturday 11:00 AM - 9:00 PM; Sunday 11:00 AM - 5:00 PM\nAdmission: Free\nAttractions: Grinch visits, live musical performances indoors and outdoors, storefront decorating contest\nNote: juried marketplace; 2026 vendor applications closed May 29, 2026\nSource: https://www.spiritoftheseasonguelph.com/",
+  "fees": "Applications closed",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
