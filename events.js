@@ -238,6 +238,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Durham Christian Homes Fall Market",
+  "date": "2026-11-07",
+  "time": "9 a.m.–1 p.m.",
+  "location": "Durham Christian Homes, 200 Glen Hill Dr S, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "Durham Christian Homes Fall Market in Whitby — a fall market featuring baked goods, handmade crafts, housewares, woodworking and cafe goodies, including poffertjes.\nListing type: Event\nTheme: Fall\nHours: 9:00 AM - 1:00 PM\nAdmission: not stated\nAttractions: Baked goods, handmade crafts, housewares, woodworking, cafe goodies including poffertjes\nNote: vendor fee not published\nSource: https://facebook.com/ReElectMayorRoyWhitby/posts/pfbid02BoXi1Ut36iZhUdyPgELcVkG16dKN5MLiHH8BPhgsnd7SvHVQNYuSgfExEpEjpVntl/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Fall One Stop and Shop",
   "date": "2026-11-07",
   "time": "8 a.m.–1:30 p.m.",
