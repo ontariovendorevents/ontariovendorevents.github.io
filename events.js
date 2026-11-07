@@ -4195,6 +4195,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Silver Creek Public School Holiday Market",
+  "date": "2026-12-03",
+  "time": "5:30 p.m.–7:30 p.m.",
+  "location": "Silver Creek Public School, 170 Eaton St, Georgetown, ON",
+  "city": "Georgetown",
+  "region": "Halton Region",
+  "description": "Silver Creek Public School's Holiday Market in Georgetown, run by the school parent council — vendors showcase unique products, handmade items and gifts while supporting the school community. A few vendor spots remain. No food vendors; student vendors are welcome. The vendor fee is not published in the call.\nListing type: Vendor call\nTheme: Holiday\nHours: 5:30 PM - 7:30 PM\nAdmission: not stated\nVendor types wanted: Makers and gift vendors (no food vendors)\nHow-to-apply: https://forms.gle/gaxmyXgD7qVAxGE16\nSource: https://facebook.com/groups/524928052267953/permalink/1604244594336288/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "St. Robert 4th Annual Christmas Market",
   "date": "2026-12-03",
   "time": "6 p.m.–9 p.m.",
