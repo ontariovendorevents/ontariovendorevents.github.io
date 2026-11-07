@@ -644,6 +644,21 @@
     }
     .signup-toggle[aria-expanded="true"]::after { transform: translateY(3px) rotate(225deg); }
     .signup-panel { padding: 2px clamp(10px, 2vw, 18px) clamp(10px, 2vw, 18px); }
+    .review-panel { padding: 4px clamp(14px, 2vw, 20px) clamp(14px, 2vw, 18px); }
+    .review-panel p { color: var(--muted); max-width: 720px; }
+    .rv-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 12px 0; }
+    .rv-field label { display: block; font-weight: 700; font-size: .92rem; margin-bottom: 5px; }
+    .rv-field input, .rv-field select, .rv-field textarea {
+      width: 100%; padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px;
+      background: #fff; color: var(--ink);
+    }
+    .rv-field textarea { min-height: 64px; resize: vertical; }
+    .rv-wide { grid-column: 1 / -1; }
+    .rv-check { display: flex; gap: 9px; align-items: flex-start; margin: 8px 0; color: var(--muted); }
+    .rv-check input { margin-top: 3px; }
+    .rv-status { font-weight: 700; color: var(--brand-strong); }
+    .rv-note { font-size: .88rem; }
+
     .signup-band::before {
       content: "";
       position: absolute;
@@ -1159,6 +1174,36 @@
       </div>
     </section>
 
+
+    <section class="signup-band" aria-label="Rate a market you attended">
+      <button class="signup-toggle" id="review-toggle" type="button" aria-expanded="false" aria-controls="review-panel">Rate a market you attended</button>
+      <div class="review-panel" id="review-panel" hidden>
+        <p>Vendored or shopped at a market listed here? Rate it — two minutes, right on this page. Scores are published as summaries only, and only once a market has a few reviews. Your name and email never appear.</p>
+        <div class="role-row">
+          <div class="role-toggle" role="group" aria-label="I attended as">
+            <button class="role-btn" type="button" id="rv-role-vendor" aria-pressed="true">I was a vendor</button>
+            <button class="role-btn" type="button" id="rv-role-shopper" aria-pressed="false">I was a shopper</button>
+          </div>
+        </div>
+        <form id="rv-form" novalidate>
+          <div class="rv-grid"><div class="rv-field"><label for="rv-market">Market name</label><input id="rv-market" type="text" required /></div><div class="rv-field"><label for="rv-date">Date you attended</label><input id="rv-date" type="date" required /></div><div class="rv-field"><label for="rv-town">Town / city</label><input id="rv-town" type="text" required /></div></div>
+          <div id="rv-fields-vendor">
+            <div class="rv-grid"><div class="rv-field"><label for="rv-v-overall">Overall experience ★</label><select id="rv-v-overall" required><option value="">Choose…</option><option value="1">1 — Poor</option><option value="2">2 — Weak</option><option value="3">3 — Okay</option><option value="4">4 — Good</option><option value="5">5 — Excellent</option></select></div><div class="rv-field"><label for="rv-v-org">Organization &amp; communication ★</label><select id="rv-v-org" required><option value="">Choose…</option><option value="1">1 — Poor</option><option value="2">2 — Weak</option><option value="3">3 — Okay</option><option value="4">4 — Good</option><option value="5">5 — Excellent</option></select></div><div class="rv-field"><label for="rv-v-load">Set-up / load-in &amp; load-out ★</label><select id="rv-v-load" required><option value="">Choose…</option><option value="1">1 — Poor</option><option value="2">2 — Weak</option><option value="3">3 — Okay</option><option value="4">4 — Good</option><option value="5">5 — Excellent</option></select></div><div class="rv-field"><label for="rv-v-traffic">Foot traffic ★</label><select id="rv-v-traffic" required><option value="">Choose…</option><option value="1">1 — Poor</option><option value="2">2 — Weak</option><option value="3">3 — Okay</option><option value="4">4 — Good</option><option value="5">5 — Excellent</option></select></div><div class="rv-field"><label for="rv-v-trafficwords">Foot traffic in words</label><select id="rv-v-trafficwords"><option value="">Choose…</option><option value="Packed">Packed</option><option value="Steady">Steady</option><option value="Slow">Slow</option><option value="Dead">Dead</option></select></div><div class="rv-field"><label for="rv-v-fee">Value for the table fee ★</label><select id="rv-v-fee" required><option value="">Choose…</option><option value="1">1 — Poor</option><option value="2">2 — Weak</option><option value="3">3 — Okay</option><option value="4">4 — Good</option><option value="5">5 — Excellent</option></select></div><div class="rv-field"><label for="rv-v-feeback">Did you make your table fee back?</label><select id="rv-v-feeback" required><option value="">Choose…</option><option value="Yes, comfortably">Yes, comfortably</option><option value="Just barely">Just barely</option><option value="No">No</option><option value="Prefer not to say">Prefer not to say</option></select></div><div class="rv-field"><label for="rv-v-sells">What do you sell?</label><select id="rv-v-sells"><option value="">Choose…</option><option value="Food / drink">Food / drink</option><option value="Candles / wax / home fragrance">Candles / wax / home fragrance</option><option value="Woodwork">Woodwork</option><option value="Jewelry">Jewelry</option><option value="Art / prints">Art / prints</option><option value="Clothing / textiles">Clothing / textiles</option><option value="Plants / garden">Plants / garden</option><option value="Other">Other</option></select></div><div class="rv-field"><label for="rv-v-again">Would you vend at this market again?</label><select id="rv-v-again" required><option value="">Choose…</option><option value="Yes">Yes</option><option value="Maybe">Maybe</option><option value="No">No</option></select></div><div class="rv-field rv-wide"><label for="rv-v-well">One thing the organizer did well</label><textarea id="rv-v-well"></textarea></div><div class="rv-field rv-wide"><label for="rv-v-better">One thing that could be better <span class="rv-note">(private — never posted; shared with the organizer anonymously)</span></label><textarea id="rv-v-better"></textarea></div><div class="rv-field"><label for="rv-v-biz">Your business name <span class="rv-note">(private — never published)</span></label><input id="rv-v-biz" type="text" required /></div><div class="rv-field"><label for="rv-v-email">Your email <span class="rv-note">(private — never published)</span></label><input id="rv-v-email" type="email" required /></div></div>
+            <label class="rv-check"><input id="rv-v-attended" type="checkbox" required /> <span>I actually attended this market on this date as a vendor</span></label>
+            <label class="rv-check"><input id="rv-v-quote" type="checkbox" /> <span>You may quote my “did well” words anonymously</span></label>
+          </div>
+          <div id="rv-fields-shopper" hidden>
+            <div class="rv-grid"><div class="rv-field"><label for="rv-s-overall">Overall experience ★</label><select id="rv-s-overall" required><option value="">Choose…</option><option value="1">1 — Poor</option><option value="2">2 — Weak</option><option value="3">3 — Okay</option><option value="4">4 — Good</option><option value="5">5 — Excellent</option></select></div><div class="rv-field"><label for="rv-s-variety">Variety of vendors ★</label><select id="rv-s-variety" required><option value="">Choose…</option><option value="1">1 — Poor</option><option value="2">2 — Weak</option><option value="3">3 — Okay</option><option value="4">4 — Good</option><option value="5">5 — Excellent</option></select></div><div class="rv-field"><label for="rv-s-quality">Quality of what was on offer ★</label><select id="rv-s-quality" required><option value="">Choose…</option><option value="1">1 — Poor</option><option value="2">2 — Weak</option><option value="3">3 — Okay</option><option value="4">4 — Good</option><option value="5">5 — Excellent</option></select></div><div class="rv-field"><label for="rv-s-parking">Getting there &amp; parking ★</label><select id="rv-s-parking" required><option value="">Choose…</option><option value="1">1 — Poor</option><option value="2">2 — Weak</option><option value="3">3 — Okay</option><option value="4">4 — Good</option><option value="5">5 — Excellent</option></select></div><div class="rv-field"><label for="rv-s-layout">Layout &amp; crowds ★</label><select id="rv-s-layout" required><option value="">Choose…</option><option value="1">1 — Poor</option><option value="2">2 — Weak</option><option value="3">3 — Okay</option><option value="4">4 — Good</option><option value="5">5 — Excellent</option></select></div><div class="rv-field"><label for="rv-s-spend">Roughly what did you spend?</label><select id="rv-s-spend"><option value="">Choose…</option><option value="Just browsing">Just browsing</option><option value="Under $25">Under $25</option><option value="$25–$50">$25–$50</option><option value="$50–$100">$50–$100</option><option value="$100+">$100+</option></select></div><div class="rv-field"><label for="rv-s-again">Would you go to this market again?</label><select id="rv-s-again" required><option value="">Choose…</option><option value="Yes">Yes</option><option value="Maybe">Maybe</option><option value="No">No</option></select></div><div class="rv-field rv-wide"><label for="rv-s-best">Best find of the day</label><textarea id="rv-s-best"></textarea></div><div class="rv-field rv-wide"><label for="rv-s-better">One thing that could be better <span class="rv-note">(private — never posted; shared with the organizer anonymously)</span></label><textarea id="rv-s-better"></textarea></div><div class="rv-field"><label for="rv-s-name">Your name <span class="rv-note">(optional, private)</span></label><input id="rv-s-name" type="text" /></div><div class="rv-field"><label for="rv-s-email">Your email <span class="rv-note">(private — never published)</span></label><input id="rv-s-email" type="email" required /></div></div>
+            <label class="rv-check"><input id="rv-s-attended" type="checkbox" required /> <span>I actually attended this market on this date as a shopper</span></label>
+            <label class="rv-check"><input id="rv-s-quote" type="checkbox" /> <span>You may quote my “best find” words anonymously</span></label>
+          </div>
+          <button class="btn btn-primary" type="submit">Send my review</button>
+          <p class="rv-status" id="rv-status" aria-live="polite"></p>
+          <p class="rv-note">One review per person, per market date. Every review is checked before any score is published.</p>
+        </form>
+      </div>
+    </section>
+
     <section class="organizer-panel" id="organizer-panel" aria-labelledby="organizer-title" hidden>
       <div class="organizer-grid">
         <div>
@@ -1216,6 +1261,7 @@
       <details><summary>What does each listing show?</summary><p>The date, time and location, the vendor fee when the organizer publishes one, application deadlines, and how to apply — with a link back to the original post so you can confirm the details yourself.</p></details>
       <details><summary>Who is it for, and what does it cost?</summary><p>Shoppers looking for markets to visit, and vendors looking for shows to sell at. Browsing is free for everyone, and organizers can submit an event for free.</p></details>
       <details><summary>What are the Vendor, Shopper and Organizer views?</summary><p>Three ways to read the same calendar, switched at the top of the filters. Vendor view shows fees and how to apply; Shopper view hides the vendor details and leads with times, places and admission; Organizer view adds the listing tools for the people running the markets. The page remembers your pick on this device.</p></details>
+      <details><summary>Can I review a market I attended?</summary><p>Yes — use “Rate a market you attended” near the top of this page. Vendors and shoppers get their own short form, right on the page. Scores are published as summaries only once a market has a few reviews, and names and emails never appear.</p></details>
       <details><summary>How often is it updated?</summary><p>The page refreshes from the calendar every morning, and new vendor calls are added most days as organizers post them.</p></details>
       <details><summary>I'm an organizer — how do I get my event listed?</summary><p>Use the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfi4jFs74WjrxqpPmFfuGv8PPKfEK3W8HMbOb4BrLlKFjr3gQ/viewform" target="_blank" rel="noopener noreferrer">event submission form</a> — it's free, and every submission is reviewed before it appears.</p></details>
       <details><summary>Is there an app?</summary><p>Yes — Ontario Vendor Events is now on Google Play for Android: <a href="https://play.google.com/store/apps/details?id=com.ontariovendorevents.app" target="_blank" rel="noopener noreferrer">get the app</a>. It shows the same markets as this page, with saved markets and new-event alerts on your phone. On an iPhone? This page is the same calendar — everything the app shows lives right here, and the Ontario Vendor Events Facebook community has the day-to-day posts.</p></details>
@@ -1229,7 +1275,7 @@
         <span id="legend-events">0 events</span>
       </div>
       <div class="kofi-button"><a href="https://ko-fi.com/evergreenember" target="_blank" rel="noopener noreferrer" aria-label="Support me on Ko-fi (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none"><path fill="#fff" d="M3 6.5h13.5v7A5.5 5.5 0 0 1 11 19H8.5A5.5 5.5 0 0 1 3 13.5v-7Z"/><path stroke="#1c211e" stroke-width="1.8" d="M16.5 8h1.25a3.25 3.25 0 0 1 0 6.5H16"/><path fill="#ff5e5b" d="M9.75 15.1 6.5 12a2.15 2.15 0 0 1 3.25-2.8A2.15 2.15 0 0 1 13 12l-3.25 3.1Z"/></svg><span>Support me on Ko-fi</span></a></div>
-      <div class="snapshot">Calendar snapshot · November 7, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v40 · Changelog</button></div>
+      <div class="snapshot">Calendar snapshot · November 7, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v41 · Changelog</button></div>
       <p class="disclaimer">We do our best to check all of the events, but it still remains on each individual to do their due diligence.</p>
       <p class="credit">Ontario Vendor Events is built and curated by <a href="https://linktr.ee/evergreen.n.ember" target="_blank" rel="noopener noreferrer">Evergreen &amp; Ember</a></p>
       <nav class="socials" aria-label="Ontario Vendor Events on social media">
@@ -1250,6 +1296,7 @@
       </div>
       <div class="changelog-body">
         <p class="changelog-note">Page features and improvements. New event listings aren't logged here — the page always shows the latest from the calendar.</p>
+        <section class="changelog-entry"><h3>v41 — Nov 7, 2026</h3><ul><li>New “Rate a market you attended” band near the top of the page: vendors and shoppers can review a market right on this page, without leaving it. Scores will be published as summaries only, once a market has a few reviews; names and emails never appear.</li></ul></section>
         <section class="changelog-entry"><h3>v40 — Nov 5, 2026</h3><ul><li>The footer&rsquo;s “Follow along” links now carry little icons — the Facebook f, a community glyph for the group, camera for Instagram, music note for TikTok, an orange Reddit face and a link mark for Linktree — same links, just easier to spot at a glance.</li></ul></section>
         <section class="changelog-entry"><h3>v39 — Nov 5, 2026</h3><ul><li>New in the footer: a “Follow along” row linking every Ontario Vendor Events home — the Facebook Page, the Facebook Community group, Instagram, TikTok and the new Reddit community — plus the new Linktree, which gathers all of them and the app in one place.</li></ul></section>
         <section class="changelog-entry"><h3>v38 — Nov 3, 2026</h3><ul><li>New: a compact “Now available on Android” banner under the headline, with Google Play&rsquo;s official badge linking straight to the Ontario Vendor Events app. The app shows the same markets as this page, with saved markets and new-event alerts; on iPhone, this page remains the same calendar in your browser.</li></ul></section>
@@ -1929,6 +1976,88 @@
         var willOpen = signupToggle.getAttribute('aria-expanded') !== 'true';
         signupToggle.setAttribute('aria-expanded', willOpen ? 'true' : 'false');
         signupPanel.hidden = !willOpen;
+      });
+
+      var reviewToggle = document.getElementById('review-toggle');
+      var reviewPanel = document.getElementById('review-panel');
+      reviewToggle.addEventListener('click', function () {
+        var willOpen = reviewToggle.getAttribute('aria-expanded') !== 'true';
+        reviewToggle.setAttribute('aria-expanded', willOpen ? 'true' : 'false');
+        reviewPanel.hidden = !willOpen;
+      });
+      var rvRole = 'vendor';
+      var rvVendorBox = document.getElementById('rv-fields-vendor');
+      var rvShopperBox = document.getElementById('rv-fields-shopper');
+      var rvBtnV = document.getElementById('rv-role-vendor');
+      var rvBtnS = document.getElementById('rv-role-shopper');
+      function rvSetDisabled(box, dis) {
+        var els = box.querySelectorAll('input, select, textarea');
+        for (var i = 0; i < els.length; i++) els[i].disabled = dis;
+      }
+      function rvSetRole(role) {
+        rvRole = role;
+        var isV = role === 'vendor';
+        rvVendorBox.hidden = !isV; rvShopperBox.hidden = isV;
+        rvBtnV.setAttribute('aria-pressed', isV ? 'true' : 'false');
+        rvBtnS.setAttribute('aria-pressed', isV ? 'false' : 'true');
+        rvSetDisabled(rvVendorBox, !isV); rvSetDisabled(rvShopperBox, isV);
+      }
+      rvBtnV.addEventListener('click', function () { rvSetRole('vendor'); });
+      rvBtnS.addEventListener('click', function () { rvSetRole('shopper'); });
+      rvSetRole('vendor');
+      var RV_ENDPOINTS = {
+        vendor: 'https://docs.google.com/forms/d/e/1FAIpQLSep74oCiRz58QyfuxRtq48s85Phdt8dsXd0oRGGAozdRGo3nA/formResponse',
+        shopper: 'https://docs.google.com/forms/d/e/1FAIpQLSfgnjT4SSN0PmsoUnirWgnxslan2J84GYUsZfNowFgF5_gHmg/formResponse'
+      };
+      function rvVal(id) { var el = document.getElementById(id); return el ? el.value.trim() : ''; }
+      function rvPut(params, entry, id) { var v = rvVal(id); if (v) params.set('entry.' + entry, v); }
+      document.getElementById('rv-form').addEventListener('submit', function (ev) {
+        ev.preventDefault();
+        var form = ev.target;
+        if (!form.checkValidity()) { form.reportValidity(); return; }
+        var params = new URLSearchParams();
+        var dparts = rvVal('rv-date').split('-');
+        var isV = rvRole === 'vendor';
+        var M = isV
+          ? { market: 2058610176, date: 1174331879, town: 2063252065 }
+          : { market: 1006996537, date: 1608557566, town: 877922623 };
+        rvPut(params, M.market, 'rv-market'); rvPut(params, M.town, 'rv-town');
+        if (dparts.length === 3) {
+          params.set('entry.' + M.date + '_year', dparts[0]);
+          params.set('entry.' + M.date + '_month', String(parseInt(dparts[1], 10)));
+          params.set('entry.' + M.date + '_day', String(parseInt(dparts[2], 10)));
+        }
+        if (isV) {
+          rvPut(params, 427757732, 'rv-v-overall'); rvPut(params, 1599447046, 'rv-v-org');
+          rvPut(params, 962250968, 'rv-v-load'); rvPut(params, 756103662, 'rv-v-traffic');
+          rvPut(params, 1347393685, 'rv-v-trafficwords'); rvPut(params, 884489474, 'rv-v-fee');
+          rvPut(params, 680496179, 'rv-v-feeback'); rvPut(params, 397930646, 'rv-v-sells');
+          rvPut(params, 33486757, 'rv-v-again'); rvPut(params, 945091854, 'rv-v-well');
+          rvPut(params, 1914454758, 'rv-v-better'); rvPut(params, 1887081117, 'rv-v-biz');
+          rvPut(params, 1759169425, 'rv-v-email');
+          if (document.getElementById('rv-v-attended').checked) params.set('entry.1527837225', 'I actually attended this market on this date as a vendor');
+          if (document.getElementById('rv-v-quote').checked) params.set('entry.1610157456', "You may quote my 'did well' words anonymously");
+        } else {
+          rvPut(params, 205588766, 'rv-s-overall'); rvPut(params, 1862349913, 'rv-s-variety');
+          rvPut(params, 1012642721, 'rv-s-quality'); rvPut(params, 1254504017, 'rv-s-parking');
+          rvPut(params, 1235225741, 'rv-s-layout'); rvPut(params, 590024553, 'rv-s-spend');
+          rvPut(params, 1398436964, 'rv-s-again'); rvPut(params, 1962947856, 'rv-s-best');
+          rvPut(params, 1652504690, 'rv-s-better'); rvPut(params, 2113016128, 'rv-s-name');
+          rvPut(params, 702763702, 'rv-s-email');
+          if (document.getElementById('rv-s-attended').checked) params.set('entry.1259265399', 'I actually attended this market on this date as a shopper');
+          if (document.getElementById('rv-s-quote').checked) params.set('entry.460389995', "You may quote my 'best find' words anonymously");
+        }
+        var status = document.getElementById('rv-status');
+        status.textContent = 'Sending…';
+        fetch(RV_ENDPOINTS[rvRole], { method: 'POST', mode: 'no-cors',
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body: params.toString() })
+          .then(function () {
+            status.textContent = 'Thanks — your review is in. It is checked before any score is published.';
+            form.reset(); rvSetRole(rvRole);
+          })
+          .catch(function () {
+            status.textContent = 'Could not send — check your connection and try again. Nothing was submitted.';
+          });
       });
       changelogOpen.addEventListener('click', function () {
         changelogDialog.showModal();
