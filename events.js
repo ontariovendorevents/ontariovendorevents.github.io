@@ -569,6 +569,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Stouffville Christmas Home Tour & Holiday Marketplace",
+  "date": "2026-11-07",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Sleepy Hollow Golf & Country Club, 13242 Tenth Line, Stouffville, ON",
+  "city": "Stouffville",
+  "region": "York Region",
+  "description": "The Holiday Marketplace of the Stouffville Christmas Home Tour, at Sleepy Hollow Golf & Country Club — local shopping alongside the decorated-home tour. Today's marketplace session is open to the public, no tickets needed; the home tour itself is ticketed (tour tickets: stouffvillechristmashometour.com).\nListing type: Event\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nAdmission: Open to the public, no tickets needed (marketplace)\nNote: vendor fee not published\nSource: https://www.instagram.com/p/DfYUZ99vYCI/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Tobermory Fall into Winter Market",
   "date": "2026-11-07",
   "time": "10 a.m.–1 p.m.",
