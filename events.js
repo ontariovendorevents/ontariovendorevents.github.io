@@ -227,6 +227,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Ebenezer Winter Marketplace",
+  "date": "2026-11-07",
+  "time": "9 a.m.–1 p.m.",
+  "location": "Ebenezer United Church, 1669 Courtice Rd S, Courtice, ON",
+  "city": "Courtice",
+  "region": "Durham Region",
+  "description": "Ebenezer's Winter Marketplace at Ebenezer United Church in Courtice - the church's 6th annual Winter Marketplace, with local vendors and craft tables.\nListing type: Event\nTheme: Christmas\nHours: 9:00 AM - 1:00 PM\nAttractions: Home baked goods; local vendors; craft tables; books and puzzles; door prize draw\nSource: https://www.facebook.com/scott.down.378/posts/pfbid0bwPDf68mLS4KV3J7pjTGdkLB24T5sM4kYKAp6UyiC9RM5XpfAE3sr1nejNvnGgXEl",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Fall One Stop and Shop",
   "date": "2026-11-07",
   "time": "8 a.m.–1:30 p.m.",
@@ -544,6 +555,17 @@ window.EVENTS_REFRESH = [
   "region": "Hamilton",
   "description": "Weekly Saturday vendor market inside the Something New retail store; join for all or part of the day. Vendor fee: $45 per table. How to apply: https://forms.gle/2n4QMdztaSnynduk9. Organizer: Something New, 416 Concession Street, Hamilton.\nFee: $45\nHours: 9:00 AM – 4:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1568365661257515/",
   "fees": "$45/table",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "St. Joseph CWL Fall Bazaar",
+  "date": "2026-11-07",
+  "time": "Time not listed",
+  "location": "Parish Hall, St. Joseph Roman Catholic Church, 127 Liberty St S, Bowmanville, ON L1C 2P5",
+  "city": "Bowmanville",
+  "region": "Durham Region",
+  "description": "St. Joseph CWL Fall Bazaar - the Catholic Women's League Fall Bazaar at St. Joseph Roman Catholic Church in Bowmanville, in the Parish Hall.\nListing type: Event\nTheme: Christmas\nHours: From 10:00 AM\nAttractions: Family photo booth; children's toys & books; penny table; Christmas décor; baked goods; knitted goods\nSource: https://news.stjoeschurch.ca/cwl/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
