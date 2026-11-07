@@ -36,28 +36,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "Christmas With Heart Evening Market",
-  "date": "2026-11-06",
-  "time": "5 p.m.–9 p.m.",
-  "location": "Best Western Arden Park Hotel, 552 Ontario St, Stratford, Ontario",
-  "city": "Stratford",
-  "region": "Rest of Ontario",
-  "description": "Evening Christmas market for makers, artisans and small businesses, by Spice & Threads Markets With Heart. Vendor fee: not published - contact organizer. Applications close October 2, 2026. How to apply: https://forms.gle/sY7hk6NuXaddDwcq5. Organizer: Spice & Threads Markets With Heart.\nHours: 5:00 PM – 9:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1563276048433143/",
-  "fees": "not published - contact organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Howard Johnson Outdoor Holiday Market",
-  "date": "2026-11-06",
-  "time": "5 p.m.–9 p.m.",
-  "location": "Howard Johnson by Wyndham, 354 Lindsay St S, Lindsay",
-  "city": "Lindsay",
-  "region": "Kawarthas and Peterborough",
-  "description": "Theme: Christmas\nFee: not stated by organizer\nHours: 5 PM – 9 PM\nHow to apply: application link not captured from post\nSource: https://facebook.com/groups/145130302589219/permalink/2627649787670579/\n",
-  "fees": "not stated by organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "London Rock N' Gem Show",
   "date": "2026-11-06",
   "endDate": "2026-11-08",
