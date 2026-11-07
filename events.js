@@ -3263,6 +3263,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Christmas Market and Bake Sale (Messiah Lutheran Church)",
+  "date": "2026-11-28",
+  "time": "8 a.m.–1 p.m.",
+  "location": "Messiah Lutheran Church, 700 Glen Forrest Blvd, Waterloo, ON",
+  "city": "Waterloo",
+  "region": "Waterloo Region",
+  "description": "Christmas Market and Bake Sale held at Messiah Lutheran Church in Waterloo. Vendor fee is $20 (a 6 ft table is included if needed; chairs included; electrical outlet spots and fabric dividers available in limited quantities). Cookies and lunch are available for purchase, and vendors receive coupons for free coffee during the market. The organizer asks that no diffusers be used, for those sensitive to scent; samples for customers to smell are welcome.\nListing type: Vendor call\nTheme: Christmas\nHours: 8:00 AM - 1:00 PM\nAdmission: not stated\nVendor types wanted: Makers, crafters and small businesses\nHow-to-apply: Email the organizer to apply (see source post)\nSource: https://facebook.com/groups/971632669514677/permalink/29657908847127010/",
+  "fees": "$20",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Christmas Market at The Playdate Cafe Ottawa",
   "date": "2026-11-28",
   "time": "11 a.m.–5 p.m.",
