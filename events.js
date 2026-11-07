@@ -1659,6 +1659,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Whitby Legion Holiday Bazaar",
+  "date": "2026-11-15",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Royal Canadian Legion Branch 112, 117 Byron St S, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "Whitby Legion Holiday Bazaar - the Royal Canadian Legion Branch 112's annual Holiday Bazaar in Whitby, with vendors and artisans. 6-foot vendor tables are $30 each.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nVendor types wanted: Vendors and artisans\nHow to apply: see the source post\nSource: https://www.facebook.com/WhitbyLegionBranch112/posts/pfbid02jwBjLn3XLiRH9mQvsTXn9J3Nrh9apvnivncSoB3U1BzZd3hDqSp5PuUDtrBAfxy9l",
+  "fees": "$30",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Eising Christmas Craft Show",
   "date": "2026-11-16",
   "endDate": "2026-11-21",
@@ -2020,6 +2031,17 @@ window.EVENTS_REFRESH = [
   "region": "London & Area",
   "description": "Vendor call from Event Dynamics: come on out to the 4th annual Christmas Countdown Market at the Masonic Centre of Elgin in St. Thomas, running Saturday and Sunday, 10:00 AM – 4:00 PM both days. Vendor applications are open via the Google Forms link below.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nApply: https://docs.google.com/forms/d/e/1FAIpQLSfMCYfig3fIrARkjI_7Oe2CvHUolBLFok0GeG7MWbrzmXP7mg/viewform\nSource: https://facebook.com/groups/145130302589219/permalink/2651074948661396/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "All Saints' Annual Bazaar",
+  "date": "2026-11-21",
+  "time": "Time not listed",
+  "location": "All Saints' Anglican Church, 300 Dundas St W, Whitby, ON L1N 2M5",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "All Saints' Annual Bazaar at All Saints' Anglican Church in Whitby - the parish's annual Christmas bazaar, with an online silent auction.\nListing type: Event\nTheme: Christmas\nAttractions: Online silent auction\nSource: https://allsaintswhitby.org/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
