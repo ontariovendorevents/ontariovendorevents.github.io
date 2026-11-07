@@ -4711,6 +4711,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "St. Eugene's 8th Annual Community Christmas Market",
+  "date": "2026-12-05",
+  "time": "10 a.m.–4 p.m.",
+  "location": "St. Eugene Catholic School, 30 Westroyal Road, Etobicoke, ON",
+  "city": "Etobicoke",
+  "region": "Toronto",
+  "description": "St. Eugene's 8th Annual Community Christmas Market at Santa's Village, hosted by the St. Eugene Catholic School parent council (CSPC) in Etobicoke — a beloved community event with hundreds of shoppers. Vendor spots are $100; tables are available for rent, with electricity and wall spots available. Limited spots per category, filled on a first-come basis.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nAdmission: not stated\nVendor types wanted: Local artisans, shops and vendors\nHow-to-apply: https://forms.gle/PfPYyBDsYVbAZpMx7\nSource: https://facebook.com/groups/1457447434493878/permalink/4211865659052028/",
+  "fees": "$100",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "St. James Artisan Showcase",
   "date": "2026-12-05",
   "time": "11 a.m.–5 p.m.",
