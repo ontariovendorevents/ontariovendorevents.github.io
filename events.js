@@ -2444,6 +2444,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Taunton Mills Christmas Bazaar",
+  "date": "2026-11-21",
+  "time": "10 a.m.–2 p.m.",
+  "location": "The Village of Taunton Mills, 3800 Brock St N, Whitby, ON L1R 3A5",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "Christmas bazaar at The Village of Taunton Mills in Whitby. Details from a participating vendor's published holiday market schedule; organizer announcement not yet published.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nSource: https://www.instagram.com/p/DevDycHjRtH/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "The Mini Market",
   "date": "2026-11-21",
   "time": "9 a.m.–12 p.m.",
