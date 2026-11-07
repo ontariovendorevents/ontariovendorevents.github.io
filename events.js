@@ -4733,6 +4733,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Santa's Elves Workshop Sale",
+  "date": "2026-12-05",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Scugog Community Centre, 1655 Reach St, Port Perry, ON",
+  "city": "Port Perry",
+  "region": "Durham Region",
+  "description": "The Santa's Elves Workshop Sale returns to the Scugog Community Centre in Port Perry — a craft and vendor sale. Vendor fee is $50 for a 6ft table space (vendors bring their own table); payment secures the spot and refunds are not available. Setup is Saturday from 8:00 AM, teardown starts at 3:00 PM, and vendors must remain for the entire event. Accepted vendors are notified by email no later than November 15. Optional extra: businesses can be featured in the 50 free VIP Holiday Swag Bags for the first 50 attendees for $10 plus 50 small items.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nAdmission: not stated\nVendor types wanted: Craft and general vendors\nHow-to-apply: https://forms.gle/kNAteEooS3Cmte1s7\nSource: https://facebook.com/groups/524928052267953/permalink/1604422957651785/",
+  "fees": "$50",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Something New Saturday Vendor Market",
   "date": "2026-12-05",
   "time": "9 a.m.–4:30 p.m.",
