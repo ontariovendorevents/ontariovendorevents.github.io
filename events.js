@@ -244,7 +244,7 @@ window.EVENTS_REFRESH = [
   "location": "Durham Christian Homes, 200 Glen Hill Dr S, Whitby, ON",
   "city": "Whitby",
   "region": "Durham Region",
-  "description": "Durham Christian Homes Fall Market in Whitby — a fall market featuring baked goods, handmade crafts, housewares, woodworking and cafe goodies, including poffertjes.\nListing type: Event\nTheme: Fall\nHours: 9:00 AM - 1:00 PM\nAdmission: not stated\nAttractions: Baked goods, handmade crafts, housewares, woodworking, cafe goodies including poffertjes\nNote: vendor fee not published\nSource: https://facebook.com/ReElectMayorRoyWhitby/posts/pfbid02BoXi1Ut36iZhUdyPgELcVkG16dKN5MLiHH8BPhgsnd7SvHVQNYuSgfExEpEjpVntl/",
+  "description": "Durham Christian Homes Fall Market in Whitby — a fall market featuring baked goods, handmade crafts, housewares, woodworking and cafe goodies, including poffertjes.\nListing type: Event\nTheme: Fall\nHours: 9:00 AM - 1:00 PM\nAdmission: Free\nAttractions: Baked goods, handmade crafts, housewares, woodworking, silent auction, Friendship Café (cinnamon buns, pea soup, beef croquettes, poffertjes, stroopwafels)\nNote: vendor fee not published\nSource: https://facebook.com/ReElectMayorRoyWhitby/posts/pfbid02BoXi1Ut36iZhUdyPgELcVkG16dKN5MLiHH8BPhgsnd7SvHVQNYuSgfExEpEjpVntl/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
