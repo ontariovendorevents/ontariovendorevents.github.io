@@ -2499,6 +2499,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Tindall Farm Christmas Market",
+  "date": "2026-11-21",
+  "time": "10 a.m.–5 p.m.",
+  "location": "Tindall Farm & Market, 15669 Regional Rd 1, Uxbridge, ON",
+  "city": "Uxbridge",
+  "region": "Durham Region",
+  "description": "Tindall Farm & Market's Christmas Market — hand-picked local vendors with all locally made items, plus farm fresh produce at the farm store in Uxbridge. Cash or e-transfer accepted. Vendors are hand-picked by the farm; no public application or vendor fee is posted.\nListing type: Shopper\nTheme: Christmas\nHours: 10:00 AM - 5:00 PM\nAdmission: not stated\nSource: https://facebook.com/Tindallfarm/posts/pfbid02d9wDXSGiWH2uFm9QXHWnom7GxhhccjrjQ4naQHLEUgP4YF536uLJ9CExpGsMVfyGl/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "VLG Christmas Market",
   "date": "2026-11-21",
   "time": "10 a.m.–3 p.m.",
@@ -2794,6 +2805,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "A holiday market at Tilted Glass Brewing Co. in Bowmanville, with brews, local art and handmade goods.\nListing type: Event\nTheme: Christmas\nHours: 12:00 PM - 4:00 PM\nSource: https://facebook.com/groups/DHMM3.0/permalink/2320741205379867/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Tindall Farm Christmas Market",
+  "date": "2026-11-22",
+  "time": "10 a.m.–5 p.m.",
+  "location": "Tindall Farm & Market, 15669 Regional Rd 1, Uxbridge, ON",
+  "city": "Uxbridge",
+  "region": "Durham Region",
+  "description": "Tindall Farm & Market's Christmas Market — hand-picked local vendors with all locally made items, plus farm fresh produce at the farm store in Uxbridge. Cash or e-transfer accepted. Vendors are hand-picked by the farm; no public application or vendor fee is posted.\nListing type: Shopper\nTheme: Christmas\nHours: 10:00 AM - 5:00 PM\nAdmission: not stated\nSource: https://facebook.com/Tindallfarm/posts/pfbid02d9wDXSGiWH2uFm9QXHWnom7GxhhccjrjQ4naQHLEUgP4YF536uLJ9CExpGsMVfyGl/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -4821,6 +4843,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Tindall Farm Christmas Market",
+  "date": "2026-12-05",
+  "time": "10 a.m.–5 p.m.",
+  "location": "Tindall Farm & Market, 15669 Regional Rd 1, Uxbridge, ON",
+  "city": "Uxbridge",
+  "region": "Durham Region",
+  "description": "Tindall Farm & Market's Christmas Market — hand-picked local vendors with all locally made items, plus farm fresh produce at the farm store in Uxbridge. Cash or e-transfer accepted. Vendors are hand-picked by the farm; no public application or vendor fee is posted.\nListing type: Shopper\nTheme: Christmas\nHours: 10:00 AM - 5:00 PM\nAdmission: not stated\nSource: https://facebook.com/Tindallfarm/posts/pfbid02d9wDXSGiWH2uFm9QXHWnom7GxhhccjrjQ4naQHLEUgP4YF536uLJ9CExpGsMVfyGl/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Tobermory Happy Holidays Market",
   "date": "2026-12-05",
   "time": "10 a.m.–1 p.m.",
@@ -5063,6 +5096,17 @@ window.EVENTS_REFRESH = [
   "region": "Halton Region",
   "description": "Hours: not stated by organizer\nFee: not stated by organizer\nVendors expected: Up to 40 artisans (juried)\nSource: https://facebook.com/groups/1190141658320918/permalink/1968859247115818/\n",
   "fees": "not stated by organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Tindall Farm Christmas Market",
+  "date": "2026-12-06",
+  "time": "10 a.m.–5 p.m.",
+  "location": "Tindall Farm & Market, 15669 Regional Rd 1, Uxbridge, ON",
+  "city": "Uxbridge",
+  "region": "Durham Region",
+  "description": "Tindall Farm & Market's Christmas Market — hand-picked local vendors with all locally made items, plus farm fresh produce at the farm store in Uxbridge. Cash or e-transfer accepted. Vendors are hand-picked by the farm; no public application or vendor fee is posted.\nListing type: Shopper\nTheme: Christmas\nHours: 10:00 AM - 5:00 PM\nAdmission: not stated\nSource: https://facebook.com/Tindallfarm/posts/pfbid02d9wDXSGiWH2uFm9QXHWnom7GxhhccjrjQ4naQHLEUgP4YF536uLJ9CExpGsMVfyGl/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
