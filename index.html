@@ -672,12 +672,6 @@
         var(--whitby) 66.66% 83.33%,
         var(--oshawa) 83.33% 100%);
     }
-    .signup-band .formkit-form {
-      max-width: 100% !important;
-      margin: 0 auto !important;
-      box-shadow: none !important;
-    }
-
     .results-head {
       display: flex;
       justify-content: space-between;
@@ -1167,14 +1161,6 @@
       </div>
     </section>
 
-    <section class="signup-band" aria-label="Subscribe for weekly opportunities">
-      <button class="signup-toggle" id="signup-toggle" type="button" aria-expanded="false" aria-controls="signup-panel">Get weekly opportunities by email</button>
-      <div class="signup-panel" id="signup-panel" hidden>
-        <script async data-uid="825798cb7a" src="https://evergreen-ember.kit.com/825798cb7a/index.js"></script>
-      </div>
-    </section>
-
-
     <section class="signup-band" aria-label="Rate a market you attended">
       <button class="signup-toggle" id="review-toggle" type="button" aria-expanded="false" aria-controls="review-panel">Rate a market you attended</button>
       <div class="review-panel" id="review-panel" hidden>
@@ -1275,7 +1261,7 @@
         <span id="legend-events">0 events</span>
       </div>
       <div class="kofi-button"><a href="https://ko-fi.com/evergreenember" target="_blank" rel="noopener noreferrer" aria-label="Support me on Ko-fi (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none"><path fill="#fff" d="M3 6.5h13.5v7A5.5 5.5 0 0 1 11 19H8.5A5.5 5.5 0 0 1 3 13.5v-7Z"/><path stroke="#1c211e" stroke-width="1.8" d="M16.5 8h1.25a3.25 3.25 0 0 1 0 6.5H16"/><path fill="#ff5e5b" d="M9.75 15.1 6.5 12a2.15 2.15 0 0 1 3.25-2.8A2.15 2.15 0 0 1 13 12l-3.25 3.1Z"/></svg><span>Support me on Ko-fi</span></a></div>
-      <div class="snapshot">Calendar snapshot · November 8, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v41 · Changelog</button></div>
+      <div class="snapshot">Calendar snapshot · November 8, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v42 · Changelog</button></div>
       <p class="disclaimer">We do our best to check all of the events, but it still remains on each individual to do their due diligence.</p>
       <p class="credit">Ontario Vendor Events is built and curated by <a href="https://linktr.ee/evergreen.n.ember" target="_blank" rel="noopener noreferrer">Evergreen &amp; Ember</a></p>
       <nav class="socials" aria-label="Ontario Vendor Events on social media">
@@ -1296,6 +1282,7 @@
       </div>
       <div class="changelog-body">
         <p class="changelog-note">Page features and improvements. New event listings aren't logged here — the page always shows the latest from the calendar.</p>
+        <section class="changelog-entry"><h3>v42 — Nov 8, 2026</h3><ul><li>Removed the “Get weekly opportunities by email” signup band: the email digest never gained an audience, so the page no longer collects email addresses. Nothing else changed — listings, filters and the market review form are all as they were.</li></ul></section>
         <section class="changelog-entry"><h3>v41 — Nov 7, 2026</h3><ul><li>New “Rate a market you attended” band near the top of the page: vendors and shoppers can review a market right on this page, without leaving it. Scores will be published as summaries only, once a market has a few reviews; names and emails never appear.</li></ul></section>
         <section class="changelog-entry"><h3>v40 — Nov 5, 2026</h3><ul><li>The footer&rsquo;s “Follow along” links now carry little icons — the Facebook f, a community glyph for the group, camera for Instagram, music note for TikTok, an orange Reddit face and a link mark for Linktree — same links, just easier to spot at a glance.</li></ul></section>
         <section class="changelog-entry"><h3>v39 — Nov 5, 2026</h3><ul><li>New in the footer: a “Follow along” row linking every Ontario Vendor Events home — the Facebook Page, the Facebook Community group, Instagram, TikTok and the new Reddit community — plus the new Linktree, which gathers all of them and the app in one place.</li></ul></section>
@@ -1970,14 +1957,6 @@
           datePickerToggle.focus();
         }
       });
-      var signupToggle = document.getElementById('signup-toggle');
-      var signupPanel = document.getElementById('signup-panel');
-      signupToggle.addEventListener('click', function () {
-        var willOpen = signupToggle.getAttribute('aria-expanded') !== 'true';
-        signupToggle.setAttribute('aria-expanded', willOpen ? 'true' : 'false');
-        signupPanel.hidden = !willOpen;
-      });
-
       var reviewToggle = document.getElementById('review-toggle');
       var reviewPanel = document.getElementById('review-panel');
       reviewToggle.addEventListener('click', function () {
