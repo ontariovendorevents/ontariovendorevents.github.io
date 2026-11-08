@@ -1539,6 +1539,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Carleton Place Winterfest",
+  "date": "2026-11-21",
+  "time": "4 p.m.–8 p.m.",
+  "location": "Market Square Pavilion, 7 Beckwith St, Carleton Place, ON",
+  "city": "Carleton Place",
+  "region": "Rest of Ontario",
+  "description": "Carleton Place Winterfest — an outdoor evening vendor market at the Market Square Pavilion, part of the town's Winterfest celebration with horse-drawn wagon rides and festive winter activities. Dress warmly; the market runs outdoors. The vendor fee is not published in the call.\nListing type: Vendor call\nTheme: Christmas\nHours: 4:00 PM - 8:00 PM\nAdmission: not stated\nAttractions: Horse-drawn wagon rides, festive winter activities\nHow-to-apply: https://locallycraftedmarkets.com/event-2026\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28732891223048699/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Christmas Market Extravaganza",
   "date": "2026-11-21",
   "time": "9 a.m.–2 p.m.",
@@ -3565,6 +3576,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Wellings Sip & Shop",
+  "date": "2026-12-01",
+  "time": "10 a.m.–2 p.m.",
+  "location": "Wellings of Stittsville, 2500 Wellings Private, Stittsville, ON",
+  "city": "Stittsville",
+  "region": "Ottawa",
+  "description": "Wellings Sip & Shop — a holiday shopping event at Wellings of Stittsville, an active adult community with over 240 members and 45 staff; open to members, their family and friends, and the general public. The vendor fee is not published in the call.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nAdmission: not stated\nHow-to-apply: https://locallycraftedmarkets.com/event-2026\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28732891223048699/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Wellings of Whitby Christmas Market",
   "date": "2026-12-01",
   "time": "10 a.m.–2 p.m.",
@@ -5370,6 +5392,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Christmas Fair – Season 5",
+  "date": "2026-12-19",
+  "time": "10 a.m.–7 p.m.",
+  "location": "Historic Bell Building Courtyard, 80 Birmingham St, Etobicoke, ON",
+  "city": "Etobicoke",
+  "region": "Toronto",
+  "description": "Christmas Fair – Season 5 at the Historic Bell Building Courtyard in Etobicoke — an outdoor Christmas fair (enclosed courtyard, snow or shine) with Santa and his elf on site 1:00–6:00 PM both days. Vendor fee is $500 for both days: each 10x10 ft booth is shared by two vendors, and each vendor gets a 6x3 ft table and 2 chairs; no electricity is provided (bring battery-operated lighting), and no pork or alcohol products. A discount code (BELL, valid until November 15, 2026) is in the organizer's post.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 7:00 PM\nAdmission: Free (free tickets: christmasfair.ca)\nAttractions: Santa and his elf 1:00–6:00 PM, free family photo with Santa, free gifts for children, face painting, magic show at 5:00 PM, Christmas scavenger hunt\nHow-to-apply: https://christmasfair.ca\nSource: https://facebook.com/groups/301597270450798/permalink/2139896653287508/",
+  "fees": "$500",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Christmas On Ice",
   "date": "2026-12-19",
   "time": "10 a.m.–3 p.m.",
@@ -5533,6 +5566,17 @@ window.EVENTS_REFRESH = [
   "region": "Hamilton",
   "description": "5th annual holiday festival vendor call from This Great City Business Network — local businesses, artisans, makers, food vendors and retailers, free admission for shoppers, family event at the Ancaster Fairgrounds. Vendor fee: not published — contact organizer. How to apply: vendor application at https:///christmasfest-2026-vendor-application/ (organizer states: WE DO NOT DO E-TRANSFER). Organizer: This Great City Business Network.\nHours: 11:00 AM – 4:30 PM\nAdmission: Free\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28102412052763289/",
   "fees": "Not published — contact organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Christmas Fair – Season 5",
+  "date": "2026-12-20",
+  "time": "10 a.m.–7 p.m.",
+  "location": "Historic Bell Building Courtyard, 80 Birmingham St, Etobicoke, ON",
+  "city": "Etobicoke",
+  "region": "Toronto",
+  "description": "Christmas Fair – Season 5 at the Historic Bell Building Courtyard in Etobicoke — an outdoor Christmas fair (enclosed courtyard, snow or shine) with Santa and his elf on site 1:00–6:00 PM both days. Vendor fee is $500 for both days: each 10x10 ft booth is shared by two vendors, and each vendor gets a 6x3 ft table and 2 chairs; no electricity is provided (bring battery-operated lighting), and no pork or alcohol products. A discount code (BELL, valid until November 15, 2026) is in the organizer's post.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 7:00 PM\nAdmission: Free (free tickets: christmasfair.ca)\nAttractions: Santa and his elf 1:00–6:00 PM, free family photo with Santa, free gifts for children, face painting, magic show at 5:00 PM, Christmas scavenger hunt\nHow-to-apply: https://christmasfair.ca\nSource: https://facebook.com/groups/301597270450798/permalink/2139896653287508/",
+  "fees": "$500",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -5725,6 +5769,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Winter Market at Port of Whitby Marina",
+  "date": "2027-02-07",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Port of Whitby Marina, 301 Watson St W, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "Winter Market at the Port of Whitby Marina — part of Willow & Wildflower Events' 2027 Marina Series of curated indoor markets for local makers, artisans, creatives and small businesses. Vendor fee is $85 for a 6 ft table space (vendors bring their own table and display); multi-date bundles are available across the series.\nListing type: Vendor call\nTheme: Winter\nHours: 10:00 AM - 4:00 PM\nAdmission: not stated\nHow-to-apply: https://forms.gle/BQatgwvKENngHgKaA\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28750763474594807/",
+  "fees": "$85",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "2027 Winona Gardens Winter Vendor Market",
   "date": "2027-02-13",
   "time": "Time not listed",
@@ -5813,6 +5868,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Easter Market at Port of Whitby Marina",
+  "date": "2027-03-20",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Port of Whitby Marina, 301 Watson St W, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "Easter Market at the Port of Whitby Marina — part of Willow & Wildflower Events' 2027 Marina Series of curated indoor markets for local makers, artisans, creatives and small businesses. Vendor fee is $85 for a 6 ft table space (vendors bring their own table and display); multi-date bundles are available across the series.\nListing type: Vendor call\nTheme: Easter\nHours: 10:00 AM - 4:00 PM\nAdmission: not stated\nHow-to-apply: https://forms.gle/BQatgwvKENngHgKaA\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28750763474594807/",
+  "fees": "$85",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Hop Into Spring Market",
   "date": "2027-03-20",
   "time": "9 a.m.–3 p.m.",
@@ -5892,6 +5958,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Mother's Day Market at Port of Whitby Marina",
+  "date": "2027-05-08",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Port of Whitby Marina, 301 Watson St W, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "Mother's Day Market at the Port of Whitby Marina — part of Willow & Wildflower Events' 2027 Marina Series of curated indoor markets for local makers, artisans, creatives and small businesses. Vendor fee is $85 for a 6 ft table space (vendors bring their own table and display); multi-date bundles are available across the series.\nListing type: Vendor call\nTheme: Mother's Day\nHours: 10:00 AM - 4:00 PM\nAdmission: not stated\nHow-to-apply: https://forms.gle/BQatgwvKENngHgKaA\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28750763474594807/",
+  "fees": "$85",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Costa Crafted Events: Mother's Day Market",
   "date": "2027-05-09",
   "time": "10 a.m.–4 p.m.",
@@ -5911,6 +5988,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Hot food vendor call for a Whitby school fun fair - the school community is about 550 K-8 students plus their families. Hot food vendors and food trucks only (no desserts, sweets or ice cream). No vendor fee - the organizer welcomes, but does not require, a small percentage-of-sales donation back to the school. Exact school location provided upon booking confirmation.\nListing type: Vendor call\nHours: 4:30 PM - 8:00 PM\nHow to apply: DM the poster with business name, website / social media links, menu and price list, and contact name, email and phone.\nSource: https://facebook.com/groups/524928052267953/permalink/1593077238786357/",
   "fees": "No vendor fee",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "June Market at Port of Whitby Marina",
+  "date": "2027-06-20",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Port of Whitby Marina, 301 Watson St W, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "June Market at the Port of Whitby Marina — part of Willow & Wildflower Events' 2027 Marina Series of curated indoor markets for local makers, artisans, creatives and small businesses. Vendor fee is $85 for a 6 ft table space (vendors bring their own table and display); multi-date bundles are available across the series.\nListing type: Vendor call\nTheme: Summer\nHours: 10:00 AM - 4:00 PM\nAdmission: not stated\nHow-to-apply: https://forms.gle/BQatgwvKENngHgKaA\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28750763474594807/",
+  "fees": "$85",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
