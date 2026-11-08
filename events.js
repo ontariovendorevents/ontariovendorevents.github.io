@@ -686,6 +686,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Garry's Garden Gallery Christmas Market",
+  "date": "2026-11-14",
+  "time": "Time not listed",
+  "location": "Garry's Garden Gallery, 5 Commerce Rd, Lindsay, ON K9V 5Y3",
+  "city": "Lindsay",
+  "region": "Kawarthas and Peterborough",
+  "description": "Vendor call: Christmas market in Garry's Garden Gallery's covered, heated greenhouse.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, greenhouse, weekend\nHours: not published (Saturday & Sunday markets)\nVendor types wanted: makers, artisans & local vendors; handcrafted goods\nHow to apply: https://garrysgardengallery.com/pages/christmas-market-vendor-application (also via link in their Instagram bio)\nSource: https://facebook.com/groups/1746193395565570/permalink/3483982515119974/\nNote: Opening weekend — the market opens Sat Nov 14 during the venue's Christmas Open House. Vendor spots for this kickoff weekend are full.\n\n",
+  "fees": "Not published (TBD)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Girl's Day Out - The Hometown Market Listowel (vendor call)",
   "date": "2026-11-14",
   "time": "10 a.m.–3 p.m.",
