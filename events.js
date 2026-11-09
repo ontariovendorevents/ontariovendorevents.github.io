@@ -4044,7 +4044,7 @@ window.EVENTS_REFRESH = [
   "location": "Tillsonburg Community Centre, 45 Hardy Ave, Tillsonburg, ON",
   "city": "Tillsonburg",
   "region": "Rest of Ontario",
-  "description": "First annual Christmas market at the Tillsonburg Community Centre (Senior Centre) — moved to a bigger space, with a few more vendor spots open.\nHow to apply: message the organizer or email — address in the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2654607328308158/",
+  "description": "First annual Christmas market by Forkin Around at the Tillsonburg Community Centre (Senior Centre). A festive day of shopping and Christmas fun, with a food and toy drive and $1,000 worth of prizes.\nVendor types wanted: food vendors, bakers, craft makers, local businesses, clothing vendors and other unique small businesses\nHow-to-apply: message the organizer or email — address in the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1604486297645451/",
   "fees": "$60 per table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
