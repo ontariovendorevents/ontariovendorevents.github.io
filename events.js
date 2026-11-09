@@ -1364,8 +1364,8 @@ window.EVENTS_REFRESH = [
   "location": "Burlington Centre, 777 Guelph Line, Burlington, ON L7R 3N2",
   "city": "Burlington",
   "region": "Halton Region",
-  "description": "Vendor call from Rose Event: the Christmas in Burlington Craft Show runs Saturday November 21 and Sunday November 22 at Burlington Centre, with artisan and handmade products, holiday decor and gifts, and local vendors. Limited spaces available — suitable for serious vendors only. Market hours were not published; contact the organizer via the source post for details and to apply.\nListing type: Vendor call\nTheme: Christmas\nHours: Not listed\nSource: https://facebook.com/groups/torontovbnetwork/permalink/29071143459186048/",
-  "fees": "",
+  "description": "Christmas artisan market from Rose Event at Burlington Centre, with unique gifts, handmade and artisan products, holiday decor and local vendors. Limited vendor spaces available; all vendors provide their own tables and chairs.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 6:00 PM\nVendor types wanted: local artisans, small businesses and creative entrepreneurs\nHow-to-apply: message the organizer or email — details in the source post\nSource: https://facebook.com/groups/torontovbnetwork/permalink/29071143459186048/",
+  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -5871,6 +5871,18 @@ window.EVENTS_REFRESH = [
   "city": "Cobourg",
   "region": "Northumberland",
   "description": "Holiday vendor market by Costa Crafted Events. Venue and hours not yet published — see application form. Vendor fee not published. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Christmas in Burlington Craft Show",
+  "date": "2026-12-12",
+  "endDate": "2026-12-13",
+  "time": "Time not listed",
+  "location": "Burlington Centre, 777 Guelph Line, Burlington, ON L7R 3N2",
+  "city": "Burlington",
+  "region": "Halton Region",
+  "description": "Christmas artisan market from Rose Event at Burlington Centre, with unique gifts, handmade and artisan products, holiday decor and local vendors. Limited vendor spaces available; all vendors provide their own tables and chairs.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 6:00 PM\nVendor types wanted: local artisans, small businesses and creative entrepreneurs\nHow-to-apply: message the organizer or email — details in the source post\nSource: https://facebook.com/groups/torontovbnetwork/permalink/29071143459186048/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
