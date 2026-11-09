@@ -2186,6 +2186,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "St. Nicholas Merry Market",
+  "date": "2026-11-26",
+  "time": "4 p.m.–8 p.m.",
+  "location": "1956 Shore Road, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "Vendor spots available at the St. Nicholas Merry Market in London's West5/Hunt Club area — an evening Christmas market at 1956 Shore Road. Vendor setup runs 1:00 PM - 3:00 PM. The vendor fee is $40.\nListing type: Vendor call\nTheme: Christmas\nHours: 4:00 PM - 8:00 PM (vendor setup 1:00 PM - 3:00 PM)\nVendor types wanted: All vendor types\nHow to apply: Fill out the application form linked in the source post: https://docs.google.com/forms/d/1ut618eUVO7w5ZY_77SXaWXGNWu3TgXjdMtts1uLxH2w/viewform?usp=drivesdk\nSource: https://facebook.com/groups/294630007646067/permalink/2744017269373983/",
+  "fees": "$40",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "The Red Barn Christmas Market",
   "date": "2026-11-26",
   "endDate": "2026-11-29",
@@ -4625,6 +4636,17 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Bowmanville Christmas Wrap-Up Market at Memorial Park Clubhouse - Christmas shopping, stocking stuffers and last-minute gifts. A couple of vendor spots left; categories already filled include art & jewelry, woodworking, candles, pet products, home decor, books, crochet, essential oils, baking, bath & body and Christian apparel.\nVendor fee: $60 (table included)\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM\nHow to apply: Message the organizer via the source post with what you sell\nSource: https://facebook.com/groups/1013767978664673/permalink/39429988556615802/",
   "fees": "$60 (table included)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Chocolate & Crunch Market Christmas Market",
+  "date": "2026-12-12",
+  "time": "10 a.m.–5 p.m.",
+  "location": "Chocolate & Crunch Market, 335 Four Mile Creek Rd, St. Davids, ON",
+  "city": "St. Davids",
+  "region": "Niagara Region",
+  "description": "Chocolate & Crunch Market in St. Davids, Niagara-on-the-Lake is calling all local vendors and artisans for its Christmas Market — a festive day of holiday shopping at 335 Four Mile Creek Rd. Setup begins at 9:00 AM and only 12 vendor spots are available; vendors will be selected to ensure a great variety of products. The vendor fee is $40 if you bring your own 6-foot table, or $50 if you need a table provided. Please note: this is a peanut-free facility, so no peanuts or products containing peanuts are permitted.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 5:00 PM (vendor setup from 9:00 AM)\nVendor types wanted: Local artisans, crafters, makers and small businesses — unique gifts, handmade creations, holiday goodies and locally made products\nHow to apply: Fill out the vendor application form: https://forms.gle/BnNp2WGWc5mwNBCcA\nSource: https://facebook.com/groups/647247322686478/permalink/2366086804135846/",
+  "fees": "$40 if you bring your own 6-foot table, $50 if a table is provided",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
