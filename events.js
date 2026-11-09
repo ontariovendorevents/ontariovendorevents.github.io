@@ -6314,5 +6314,16 @@ window.EVENTS_REFRESH = [
   "description": "Christmas market in North Bay, listed on the Muskoka Markets & Events calendar (Muskoka Mom Market). Organizer: The Makers Market.\nListing type: Shopper event\nTheme: Christmas\nHours: 9:30 AM - 6:00 PM\nAdmission: Not stated\nSource: https://facebook.com/events/s/christmas-at-northgate-decembe/1385485253538186/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Millbrook Holiday Market",
+  "date": "2026-11-22",
+  "time": "10 a.m.–2 p.m.",
+  "location": "Cavan/Millbrook Public School, 47 Tupper Street, Millbrook, ON",
+  "city": "Millbrook",
+  "region": "Kawarthas and Peterborough",
+  "description": "Holiday market from the Millbrook Ontario Farmers' Market, held inside the gym at Cavan/Millbrook Public School, with handmade goods, homemade treats and local vendors.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nAdmission: Not stated\nSource: https://www.facebook.com/story.php?story_fbid=1759611949500418&id=100063548890951",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
