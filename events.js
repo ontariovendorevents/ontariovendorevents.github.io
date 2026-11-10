@@ -6526,5 +6526,16 @@ window.EVENTS_REFRESH = [
   "description": "First vendor market from the Breithaupt Park Neighbourhood Association, held at the Breithaupt Centre in Kitchener. Applications close Friday, November 13.\nTheme: Christmas\nVendor types wanted: Youth vendors welcome; no food vendors\nHours: 9:00 AM - 1:00 PM\nAdmission: Not stated\nSource: https://facebook.com/groups/145130302589219/permalink/2662727154162842/",
   "fees": "$60",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "3rd Annual Christmas Vendor & Craft Sale",
+  "date": "2026-12-05",
+  "time": "9 a.m.–3 p.m.",
+  "location": "Brebeuf Hall, 300 Killaly St E, Port Colborne, ON",
+  "city": "Port Colborne",
+  "region": "Niagara Region",
+  "description": "Third annual Christmas vendor and craft sale at Brebeuf Hall in Port Colborne. Photos with Santa, treats for the kids, and hot and cold food from the kitchen. A fundraiser for FACS Niagara — raffle and 50/50 proceeds buy toys for kids.\nTheme: Christmas\nHours: 9:00 AM - 3:00 PM\nAdmission: Not stated\nSource: https://facebook.com/groups/145130302589219/permalink/2661048877664003/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
