@@ -2375,7 +2375,7 @@ window.EVENTS_REFRESH = [
   "title": "The Friday Collective Holiday Market",
   "date": "2026-11-27",
   "time": "4 p.m.–8 p.m.",
-  "location": "Markham GO Train Station, Markham, ON",
+  "location": "Markham GO Train Station, 214 Main Street North, Markham, ON",
   "city": "Markham",
   "region": "York Region",
   "description": "Holiday market by The Friday Collective at Markham GO Train Station — handmade gifts and local artisans. A few vendor spots still available.\nHow to apply: via the Linktree in the source post\nSource: https://facebook.com/groups/145130302589219/permalink/2654526741649550/",
