@@ -12,18 +12,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "London Rock N' Gem Show",
-  "date": "2026-11-06",
-  "endDate": "2026-11-08",
-  "time": "Time not listed",
-  "location": "RBC Place, London, ON",
-  "city": "London",
-  "region": "London & Area",
-  "description": "London Rock N' Gem Show — a three-day show (Fri Nov 6 – Sun Nov 8) drawing rockhounds, families, collectors, and shoppers from across the region. The organizer is looking to expand the vendor lineup with fresh, unique businesses. Show hours and vendor fee not published — confirm with the organizer.\nTheme: TBD\nVendor types wanted: Crystals, gems & minerals; fossils & geological items; handcrafted jewelry; metaphysical supplies; art, decor & unique creations; rock/geo-themed goods\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2726030874505956/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Christmas market at St. Kateri Tekakwitha CS",
   "date": "2026-11-12",
   "time": "4 p.m.–8 p.m.",
