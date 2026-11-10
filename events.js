@@ -6537,5 +6537,16 @@ window.EVENTS_REFRESH = [
   "description": "Third annual Christmas vendor and craft sale at Brebeuf Hall in Port Colborne. Photos with Santa, treats for the kids, and hot and cold food from the kitchen. A fundraiser for FACS Niagara — raffle and 50/50 proceeds buy toys for kids.\nTheme: Christmas\nHours: 9:00 AM - 3:00 PM\nAdmission: Not stated\nSource: https://facebook.com/groups/145130302589219/permalink/2661048877664003/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Denne Public School Holiday Market",
+  "date": "2026-12-09",
+  "time": "5 p.m.–8 p.m.",
+  "location": "Denne Public School, 330 Burford St, Newmarket, ON",
+  "city": "Newmarket",
+  "region": "York Region",
+  "description": "Denne Public School's first Holiday Market, held in the school gymnasium in Newmarket. Vendors get a 6x6 foot booth space and a floor plan will be provided. Vendor setup begins at 4:00 PM, with vendor parking on the upper area of the school yard.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 8:00 PM\nAdmission: Not stated\nHow-to-apply: https://docs.google.com/forms/d/e/1FAIpQLSfwrbe2uhwWkPGJNCDxGtO8_t6cMLFtdzkCvNpEnx05qRV4JQ/viewform\nSource: https://docs.google.com/forms/d/e/1FAIpQLSfwrbe2uhwWkPGJNCDxGtO8_t6cMLFtdzkCvNpEnx05qRV4JQ/viewform",
+  "fees": "$40",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
