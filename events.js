@@ -6482,5 +6482,49 @@ window.EVENTS_REFRESH = [
   "description": "Bloody Valentines Market at the Garnet B. Rickard Recreation Complex in Bowmanville. Tables and chairs are provided for vendors.\nTheme: Valentine's Day\nHours: 11:00 AM - 4:00 PM\nAdmission: Not stated\nSource: https://facebook.com/groups/1746193395565570/permalink/3528113924040166/",
   "fees": "$100 per table (extra table $50)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Roger Neilson Public School Holiday Market",
+  "date": "2026-11-21",
+  "time": "10 a.m.–2 p.m.",
+  "location": "Roger Neilson Public School, 550 Erskine Ave, Peterborough, ON",
+  "city": "Peterborough",
+  "region": "Kawarthas and Peterborough",
+  "description": "Holiday market at Roger Neilson Public School in Peterborough. The school is still looking for vendors and crafters.\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nAdmission: Not stated\nSource: https://facebook.com/groups/1118283251986455/permalink/2609544152860350/",
+  "fees": "$30 bring your own table / $40 table supplied",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Spencerville Night Market",
+  "date": "2026-11-28",
+  "time": "4 p.m.–8 p.m.",
+  "location": "Spencerville, ON",
+  "city": "Spencerville",
+  "region": "Rest of Ontario",
+  "description": "SpencerWhoville — a night market in Spencerville. Vendor setup begins at 2 PM and spots are limited to 30 vendors; profits go to Connect Youth Inc.\nTheme: Christmas\nHours: 4:00 PM - 8:00 PM\nAdmission: Not stated\nSource: https://facebook.com/groups/ontariocanadavendorevents/permalink/4486481254995542/",
+  "fees": "$40 per spot",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "3rd Annual Christmas Vendor Event",
+  "date": "2026-12-12",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Canadian Corps, Ferguson Street, Niagara Falls, ON",
+  "city": "Niagara Falls",
+  "region": "Niagara Region",
+  "description": "Third annual Christmas vendor event at the Canadian Corps on Ferguson Street in Niagara Falls. A fundraiser for SACHS Niagara Toys for Tots — raffle proceeds buy toys and gift cards for kids.\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nAdmission: Not stated\nSource: https://facebook.com/groups/145130302589219/permalink/2661048877664003/",
+  "fees": "$75 single spot / $100 double spot",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Breithaupt Park Vendor Market",
+  "date": "2026-12-12",
+  "time": "9 a.m.–1 p.m.",
+  "location": "Breithaupt Centre, Kitchener, ON",
+  "city": "Kitchener",
+  "region": "Waterloo Region",
+  "description": "First vendor market from the Breithaupt Park Neighbourhood Association, held at the Breithaupt Centre in Kitchener. Applications close Friday, November 13.\nTheme: Christmas\nVendor types wanted: Youth vendors welcome; no food vendors\nHours: 9:00 AM - 1:00 PM\nAdmission: Not stated\nSource: https://facebook.com/groups/145130302589219/permalink/2662727154162842/",
+  "fees": "$60",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
