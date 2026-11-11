@@ -2144,8 +2144,8 @@ window.EVENTS_REFRESH = [
   "title": "Winter Market at Colonel J. E. Farewell PS",
   "date": "2026-11-25",
   "time": "5 p.m.–8 p.m.",
-  "location": "Colonel J. E. Farewell PS, Oshawa",
-  "city": "Oshawa",
+  "location": "Colonel J. E. Farewell PS, 810 McQuay Blvd, Whitby, ON",
+  "city": "Whitby",
   "region": "Durham Region",
   "description": "Theme: Christmas\nFee: Adult Makers $40 + $15 door-prize donation; Mini Makers $15\nSource: https://facebook.com/groups/1013767978664673/permalink/39001990579415604/\n\n",
   "fees": "Adult Makers $40 + $15 door-prize donation; Mini Makers $15",
@@ -6623,6 +6623,39 @@ window.EVENTS_REFRESH = [
   "city": "Whitby",
   "region": "Durham Region",
   "description": "Snowflake Bazaar at St. John's Anglican Church in Whitby, held in the Parish Fellowship Hall (entrance on the east side of the building). Baked goods and crafts made by the church craft group, and lunch.\nListing type: Event\nTheme: Christmas\nHours: Starts 10:00 AM; end time not published\nSource: http://stjohnswhitby.ca/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Amica Whitby Holiday Market",
+  "date": "2026-11-21",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Amica Whitby, 200 Kenneth Hobbs Ave, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "Holiday market at Amica Whitby with local vendors, a hot chocolate bar and a toy drive.\nListing type: Event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nAttractions: Hot chocolate bar, toy drive\nSource: https://www.facebook.com/groups/404954583291348/permalink/2649327422187375/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Port Perry Villa Holiday Market & Art Show",
+  "date": "2026-11-20",
+  "time": "4 p.m.–8 p.m.",
+  "location": "Port Perry Villa Retirement Living, 15987 Simcoe St, Port Perry, ON",
+  "city": "Port Perry",
+  "region": "Durham Region",
+  "description": "Holiday market and art show at Port Perry Villa Retirement Living, with handmade crafts, local artwork and baked goods. Runs two days: Friday November 20, 4:00 PM - 8:00 PM and Saturday November 21, 9:00 AM - 3:00 PM.\nListing type: Event\nTheme: Christmas\nHours: 4:00 PM - 8:00 PM (Friday); 9:00 AM - 3:00 PM (Saturday)\nAdmission: Free\nSource: https://www.facebook.com/groups/404954583291348/permalink/2649327422187375/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Port Perry Villa Holiday Market & Art Show",
+  "date": "2026-11-21",
+  "time": "9 a.m.–3 p.m.",
+  "location": "Port Perry Villa Retirement Living, 15987 Simcoe St, Port Perry, ON",
+  "city": "Port Perry",
+  "region": "Durham Region",
+  "description": "Holiday market and art show at Port Perry Villa Retirement Living, with handmade crafts, local artwork and baked goods. Runs two days: Friday November 20, 4:00 PM - 8:00 PM and Saturday November 21, 9:00 AM - 3:00 PM.\nListing type: Event\nTheme: Christmas\nHours: 4:00 PM - 8:00 PM (Friday); 9:00 AM - 3:00 PM (Saturday)\nAdmission: Free\nSource: https://www.facebook.com/groups/404954583291348/permalink/2649327422187375/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
