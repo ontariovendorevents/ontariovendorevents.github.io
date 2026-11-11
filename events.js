@@ -6581,5 +6581,38 @@ window.EVENTS_REFRESH = [
   "description": "A Journey Through Christmas evening at St. Anne Catholic Elementary School in Brampton, hosted by the school council; vendors wanted. Vendor applications close November 27, 2026.\nListing type: Vendor call\nTheme: Christmas\nHours: Evening - exact hours not stated\nAdmission: Not stated\nHow-to-apply: https://docs.google.com/forms/d/e/1FAIpQLSeaMi3QrsWUULRGYUXqJUbNnHraAIW5a-TNcv3UrLRLUbpFoQ/viewform\nSource: https://facebook.com/groups/524928052267953/permalink/1607561127337968/",
   "fees": "$60",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Durham College Annual Holiday Market",
+  "date": "2026-12-07",
+  "time": "10 a.m.–2 p.m.",
+  "location": "Durham College Oshawa Campus, Oshawa, ON",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "Annual Holiday Market hosted by the Durham College International Education Office at the Oshawa campus. Vendors may attend one, two or all three market days (Oshawa Dec 7-8, Whitby Dec 9). No table fee; parking is $16 per day. Commercial general liability insurance is required to participate.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nAdmission: Not stated\nHow-to-apply: https://forms.cloud.microsoft/r/ttbXqNB21G\nSource: https://facebook.com/groups/1013767978664673/permalink/39931072723174047/",
+  "fees": "No table fee",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Durham College Annual Holiday Market",
+  "date": "2026-12-08",
+  "time": "10 a.m.–2 p.m.",
+  "location": "Durham College Oshawa Campus, Oshawa, ON",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "Annual Holiday Market hosted by the Durham College International Education Office at the Oshawa campus. Vendors may attend one, two or all three market days (Oshawa Dec 7-8, Whitby Dec 9). No table fee; parking is $16 per day. Commercial general liability insurance is required to participate.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nAdmission: Not stated\nHow-to-apply: https://forms.cloud.microsoft/r/ttbXqNB21G\nSource: https://facebook.com/groups/1013767978664673/permalink/39931072723174047/",
+  "fees": "No table fee",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Durham College Annual Holiday Market",
+  "date": "2026-12-09",
+  "time": "10 a.m.–2 p.m.",
+  "location": "Durham College Whitby Campus, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "Annual Holiday Market hosted by the Durham College International Education Office at the Whitby campus. Vendors may attend one, two or all three market days (Oshawa Dec 7-8, Whitby Dec 9). No table fee; parking is $16 per day. Commercial general liability insurance is required to participate.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nAdmission: Not stated\nHow-to-apply: https://forms.cloud.microsoft/r/ttbXqNB21G\nSource: https://facebook.com/groups/1013767978664673/permalink/39931072723174047/",
+  "fees": "No table fee",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
