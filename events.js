@@ -6548,5 +6548,16 @@ window.EVENTS_REFRESH = [
   "description": "Denne Public School's first Holiday Market, held in the school gymnasium in Newmarket. Vendors get a 6x6 foot booth space and a floor plan will be provided. Vendor setup begins at 4:00 PM, with vendor parking on the upper area of the school yard.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 8:00 PM\nAdmission: Not stated\nHow-to-apply: https://docs.google.com/forms/d/e/1FAIpQLSfwrbe2uhwWkPGJNCDxGtO8_t6cMLFtdzkCvNpEnx05qRV4JQ/viewform\nSource: https://docs.google.com/forms/d/e/1FAIpQLSfwrbe2uhwWkPGJNCDxGtO8_t6cMLFtdzkCvNpEnx05qRV4JQ/viewform",
   "fees": "$40",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Parkwood Gardens Community Church Christmas Market",
+  "date": "2026-11-14",
+  "time": "9 a.m.–5 p.m.",
+  "location": "Parkwood Gardens Community Church, 501 Whitelaw Rd, Guelph, ON",
+  "city": "Guelph",
+  "region": "Rest of Ontario",
+  "description": "Christmas market at Parkwood Gardens Community Church in Guelph, with over 70 vendors.\nListing type: Shopper listing\nTheme: Christmas\nHours: 9:00 AM - 5:00 PM\nAdmission: Free with a donation to the Guelph Food Bank\nAttractions: Free coffee, free candy canes\nVendors expected: 70+\nSource: Organizer flyer shared by Paul",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
