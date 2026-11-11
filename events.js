@@ -6614,5 +6614,16 @@ window.EVENTS_REFRESH = [
   "description": "Annual Holiday Market hosted by the Durham College International Education Office at the Whitby campus. Vendors may attend one, two or all three market days (Oshawa Dec 7-8, Whitby Dec 9). No table fee; parking is $16 per day. Commercial general liability insurance is required to participate.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nAdmission: Not stated\nHow-to-apply: https://forms.cloud.microsoft/r/ttbXqNB21G\nSource: https://facebook.com/groups/1013767978664673/permalink/39931072723174047/",
   "fees": "No table fee",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "St. John's Anglican Snowflake Bazaar",
+  "date": "2026-11-21",
+  "time": "Time not listed",
+  "location": "St. John's Anglican Church, 150 Victoria St E, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "Snowflake Bazaar at St. John's Anglican Church in Whitby, held in the Parish Fellowship Hall (entrance on the east side of the building). Baked goods and crafts made by the church craft group, and lunch.\nListing type: Event\nTheme: Christmas\nHours: Starts 10:00 AM; end time not published\nSource: http://stjohnswhitby.ca/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
