@@ -6559,5 +6559,27 @@ window.EVENTS_REFRESH = [
   "description": "Christmas market at Parkwood Gardens Community Church in Guelph, with over 70 vendors.\nListing type: Shopper listing\nTheme: Christmas\nHours: 9:00 AM - 5:00 PM\nAdmission: Free with a donation to the Guelph Food Bank\nAttractions: Free coffee, free candy canes\nVendors expected: 70+\nSource: Organizer flyer shared by Paul",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Christmas Vendor Sale",
+  "date": "2026-11-21",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Woodman Park Community Centre, 491 Grey St, Brantford, ON",
+  "city": "Brantford",
+  "region": "Rest of Ontario",
+  "description": "Christmas vendor sale at Woodman Park Community Centre in Brantford; vendor spots still available.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nAdmission: Not stated\nHow-to-apply: https://forms.gle/iLuK1yGHSS5BLkwT7\nSource: https://facebook.com/groups/524928052267953/permalink/1607138987380182/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "A Journey Through Christmas",
+  "date": "2026-12-09",
+  "time": "Time not listed",
+  "location": "St. Anne Catholic Elementary School, 124 Vodden St E, Brampton, ON",
+  "city": "Brampton",
+  "region": "Peel Region",
+  "description": "A Journey Through Christmas evening at St. Anne Catholic Elementary School in Brampton, hosted by the school council; vendors wanted. Vendor applications close November 27, 2026.\nListing type: Vendor call\nTheme: Christmas\nHours: Evening - exact hours not stated\nAdmission: Not stated\nHow-to-apply: https://docs.google.com/forms/d/e/1FAIpQLSeaMi3QrsWUULRGYUXqJUbNnHraAIW5a-TNcv3UrLRLUbpFoQ/viewform\nSource: https://facebook.com/groups/524928052267953/permalink/1607561127337968/",
+  "fees": "$60",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
