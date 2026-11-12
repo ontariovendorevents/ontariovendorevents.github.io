@@ -6658,5 +6658,93 @@ window.EVENTS_REFRESH = [
   "description": "Holiday market and art show at Port Perry Villa Retirement Living, with handmade crafts, local artwork and baked goods. Runs two days: Friday November 20, 4:00 PM - 8:00 PM and Saturday November 21, 9:00 AM - 3:00 PM.\nListing type: Event\nTheme: Christmas\nHours: 4:00 PM - 8:00 PM (Friday); 9:00 AM - 3:00 PM (Saturday)\nAdmission: Free\nSource: https://www.facebook.com/groups/404954583291348/permalink/2649327422187375/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Winter Fair at Tucker House",
+  "date": "2026-11-21",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Tucker House, 1731 Tucker Road, Rockland, ON",
+  "city": "Rockland",
+  "region": "Rest of Ontario",
+  "description": "Winter Fair at Tucker House (Maison Tucker House) in Rockland.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nHow-to-apply: https://forms.gle/xCsBGcH4CBddEt9S7\nSource: https://facebook.com/groups/145130302589219/permalink/2665216970580527/",
+  "fees": "$30 for 10'x10'; $55 for 10'x20'; $40 covered pavilion",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Straffordville Hall Foundation's Annual Christmas Craft & Vendor Sale",
+  "date": "2026-11-28",
+  "time": "9 a.m.–2 p.m.",
+  "location": "Straffordville Community Centre, 56169 Heritage Line, Straffordville, ON",
+  "city": "Straffordville",
+  "region": "Rest of Ontario",
+  "description": "Annual Christmas craft and vendor sale hosted by the Straffordville Hall Foundation.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 2:00 PM\nHow-to-apply: contact the organizer by phone or text (see source post)\nSource: https://facebook.com/groups/524928052267953/permalink/1609177253843022/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Holy Family French Immersion School Holiday Market",
+  "date": "2026-12-02",
+  "time": "5 p.m.–8 p.m.",
+  "location": "Holy Family French Immersion School, 177 Oxford Street, Woodstock, ON",
+  "city": "Woodstock",
+  "region": "London & Area",
+  "description": "Holiday market in the gymnasium at Holy Family French Immersion School in Woodstock — the school is looking for vendors.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 8:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1609281570499257/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Seneca Trail PS Winter Maker's Market",
+  "date": "2026-11-14",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Seneca Trail Public School, 1915 Queensbury Dr, Oshawa, ON",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "Winter Maker's Market at Seneca Trail Public School in Oshawa — last-minute vendor space open, with setup available Friday November 13.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nHow-to-apply: email the organizer (address in the source post)\nSource: https://facebook.com/groups/373824166076174/permalink/27660997133598842/",
+  "fees": "from $60",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Ishkode Indigenous Holiday Pop-Up Market",
+  "date": "2026-12-06",
+  "time": "11 a.m.–3 p.m.",
+  "location": "Audley Recreation Centre, 1955 Audley Road North, Ajax, ON",
+  "city": "Ajax",
+  "region": "Durham Region",
+  "description": "Ishkode Indigenous Holiday Pop-Up Market at Audley Recreation Centre (Halls A) in Ajax — a vendor call specifically for Indigenous artists, entrepreneurs and community partners.\nListing type: Vendor call\nTheme: Christmas\nHours: 11:00 AM - 3:00 PM\nHow-to-apply: email the organizer (address in the source post)\nSource: https://facebook.com/groups/1013767978664673/permalink/39941123882168931/",
+  "fees": "$20",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Christmas Around the World 2026",
+  "date": "2026-12-20",
+  "time": "Time not listed",
+  "location": "Portuguese Cultural Centre of Kingston, 959 Division Street, Kingston, ON",
+  "city": "Kingston",
+  "region": "Kingston & Area",
+  "description": "Christmas Around the World 2026 in Kingston — a second, December date for this market (also listed Saturday November 14): makers, artisans, food vendors and small businesses, with cultural entertainment.\nListing type: Vendor call\nHours: Not published\nHow-to-apply: https://tinyurl.com/kingstonBooths\nSource: https://facebook.com/groups/732585956822792/permalink/28874706218850722/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Hobby Hall Charity Event with Good Shepherd",
+  "date": "2026-12-01",
+  "time": "9:30 a.m.–3 p.m.",
+  "location": "MUSC Marketplace, McMaster University, Hamilton, ON",
+  "city": "Hamilton",
+  "region": "Hamilton",
+  "description": "Hobby Hall Charity Event with Good Shepherd, held in the MUSC Marketplace at McMaster University in Hamilton.\nListing type: Vendor call\nHours: 9:30 AM - 3:00 PM\nHow-to-apply: message the organizer on Instagram (see source post)\nSource: https://facebook.com/groups/524928052267953/permalink/1608316683929079/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Angus Legion Christmas Market",
+  "date": "2026-12-05",
+  "time": "9:30 a.m.–2:30 p.m.",
+  "location": "Angus Legion, 15 Fraser St, Angus, ON",
+  "city": "Angus",
+  "region": "Rest of Ontario",
+  "description": "Christmas market at the Angus Legion.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:30 AM - 2:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1608265367267544/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
