@@ -6746,5 +6746,203 @@ window.EVENTS_REFRESH = [
   "description": "Christmas market at the Angus Legion.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:30 AM - 2:30 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1608265367267544/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Shepherd's Market 2026 – Part 2",
+  "date": "2026-11-28",
+  "time": "9 a.m.–1 p.m.",
+  "location": "Church of the Good Shepherd, 116 Queen St N, Kitchener, ON",
+  "city": "Kitchener",
+  "region": "Waterloo Region",
+  "description": "Shepherd's Market at the Church of the Good Shepherd in Kitchener (corner of Queen St N and Margaret Ave) — Part 2, a second date with a different set of vendors (Part 1 runs Saturday November 21). Free admission and free parking.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 1:00 PM\nAdmission: Free\nHow-to-apply: https://www.shepherdsway.ca/market.html\nSource: https://facebook.com/groups/524928052267953/permalink/1609817083779039/",
+  "fees": "$40",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "TradeWins Marketplace",
+  "date": "2026-11-29",
+  "time": "11 a.m.–3 p.m.",
+  "location": "Smart Pilates, 5353 Lakeshore Rd, Burlington, ON",
+  "city": "Burlington",
+  "region": "Halton Region",
+  "description": "Grand launch of the TradeWins Marketplace at Smart Pilates in Burlington — one final vendor spot has opened up.\nListing type: Vendor call\nHours: 11:00 AM - 3:00 PM\nHow-to-apply: https://theancientmillennial.com/marketplace-coop-and-vendor-info\nSource: https://facebook.com/groups/ontariocanadavendorevents/permalink/4493321930978141/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "BLK Swan Holiday Market",
+  "date": "2026-11-29",
+  "time": "12 p.m.–4 p.m.",
+  "location": "BLK Swan Unique Gifts, 4040 Palladium Way, Burlington, ON",
+  "city": "Burlington",
+  "region": "Halton Region",
+  "description": "Holiday market at BLK Swan Unique Gifts (Burlington North).\nListing type: Vendor call\nTheme: Christmas\nHours: 12:00 PM - 4:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2665950527173838/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Moonlight Madness Night Market",
+  "date": "2026-12-04",
+  "time": "5:30 p.m.–8:30 p.m.",
+  "location": "Downtown Elmira, Elmira, ON",
+  "city": "Elmira",
+  "region": "Waterloo Region",
+  "description": "Moonlight Madness Night Market in downtown Elmira, presented by Joyful Vendors Market — a few vendor spots are still available.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:30 PM - 8:30 PM\nHow-to-apply: https://www.joyfulvendorsmarket.com\nSource: https://facebook.com/groups/971632669514677/permalink/29805536905697536/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "1st Annual Artisan Christmas Market",
+  "date": "2026-12-05",
+  "time": "10 a.m.–2 p.m.",
+  "location": "Mount Forest Pentecostal Church, Mount Forest, ON",
+  "city": "Mount Forest",
+  "region": "Rest of Ontario",
+  "description": "First annual artisan Christmas market at Mount Forest Pentecostal Church.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nHow-to-apply: https://mfp.church\nSource: https://facebook.com/groups/971632669514677/permalink/29790369477214279/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Lakeshore Lodge's Holiday Market",
+  "date": "2026-12-09",
+  "time": "11 a.m.–7 p.m.",
+  "location": "Lakeshore Lodge, 3197 Lake Shore Blvd W, Toronto, ON",
+  "city": "Toronto",
+  "region": "Toronto",
+  "description": "Holiday market at Lakeshore Lodge in Toronto's west end.\nListing type: Vendor call\nTheme: Christmas\nHours: 11:00 AM - 7:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1609936033767144/",
+  "fees": "$35",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Collingwood Winter Market",
+  "date": "2027-01-09",
+  "time": "9 a.m.–1 p.m.",
+  "location": "New Life Church, 28 Tracey Lane, Collingwood, ON",
+  "city": "Collingwood",
+  "region": "Rest of Ontario",
+  "description": "Collingwood Winter Market at New Life Church (indoors) — a weekly Saturday winter market. The 2026-27 season runs November 7 to March 27, and vendor applications are open for the January to March dates.\nListing type: Vendor call\nHours: 9:00 AM - 1:00 PM\nVendor types wanted: Handmade goods, artisan products, baked treats, plants and herbs, local food and specialty items\nHow-to-apply: see the source post (QR code and link in the flyer)\nSource: https://facebook.com/groups/548551389577347/permalink/1778811503217990/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Collingwood Winter Market",
+  "date": "2027-01-16",
+  "time": "9 a.m.–1 p.m.",
+  "location": "New Life Church, 28 Tracey Lane, Collingwood, ON",
+  "city": "Collingwood",
+  "region": "Rest of Ontario",
+  "description": "Collingwood Winter Market at New Life Church (indoors) — a weekly Saturday winter market. The 2026-27 season runs November 7 to March 27, and vendor applications are open for the January to March dates.\nListing type: Vendor call\nHours: 9:00 AM - 1:00 PM\nVendor types wanted: Handmade goods, artisan products, baked treats, plants and herbs, local food and specialty items\nHow-to-apply: see the source post (QR code and link in the flyer)\nSource: https://facebook.com/groups/548551389577347/permalink/1778811503217990/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Collingwood Winter Market",
+  "date": "2027-01-23",
+  "time": "9 a.m.–1 p.m.",
+  "location": "New Life Church, 28 Tracey Lane, Collingwood, ON",
+  "city": "Collingwood",
+  "region": "Rest of Ontario",
+  "description": "Collingwood Winter Market at New Life Church (indoors) — a weekly Saturday winter market. The 2026-27 season runs November 7 to March 27, and vendor applications are open for the January to March dates.\nListing type: Vendor call\nHours: 9:00 AM - 1:00 PM\nVendor types wanted: Handmade goods, artisan products, baked treats, plants and herbs, local food and specialty items\nHow-to-apply: see the source post (QR code and link in the flyer)\nSource: https://facebook.com/groups/548551389577347/permalink/1778811503217990/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Collingwood Winter Market",
+  "date": "2027-01-30",
+  "time": "9 a.m.–1 p.m.",
+  "location": "New Life Church, 28 Tracey Lane, Collingwood, ON",
+  "city": "Collingwood",
+  "region": "Rest of Ontario",
+  "description": "Collingwood Winter Market at New Life Church (indoors) — a weekly Saturday winter market. The 2026-27 season runs November 7 to March 27, and vendor applications are open for the January to March dates.\nListing type: Vendor call\nHours: 9:00 AM - 1:00 PM\nVendor types wanted: Handmade goods, artisan products, baked treats, plants and herbs, local food and specialty items\nHow-to-apply: see the source post (QR code and link in the flyer)\nSource: https://facebook.com/groups/548551389577347/permalink/1778811503217990/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Collingwood Winter Market",
+  "date": "2027-02-06",
+  "time": "9 a.m.–1 p.m.",
+  "location": "New Life Church, 28 Tracey Lane, Collingwood, ON",
+  "city": "Collingwood",
+  "region": "Rest of Ontario",
+  "description": "Collingwood Winter Market at New Life Church (indoors) — a weekly Saturday winter market. The 2026-27 season runs November 7 to March 27, and vendor applications are open for the January to March dates.\nListing type: Vendor call\nHours: 9:00 AM - 1:00 PM\nVendor types wanted: Handmade goods, artisan products, baked treats, plants and herbs, local food and specialty items\nHow-to-apply: see the source post (QR code and link in the flyer)\nSource: https://facebook.com/groups/548551389577347/permalink/1778811503217990/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Collingwood Winter Market",
+  "date": "2027-02-13",
+  "time": "9 a.m.–1 p.m.",
+  "location": "New Life Church, 28 Tracey Lane, Collingwood, ON",
+  "city": "Collingwood",
+  "region": "Rest of Ontario",
+  "description": "Collingwood Winter Market at New Life Church (indoors) — a weekly Saturday winter market. The 2026-27 season runs November 7 to March 27, and vendor applications are open for the January to March dates.\nListing type: Vendor call\nHours: 9:00 AM - 1:00 PM\nVendor types wanted: Handmade goods, artisan products, baked treats, plants and herbs, local food and specialty items\nHow-to-apply: see the source post (QR code and link in the flyer)\nSource: https://facebook.com/groups/548551389577347/permalink/1778811503217990/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Collingwood Winter Market",
+  "date": "2027-02-20",
+  "time": "9 a.m.–1 p.m.",
+  "location": "New Life Church, 28 Tracey Lane, Collingwood, ON",
+  "city": "Collingwood",
+  "region": "Rest of Ontario",
+  "description": "Collingwood Winter Market at New Life Church (indoors) — a weekly Saturday winter market. The 2026-27 season runs November 7 to March 27, and vendor applications are open for the January to March dates.\nListing type: Vendor call\nHours: 9:00 AM - 1:00 PM\nVendor types wanted: Handmade goods, artisan products, baked treats, plants and herbs, local food and specialty items\nHow-to-apply: see the source post (QR code and link in the flyer)\nSource: https://facebook.com/groups/548551389577347/permalink/1778811503217990/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Collingwood Winter Market",
+  "date": "2027-02-27",
+  "time": "9 a.m.–1 p.m.",
+  "location": "New Life Church, 28 Tracey Lane, Collingwood, ON",
+  "city": "Collingwood",
+  "region": "Rest of Ontario",
+  "description": "Collingwood Winter Market at New Life Church (indoors) — a weekly Saturday winter market. The 2026-27 season runs November 7 to March 27, and vendor applications are open for the January to March dates.\nListing type: Vendor call\nHours: 9:00 AM - 1:00 PM\nVendor types wanted: Handmade goods, artisan products, baked treats, plants and herbs, local food and specialty items\nHow-to-apply: see the source post (QR code and link in the flyer)\nSource: https://facebook.com/groups/548551389577347/permalink/1778811503217990/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Collingwood Winter Market",
+  "date": "2027-03-06",
+  "time": "9 a.m.–1 p.m.",
+  "location": "New Life Church, 28 Tracey Lane, Collingwood, ON",
+  "city": "Collingwood",
+  "region": "Rest of Ontario",
+  "description": "Collingwood Winter Market at New Life Church (indoors) — a weekly Saturday winter market. The 2026-27 season runs November 7 to March 27, and vendor applications are open for the January to March dates.\nListing type: Vendor call\nHours: 9:00 AM - 1:00 PM\nVendor types wanted: Handmade goods, artisan products, baked treats, plants and herbs, local food and specialty items\nHow-to-apply: see the source post (QR code and link in the flyer)\nSource: https://facebook.com/groups/548551389577347/permalink/1778811503217990/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Collingwood Winter Market",
+  "date": "2027-03-13",
+  "time": "9 a.m.–1 p.m.",
+  "location": "New Life Church, 28 Tracey Lane, Collingwood, ON",
+  "city": "Collingwood",
+  "region": "Rest of Ontario",
+  "description": "Collingwood Winter Market at New Life Church (indoors) — a weekly Saturday winter market. The 2026-27 season runs November 7 to March 27, and vendor applications are open for the January to March dates.\nListing type: Vendor call\nHours: 9:00 AM - 1:00 PM\nVendor types wanted: Handmade goods, artisan products, baked treats, plants and herbs, local food and specialty items\nHow-to-apply: see the source post (QR code and link in the flyer)\nSource: https://facebook.com/groups/548551389577347/permalink/1778811503217990/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Collingwood Winter Market",
+  "date": "2027-03-20",
+  "time": "9 a.m.–1 p.m.",
+  "location": "New Life Church, 28 Tracey Lane, Collingwood, ON",
+  "city": "Collingwood",
+  "region": "Rest of Ontario",
+  "description": "Collingwood Winter Market at New Life Church (indoors) — a weekly Saturday winter market. The 2026-27 season runs November 7 to March 27, and vendor applications are open for the January to March dates.\nListing type: Vendor call\nHours: 9:00 AM - 1:00 PM\nVendor types wanted: Handmade goods, artisan products, baked treats, plants and herbs, local food and specialty items\nHow-to-apply: see the source post (QR code and link in the flyer)\nSource: https://facebook.com/groups/548551389577347/permalink/1778811503217990/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Collingwood Winter Market",
+  "date": "2027-03-27",
+  "time": "9 a.m.–1 p.m.",
+  "location": "New Life Church, 28 Tracey Lane, Collingwood, ON",
+  "city": "Collingwood",
+  "region": "Rest of Ontario",
+  "description": "Collingwood Winter Market at New Life Church (indoors) — a weekly Saturday winter market. The 2026-27 season runs November 7 to March 27, and vendor applications are open for the January to March dates.\nListing type: Vendor call\nHours: 9:00 AM - 1:00 PM\nVendor types wanted: Handmade goods, artisan products, baked treats, plants and herbs, local food and specialty items\nHow-to-apply: see the source post (QR code and link in the flyer)\nSource: https://facebook.com/groups/548551389577347/permalink/1778811503217990/",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
