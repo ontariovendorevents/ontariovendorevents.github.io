@@ -12,17 +12,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "Christmas market at St. Kateri Tekakwitha CS",
-  "date": "2026-11-12",
-  "time": "4 p.m.–8 p.m.",
-  "location": "St. Kateri Tekakwitha CS",
-  "city": "",
-  "region": "Rest of Ontario",
-  "description": "Theme: Christmas\nFee: tables $40\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/1013767978664673/permalink/39005295195751809/\n\n",
-  "fees": "tables $40",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Distillery Winter Village",
   "date": "2026-11-12",
   "endDate": "2027-01-03",
