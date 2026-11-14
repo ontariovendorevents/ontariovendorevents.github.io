@@ -24,50 +24,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "A Little Christmas Magic",
-  "date": "2026-11-13",
-  "time": "6 p.m.–9 p.m.",
-  "location": "Williams Fresh Cafe, 1250 Brant Street, Burlington, ON",
-  "city": "Burlington",
-  "region": "Halton Region",
-  "description": "A Little Christmas Magic at Williams Fresh Cafe in Burlington — free photos with Santa and local vendors. Hosted by Psw To The Rescue.\nAdmission: Free\nSource: https://popuppathinc.com/popup/6ae65c500497e3eed4908086",
-  "fees": "not published",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Black Joy Holiday Market",
-  "date": "2026-11-13",
-  "time": "5:30 p.m.–8:30 p.m.",
-  "location": "Chestnut Hill Recreation Complex, Pickering, ON",
-  "city": "Pickering",
-  "region": "Durham Region",
-  "description": "Year 5 of the Black Joy Holiday Market, the primary fundraiser for Durham Family and Cultural Centre's Afro-Caribbean Food Basket, at Chestnut Hill Developments Recreation Complex in Pickering. Runs alongside the City of Pickering's Winter Nights, City Lights festivities and fireworks at Esplanade Park. Live DJ, entertainment and children's activities; indoors. Day 1 of 2.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:30 PM - 8:30 PM\nVendor types wanted: Handmade products, clothing, jewelry, skincare, home decor, gifts, food and unique businesses — all businesses welcome\nAttractions: Live DJ, entertainment, children's activities\nNote: vendor spaces are open to all businesses until full; an 8-foot table, tablecloth and two chairs are included\nHow-to-apply: https://forms.gle/SJEMmD3orZb6LGFk7\nSource: https://facebook.com/groups/ontariocanadavendorevents/permalink/4481488618828139/",
-  "fees": "$100 Friday / $200 Saturday",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Bloom Field Garden's Christmas Sip 'n Shop Open House",
-  "date": "2026-11-13",
-  "time": "10 a.m.–6 p.m.",
-  "location": "Bloom Field Garden, 3745 Durham Regional Hwy 2, Newcastle, ON",
-  "city": "Newcastle",
-  "region": "Durham Region",
-  "description": "Bloom Field Garden's Christmas Sip 'n Shop open house in Newcastle, running Friday November 13 and Saturday November 14, 10:00 AM - 6:00 PM both days.\nListing type: Event\nTheme: Christmas\nHours: 10:00 AM - 6:00 PM\nSource: https://facebook.com/groups/DHMM3.0/permalink/2320741205379867/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Downtown Kingston Holiday Market",
-  "date": "2026-11-13",
-  "time": "6 p.m.–9 p.m.",
-  "location": "261 Princess Street and 181 Sydenham Street, Kingston, ON",
-  "city": "Kingston",
-  "region": "Kingston & Area",
-  "description": "Downtown Kingston's Holiday Market, from the creative team behind Artfest Kingston — shop unique vendors and local artisans for handmade gifts and one-of-a-kind finds at two downtown locations. Part of Downtown Kingston's Embrace the Season holiday lineup.\nAdmission: not stated\nNote: vendor applications closed October 30, 2026 — listed for shoppers.\nSource: https://facebook.com/100064324317300/posts/1573946311426164",
-  "fees": "Applications closed",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Downtown Whitby BIA Christmas Market",
   "date": "2026-11-13",
   "endDate": "2026-11-14",
@@ -112,39 +68,6 @@ window.EVENTS_REFRESH = [
   "region": "Peel Region",
   "description": "Theme: Christmas\nFee: $70 early bird before Oct 24 / $85 regular\nHours: not stated by organizer\nHow to apply: letsbecrafty.ca\nSource: https://facebook.com/groups/609827307950034/permalink/1431705825762174/\nNote: 6x8 ft space incl. table + chair\n\n",
   "fees": "$70 early bird before Oct 24 / $85 regular",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Niemi's Christmas Market",
-  "date": "2026-11-13",
-  "time": "12 p.m.–8 p.m.",
-  "location": "Niemi Family Farm, 18463 Highway 48, Mount Albert, ON",
-  "city": "Mount Albert",
-  "region": "York Region",
-  "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Union Sports Club Night Market - Toy Drive",
-  "date": "2026-11-13",
-  "time": "5 p.m.–9 p.m.",
-  "location": "Union Sports Club and Community Center, 6068 Bell St, Union, Ontario",
-  "city": "Union",
-  "region": "London & Area",
-  "description": "Friday night market (indoor and outdoor) by Braffs Events; proceeds go to the Lidup4branden teen toy drive. Vendor fees: inside single 6ft table $40, double $70; outside BYO table and tent $30; kitchen rental $60. Organizer advertises via billboard (St Thomas-London corridor) and paid Facebook ads. How to apply: contact the organizer via Facebook.\nFee: $30/$40/$70\nHours: 5:00 PM – 9:00 PM\nAttractions: Teen toy drive in support of Lidup4Branden — bring a toy to donate\nSource: https://facebook.com/groups/524928052267953/permalink/1567386381355443/",
-  "fees": "Inside: $40 single 6ft / $70 double; outside BYO table+tent $30; kitchen rental $60",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Winter Nights City Lights",
-  "date": "2026-11-13",
-  "time": "5:30 p.m.–8:30 p.m.",
-  "location": "Esplanade Park & Chestnut Hill Developments Recreation Complex, Pickering, ON",
-  "city": "Pickering",
-  "region": "Durham Region",
-  "description": "Pickering's Winter Nights City Lights festival at Esplanade Park and the Chestnut Hill Developments Recreation Complex: a vendor market with live performances, food trucks and fireworks, Friday and Saturday evening, 5:30 - 8:30 PM. Details: pickering.ca/wncl.\nListing type: Event\nTheme: Christmas\nHours: 5:30 PM - 8:30 PM\nSource: https://facebook.com/groups/DHMM3.0/permalink/2320741205379867/",
-  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
