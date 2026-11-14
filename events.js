@@ -6933,5 +6933,82 @@ window.EVENTS_REFRESH = [
   "description": "Collingwood Winter Market at New Life Church (indoors) — a weekly Saturday winter market. The 2026-27 season runs November 7 to March 27, and vendor applications are open for the January to March dates.\nListing type: Vendor call\nHours: 9:00 AM - 1:00 PM\nVendor types wanted: Handmade goods, artisan products, baked treats, plants and herbs, local food and specialty items\nHow-to-apply: see the source post (QR code and link in the flyer)\nSource: https://facebook.com/groups/548551389577347/permalink/1778811503217990/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Pancreatic Cancer Fundraiser – Holiday Vendor & Craft Fair",
+  "date": "2026-12-05",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Midhurst United Church, 91 Doran Rd, Midhurst, ON",
+  "city": "Midhurst",
+  "region": "Rest of Ontario",
+  "description": "Pancreatic Cancer Fundraiser – Holiday Vendor & Craft Fair at Midhurst United Church — a holiday vendor and craft fair held in memory of Elaine Parnell, with 40+ vendors. A few vendors can no longer attend, and the organizers are specifically seeking a handmade soap artisan.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nAdmission: $2\nVendor types wanted: Handmade soap artisan\nHow-to-apply: https://forms.cloud.microsoft/r/6S93mTajmT\nSource: https://facebook.com/groups/524928052267953/permalink/1611143076979773/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "The Old Schoolhouse Christmas Market",
+  "date": "2026-11-21",
+  "time": "10 a.m.–2 p.m.",
+  "location": "The Old Schoolhouse, 3 Watson Rd S, Guelph, ON",
+  "city": "Guelph",
+  "region": "Rest of Ontario",
+  "description": "The Old Schoolhouse Christmas Market at The Old Schoolhouse in Guelph — the organizers are still looking for a few vendors.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nAttractions: Live music, cafe, cookie decoration, raffles\nHow-to-apply: Apply via the Google Form linked in the source post\nSource: https://facebook.com/groups/609827307950034/permalink/1466939935572096/",
+  "fees": "$40",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "One Stop Christmas Shop",
+  "date": "2026-11-28",
+  "time": "Time not listed",
+  "location": "Loto's, Stoney Creek, ON",
+  "city": "Stoney Creek",
+  "region": "Hamilton",
+  "description": "One Stop Christmas Shop (9th annual) at Loto's in Stoney Creek — 5 vendor spots left; vendors bring their own 6-ft table.\nListing type: Vendor call\nTheme: Christmas\nHours: Not published\nVendor types wanted: Soaps, 3D printed items, mugs, chocolate-dipped candy, essential oils, dog treats, unique gift items\nHow-to-apply: Message the organizer (see source post)\nSource: https://facebook.com/groups/1190141658320918/permalink/2007322369936172/",
+  "fees": "$65",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Sarnia Christmas Market",
+  "date": "2026-12-04",
+  "time": "5 p.m.–8 p.m.",
+  "location": "Village Inn, Christina St, Sarnia, ON",
+  "city": "Sarnia",
+  "region": "Rest of Ontario",
+  "description": "Sarnia Christmas Market at the Village Inn on Christina St in Sarnia — 5 vendor spots left.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 8:00 PM\nHow-to-apply: Message the Sarnia Christmas Market page for info\nSource: https://facebook.com/groups/971632669514677/permalink/29817892784461948/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Sarnia Christmas Market",
+  "date": "2026-12-05",
+  "time": "12 p.m.–7 p.m.",
+  "location": "Village Inn, Christina St, Sarnia, ON",
+  "city": "Sarnia",
+  "region": "Rest of Ontario",
+  "description": "Sarnia Christmas Market at the Village Inn on Christina St in Sarnia — 5 vendor spots left.\nListing type: Vendor call\nTheme: Christmas\nHours: 12:00 PM - 7:00 PM\nHow-to-apply: Message the Sarnia Christmas Market page for info\nSource: https://facebook.com/groups/971632669514677/permalink/29817892784461948/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Nativity of Our Lord School Annual Christmas Market",
+  "date": "2026-12-11",
+  "time": "5:30 p.m.–8:30 p.m.",
+  "location": "Nativity of Our Lord Catholic School, Etobicoke, ON",
+  "city": "Etobicoke",
+  "region": "Toronto",
+  "description": "Nativity of Our Lord School Annual Christmas Market at Nativity of Our Lord Catholic School in Etobicoke — vendors needed.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:30 PM - 8:30 PM\nVendor types wanted: Handmade goods, unique finds, treats\nHow-to-apply: Email the organizer (address in the source post) or message the organizer to register\nSource: https://facebook.com/groups/524928052267953/permalink/1610842027009878/",
+  "fees": "$50",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Williamsford Spring Craft Market",
+  "date": "2027-05-01",
+  "time": "Time not listed",
+  "location": "Williamsford Community Centre, Williamsford, ON",
+  "city": "Williamsford",
+  "region": "Rest of Ontario",
+  "description": "Williamsford Spring Craft Market at the Williamsford Community Centre — vendor applications are open.\nListing type: Vendor call\nTheme: Spring\nHours: Not published\nHow-to-apply: Applications are open — see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1610409473719800/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
