@@ -6933,5 +6933,104 @@ window.EVENTS_REFRESH = [
   "description": "Williamsford Spring Craft Market at the Williamsford Community Centre — vendor applications are open.\nListing type: Vendor call\nTheme: Spring\nHours: Not published\nHow-to-apply: Applications are open — see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1610409473719800/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "First Light",
+  "date": "2026-11-26",
+  "time": "5 p.m.–9 p.m.",
+  "location": "Sainte-Marie among the Hurons, 16164 Highway 12 East, Midland, ON",
+  "city": "Midland",
+  "region": "Rest of Ontario",
+  "description": "First Light at Sainte-Marie among the Hurons in Midland — last call for artisan vendors for the First Light evening event, running two 4-day weekends (Thu Nov 26 to Sun Nov 29 and Thu Dec 3 to Sun Dec 6). Vendors bring their own table(s); proof of insurance is required.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 9:00 PM\nVendor types wanted: Handmade, locally-made and baked-goods vendors\nNote: Applications are accepted only through the organizer's official site or its ontario.ca email — do not send e-transfers to anyone else.\nHow-to-apply: https://saintemarieamongthehurons.on.ca/apply-as-an-artisan-form/\nQuestions: email the organizer (address in the source post)\nSource: https://facebook.com/groups/524928052267953/permalink/1612065263554221/",
+  "fees": "$185 per 4-day weekend",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "First Light",
+  "date": "2026-11-27",
+  "time": "5 p.m.–9 p.m.",
+  "location": "Sainte-Marie among the Hurons, 16164 Highway 12 East, Midland, ON",
+  "city": "Midland",
+  "region": "Rest of Ontario",
+  "description": "First Light at Sainte-Marie among the Hurons in Midland — last call for artisan vendors for the First Light evening event, running two 4-day weekends (Thu Nov 26 to Sun Nov 29 and Thu Dec 3 to Sun Dec 6). Vendors bring their own table(s); proof of insurance is required.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 9:00 PM\nVendor types wanted: Handmade, locally-made and baked-goods vendors\nNote: Applications are accepted only through the organizer's official site or its ontario.ca email — do not send e-transfers to anyone else.\nHow-to-apply: https://saintemarieamongthehurons.on.ca/apply-as-an-artisan-form/\nQuestions: email the organizer (address in the source post)\nSource: https://facebook.com/groups/524928052267953/permalink/1612065263554221/",
+  "fees": "$185 per 4-day weekend",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "First Light",
+  "date": "2026-11-28",
+  "time": "5 p.m.–9 p.m.",
+  "location": "Sainte-Marie among the Hurons, 16164 Highway 12 East, Midland, ON",
+  "city": "Midland",
+  "region": "Rest of Ontario",
+  "description": "First Light at Sainte-Marie among the Hurons in Midland — last call for artisan vendors for the First Light evening event, running two 4-day weekends (Thu Nov 26 to Sun Nov 29 and Thu Dec 3 to Sun Dec 6). Vendors bring their own table(s); proof of insurance is required.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 9:00 PM\nVendor types wanted: Handmade, locally-made and baked-goods vendors\nNote: Applications are accepted only through the organizer's official site or its ontario.ca email — do not send e-transfers to anyone else.\nHow-to-apply: https://saintemarieamongthehurons.on.ca/apply-as-an-artisan-form/\nQuestions: email the organizer (address in the source post)\nSource: https://facebook.com/groups/524928052267953/permalink/1612065263554221/",
+  "fees": "$185 per 4-day weekend",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "First Light",
+  "date": "2026-11-29",
+  "time": "5 p.m.–9 p.m.",
+  "location": "Sainte-Marie among the Hurons, 16164 Highway 12 East, Midland, ON",
+  "city": "Midland",
+  "region": "Rest of Ontario",
+  "description": "First Light at Sainte-Marie among the Hurons in Midland — last call for artisan vendors for the First Light evening event, running two 4-day weekends (Thu Nov 26 to Sun Nov 29 and Thu Dec 3 to Sun Dec 6). Vendors bring their own table(s); proof of insurance is required.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 9:00 PM\nVendor types wanted: Handmade, locally-made and baked-goods vendors\nNote: Applications are accepted only through the organizer's official site or its ontario.ca email — do not send e-transfers to anyone else.\nHow-to-apply: https://saintemarieamongthehurons.on.ca/apply-as-an-artisan-form/\nQuestions: email the organizer (address in the source post)\nSource: https://facebook.com/groups/524928052267953/permalink/1612065263554221/",
+  "fees": "$185 per 4-day weekend",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "First Light",
+  "date": "2026-12-03",
+  "time": "5 p.m.–9 p.m.",
+  "location": "Sainte-Marie among the Hurons, 16164 Highway 12 East, Midland, ON",
+  "city": "Midland",
+  "region": "Rest of Ontario",
+  "description": "First Light at Sainte-Marie among the Hurons in Midland — last call for artisan vendors for the First Light evening event, running two 4-day weekends (Thu Nov 26 to Sun Nov 29 and Thu Dec 3 to Sun Dec 6). Vendors bring their own table(s); proof of insurance is required.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 9:00 PM\nVendor types wanted: Handmade, locally-made and baked-goods vendors\nNote: Applications are accepted only through the organizer's official site or its ontario.ca email — do not send e-transfers to anyone else.\nHow-to-apply: https://saintemarieamongthehurons.on.ca/apply-as-an-artisan-form/\nQuestions: email the organizer (address in the source post)\nSource: https://facebook.com/groups/524928052267953/permalink/1612065263554221/",
+  "fees": "$185 per 4-day weekend",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "First Light",
+  "date": "2026-12-04",
+  "time": "5 p.m.–9 p.m.",
+  "location": "Sainte-Marie among the Hurons, 16164 Highway 12 East, Midland, ON",
+  "city": "Midland",
+  "region": "Rest of Ontario",
+  "description": "First Light at Sainte-Marie among the Hurons in Midland — last call for artisan vendors for the First Light evening event, running two 4-day weekends (Thu Nov 26 to Sun Nov 29 and Thu Dec 3 to Sun Dec 6). Vendors bring their own table(s); proof of insurance is required.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 9:00 PM\nVendor types wanted: Handmade, locally-made and baked-goods vendors\nNote: Applications are accepted only through the organizer's official site or its ontario.ca email — do not send e-transfers to anyone else.\nHow-to-apply: https://saintemarieamongthehurons.on.ca/apply-as-an-artisan-form/\nQuestions: email the organizer (address in the source post)\nSource: https://facebook.com/groups/524928052267953/permalink/1612065263554221/",
+  "fees": "$185 per 4-day weekend",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "First Light",
+  "date": "2026-12-05",
+  "time": "5 p.m.–9 p.m.",
+  "location": "Sainte-Marie among the Hurons, 16164 Highway 12 East, Midland, ON",
+  "city": "Midland",
+  "region": "Rest of Ontario",
+  "description": "First Light at Sainte-Marie among the Hurons in Midland — last call for artisan vendors for the First Light evening event, running two 4-day weekends (Thu Nov 26 to Sun Nov 29 and Thu Dec 3 to Sun Dec 6). Vendors bring their own table(s); proof of insurance is required.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 9:00 PM\nVendor types wanted: Handmade, locally-made and baked-goods vendors\nNote: Applications are accepted only through the organizer's official site or its ontario.ca email — do not send e-transfers to anyone else.\nHow-to-apply: https://saintemarieamongthehurons.on.ca/apply-as-an-artisan-form/\nQuestions: email the organizer (address in the source post)\nSource: https://facebook.com/groups/524928052267953/permalink/1612065263554221/",
+  "fees": "$185 per 4-day weekend",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "First Light",
+  "date": "2026-12-06",
+  "time": "5 p.m.–9 p.m.",
+  "location": "Sainte-Marie among the Hurons, 16164 Highway 12 East, Midland, ON",
+  "city": "Midland",
+  "region": "Rest of Ontario",
+  "description": "First Light at Sainte-Marie among the Hurons in Midland — last call for artisan vendors for the First Light evening event, running two 4-day weekends (Thu Nov 26 to Sun Nov 29 and Thu Dec 3 to Sun Dec 6). Vendors bring their own table(s); proof of insurance is required.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 9:00 PM\nVendor types wanted: Handmade, locally-made and baked-goods vendors\nNote: Applications are accepted only through the organizer's official site or its ontario.ca email — do not send e-transfers to anyone else.\nHow-to-apply: https://saintemarieamongthehurons.on.ca/apply-as-an-artisan-form/\nQuestions: email the organizer (address in the source post)\nSource: https://facebook.com/groups/524928052267953/permalink/1612065263554221/",
+  "fees": "$185 per 4-day weekend",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Market on Mill Street",
+  "date": "2027-06-05",
+  "time": "Time not listed",
+  "location": "Mill Street, Orangeville, ON",
+  "city": "Orangeville",
+  "region": "Rest of Ontario",
+  "description": "Market on Mill Street (6th year) on Mill Street in downtown Orangeville, held with the Orangeville Blues & Jazz Festival — vendor applications are now open, with 60 vendor spaces.\nListing type: Vendor call\nHours: Not published\nHow-to-apply: via the Google Form in the source post\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28876895815314905/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
