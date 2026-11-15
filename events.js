@@ -6481,5 +6481,27 @@ window.EVENTS_REFRESH = [
   "description": "Whiskey & Walnut Holiday Artisan Market at Garnet B. Rickard Recreation Complex in Bowmanville. Vendor applications for the 2027 season are open through the organizer's vendor portal.\nListing type: Vendor call\nTheme: Christmas\nHours: Not published\nVendor types wanted: Makers, bakers and creators (hand-crafted / handmade products)\nNote: Applications are reviewed by the organizer; applicants hear back within 14 days. A Featured Vendor Seasons Pass is also offered through the portal.\nHow-to-apply: https://whiskeyandwalnutvendors.org/\nSource: https://whiskeyandwalnutvendors.org/",
   "fees": "$95 vendor / $175 food truck",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Kars RA Christmas Markets — Night Market",
+  "date": "2026-11-28",
+  "time": "4 p.m.–8 p.m.",
+  "location": "Kars Community Recreation Association, 1604 Old Wellington St, Kars, ON",
+  "city": "Kars",
+  "region": "Ottawa",
+  "description": "Kars RA Christmas Markets night market at the Kars Community Recreation Association in Kars — an evening Christmas market with a visit from Santa and the lighting of the 40-ft tree.\nListing type: Vendor call\nTheme: Christmas\nHours: 4:00 PM - 8:00 PM\nAdmission: Free\nAttractions: Visit with Santa, lighting of the 40-ft tree, free hot chocolate\nHow-to-apply: Email the organizer (address in the source post) for vendor info\nSource: https://facebook.com/groups/721459436123036/permalink/1652492193019751/",
+  "fees": "$40 per table",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Kars RA Christmas Markets — Day Market",
+  "date": "2026-12-13",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Kars Community Recreation Association, 1604 Old Wellington St, Kars, ON",
+  "city": "Kars",
+  "region": "Ottawa",
+  "description": "Kars RA Christmas Markets day market at the Kars Community Recreation Association in Kars — a daytime Christmas market with snacks and lunch for sale.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nAdmission: Free\nAttractions: Snacks & lunch for sale\nHow-to-apply: Email the organizer (address in the source post) for vendor info\nSource: https://facebook.com/groups/721459436123036/permalink/1652492193019751/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
