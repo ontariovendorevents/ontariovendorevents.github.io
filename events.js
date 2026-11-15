@@ -4381,11 +4381,11 @@ window.EVENTS_REFRESH = [
   "title": "Etobicoke Markets Holiday Market",
   "date": "2026-12-13",
   "time": "10 a.m.–3 p.m.",
-  "location": "Artistic Edge Dance Company, Etobicoke",
+  "location": "Artistic Edge Dance Company, 20 Drummond St, Etobicoke, ON M8V 1Y8",
   "city": "Etobicoke",
   "region": "Toronto",
-  "description": "Holiday market in Etobicoke.\nListing type: Vendor call\nHow to apply: DM the organizer via the source post to request the vendor application and pricing\nSource: https://facebook.com/groups/145130302589219/permalink/2642209742881250/",
-  "fees": "",
+  "description": "Etobicoke Markets Holiday Market at Artistic Edge Dance Company in Etobicoke — an indoor holiday market with local makers, artisans and small businesses.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nAdmission: Free\nVendor types wanted: handmade crafts, jewellery & accessories, fashion & apparel, candles & beauty, home décor & gifts, baked goods, specialty foods, Christmas décor\nHow-to-apply: https://forms.cloud.microsoft/r/jW8dvDZQ2k\nSource: https://facebook.com/groups/145130302589219/permalink/2642209742881250/\nSource: https://www.facebook.com/groups/970891068753301/permalink/1001306105711797/",
+  "fees": "$95 + HST",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
