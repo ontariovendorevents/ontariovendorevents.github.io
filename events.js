@@ -6382,5 +6382,104 @@ window.EVENTS_REFRESH = [
   "description": "Market on Mill Street (6th year) on Mill Street in downtown Orangeville, held with the Orangeville Blues & Jazz Festival — vendor applications are now open, with 60 vendor spaces.\nListing type: Vendor call\nHours: Not published\nHow-to-apply: via the Google Form in the source post\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28876895815314905/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Whiskey & Walnut International Women's Day Market",
+  "date": "2027-03-06",
+  "time": "Time not listed",
+  "location": "Garnet B. Rickard Recreation Complex, Bowmanville, ON",
+  "city": "Bowmanville",
+  "region": "Durham Region",
+  "description": "Whiskey & Walnut artisan market for International Women's Day at Garnet B. Rickard Recreation Complex in Bowmanville. Vendor applications for the 2027 season are open through the organizer's vendor portal.\nListing type: Vendor call\nTheme: International Women's Day\nHours: Not published\nVendor types wanted: Makers, bakers and creators (hand-crafted / handmade products)\nNote: Applications are reviewed by the organizer; applicants hear back within 14 days. A Featured Vendor Seasons Pass is also offered through the portal.\nHow-to-apply: https://whiskeyandwalnutvendors.org/\nSource: https://whiskeyandwalnutvendors.org/",
+  "fees": "$95 vendor / $175 food truck",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Whiskey & Walnut Courtice Sunday Market",
+  "date": "2027-06-06",
+  "time": "Time not listed",
+  "location": "Sir Monty's, Courtice, ON",
+  "city": "Courtice",
+  "region": "Durham Region",
+  "description": "Whiskey & Walnut Courtice Sunday Market at Sir Monty's in Courtice — the market runs on the first Sundays of June through October 2027. Vendor applications are open through the organizer's vendor portal.\nListing type: Vendor call\nTheme: Sunday market\nHours: Not published\nVendor types wanted: Makers, bakers and creators (hand-crafted / handmade products)\nNote: Applications are reviewed by the organizer; applicants hear back within 14 days. A Featured Vendor Seasons Pass is also offered through the portal.\nHow-to-apply: https://whiskeyandwalnutvendors.org/\nSource: https://whiskeyandwalnutvendors.org/",
+  "fees": "$45 per date or $200 for all 5 dates / $80 food truck",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Whiskey & Walnut Courtice Sunday Market",
+  "date": "2027-07-04",
+  "time": "Time not listed",
+  "location": "Sir Monty's, Courtice, ON",
+  "city": "Courtice",
+  "region": "Durham Region",
+  "description": "Whiskey & Walnut Courtice Sunday Market at Sir Monty's in Courtice — the market runs on the first Sundays of June through October 2027. Vendor applications are open through the organizer's vendor portal.\nListing type: Vendor call\nTheme: Sunday market\nHours: Not published\nVendor types wanted: Makers, bakers and creators (hand-crafted / handmade products)\nNote: Applications are reviewed by the organizer; applicants hear back within 14 days. A Featured Vendor Seasons Pass is also offered through the portal.\nHow-to-apply: https://whiskeyandwalnutvendors.org/\nSource: https://whiskeyandwalnutvendors.org/",
+  "fees": "$45 per date or $200 for all 5 dates / $80 food truck",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Whiskey & Walnut Courtice Sunday Market",
+  "date": "2027-08-01",
+  "time": "Time not listed",
+  "location": "Sir Monty's, Courtice, ON",
+  "city": "Courtice",
+  "region": "Durham Region",
+  "description": "Whiskey & Walnut Courtice Sunday Market at Sir Monty's in Courtice — the market runs on the first Sundays of June through October 2027. Vendor applications are open through the organizer's vendor portal.\nListing type: Vendor call\nTheme: Sunday market\nHours: Not published\nVendor types wanted: Makers, bakers and creators (hand-crafted / handmade products)\nNote: Applications are reviewed by the organizer; applicants hear back within 14 days. A Featured Vendor Seasons Pass is also offered through the portal.\nHow-to-apply: https://whiskeyandwalnutvendors.org/\nSource: https://whiskeyandwalnutvendors.org/",
+  "fees": "$45 per date or $200 for all 5 dates / $80 food truck",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Whiskey & Walnut Courtice Sunday Market",
+  "date": "2027-09-05",
+  "time": "Time not listed",
+  "location": "Sir Monty's, Courtice, ON",
+  "city": "Courtice",
+  "region": "Durham Region",
+  "description": "Whiskey & Walnut Courtice Sunday Market at Sir Monty's in Courtice — the market runs on the first Sundays of June through October 2027. Vendor applications are open through the organizer's vendor portal.\nListing type: Vendor call\nTheme: Sunday market\nHours: Not published\nVendor types wanted: Makers, bakers and creators (hand-crafted / handmade products)\nNote: Applications are reviewed by the organizer; applicants hear back within 14 days. A Featured Vendor Seasons Pass is also offered through the portal.\nHow-to-apply: https://whiskeyandwalnutvendors.org/\nSource: https://whiskeyandwalnutvendors.org/",
+  "fees": "$45 per date or $200 for all 5 dates / $80 food truck",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Whiskey & Walnut Fall Artisan Market",
+  "date": "2027-10-02",
+  "time": "Time not listed",
+  "location": "Kent Farms, Newcastle, ON",
+  "city": "Newcastle",
+  "region": "Durham Region",
+  "description": "Whiskey & Walnut Fall Artisan Market at Kent Farms in Newcastle — a two-day market, Sat Oct 2 and Sun Oct 3, 2027; vendors may apply for one day or both days. Vendor applications are open through the organizer's vendor portal.\nListing type: Vendor call\nTheme: Fall / harvest\nHours: Not published\nVendor types wanted: Makers, bakers and creators (hand-crafted / handmade products)\nNote: Applications are reviewed by the organizer; applicants hear back within 14 days. A Featured Vendor Seasons Pass is also offered through the portal.\nHow-to-apply: https://whiskeyandwalnutvendors.org/\nSource: https://whiskeyandwalnutvendors.org/",
+  "fees": "$75 one day / $130 both days; food truck $135 / $235",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Whiskey & Walnut Courtice Sunday Market",
+  "date": "2027-10-03",
+  "time": "Time not listed",
+  "location": "Sir Monty's, Courtice, ON",
+  "city": "Courtice",
+  "region": "Durham Region",
+  "description": "Whiskey & Walnut Courtice Sunday Market at Sir Monty's in Courtice — the market runs on the first Sundays of June through October 2027. Vendor applications are open through the organizer's vendor portal.\nListing type: Vendor call\nTheme: Sunday market\nHours: Not published\nVendor types wanted: Makers, bakers and creators (hand-crafted / handmade products)\nNote: Applications are reviewed by the organizer; applicants hear back within 14 days. A Featured Vendor Seasons Pass is also offered through the portal.\nHow-to-apply: https://whiskeyandwalnutvendors.org/\nSource: https://whiskeyandwalnutvendors.org/",
+  "fees": "$45 per date or $200 for all 5 dates / $80 food truck",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Whiskey & Walnut Fall Artisan Market",
+  "date": "2027-10-03",
+  "time": "Time not listed",
+  "location": "Kent Farms, Newcastle, ON",
+  "city": "Newcastle",
+  "region": "Durham Region",
+  "description": "Whiskey & Walnut Fall Artisan Market at Kent Farms in Newcastle — a two-day market, Sat Oct 2 and Sun Oct 3, 2027; vendors may apply for one day or both days. Vendor applications are open through the organizer's vendor portal.\nListing type: Vendor call\nTheme: Fall / harvest\nHours: Not published\nVendor types wanted: Makers, bakers and creators (hand-crafted / handmade products)\nNote: Applications are reviewed by the organizer; applicants hear back within 14 days. A Featured Vendor Seasons Pass is also offered through the portal.\nHow-to-apply: https://whiskeyandwalnutvendors.org/\nSource: https://whiskeyandwalnutvendors.org/",
+  "fees": "$75 one day / $130 both days; food truck $135 / $235",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Whiskey & Walnut Holiday Artisan Market",
+  "date": "2027-11-13",
+  "time": "Time not listed",
+  "location": "Garnet B. Rickard Recreation Complex, Bowmanville, ON",
+  "city": "Bowmanville",
+  "region": "Durham Region",
+  "description": "Whiskey & Walnut Holiday Artisan Market at Garnet B. Rickard Recreation Complex in Bowmanville. Vendor applications for the 2027 season are open through the organizer's vendor portal.\nListing type: Vendor call\nTheme: Christmas\nHours: Not published\nVendor types wanted: Makers, bakers and creators (hand-crafted / handmade products)\nNote: Applications are reviewed by the organizer; applicants hear back within 14 days. A Featured Vendor Seasons Pass is also offered through the portal.\nHow-to-apply: https://whiskeyandwalnutvendors.org/\nSource: https://whiskeyandwalnutvendors.org/",
+  "fees": "$95 vendor / $175 food truck",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
