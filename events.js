@@ -6489,7 +6489,7 @@ window.EVENTS_REFRESH = [
   "location": "Kars Community Recreation Association, 1604 Old Wellington St, Kars, ON",
   "city": "Kars",
   "region": "Ottawa",
-  "description": "Kars RA Christmas Markets night market at the Kars Community Recreation Association in Kars — an evening Christmas market with a visit from Santa and the lighting of the 40-ft tree.\nListing type: Vendor call\nTheme: Christmas\nHours: 4:00 PM - 8:00 PM\nAdmission: Free\nAttractions: Visit with Santa, lighting of the 40-ft tree, free hot chocolate\nHow-to-apply: Email the organizer (address in the source post) for vendor info\nSource: https://facebook.com/groups/721459436123036/permalink/1652492193019751/",
+  "description": "Kars RA Christmas Markets night market at the Kars Community Recreation Association in Kars — an evening Christmas market with a visit from Santa and the lighting of the 40-ft tree.\nListing type: Vendor call\nTheme: Christmas\nHours: 4:00 PM - 8:00 PM\nAdmission: Free\nAttractions: Visit with Santa, lighting of the 40-ft tree, free hot chocolate\nHow-to-apply: https://docs.google.com/forms/d/e/1FAIpQLSdWQvgMVEjxDciY5oULZcIA1N8oDykAEy_drEFEz4WGC_vHvw/viewform\nSource: https://facebook.com/groups/721459436123036/permalink/1652492193019751/",
   "fees": "$40 per table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -6500,8 +6500,8 @@ window.EVENTS_REFRESH = [
   "location": "Kars Community Recreation Association, 1604 Old Wellington St, Kars, ON",
   "city": "Kars",
   "region": "Ottawa",
-  "description": "Kars RA Christmas Markets day market at the Kars Community Recreation Association in Kars — a daytime Christmas market with snacks and lunch for sale.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nAdmission: Free\nAttractions: Snacks & lunch for sale\nHow-to-apply: Email the organizer (address in the source post) for vendor info\nSource: https://facebook.com/groups/721459436123036/permalink/1652492193019751/",
-  "fees": "",
+  "description": "Kars RA Christmas Markets day market at the Kars Community Recreation Association in Kars — a daytime Christmas market with snacks and lunch for sale.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nAdmission: Free\nAttractions: Snacks & lunch for sale\nHow-to-apply: https://docs.google.com/forms/d/e/1FAIpQLSdWQvgMVEjxDciY5oULZcIA1N8oDykAEy_drEFEz4WGC_vHvw/viewform\nSource: https://facebook.com/groups/721459436123036/permalink/1652492193019751/",
+  "fees": "$40 per table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
