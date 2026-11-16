@@ -190,8 +190,8 @@ window.EVENTS_REFRESH = [
   "location": "Ailsa Craig Community Centre, Ailsa Craig",
   "city": "Ailsa Craig",
   "region": "Rest of Ontario",
-  "description": "A-Z Events evening Christmas market at the Ailsa Craig Community Centre — part of the village-wide Ailsa Craig Holiday Extravaganza. Vendor fee: not published on the application — a registration fee is required before a vending space is reserved (amount not stated), payable by e-transfer; fees are non-refundable (full refund only if A-Z Events cancels). Organizer strongly recommends vendors carry their own liability insurance; vendors may bring their own displays and stands. How to apply: vendor application Google Form — https://forms.gle/5mMC8cb15Bb5tNZWA (vendor spaces are limited). Organizer: A-Z Events.\nTheme: Christmas market\nTags: Shop Local, Support Small Business, Holiday Markets, Local Vendors, Community Events, Christmas Markets\nHours: 4:00 PM – 9:00 PM\nVendor types wanted: All vendor types\nAttractions: 18 passport stops throughout the village (shops, the library, churches, the Rec Centre and more); horse and wagon stops at the Community Centre and on Main St. at Craig St.; festive music, food and lights throughout the village\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28141094792228348/",
-  "fees": "not published",
+  "description": "A-Z Events evening Christmas market at the Ailsa Craig Community Centre — part of the village-wide Ailsa Craig Holiday Extravaganza. Vendor fee: published on the organizer's application — a registration fee is required before a vending space is reserved, payable by e-transfer; fees are non-refundable (full refund only if A-Z Events cancels). Organizer strongly recommends vendors carry their own liability insurance; vendors may bring their own displays and stands. How to apply: vendor application Google Form — https://forms.gle/wuhe6Xk4fC9ST6Nr6 (vendor spaces are limited). Organizer: A-Z Events.\nTheme: Christmas market\nTags: Shop Local, Support Small Business, Holiday Markets, Local Vendors, Community Events, Christmas Markets\nHours: 4:00 PM – 9:00 PM\nVendor types wanted: All vendor types\nAttractions: 18 passport stops throughout the village (shops, the library, churches, the Rec Centre and more); horse and wagon stops at the Community Centre and on Main St. at Craig St.; festive music, food and lights throughout the village\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28141094792228348/\nSource: https://facebook.com/events/s/ailsa-craig-holiday-extravagan/1590816636042952/",
+  "fees": "$60",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -6474,6 +6474,28 @@ window.EVENTS_REFRESH = [
   "region": "Northumberland",
   "description": "Holiday vendor market by Costa Crafted Events. Venue and hours not yet published — see application form. Vendor fee not published. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
   "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "5th Annual Ailsa Craig Easter Market",
+  "date": "2027-03-20",
+  "time": "9 a.m.–2 p.m.",
+  "location": "Ailsa Craig Community Centre, 155 Annie Ada Shipley St, Ailsa Craig, ON",
+  "city": "Ailsa Craig",
+  "region": "Rest of Ontario",
+  "description": "Fifth annual Easter market at the Ailsa Craig Community Centre. Shop over 30 local vendors with handmade items, unique gifts, crafts, baked goods and more, in support of the Ailsa Craig Food Bank.\nListing type: Organizer submission\nTheme: Spring / Easter market\nAdmission: Free\nHours: 9:00 AM – 2:00 PM",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "5th Annual Watford March Madness",
+  "date": "2027-03-06",
+  "time": "9 a.m.–2 p.m.",
+  "location": "East Lambton Community Complex, 61 Centennial Ave, Watford, ON",
+  "city": "Watford",
+  "region": "London & Area",
+  "description": "Fifth annual Watford March Madness vendor market at the East Lambton Community Complex. Shop local vendors, unique finds and more.\nListing type: Organizer submission\nTheme: Spring market\nHours: 9:00 AM – 2:00 PM",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
