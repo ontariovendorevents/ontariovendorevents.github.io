@@ -1145,9 +1145,6 @@
       <div class="quick-filters" role="group" aria-label="Date range">
         <button class="chip" type="button" data-range="all" aria-pressed="true">All dates</button>
         <button class="chip" type="button" data-range="weekend" aria-pressed="false">This weekend</button>
-        <button class="chip" type="button" data-range="2026-10" aria-pressed="false">October</button>
-        <button class="chip" type="button" data-range="2026-11" aria-pressed="false">November</button>
-        <button class="chip" type="button" data-range="2026-12" aria-pressed="false">December</button>
         <div class="specific-date" id="specific-date-wrap">
           <button class="date-picker-toggle" id="date-picker-toggle" type="button" aria-label="Choose a specific date" aria-expanded="false" aria-controls="date-picker"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="16" rx="2"></rect><path d="M16 3v4M8 3v4M3 10h18"></path></svg><span id="specific-date-label">Specific date</span></button>
           <button class="specific-date-clear" id="specific-date-clear" type="button" aria-label="Clear specific date" title="Clear specific date" hidden>&times;</button>
@@ -1264,7 +1261,7 @@
         <span id="legend-events">0 events</span>
       </div>
       <div class="kofi-button"><a href="https://ko-fi.com/evergreenember" target="_blank" rel="noopener noreferrer" aria-label="Support me on Ko-fi (opens in a new tab)"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none"><path fill="#fff" d="M3 6.5h13.5v7A5.5 5.5 0 0 1 11 19H8.5A5.5 5.5 0 0 1 3 13.5v-7Z"/><path stroke="#1c211e" stroke-width="1.8" d="M16.5 8h1.25a3.25 3.25 0 0 1 0 6.5H16"/><path fill="#ff5e5b" d="M9.75 15.1 6.5 12a2.15 2.15 0 0 1 3.25-2.8A2.15 2.15 0 0 1 13 12l-3.25 3.1Z"/></svg><span>Support me on Ko-fi</span></a></div>
-      <div class="snapshot">Calendar snapshot · November 15, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v44 · Changelog</button></div>
+      <div class="snapshot">Calendar snapshot · November 15, 2026<br />Open the full calendar for changes after this time.<br /><button class="version-link" id="changelog-open" type="button" aria-haspopup="dialog">v45 · Changelog</button></div>
       <p class="disclaimer">We do our best to check all of the events, but it still remains on each individual to do their due diligence.</p>
       <p class="credit">Ontario Vendor Events is built and curated by <a href="https://linktr.ee/evergreen.n.ember" target="_blank" rel="noopener noreferrer">Evergreen &amp; Ember</a></p>
       <nav class="socials" aria-label="Ontario Vendor Events on social media">
@@ -1285,6 +1282,7 @@
       </div>
       <div class="changelog-body">
         <p class="changelog-note">Page features and improvements. New event listings aren't logged here — the page always shows the latest from the calendar.</p>
+        <section class="changelog-entry"><h3>v45 — Nov 15, 2026</h3><ul><li>The month shortcut buttons are no longer frozen at October–December: they are built from the calendar itself, starting with the current month, so past months drop away on their own and new months appear as events are added.</li></ul></section>
         <section class="changelog-entry"><h3>v44 — Nov 15, 2026</h3><ul><li>Fixed the date picker opening on October: it now opens on the current month (or on the month of your selected date, if you have one).</li></ul></section>
         <section class="changelog-entry"><h3>v43 — Nov 15, 2026</h3><ul><li>Event cards now carry a round organizer icon beside the market name. Organizers who submit their events can have their own logo shown; every other card uses the Ontario Vendor Events badge, so the whole list stays one tidy, even size. First icon up: Picks &amp; Giggles.</li></ul></section>
         <section class="changelog-entry"><h3>v42 — Nov 8, 2026</h3><ul><li>Removed the “Get weekly opportunities by email” signup band: the email digest never gained an audience, so the page no longer collects email addresses. Nothing else changed — listings, filters and the market review form are all as they were.</li></ul></section>
@@ -1400,6 +1398,38 @@
       if (legendEvents) legendEvents.textContent = EVENTS.length + (EVENTS.length === 1 ? ' event' : ' events');
       var list = document.getElementById('event-list');
       var cards = [];
+      (function buildMonthChips() {
+        var anchor = document.getElementById('specific-date-wrap');
+        if (!anchor || !anchor.parentNode) return;
+        var seen = {};
+        EVENTS.forEach(function (event) {
+          var cursor = String(event.date || '').slice(0, 7);
+          var last = String(event.endDate || event.date || '').slice(0, 7);
+          var guard = 0;
+          while (cursor && cursor <= last && guard < 24) {
+            seen[cursor] = true;
+            var y = Number(cursor.slice(0, 4));
+            var m = Number(cursor.slice(5, 7)) + 1;
+            if (m === 13) { m = 1; y += 1; }
+            cursor = y + '-' + String(m).padStart(2, '0');
+            guard += 1;
+          }
+        });
+        var now = new Date();
+        var nowKey = now.getFullYear() + '-' + String(now.getMonth() + 1).padStart(2, '0');
+        Object.keys(seen).filter(function (key) { return key >= nowKey; }).sort().slice(0, 6).forEach(function (key) {
+          var parts = key.split('-');
+          var label = new Date(Number(parts[0]), Number(parts[1]) - 1, 1).toLocaleDateString('en-CA', { month: 'long' });
+          if (Number(parts[0]) !== now.getFullYear()) label += ' ' + parts[0];
+          var button = document.createElement('button');
+          button.className = 'chip';
+          button.type = 'button';
+          button.dataset.range = key;
+          button.setAttribute('aria-pressed', 'false');
+          button.textContent = label;
+          anchor.parentNode.insertBefore(button, anchor);
+        });
+      })();
       var chips = Array.prototype.slice.call(document.querySelectorAll('.chip'));
       var count = document.getElementById('count');
       var empty = document.getElementById('empty');
