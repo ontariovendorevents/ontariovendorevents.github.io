@@ -8,5 +8,6 @@
 // the same round 54px slot. `match` is a lowercase string looked up in the
 // event's title + description.
 window.ORGANIZER_ICONS = [
-  { match: 'picks and giggles', name: 'Picks and Giggles', icon: 'icons/picks-and-giggles.png' }
+  { match: 'picks and giggles', name: 'Picks and Giggles', icon: 'icons/picks-and-giggles.png' },
+  { match: 'a-z events', name: 'A-Z Events', icon: 'icons/a-z-events.png' }
 ];
