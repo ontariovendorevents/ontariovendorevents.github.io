@@ -184,13 +184,13 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "Ailsa Craig Christmas Market",
+  "title": "Ailsa Craig Holiday Extravaganza",
   "date": "2026-11-20",
   "time": "4 p.m.–9 p.m.",
   "location": "Ailsa Craig Community Centre, Ailsa Craig",
   "city": "Ailsa Craig",
   "region": "Rest of Ontario",
-  "description": "A-Z Events evening Christmas market at the Ailsa Craig Community Centre. Vendor fee: not published on the application — a registration fee is required before a vending space is reserved (amount not stated), payable by e-transfer; fees are non-refundable (full refund only if A-Z Events cancels). Organizer strongly recommends vendors carry their own liability insurance; vendors may bring their own displays and stands. How to apply: vendor application Google Form — https://forms.gle/5mMC8cb15Bb5tNZWA (vendor spaces are limited). Organizer: A-Z Events.\nTheme: Christmas market\nTags: Shop Local, Support Small Business, Holiday Markets, Local Vendors, Community Events, Christmas Markets\nVendor types wanted: All vendor types\nHours: 4:00 PM – 9:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28141094792228348/",
+  "description": "A-Z Events evening Christmas market at the Ailsa Craig Community Centre — part of the village-wide Ailsa Craig Holiday Extravaganza. Vendor fee: not published on the application — a registration fee is required before a vending space is reserved (amount not stated), payable by e-transfer; fees are non-refundable (full refund only if A-Z Events cancels). Organizer strongly recommends vendors carry their own liability insurance; vendors may bring their own displays and stands. How to apply: vendor application Google Form — https://forms.gle/5mMC8cb15Bb5tNZWA (vendor spaces are limited). Organizer: A-Z Events.\nTheme: Christmas market\nTags: Shop Local, Support Small Business, Holiday Markets, Local Vendors, Community Events, Christmas Markets\nHours: 4:00 PM – 9:00 PM\nVendor types wanted: All vendor types\nAttractions: 18 passport stops throughout the village (shops, the library, churches, the Rec Centre and more); horse and wagon stops at the Community Centre and on Main St. at Craig St.; festive music, food and lights throughout the village\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28141094792228348/",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
