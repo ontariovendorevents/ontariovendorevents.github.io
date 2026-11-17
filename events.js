@@ -6541,5 +6541,49 @@ window.EVENTS_REFRESH = [
   "description": "Shepherd's Market at the Church of the Good Shepherd in Kitchener (Shepherd's Stage) — Part 1, the first of two holiday dates with a different set of vendors each date (Part 2 runs Saturday November 28). Free admission and free parking.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 1:00 PM\nAdmission: Free\nApplication deadline: November 20, 2026\nHow-to-apply: https://www.shepherdsway.ca/market.html\nSource: https://www.instagram.com/p/DfnVK5LG3Jw/",
   "fees": "$40",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Ridgeview P.S. Christmas Craft Market",
+  "date": "2026-12-04",
+  "time": "6 p.m.–9 p.m.",
+  "location": "Ridgeview Public School, 25 Brenda Ave, Brampton, ON L6Y 2A1",
+  "city": "Brampton",
+  "region": "Peel Region",
+  "description": "Christmas craft market at Ridgeview Public School in Brampton. The school is looking for vendors with small businesses, handmade products and unique creations.\nListing type: Vendor call\nHours: 6:00 PM - 9:00 PM\nHow-to-apply: https://form.jotform.com/262853495243060\nSource: https://facebook.com/groups/524928052267953/permalink/1613463613414386/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "SUMMER SPARK – Youth Entrepreneur Market",
+  "date": "2027-06-19",
+  "time": "10 a.m.–6 p.m.",
+  "location": "Niagara Pen Centre, 221 Glendale Ave, St. Catharines, ON",
+  "city": "St. Catharines",
+  "region": "Niagara Region",
+  "description": "Youth entrepreneur market by Events Connected Canada at Niagara Pen Centre in St. Catharines — young entrepreneurs showcase their products, gain real business experience and sell to the community.\nListing type: Vendor call\nHours: 10:00 AM - 6:00 PM\nVendor types wanted: Youth entrepreneurs — young crafters, makers and small-business owners\nHow-to-apply: https://eventsconnectedcanada.ca/vendors-apply-here\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28904828319188321/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Equinox Holistic Alternative School Winter Fair",
+  "date": "2026-12-13",
+  "time": "11 a.m.–3 p.m.",
+  "location": "Equinox Holistic Alternative School, 151 Hiawatha Road, Toronto, ON M4L 2Y1",
+  "city": "Toronto",
+  "region": "Toronto",
+  "description": "Winter fair at Equinox Holistic Alternative School in Toronto, with winter wonderland magic, live performances, wandering pocket fairies and curated handcrafted local goods and crafts.\nListing type: Vendor call\nHours: 11:00 AM - 3:00 PM\nApplication deadline: November 20, 2026 (11:59 PM)\nVendor types wanted: Local crafters, artists, small batch food producers and other vendors (crochet/knitted category is full)\nAttractions: Live performances, wandering pocket fairies, winter wonderland theme\nHow-to-apply: https://forms.gle/6m66nWv3D8EsuZik8\nSource: https://facebook.com/groups/torontocraftalert/permalink/10164440898158301/",
+  "fees": "$40",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Holiday Market at Amica Guildwood",
+  "date": "2026-11-26",
+  "time": "1 p.m.–4 p.m.",
+  "location": "Amica Guildwood, Toronto, ON",
+  "city": "Toronto",
+  "region": "Toronto",
+  "description": "Holiday market at Amica Guildwood retirement residence in Toronto — vendors showcase their products for residents, families and team members.\nListing type: Vendor call\nHours: 1:00 PM - 4:00 PM\nHow-to-apply: Message the organizer via the source post\nSource: https://facebook.com/groups/torontovbnetwork/permalink/29311195745180817/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
