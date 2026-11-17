@@ -6497,5 +6497,38 @@ window.EVENTS_REFRESH = [
   "description": "Fifth annual Watford March Madness vendor market at the East Lambton Community Complex. Shop local vendors, unique finds and more.\nListing type: Organizer submission\nTheme: Spring market\nHours: 9:00 AM – 2:00 PM",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Goderich Kinette Club Festival of Arts & Crafts",
+  "date": "2027-07-09",
+  "time": "Time not listed",
+  "location": "Courthouse Square, Goderich, ON",
+  "city": "Goderich",
+  "region": "Rest of Ontario",
+  "description": "Vendor call: the Goderich Kinette Club is calling vendors for its Festival of Arts & Crafts at Courthouse Square in Goderich, July 9-11, 2027.\n\nTheme: Arts & crafts festival\nTags: festival, arts, crafts\nHours: Not published\nHow-to-apply: email the organizer (address in the source post)\nSource: https://facebook.com/groups/294630007646067/permalink/2756233554819021/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Goderich Kinette Club Festival of Arts & Crafts",
+  "date": "2027-07-10",
+  "time": "Time not listed",
+  "location": "Courthouse Square, Goderich, ON",
+  "city": "Goderich",
+  "region": "Rest of Ontario",
+  "description": "Vendor call: the Goderich Kinette Club is calling vendors for its Festival of Arts & Crafts at Courthouse Square in Goderich, July 9-11, 2027.\n\nTheme: Arts & crafts festival\nTags: festival, arts, crafts\nHours: Not published\nHow-to-apply: email the organizer (address in the source post)\nSource: https://facebook.com/groups/294630007646067/permalink/2756233554819021/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Goderich Kinette Club Festival of Arts & Crafts",
+  "date": "2027-07-11",
+  "time": "Time not listed",
+  "location": "Courthouse Square, Goderich, ON",
+  "city": "Goderich",
+  "region": "Rest of Ontario",
+  "description": "Vendor call: the Goderich Kinette Club is calling vendors for its Festival of Arts & Crafts at Courthouse Square in Goderich, July 9-11, 2027.\n\nTheme: Arts & crafts festival\nTags: festival, arts, crafts\nHours: Not published\nHow-to-apply: email the organizer (address in the source post)\nSource: https://facebook.com/groups/294630007646067/permalink/2756233554819021/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
