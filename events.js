@@ -2161,13 +2161,13 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "Costa Crafted Events: 3rd Annual Holly Jolly Vendor Show",
+  "title": "LOCATION CHANGE — Costa Crafted Events: 3rd Annual Holly Jolly Vendor Show",
   "date": "2026-11-28",
-  "time": "10 a.m.–4 p.m.",
-  "location": "413 Wing RCAFA, 230 North Murray St., Trenton, ON",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Trenton High School, 15 Fourth Ave, Trenton, ON",
   "city": "Trenton",
   "region": "Kingston & Area",
-  "description": "3rd annual Holly Jolly Vendor Show by Costa Crafted Events. Vendor fee not published — see application form. Theme: Christmas / holiday season. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
+  "description": "Location changed — this show has moved to Trenton High School, 15 Fourth Ave, Trenton (was 413 Wing RCAFA), and now runs 10:00 AM - 3:00 PM.\n\n3rd annual Holly Jolly Vendor Show by Costa Crafted Events. Attractions: Santa visit 10:30 AM - 2:30 PM, free raffles, angel tree and toy drive (new unopened toys, books, clothing and food accepted). Vendor fee not published — see application form. Theme: Christmas / holiday season. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
