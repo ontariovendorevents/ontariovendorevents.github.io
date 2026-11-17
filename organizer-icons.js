@@ -9,5 +9,6 @@
 // event's title + description.
 window.ORGANIZER_ICONS = [
   { match: 'picks and giggles', name: 'Picks and Giggles', icon: 'icons/picks-and-giggles.png' },
-  { match: 'a-z events', name: 'A-Z Events', icon: 'icons/a-z-events.png' }
+  { match: 'a-z events', name: 'A-Z Events', icon: 'icons/a-z-events.png' },
+  { match: 'stefsea', name: 'Stefsea Co.', icon: 'icons/stefsea-co.png' }
 ];
