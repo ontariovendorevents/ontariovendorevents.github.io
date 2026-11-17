@@ -1121,13 +1121,13 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "ThorntonView's Annual Holiday Bazaar",
+  "title": "CANCELLED — ThorntonView's Annual Holiday Bazaar",
   "date": "2026-11-21",
   "time": "1 p.m.–4 p.m.",
   "location": "186 Thornton Rd S, Oshawa",
   "city": "Oshawa",
   "region": "Durham Region",
-  "description": "Vendor call: annual holiday bazaar - seasonal shopping, holiday treats, local vendors.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, bazaar\nHours: 1:00 PM - 4:00 PM\nFee: not published (TBD) - contact the organizer to purchase a table\nHow to apply: see the source post\nSource: https://facebook.com/groups/1746193395565570/permalink/3484629365055289/\n\n",
+  "description": "Cancelled by the organizer (announced Nov 11).\n\nVendor call: annual holiday bazaar - seasonal shopping, holiday treats, local vendors.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, bazaar\nHours: 1:00 PM - 4:00 PM\nFee: not published (TBD) - contact the organizer to purchase a table\nHow to apply: see the source post\nSource: https://facebook.com/groups/1746193395565570/permalink/3484629365055289/\n\n",
   "fees": "Not published (TBD)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
