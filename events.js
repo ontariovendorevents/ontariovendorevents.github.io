@@ -2741,7 +2741,7 @@ window.EVENTS_REFRESH = [
   "location": "Church of the Good Shepherd, 116 Queen St N, Kitchener, ON",
   "city": "Kitchener",
   "region": "Waterloo Region",
-  "description": "Shepherd's Market at the Church of the Good Shepherd in Kitchener (corner of Queen St N and Margaret Ave) — Part 2, a second date with a different set of vendors (Part 1 runs Saturday November 21). Free admission and free parking.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 1:00 PM\nAdmission: Free\nHow-to-apply: https://www.shepherdsway.ca/market.html\nSource: https://facebook.com/groups/524928052267953/permalink/1609817083779039/",
+  "description": "Shepherd's Market at the Church of the Good Shepherd in Kitchener (corner of Queen St N and Margaret Ave) — Part 2, a second date with a different set of vendors (Part 1 runs Saturday November 21). Free admission and free parking.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 1:00 PM\nAdmission: Free\nApplication deadline: November 20, 2026\nHow-to-apply: https://www.shepherdsway.ca/market.html\nSource: https://facebook.com/groups/524928052267953/permalink/1609817083779039/",
   "fees": "$40",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -6529,6 +6529,17 @@ window.EVENTS_REFRESH = [
   "region": "Rest of Ontario",
   "description": "Vendor call: the Goderich Kinette Club is calling vendors for its Festival of Arts & Crafts at Courthouse Square in Goderich, July 9-11, 2027.\n\nTheme: Arts & crafts festival\nTags: festival, arts, crafts\nHours: Not published\nHow-to-apply: email the organizer (address in the source post)\nSource: https://facebook.com/groups/294630007646067/permalink/2756233554819021/",
   "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Shepherd's Market 2026 – Part 1",
+  "date": "2026-11-21",
+  "time": "9 a.m.–1 p.m.",
+  "location": "Church of the Good Shepherd, 116 Queen St N, Kitchener, ON",
+  "city": "Kitchener",
+  "region": "Waterloo Region",
+  "description": "Shepherd's Market at the Church of the Good Shepherd in Kitchener (Shepherd's Stage) — Part 1, the first of two holiday dates with a different set of vendors each date (Part 2 runs Saturday November 28). Free admission and free parking.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 1:00 PM\nAdmission: Free\nApplication deadline: November 20, 2026\nHow-to-apply: https://www.shepherdsway.ca/market.html\nSource: https://www.instagram.com/p/DfnVK5LG3Jw/",
+  "fees": "$40",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
