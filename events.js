@@ -6585,5 +6585,16 @@ window.EVENTS_REFRESH = [
   "description": "Holiday market at Amica Guildwood retirement residence in Toronto — vendors showcase their products for residents, families and team members.\nListing type: Vendor call\nHours: 1:00 PM - 4:00 PM\nHow-to-apply: Message the organizer via the source post\nSource: https://facebook.com/groups/torontovbnetwork/permalink/29311195745180817/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Burlington Holiday Market: Psychics, handmade & Gifts",
+  "date": "2026-12-06",
+  "time": "11 a.m.–5 p.m.",
+  "location": "Art Gallery of Burlington, 1333 Lakeshore Rd., Burlington, ON L7S 1A9",
+  "city": "Burlington",
+  "region": "Halton Region",
+  "description": "Free-admission holiday market at the Art Gallery of Burlington with psychics, mediums, tarot and astrology readers, Reiki and wellness practitioners, handmade goods, crystals and unique holiday gifts. Same day as the Burlington Santa Claus Parade.\nListing type: Vendor call\nHours: 11:00 AM - 5:00 PM\nAdmission: Free\nAttractions: Free hot apple cider (while supplies last), free gift for the first 30 people through the door, giveaways throughout the day\nTheme: Christmas / holiday season\nVendor types wanted: Psychics, mediums, tarot and astrology readers; Reiki and holistic practitioners; handmade goods (soaps, candles, natural skincare); crystals and handcrafted jewelry; natural and botanical products\nHow-to-apply: https://forms.gle/JQDcLeJ5JaUK9Yv2A\nSource: https://www.eventbrite.ca/e/burlington-holiday-market-psychics-handmade-gifts-tickets-2004322616902",
+  "fees": "$150",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
