@@ -535,6 +535,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "CANCELLED — ThorntonView's Annual Holiday Bazaar",
+  "date": "2026-11-21",
+  "time": "1 p.m.–4 p.m.",
+  "location": "186 Thornton Rd S, Oshawa",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "Cancelled by the organizer (announced Nov 11).\n\nVendor call: annual holiday bazaar - seasonal shopping, holiday treats, local vendors.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, bazaar\nHours: 1:00 PM - 4:00 PM\nFee: not published (TBD) - contact the organizer to purchase a table\nHow to apply: see the source post\nSource: https://facebook.com/groups/1746193395565570/permalink/3484629365055289/\n\n",
+  "fees": "Not published (TBD)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "CFB Kingston Craft Sale",
   "date": "2026-11-21",
   "time": "9 a.m.–3 p.m.",
@@ -977,6 +988,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Shepherd's Market 2026 – Part 1",
+  "date": "2026-11-21",
+  "time": "9 a.m.–1 p.m.",
+  "location": "Church of the Good Shepherd, 116 Queen St N, Kitchener, ON",
+  "city": "Kitchener",
+  "region": "Waterloo Region",
+  "description": "Shepherd's Market at the Church of the Good Shepherd in Kitchener (Shepherd's Stage) — Part 1, the first of two holiday dates with a different set of vendors each date (Part 2 runs Saturday November 28). Free admission and free parking.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 1:00 PM\nAdmission: Free\nApplication deadline: November 20, 2026\nHow-to-apply: https://www.shepherdsway.ca/market.html\nSource: https://www.instagram.com/p/DfnVK5LG3Jw/",
+  "fees": "$40",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Silver Lake Christmas Market",
   "date": "2026-11-21",
   "time": "10 a.m.–4 p.m.",
@@ -1118,17 +1140,6 @@ window.EVENTS_REFRESH = [
   "region": "Rest of Ontario",
   "description": "The Old Schoolhouse Christmas Market at The Old Schoolhouse in Guelph — the organizers are still looking for a few vendors.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nAttractions: Live music, cafe, cookie decoration, raffles\nHow-to-apply: Apply via the Google Form linked in the source post\nSource: https://facebook.com/groups/609827307950034/permalink/1466939935572096/",
   "fees": "$40",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "CANCELLED — ThorntonView's Annual Holiday Bazaar",
-  "date": "2026-11-21",
-  "time": "1 p.m.–4 p.m.",
-  "location": "186 Thornton Rd S, Oshawa",
-  "city": "Oshawa",
-  "region": "Durham Region",
-  "description": "Cancelled by the organizer (announced Nov 11).\n\nVendor call: annual holiday bazaar - seasonal shopping, holiday treats, local vendors.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, bazaar\nHours: 1:00 PM - 4:00 PM\nFee: not published (TBD) - contact the organizer to purchase a table\nHow to apply: see the source post\nSource: https://facebook.com/groups/1746193395565570/permalink/3484629365055289/\n\n",
-  "fees": "Not published (TBD)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -1650,6 +1661,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Holiday Market at Amica Guildwood",
+  "date": "2026-11-26",
+  "time": "1 p.m.–4 p.m.",
+  "location": "Amica Guildwood, Toronto, ON",
+  "city": "Toronto",
+  "region": "Toronto",
+  "description": "Holiday market at Amica Guildwood retirement residence in Toronto — vendors showcase their products for residents, families and team members.\nListing type: Vendor call\nHours: 1:00 PM - 4:00 PM\nHow-to-apply: Message the organizer via the source post\nSource: https://facebook.com/groups/torontovbnetwork/permalink/29311195745180817/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Sip & Shop — Willow River Public School",
   "date": "2026-11-26",
   "time": "6 p.m.–8 p.m.",
@@ -2161,17 +2183,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "LOCATION CHANGE — Costa Crafted Events: 3rd Annual Holly Jolly Vendor Show",
-  "date": "2026-11-28",
-  "time": "10 a.m.–3 p.m.",
-  "location": "Trenton High School, 15 Fourth Ave, Trenton, ON",
-  "city": "Trenton",
-  "region": "Kingston & Area",
-  "description": "Location changed — this show has moved to Trenton High School, 15 Fourth Ave, Trenton (was 413 Wing RCAFA), and now runs 10:00 AM - 3:00 PM.\n\n3rd annual Holly Jolly Vendor Show by Costa Crafted Events. Attractions: Santa visit 10:30 AM - 2:30 PM, free raffles, angel tree and toy drive (new unopened toys, books, clothing and food accepted). Vendor fee not published — see application form. Theme: Christmas / holiday season. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
-  "fees": "not published",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Courtice Christmas Market",
   "date": "2026-11-28",
   "time": "10 a.m.–5 p.m.",
@@ -2544,6 +2555,17 @@ window.EVENTS_REFRESH = [
   "city": "Kingston",
   "region": "Kingston & Area",
   "description": "The Tett Centre leg of the Kingston Holiday Market, from Kingston Artist Events (the team behind Artfest Kingston and the Downtown Kingston Holiday Market) — about 50–60 local vendors per weekend, a new lineup each weekend, across the Malting Tower, Rehearsal Hall and Gallery.\nHours: Sat & Sun, 10:00 AM – 4:00 PM\nAdmission: Free\nNote: vendor fee not published\nSource: https://kingstonartistevents.com/pages/kingston-holiday-market-info",
+  "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "LOCATION CHANGE — Costa Crafted Events: 3rd Annual Holly Jolly Vendor Show",
+  "date": "2026-11-28",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Trenton High School, 15 Fourth Ave, Trenton, ON",
+  "city": "Trenton",
+  "region": "Kingston & Area",
+  "description": "Location changed — this show has moved to Trenton High School, 15 Fourth Ave, Trenton (was 413 Wing RCAFA), and now runs 10:00 AM - 3:00 PM.\n\n3rd annual Holly Jolly Vendor Show by Costa Crafted Events. Attractions: Santa visit 10:30 AM - 2:30 PM, free raffles, angel tree and toy drive (new unopened toys, books, clothing and food accepted). Vendor fee not published — see application form. Theme: Christmas / holiday season. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -3460,6 +3482,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Ridgeview P.S. Christmas Craft Market",
+  "date": "2026-12-04",
+  "time": "6 p.m.–9 p.m.",
+  "location": "Ridgeview Public School, 25 Brenda Ave, Brampton, ON L6Y 2A1",
+  "city": "Brampton",
+  "region": "Peel Region",
+  "description": "Christmas craft market at Ridgeview Public School in Brampton. The school is looking for vendors with small businesses, handmade products and unique creations.\nListing type: Vendor call\nHours: 6:00 PM - 9:00 PM\nHow-to-apply: https://form.jotform.com/262853495243060\nSource: https://facebook.com/groups/524928052267953/permalink/1613463613414386/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Sarnia Christmas Market",
   "date": "2026-12-04",
   "time": "5 p.m.–8 p.m.",
@@ -4302,6 +4335,17 @@ window.EVENTS_REFRESH = [
   "region": "Rest of Ontario",
   "description": "Christmas market in Sundridge, listed on the Muskoka Markets & Events calendar (Muskoka Mom Market). Organizer: Stephanie and Son.\nListing type: Shopper event\nTheme: Christmas\nHours: 11:00 AM - 3:00 PM\nAdmission: Not stated\nSource: https://teamup.com/ksrgf7718yq1ixvhem",
   "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Burlington Holiday Market: Psychics, handmade & Gifts",
+  "date": "2026-12-06",
+  "time": "11 a.m.–5 p.m.",
+  "location": "Art Gallery of Burlington, 1333 Lakeshore Rd., Burlington, ON L7S 1A9",
+  "city": "Burlington",
+  "region": "Halton Region",
+  "description": "Free-admission holiday market at the Art Gallery of Burlington with psychics, mediums, tarot and astrology readers, Reiki and wellness practitioners, handmade goods, crystals and unique holiday gifts. Same day as the Burlington Santa Claus Parade.\nOrganizer: Stefsea Co.\nListing type: Vendor call\nHours: 11:00 AM - 5:00 PM\nAdmission: Free\nAttractions: Free hot apple cider (while supplies last), free gift for the first 30 people through the door, giveaways throughout the day\nTheme: Christmas / holiday season\nVendor types wanted: Psychics, mediums, tarot and astrology readers; Reiki and holistic practitioners; handmade goods (soaps, candles, natural skincare); crystals and handcrafted jewelry; natural and botanical products\nHow-to-apply: https://forms.gle/JQDcLeJ5JaUK9Yv2A\nSource: https://www.eventbrite.ca/e/burlington-holiday-market-psychics-handmade-gifts-tickets-2004322616902",
+  "fees": "$150",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -5245,6 +5289,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Christmas on the Farm Market",
+  "date": "2026-12-13",
+  "time": "9 a.m.–4 p.m.",
+  "location": "Country Sunset Stables, 688 Lakeshore Road 115, South Woodslee / Belle River, ON",
+  "city": "South Woodslee / Belle River",
+  "region": "Windsor-Essex",
+  "description": "A Christmas market on the farm at Country Sunset Stables in South Woodslee / Belle River. Vendors wanted — 10 spots left when posted. Booth options: arena booths (any size) or stable stalls 10 x 12 ft or 10 x 13 ft. Meet the animals, live music and a photo booth. Sponsored by Parker D Publishing.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 4:00 PM\nVendor types wanted: Market vendors — all types\nHow to apply: see the source post\nSource: https://facebook.com/groups/222210128370316/permalink/2203853613539281/",
+  "fees": "$50 per booth",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Clarington Farmer's Market",
   "date": "2026-12-13",
   "time": "Time not listed",
@@ -5264,6 +5319,17 @@ window.EVENTS_REFRESH = [
   "region": "Kingston & Area",
   "description": "3rd annual Gingerbread Market by Costa Crafted Events: 30+ local vendors, door prizes, raffles, gingerbread house contest ($2 entry, 1 PM, winner at 2 PM), Santa photos $5 (11 AM–2 PM). Toy and food donations appreciated for the community. Vendor fee not published — see application form. Theme: Christmas / holiday season. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.\nHours: 10:00 AM – 4:00 PM\nAttractions: Door prizes, raffles, gingerbread house contest ($2 entry, 1 PM, winner at 2 PM), Santa photos $5 (11 AM–2 PM); toy and food donations appreciated\nVendors expected: 30+ local vendors",
   "fees": "not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Equinox Holistic Alternative School Winter Fair",
+  "date": "2026-12-13",
+  "time": "11 a.m.–3 p.m.",
+  "location": "Equinox Holistic Alternative School, 151 Hiawatha Road, Toronto, ON M4L 2Y1",
+  "city": "Toronto",
+  "region": "Toronto",
+  "description": "Winter fair at Equinox Holistic Alternative School in Toronto, with winter wonderland magic, live performances, wandering pocket fairies and curated handcrafted local goods and crafts.\nListing type: Vendor call\nHours: 11:00 AM - 3:00 PM\nApplication deadline: November 20, 2026 (11:59 PM)\nVendor types wanted: Local crafters, artists, small batch food producers and other vendors (crochet/knitted category is full)\nAttractions: Live performances, wandering pocket fairies, winter wonderland theme\nHow-to-apply: https://forms.gle/6m66nWv3D8EsuZik8\nSource: https://facebook.com/groups/torontocraftalert/permalink/10164440898158301/",
+  "fees": "$40",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -5980,6 +6046,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "Pokemon and other TCG Market",
+  "date": "2027-02-07",
+  "time": "11 a.m.–5 p.m.",
+  "location": "Grantham Lions Club, St. Catharines, ON",
+  "city": "St. Catharines",
+  "region": "Niagara Region",
+  "description": "The 2nd St. Catharines Pokemon market is back at a new location — the Grantham Lions Club in St. Catharines. All things Pokemon, and other TCG collectibles are welcome too, for collectors and players. Vendors wanted — spots have already started filling up. Vendor fee was not stated in the posts.\nListing type: Vendor call\nTheme: Pokemon and trading card games\nHours: 11:00 AM - 5:00 PM\nVendor types wanted: Pokemon and other TCG vendors\nHow to apply: see the source post\nSource: https://facebook.com/groups/647247322686478/permalink/2375649063179620/",
+  "fees": "Not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Winter Market at Port of Whitby Marina",
   "date": "2027-02-07",
   "time": "10 a.m.–4 p.m.",
@@ -6090,6 +6167,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "5th Annual Watford March Madness",
+  "date": "2027-03-06",
+  "time": "9 a.m.–2 p.m.",
+  "location": "East Lambton Community Complex, 61 Centennial Ave, Watford, ON",
+  "city": "Watford",
+  "region": "London & Area",
+  "description": "Fifth annual Watford March Madness vendor market at the East Lambton Community Complex. Shop local vendors, unique finds and more.\nListing type: Organizer submission\nTheme: Spring market\nHours: 9:00 AM – 2:00 PM",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "Barrie Butter Tarts & More Market",
   "date": "2027-03-06",
   "time": "10 a.m.–5 p.m.",
@@ -6153,6 +6241,17 @@ window.EVENTS_REFRESH = [
   "region": "Hamilton",
   "description": "Fee: not stated by organizer\nHours: 10 AM – 3 PM\nHow to apply: https://forms.gle/EcdYjatRFRZvkSBB7\nNotes: Weekly Saturday series, Jan 23 – Mar 20, 2027, plus a separate Easter weekend edition Sat Mar 27 & Sun Mar 28, 9 AM – 3 PM\nSource: https://facebook.com/groups/1190141658320918/permalink/1968636250471451/",
   "fees": "not stated by organizer",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "5th Annual Ailsa Craig Easter Market",
+  "date": "2027-03-20",
+  "time": "9 a.m.–2 p.m.",
+  "location": "Ailsa Craig Community Centre, 155 Annie Ada Shipley St, Ailsa Craig, ON",
+  "city": "Ailsa Craig",
+  "region": "Rest of Ontario",
+  "description": "Fifth annual Easter market at the Ailsa Craig Community Centre. Shop over 30 local vendors with handmade items, unique gifts, crafts, baked goods and more, in support of the Ailsa Craig Food Bank.\nListing type: Organizer submission\nTheme: Spring / Easter market\nAdmission: Free\nHours: 9:00 AM – 2:00 PM",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -6334,6 +6433,17 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
+  "title": "SUMMER SPARK – Youth Entrepreneur Market",
+  "date": "2027-06-19",
+  "time": "10 a.m.–6 p.m.",
+  "location": "Niagara Pen Centre, 221 Glendale Ave, St. Catharines, ON",
+  "city": "St. Catharines",
+  "region": "Niagara Region",
+  "description": "Youth entrepreneur market by Events Connected Canada at Niagara Pen Centre in St. Catharines — young entrepreneurs showcase their products, gain real business experience and sell to the community.\nListing type: Vendor call\nHours: 10:00 AM - 6:00 PM\nVendor types wanted: Youth entrepreneurs — young crafters, makers and small-business owners\nHow-to-apply: https://eventsconnectedcanada.ca/vendors-apply-here\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28904828319188321/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
   "title": "June Market at Port of Whitby Marina",
   "date": "2027-06-20",
   "time": "10 a.m.–4 p.m.",
@@ -6353,6 +6463,39 @@ window.EVENTS_REFRESH = [
   "region": "Durham Region",
   "description": "Whiskey & Walnut Courtice Sunday Market at Sir Monty's in Courtice — the market runs on the first Sundays of June through October 2027. Vendor applications are open through the organizer's vendor portal.\nListing type: Vendor call\nTheme: Sunday market\nHours: Not published\nVendor types wanted: Makers, bakers and creators (hand-crafted / handmade products)\nNote: Applications are reviewed by the organizer; applicants hear back within 14 days. A Featured Vendor Seasons Pass is also offered through the portal.\nHow-to-apply: https://whiskeyandwalnutvendors.org/\nSource: https://whiskeyandwalnutvendors.org/",
   "fees": "$45 per date or $200 for all 5 dates / $80 food truck",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Goderich Kinette Club Festival of Arts & Crafts",
+  "date": "2027-07-09",
+  "time": "Time not listed",
+  "location": "Courthouse Square, Goderich, ON",
+  "city": "Goderich",
+  "region": "Rest of Ontario",
+  "description": "Vendor call: the Goderich Kinette Club is calling vendors for its Festival of Arts & Crafts at Courthouse Square in Goderich, July 9-11, 2027.\n\nTheme: Arts & crafts festival\nTags: festival, arts, crafts\nHours: Not published\nHow-to-apply: email the organizer (address in the source post)\nSource: https://facebook.com/groups/294630007646067/permalink/2756233554819021/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Goderich Kinette Club Festival of Arts & Crafts",
+  "date": "2027-07-10",
+  "time": "Time not listed",
+  "location": "Courthouse Square, Goderich, ON",
+  "city": "Goderich",
+  "region": "Rest of Ontario",
+  "description": "Vendor call: the Goderich Kinette Club is calling vendors for its Festival of Arts & Crafts at Courthouse Square in Goderich, July 9-11, 2027.\n\nTheme: Arts & crafts festival\nTags: festival, arts, crafts\nHours: Not published\nHow-to-apply: email the organizer (address in the source post)\nSource: https://facebook.com/groups/294630007646067/permalink/2756233554819021/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Goderich Kinette Club Festival of Arts & Crafts",
+  "date": "2027-07-11",
+  "time": "Time not listed",
+  "location": "Courthouse Square, Goderich, ON",
+  "city": "Goderich",
+  "region": "Rest of Ontario",
+  "description": "Vendor call: the Goderich Kinette Club is calling vendors for its Festival of Arts & Crafts at Courthouse Square in Goderich, July 9-11, 2027.\n\nTheme: Arts & crafts festival\nTags: festival, arts, crafts\nHours: Not published\nHow-to-apply: email the organizer (address in the source post)\nSource: https://facebook.com/groups/294630007646067/permalink/2756233554819021/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -6474,127 +6617,6 @@ window.EVENTS_REFRESH = [
   "region": "Northumberland",
   "description": "Holiday vendor market by Costa Crafted Events. Venue and hours not yet published — see application form. Vendor fee not published. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
   "fees": "not published",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "5th Annual Ailsa Craig Easter Market",
-  "date": "2027-03-20",
-  "time": "9 a.m.–2 p.m.",
-  "location": "Ailsa Craig Community Centre, 155 Annie Ada Shipley St, Ailsa Craig, ON",
-  "city": "Ailsa Craig",
-  "region": "Rest of Ontario",
-  "description": "Fifth annual Easter market at the Ailsa Craig Community Centre. Shop over 30 local vendors with handmade items, unique gifts, crafts, baked goods and more, in support of the Ailsa Craig Food Bank.\nListing type: Organizer submission\nTheme: Spring / Easter market\nAdmission: Free\nHours: 9:00 AM – 2:00 PM",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "5th Annual Watford March Madness",
-  "date": "2027-03-06",
-  "time": "9 a.m.–2 p.m.",
-  "location": "East Lambton Community Complex, 61 Centennial Ave, Watford, ON",
-  "city": "Watford",
-  "region": "London & Area",
-  "description": "Fifth annual Watford March Madness vendor market at the East Lambton Community Complex. Shop local vendors, unique finds and more.\nListing type: Organizer submission\nTheme: Spring market\nHours: 9:00 AM – 2:00 PM",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Goderich Kinette Club Festival of Arts & Crafts",
-  "date": "2027-07-09",
-  "time": "Time not listed",
-  "location": "Courthouse Square, Goderich, ON",
-  "city": "Goderich",
-  "region": "Rest of Ontario",
-  "description": "Vendor call: the Goderich Kinette Club is calling vendors for its Festival of Arts & Crafts at Courthouse Square in Goderich, July 9-11, 2027.\n\nTheme: Arts & crafts festival\nTags: festival, arts, crafts\nHours: Not published\nHow-to-apply: email the organizer (address in the source post)\nSource: https://facebook.com/groups/294630007646067/permalink/2756233554819021/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Goderich Kinette Club Festival of Arts & Crafts",
-  "date": "2027-07-10",
-  "time": "Time not listed",
-  "location": "Courthouse Square, Goderich, ON",
-  "city": "Goderich",
-  "region": "Rest of Ontario",
-  "description": "Vendor call: the Goderich Kinette Club is calling vendors for its Festival of Arts & Crafts at Courthouse Square in Goderich, July 9-11, 2027.\n\nTheme: Arts & crafts festival\nTags: festival, arts, crafts\nHours: Not published\nHow-to-apply: email the organizer (address in the source post)\nSource: https://facebook.com/groups/294630007646067/permalink/2756233554819021/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Goderich Kinette Club Festival of Arts & Crafts",
-  "date": "2027-07-11",
-  "time": "Time not listed",
-  "location": "Courthouse Square, Goderich, ON",
-  "city": "Goderich",
-  "region": "Rest of Ontario",
-  "description": "Vendor call: the Goderich Kinette Club is calling vendors for its Festival of Arts & Crafts at Courthouse Square in Goderich, July 9-11, 2027.\n\nTheme: Arts & crafts festival\nTags: festival, arts, crafts\nHours: Not published\nHow-to-apply: email the organizer (address in the source post)\nSource: https://facebook.com/groups/294630007646067/permalink/2756233554819021/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Shepherd's Market 2026 – Part 1",
-  "date": "2026-11-21",
-  "time": "9 a.m.–1 p.m.",
-  "location": "Church of the Good Shepherd, 116 Queen St N, Kitchener, ON",
-  "city": "Kitchener",
-  "region": "Waterloo Region",
-  "description": "Shepherd's Market at the Church of the Good Shepherd in Kitchener (Shepherd's Stage) — Part 1, the first of two holiday dates with a different set of vendors each date (Part 2 runs Saturday November 28). Free admission and free parking.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 1:00 PM\nAdmission: Free\nApplication deadline: November 20, 2026\nHow-to-apply: https://www.shepherdsway.ca/market.html\nSource: https://www.instagram.com/p/DfnVK5LG3Jw/",
-  "fees": "$40",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Ridgeview P.S. Christmas Craft Market",
-  "date": "2026-12-04",
-  "time": "6 p.m.–9 p.m.",
-  "location": "Ridgeview Public School, 25 Brenda Ave, Brampton, ON L6Y 2A1",
-  "city": "Brampton",
-  "region": "Peel Region",
-  "description": "Christmas craft market at Ridgeview Public School in Brampton. The school is looking for vendors with small businesses, handmade products and unique creations.\nListing type: Vendor call\nHours: 6:00 PM - 9:00 PM\nHow-to-apply: https://form.jotform.com/262853495243060\nSource: https://facebook.com/groups/524928052267953/permalink/1613463613414386/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "SUMMER SPARK – Youth Entrepreneur Market",
-  "date": "2027-06-19",
-  "time": "10 a.m.–6 p.m.",
-  "location": "Niagara Pen Centre, 221 Glendale Ave, St. Catharines, ON",
-  "city": "St. Catharines",
-  "region": "Niagara Region",
-  "description": "Youth entrepreneur market by Events Connected Canada at Niagara Pen Centre in St. Catharines — young entrepreneurs showcase their products, gain real business experience and sell to the community.\nListing type: Vendor call\nHours: 10:00 AM - 6:00 PM\nVendor types wanted: Youth entrepreneurs — young crafters, makers and small-business owners\nHow-to-apply: https://eventsconnectedcanada.ca/vendors-apply-here\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28904828319188321/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Equinox Holistic Alternative School Winter Fair",
-  "date": "2026-12-13",
-  "time": "11 a.m.–3 p.m.",
-  "location": "Equinox Holistic Alternative School, 151 Hiawatha Road, Toronto, ON M4L 2Y1",
-  "city": "Toronto",
-  "region": "Toronto",
-  "description": "Winter fair at Equinox Holistic Alternative School in Toronto, with winter wonderland magic, live performances, wandering pocket fairies and curated handcrafted local goods and crafts.\nListing type: Vendor call\nHours: 11:00 AM - 3:00 PM\nApplication deadline: November 20, 2026 (11:59 PM)\nVendor types wanted: Local crafters, artists, small batch food producers and other vendors (crochet/knitted category is full)\nAttractions: Live performances, wandering pocket fairies, winter wonderland theme\nHow-to-apply: https://forms.gle/6m66nWv3D8EsuZik8\nSource: https://facebook.com/groups/torontocraftalert/permalink/10164440898158301/",
-  "fees": "$40",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Holiday Market at Amica Guildwood",
-  "date": "2026-11-26",
-  "time": "1 p.m.–4 p.m.",
-  "location": "Amica Guildwood, Toronto, ON",
-  "city": "Toronto",
-  "region": "Toronto",
-  "description": "Holiday market at Amica Guildwood retirement residence in Toronto — vendors showcase their products for residents, families and team members.\nListing type: Vendor call\nHours: 1:00 PM - 4:00 PM\nHow-to-apply: Message the organizer via the source post\nSource: https://facebook.com/groups/torontovbnetwork/permalink/29311195745180817/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Burlington Holiday Market: Psychics, handmade & Gifts",
-  "date": "2026-12-06",
-  "time": "11 a.m.–5 p.m.",
-  "location": "Art Gallery of Burlington, 1333 Lakeshore Rd., Burlington, ON L7S 1A9",
-  "city": "Burlington",
-  "region": "Halton Region",
-  "description": "Free-admission holiday market at the Art Gallery of Burlington with psychics, mediums, tarot and astrology readers, Reiki and wellness practitioners, handmade goods, crystals and unique holiday gifts. Same day as the Burlington Santa Claus Parade.\nOrganizer: Stefsea Co.\nListing type: Vendor call\nHours: 11:00 AM - 5:00 PM\nAdmission: Free\nAttractions: Free hot apple cider (while supplies last), free gift for the first 30 people through the door, giveaways throughout the day\nTheme: Christmas / holiday season\nVendor types wanted: Psychics, mediums, tarot and astrology readers; Reiki and holistic practitioners; handmade goods (soaps, candles, natural skincare); crystals and handcrafted jewelry; natural and botanical products\nHow-to-apply: https://forms.gle/JQDcLeJ5JaUK9Yv2A\nSource: https://www.eventbrite.ca/e/burlington-holiday-market-psychics-handmade-gifts-tickets-2004322616902",
-  "fees": "$150",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
