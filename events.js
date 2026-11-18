@@ -1469,7 +1469,7 @@ window.EVENTS_REFRESH = [
   "location": "The Latcham Centre, 121 Queen St, Port Perry",
   "city": "Port Perry",
   "region": "Durham Region",
-  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Sunday, November 22, 12–4 PM. Table fees range from $50 to $80 depending on table — confirm with organizer. To apply: DM the organizer on Facebook.\nFee: $50–$80\nHours: 12:00 PM – 4:00 PM\nSource: Organizer's flyer via Paul",
+  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Sunday, November 22, 12–4 PM. Tables are $50 for an 8-ft table and $30 for an additional table; table and chairs are provided. Free admission for shoppers. To apply, email the organizer or DM the organizer on Facebook.\nFee: $50 / 8-ft table, +$30 additional table\nHours: 12:00 PM – 4:00 PM\nAdmission: Free\nSource: Organizer's flyer via Paul; details confirmed by the organizer's form submission (Nov 18, 2026)",
   "fees": "$50–$80 (range — confirm with organizer)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
