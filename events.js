@@ -6618,5 +6618,108 @@ window.EVENTS_REFRESH = [
   "description": "Holiday vendor market by Costa Crafted Events. Venue and hours not yet published — see application form. Vendor fee not published. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Santa's Creations Winter Market",
+  "date": "2026-12-19",
+  "endDate": "2026-12-20",
+  "time": "Time not listed",
+  "location": "Langham Square (2nd Floor), 8339 Kennedy Road, Markham, ON",
+  "city": "Markham",
+  "region": "York Region",
+  "description": "Winter market hosted by the Bittersweet Makers & Entrepreneurs Association, a nonprofit supporting small businesses and local entrepreneurs. Past markets by this host have welcomed approximately 6,000-7,000 visitors. First-time vendors welcome; Christmas-themed products are not required.\nListing type: Vendor call\nHours: 12:00 PM - 6:00 PM\nApplication deadline: December 12, 2026\nTheme: Christmas / winter\nVendor types wanted: Small businesses, handmade creators, artists and entrepreneurs\nHow-to-apply: https://forms.gle/TsuNUosHtx1bmgrv5\nSource: https://facebook.com/groups/524928052267953/permalink/1615883309839083/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Shelburne Net Cracker Christmas Market",
+  "date": "2026-12-05",
+  "time": "Time not listed",
+  "location": "Shelburne, ON",
+  "city": "Shelburne",
+  "region": "Rest of Ontario",
+  "description": "Second annual Net Cracker Christmas Market from the Shelburne Soccer Club. Two vendor spaces were still available in the organizer's post; the venue, hours and vendor fee were not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nHow-to-apply: Email the organizer (address in the source post)\nSource: https://facebook.com/groups/524928052267953/permalink/1615602529867161/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Jackson Square Holiday Market",
+  "date": "2026-11-20",
+  "endDate": "2026-11-21",
+  "time": "Time not listed",
+  "location": "Jackson Square, Hamilton, ON",
+  "city": "Hamilton",
+  "region": "Hamilton",
+  "description": "Holiday market at Jackson Square in Hamilton with holiday gifts and decor from local makers. Last-minute vendor spaces opened up after cancellations; the table fee covers both days.\nListing type: Vendor call\nHours: Friday 12:00 PM - 6:00 PM; Saturday 9:30 AM - 3:00 PM\nTheme: Christmas / holiday season\nHow-to-apply: Email the organizer (address in the source post)\nSource: https://facebook.com/groups/1190141658320918/permalink/2011306676204408/",
+  "fees": "$141.25",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Mississauga Chargers Game Day Market",
+  "date": "2026-12-05",
+  "time": "Time not listed",
+  "location": "Port Credit Memorial Arena, 40 Stavebank Road, Mississauga, ON",
+  "city": "Mississauga",
+  "region": "Peel Region",
+  "description": "Vendor market held during a Mississauga Chargers game at Port Credit Memorial Arena. The booth fee covers a 6 ft space with table and chairs included; game-day hours were not stated in the post.\nListing type: Vendor call\nVendor types wanted: Crafters, artists and vendors with something unique to offer\nHow-to-apply: Message the organizer on Facebook or email (address in the source post)\nSource: https://facebook.com/groups/524928052267953/permalink/1615914543169293/",
+  "fees": "$50",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Christmas Market at 99 King",
+  "date": "2026-12-03",
+  "time": "Time not listed",
+  "location": "99 King",
+  "city": "",
+  "region": "Rest of Ontario",
+  "description": "Evening Christmas market at 99 King. One vendor per category, first come, first served. The post does not state a street address, town, hours or vendor fee.\nListing type: Vendor call\nTheme: Christmas\nHow-to-apply: Email the organizer (address in the source post)\nSource: https://facebook.com/groups/1746193395565570/permalink/3537669579751267/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Thamesford Christmas Market",
+  "date": "2026-11-28",
+  "endDate": "2026-11-29",
+  "time": "Time not listed",
+  "location": "85 Middleton St, Thamesford, ON",
+  "city": "Thamesford",
+  "region": "Rest of Ontario",
+  "description": "Christmas market from Scotty's Edge Markets in Thamesford with over 40 artisans, baked goods and hot food. Donations toward abused women's centres are accepted at the door, plus a draw for a $100 gift card. The vendor fee is per date; table and chairs included.\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM\nTheme: Christmas\nAttractions: 40+ artisans, baked goods and hot food, $100 gift card draw\nHow-to-apply: Message the organizer via the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1614304559996958/",
+  "fees": "$75",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Thamesford Festive Market",
+  "date": "2026-12-12",
+  "endDate": "2026-12-13",
+  "time": "Time not listed",
+  "location": "85 Middleton St, Thamesford, ON",
+  "city": "Thamesford",
+  "region": "Rest of Ontario",
+  "description": "Festive market from Scotty's Edge Markets in Thamesford. Santa will be there on Saturday from 10:00 AM to 2:00 PM. The vendor fee is per date; table and chairs included.\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM\nTheme: Christmas\nAttractions: Santa (Saturday 10:00 AM - 2:00 PM)\nHow-to-apply: Message the organizer via the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1614304559996958/",
+  "fees": "$75",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Belmont Christmas Market",
+  "date": "2026-12-19",
+  "time": "10 a.m.–4 p.m.",
+  "location": "14020 Belmont Road, Upstairs Rec Hall, Belmont, ON",
+  "city": "Belmont",
+  "region": "Rest of Ontario",
+  "description": "Christmas market from Scotty's Edge Markets at the Upstairs Rec Hall in Belmont. The vendor fee is per date; table and chairs included.\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM\nTheme: Christmas\nHow-to-apply: Message the organizer via the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1614304559996958/",
+  "fees": "$75",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Wake Up Wellington Christmas Costume Party",
+  "date": "2026-11-28",
+  "time": "12 p.m.–5 p.m.",
+  "location": "Downtown Wellington, Wellington, ON",
+  "city": "Wellington",
+  "region": "Rest of Ontario",
+  "description": "Wake Up Wellington's Christmas costume party and vendor market in downtown Wellington (Prince Edward County), billed as Ontario's largest Christmas costume party, with a $1,000 grand prize for the costume contest. Indoor and outdoor booths available.\nListing type: Vendor call\nHours: 12:00 PM - 5:00 PM\nTheme: Christmas\nVendor types wanted: Local artisans, handmade goods, food vendors and unique gifts\nAttractions: Costume contest with a $1,000 grand prize\nHow-to-apply: Message the organizer via the source post\nSource: https://facebook.com/groups/6703732679656668/permalink/30036977259238881/",
+  "fees": "$50 indoor / $30 outdoor",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
