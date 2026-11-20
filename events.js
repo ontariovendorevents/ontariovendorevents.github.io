@@ -84,28 +84,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "A Very Vine Christmas",
-  "date": "2026-11-19",
-  "time": "5 p.m.–8:30 p.m.",
-  "location": "Vine Floral, 387 Ontario St, St. Catharines, ON",
-  "city": "St. Catharines",
-  "region": "Niagara Region",
-  "description": "A festive evening of Christmas shopping at Vine Floral by Forest of Flowers in St. Catharines, with a curated collection of local makers, artists and small businesses, plus a special holiday workshop. Indoors. Handmade and hand-curated vendors only — no MLM or direct sales, no AI-generated art; at least 75% of goods must be handmade (vintage and crystals exempt). Limited spots; payment required upon acceptance and is non-refundable. Organized with Makers Union.\nTheme: Christmas / holiday season\nVendor types wanted: Handmade and hand-curated vendors only (no MLM or direct sales, no AI-generated art)\nFee: $50\nHow to apply: https://forms.gle/NrMzuvgGGw9xoADz8\nSource: https://facebook.com/groups/524928052267953/permalink/1586421109451970/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Mistletoe & Mocktails Winter Market",
-  "date": "2026-11-19",
-  "time": "3 p.m.–9 p.m.",
-  "location": "Newcastle Community Hall, 20 King Ave W, Newcastle, ON",
-  "city": "Newcastle",
-  "region": "Durham Region",
-  "description": "An evening winter market at Newcastle Community Hall — local vendors, makers and small businesses with unique gifts, Christmas décor and handmade goods, plus an on-site gift-wrapping station.\nHours: Thu Nov 19, 3:00 PM – 9:00 PM\nAdmission: not stated\nNote: vendor fee not published\nSource: https://www.newcastlecommunityhall.com/upcoming-events",
-  "fees": "not published",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Oak Park LaSalle Holiday Shopping & Gift Bazaar",
   "date": "2026-11-19",
   "time": "Time not listed",
@@ -114,50 +92,6 @@ window.EVENTS_REFRESH = [
   "region": "Windsor-Essex",
   "description": "Oak Park LaSalle's Holiday Shopping & Gift Bazaar — there is still time to book a vendor spot, and there is no charge for a table. Event hours were not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nVendor types wanted: All vendor types\nHow to apply: see the source post\nSource: https://facebook.com/groups/2320917288223463/permalink/4567725476875955/",
   "fees": "Free",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "St. John Bosco Christmas Market",
-  "date": "2026-11-19",
-  "time": "5 p.m.–9 p.m.",
-  "location": "St. John Bosco, 1600 Clearbrook Drive, Oshawa, ON L1J 1Y1",
-  "city": "Oshawa",
-  "region": "Durham Region",
-  "description": "Christmas Market at St. John Bosco Catholic School in Oshawa — vendors wanted of all kinds: handmade crafts, direct sales, home décor, food & treats, jewellery, beauty & wellness, baked goods, art, personalized items and more, with a limit of 2 vendors per craft. Tables are $40 each; an electrical plug-in is available for $10.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 9:00 PM\nVendor types wanted: Handmade crafts, direct sales, home décor, food & treats, jewellery, beauty & wellness, baked goods, art, personalized items (limit 2 vendors per craft)\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1594546165306131/",
-  "fees": "$40 per table; +$10 electrical plug-in",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "St. Joseph Annual Christmas Market",
-  "date": "2026-11-19",
-  "time": "5 p.m.–8 p.m.",
-  "location": "St. Joseph Catholic School, 1200 Summerwood Heights, Oshawa, ON",
-  "city": "Oshawa",
-  "region": "Durham Region",
-  "description": "St. Joseph Catholic School's annual Christmas market in Oshawa is seeking vendors. Tables are available; apply via the source post by November 12.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 8:00 PM\nSource: https://facebook.com/groups/DHMM3.0/permalink/2320741205379867/",
-  "fees": "$20",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "St. Lawrence Market Winter Market",
-  "date": "2026-11-19",
-  "time": "11 a.m.–7 p.m.",
-  "location": "Market Street, St. Lawrence Market, Toronto, ON",
-  "city": "Toronto",
-  "region": "Toronto",
-  "description": "3rd annual Winter Market at St. Lawrence Market - a free outdoor holiday market on Market Street beside the South Market in downtown Toronto, with live music, festive food and drinks, free photos with Santa every weekend, and 75+ local makers and vintage vendors at the Weekend Holiday Vendor Market (Saturdays and Sundays). The Toronto Santa Claus Parade ends at the market on Sunday Nov 22.\nListing type: Shopper event\nRuns: Thursdays through Sundays, Nov 19 - Dec 22, 2026, plus bonus days Mon Dec 21 and Tue Dec 22, 2026\nHours: Thu & Fri 11:00 AM - 7:00 PM; Sat & Sun 10:00 AM - 7:00 PM; bonus days Dec 21 & 22, 10:00 AM - 7:00 PM\nAdmission: Free\nNote: The organizer page still shows the previous edition; the 2026 dates above come from the 2026 announcement video (TodoToronto, posted Oct 2026).\nSource: https://vt.tiktok.com/ZSgC6xxYK/\nSource: https://www.stlawrencemarket.com/events/event_detail/830/Winter%2520Market",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Tait Street Public School Holiday Night Market",
-  "date": "2026-11-19",
-  "time": "5 p.m.–8 p.m.",
-  "location": "Tait Street Public School, Cambridge, ON",
-  "city": "Cambridge",
-  "region": "Waterloo Region",
-  "description": "Holiday night market at Tait Street Public School — local vendors, makers and small businesses wanted for an evening of holiday shopping and community spirit. Vendor setup 4:00–5:00 PM. Vendor fee not published in the post — see the application form.\nApply: https://form.jotform.com/262853495243060\nHours: 5:00 PM – 8:00 PM\nSource: https://facebook.com/groups/524928052267953/permalink/1582093569884724/",
-  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
