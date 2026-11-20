@@ -6732,5 +6732,71 @@ window.EVENTS_REFRESH = [
   "description": "Holiday bazaar at a long-term care and retirement residence in Stoney Creek. It is a smaller home, and there is no charge for a vendor table. The venue name, address and hours were not stated in the post — please reach out to the organizer for details.\nListing type: Vendor call\nTheme: Christmas / holiday\nHow-to-apply: Message the organizer via the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1616690626425018/",
   "fees": "Free",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Craft Stash to Cash Sale",
+  "date": "2027-05-02",
+  "time": "Time not listed",
+  "location": "Grantham Optimist Hall, 188 Linwell Rd, St. Catharines, ON",
+  "city": "St. Catharines",
+  "region": "Niagara Region",
+  "description": "Third annual Craft Stash to Cash Sale in St. Catharines — a destash market where vendors sell their extra craft supplies, like a giant indoor garage sale for crafters. There are 35 table spots; hours were not stated in the post.\nListing type: Vendor call\nTheme: Craft supply destash sale\nVendor types wanted: Vendors selling extra craft supplies and materials\nHow-to-apply: https://forms.gle/WjabALEDbticAuH48\nSource: https://facebook.com/groups/647247322686478/permalink/2377431349668058/",
+  "fees": "$40-$45 per table",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Artisan Awareness Christmas Market",
+  "date": "2026-11-28",
+  "time": "10 a.m.–3 p.m.",
+  "location": "CFLC (Staples School), 3038 Rochester Townline, Essex County, ON",
+  "city": "Essex County",
+  "region": "Windsor-Essex",
+  "description": "Christmas market in Essex County with breakfast food, baked goods, natural products and crafts, plus seating to sit and chat and colouring for children. Free entry. A few vendor spots were still available in the organizer's post; the vendor fee was not published.\nListing type: Vendor call\nHours: 10:00 AM - 3:00 PM\nAdmission: Free\nTheme: Christmas\nVendor types wanted: Food and baked goods, natural products, crafts\nHow-to-apply: Message the organizer on Facebook or see the source post\nSource: https://facebook.com/groups/2320917288223463/permalink/4575839422731227/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Céleste's Black Friday Weekend Market",
+  "date": "2026-11-28",
+  "time": "Time not listed",
+  "location": "Céleste's Café, 1295 Ottawa Street, Windsor, ON",
+  "city": "Windsor",
+  "region": "Windsor-Essex",
+  "description": "Black Friday weekend market at Céleste's Café in Windsor — early holiday café shopping with a curated mix of local makers, handmade gifts, jewelry, crystals and metaphysical items, and holiday treats. Vendor spots are limited; hours and the vendor fee were not published in the post.\nListing type: Vendor call\nTheme: Christmas / Black Friday\nVendor types wanted: Local businesses, makers, artisans and creatives\nHow-to-apply: Message the organizer for vendor details and an application (see the source post)\nSource: https://facebook.com/groups/2320917288223463/permalink/4574693372845832/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Winter Collector Expo (RJ Vendor Events)",
+  "date": "2027-01-30",
+  "time": "9 a.m.–3 p.m.",
+  "location": "Kingston Shrine Club, 3260 Princess St, Kingston, ON",
+  "city": "Kingston",
+  "region": "Kingston & Area",
+  "description": "Winter Collector Expo — a card and collectible show from RJ Vendor Events at the Kingston Shrine Club, a spot to sell sports cards, Pokémon cards and collectibles. Four vendor tables were left when the vendor call was posted. The vendor fee was not published.\nListing type: Vendor call\nHours: 9:00 AM - 3:00 PM\nTheme: Cards & collectibles\nVendor types wanted: Sports cards, Pokémon cards and collectibles\nHow-to-apply: https://forms.gle/e3gzkCB9AtaAHAdr7\nSource: https://facebook.com/groups/3489789037828435/permalink/3663564240450913/",
+  "fees": "Not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "The Collector's Corner (RJ Vendor Events)",
+  "date": "2027-02-20",
+  "time": "9 a.m.–3 p.m.",
+  "location": "Kingston Shrine Club, 3260 Princess St, Kingston, ON",
+  "city": "Kingston",
+  "region": "Kingston & Area",
+  "description": "The Collector's Corner: Cards & Collectibles — a card and collectible show from RJ Vendor Events at the Kingston Shrine Club, a spot to sell sports cards, Pokémon cards and collectibles. Eight vendor tables were left when the vendor call was posted. The vendor fee was not published.\nListing type: Vendor call\nHours: 9:00 AM - 3:00 PM\nTheme: Cards & collectibles\nVendor types wanted: Sports cards, Pokémon cards and collectibles\nHow-to-apply: https://forms.gle/e3gzkCB9AtaAHAdr7\nSource: https://facebook.com/groups/3489789037828435/permalink/3663564240450913/",
+  "fees": "Not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Lucky Finds (RJ Vendor Events)",
+  "date": "2027-03-13",
+  "time": "9 a.m.–3 p.m.",
+  "location": "Kingston Shrine Club, 3260 Princess St, Kingston, ON",
+  "city": "Kingston",
+  "region": "Kingston & Area",
+  "description": "Lucky Finds Card & Collectible Expo — a card and collectible show from RJ Vendor Events at the Kingston Shrine Club, a spot to sell sports cards, Pokémon cards and collectibles. Eight vendor tables were left when the vendor call was posted. The vendor fee was not published.\nListing type: Vendor call\nHours: 9:00 AM - 3:00 PM\nTheme: Cards & collectibles\nVendor types wanted: Sports cards, Pokémon cards and collectibles\nHow-to-apply: https://forms.gle/e3gzkCB9AtaAHAdr7\nSource: https://facebook.com/groups/3489789037828435/permalink/3663564240450913/",
+  "fees": "Not published",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
