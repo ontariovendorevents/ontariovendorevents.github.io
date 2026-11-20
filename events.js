@@ -6721,5 +6721,16 @@ window.EVENTS_REFRESH = [
   "description": "Wake Up Wellington's Christmas costume party and vendor market in downtown Wellington (Prince Edward County), billed as Ontario's largest Christmas costume party, with a $1,000 grand prize for the costume contest. Indoor and outdoor booths available.\nListing type: Vendor call\nHours: 12:00 PM - 5:00 PM\nTheme: Christmas\nVendor types wanted: Local artisans, handmade goods, food vendors and unique gifts\nAttractions: Costume contest with a $1,000 grand prize\nHow-to-apply: Message the organizer via the source post\nSource: https://facebook.com/groups/6703732679656668/permalink/30036977259238881/",
   "fees": "$50 indoor / $30 outdoor",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Holiday Bazaar",
+  "date": "2026-12-05",
+  "time": "Time not listed",
+  "location": "Long-term care / retirement residence, Stoney Creek, ON",
+  "city": "Stoney Creek",
+  "region": "Hamilton",
+  "description": "Holiday bazaar at a long-term care and retirement residence in Stoney Creek. It is a smaller home, and there is no charge for a vendor table. The venue name, address and hours were not stated in the post — please reach out to the organizer for details.\nListing type: Vendor call\nTheme: Christmas / holiday\nHow-to-apply: Message the organizer via the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1616690626425018/",
+  "fees": "Free",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
