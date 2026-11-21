@@ -84,17 +84,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "Oak Park LaSalle Holiday Shopping & Gift Bazaar",
-  "date": "2026-11-19",
-  "time": "Time not listed",
-  "location": "Oak Park, LaSalle, ON",
-  "city": "LaSalle",
-  "region": "Windsor-Essex",
-  "description": "Oak Park LaSalle's Holiday Shopping & Gift Bazaar — there is still time to book a vendor spot, and there is no charge for a table. Event hours were not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nVendor types wanted: All vendor types\nHow to apply: see the source post\nSource: https://facebook.com/groups/2320917288223463/permalink/4567725476875955/",
-  "fees": "Free",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Village Noël Temiskaming",
   "date": "2026-11-19",
   "endDate": "2026-11-21",
@@ -103,83 +92,6 @@ window.EVENTS_REFRESH = [
   "city": "New Liskeard",
   "region": "Rest of Ontario",
   "description": "A 17th-century New France–themed Christmas village in New Liskeard — 32 heated artisan and food kiosks, costumed characters and live entertainment, drawing about 10,000 visitors.\nHours: Thu Nov 19, 5:00 PM – 7:00 PM (opening evening); Fri Nov 20, 9:00 AM – 7:00 PM; Sat Nov 21, 9:00 AM – 6:00 PM\nAdmission: Free\nNote: 2026 artisan registration closed July 31, 2026 — listed for shoppers. The organizer's registration form lists a 4:00 PM Thursday start vs 5:00 PM on its homepage, and notes hours may change\nSource: https://en.villagenoel.com/",
-  "fees": "Applications closed",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "5th Annual Gloucester Night Market",
-  "date": "2026-11-20",
-  "time": "4 p.m.–8 p.m.",
-  "location": "Gloucester Centre (Entrance 3), 1980 Ogilvie Road, Ottawa",
-  "city": "Ottawa",
-  "region": "Ottawa",
-  "description": "Fee: $65+HST/night or $300+HST early-bird season rate (until Oct 31)\nHow to apply: SoapLadz.ca/Market\nHours: 4:00 PM – 8:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2628683637567194/\n\n",
-  "fees": "$65+HST/night or $300+HST early-bird season rate (until Oct 31)",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Ailsa Craig Holiday Extravaganza",
-  "date": "2026-11-20",
-  "time": "4 p.m.–9 p.m.",
-  "location": "Ailsa Craig Community Centre, Ailsa Craig",
-  "city": "Ailsa Craig",
-  "region": "Rest of Ontario",
-  "description": "A-Z Events evening Christmas market at the Ailsa Craig Community Centre — part of the village-wide Ailsa Craig Holiday Extravaganza. Vendor fee: published on the organizer's application — a registration fee is required before a vending space is reserved, payable by e-transfer; fees are non-refundable (full refund only if A-Z Events cancels). Organizer strongly recommends vendors carry their own liability insurance; vendors may bring their own displays and stands. How to apply: vendor application Google Form — https://forms.gle/wuhe6Xk4fC9ST6Nr6 (vendor spaces are limited). Organizer: A-Z Events.\nTheme: Christmas market\nTags: Shop Local, Support Small Business, Holiday Markets, Local Vendors, Community Events, Christmas Markets\nHours: 4:00 PM – 9:00 PM\nVendor types wanted: All vendor types\nAttractions: 18 passport stops throughout the village (shops, the library, churches, the Rec Centre and more); horse and wagon stops at the Community Centre and on Main St. at Craig St.; festive music, food and lights throughout the village\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28141094792228348/\nSource: https://facebook.com/events/s/ailsa-craig-holiday-extravagan/1590816636042952/",
-  "fees": "$60",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Bloom Oshawa Retirement Community Holiday Market",
-  "date": "2026-11-20",
-  "time": "1 p.m.–4 p.m.",
-  "location": "Bloom Oshawa Retirement Community, 1224 Coldstream Drive, Oshawa, ON",
-  "city": "Oshawa",
-  "region": "Durham Region",
-  "description": "Vendor call for the Bloom Oshawa Retirement Community Christmas shopping event (holiday market). Lunch will be provided for vendors; spaces are limited. Vendor fee: $20 per table. How to apply: see the source post link for how to apply. Organizer: see the source post. Source post: see the event listing in the Facebook group (no direct link).\nFee: $20\nSource: https://facebook.com/groups/524928052267953/permalink/1570839077676840/",
-  "fees": "$20 per table",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Bright & Merry Market",
-  "date": "2026-11-20",
-  "time": "5 p.m.–9 p.m.",
-  "location": "Downtown Oshawa (City Hall to Memorial Park), Oshawa, ON",
-  "city": "Oshawa",
-  "region": "Durham Region",
-  "description": "The City of Oshawa's Bright & Merry Market downtown, from City Hall (50 Centre St S) to Memorial Park: holiday shopping, family activities and the North Parkette illumination at 8:30 PM. Free admission.\nListing type: Event\nTheme: Christmas\nHours: 5:00 PM - 9:00 PM\nSource: https://www.oshawa.ca/explore-play/city-events/bright-and-merry-market/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Christmas Magic (Downtown Cobourg)",
-  "date": "2026-11-20",
-  "time": "4 p.m.–8 p.m.",
-  "location": "Historic Main Street, Cobourg, ON",
-  "city": "Cobourg",
-  "region": "Northumberland",
-  "description": "Downtown Cobourg Christmas Magic — an evening Main Street Christmas celebration in the heart of downtown. Vendor call: artisan and food vendors wanted — small-batch products, handmade artisan goods, unique gifts and holiday treasures. Vendor booths on the historic main street.\nListing type: Vendor call\nTheme: Christmas\nHours: 4:00 PM – 8:00 PM\nFee: not published\nVendor types wanted: Artisan and food vendors — small-batch, handmade, unique gifts\nHow to apply: Email Downtown Cobourg with subject line \"Christmas Magic Vendor Application\" — address in the source post\nSource: https://www.facebook.com/100063741032151/posts/1759912246143460/",
-  "fees": "not published",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Christmas Night Market at the Ranch",
-  "date": "2026-11-20",
-  "time": "6 p.m.–9 p.m.",
-  "location": "Restoration Ranch, 2130 Shirley Rd",
-  "city": "",
-  "region": "Rest of Ontario",
-  "description": "Christmas night vendor market at Restoration Ranch, 2130 Shirley Rd. Organized by the organizer Social Co. Vendor fee and application details TBA — check back for updates. Plenty of space available (per organizer).\nSource: organizer\\'s Facebook post",
-  "fees": "TBA",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Downtown Kingston Holiday Market",
-  "date": "2026-11-20",
-  "time": "6 p.m.–9 p.m.",
-  "location": "261 Princess Street and 181 Sydenham Street, Kingston, ON",
-  "city": "Kingston",
-  "region": "Kingston & Area",
-  "description": "Downtown Kingston's Holiday Market, from the creative team behind Artfest Kingston — shop unique vendors and local artisans for handmade gifts and one-of-a-kind finds at two downtown locations. Part of Downtown Kingston's Embrace the Season holiday lineup.\nAdmission: not stated\nNote: vendor applications closed October 30, 2026 — listed for shoppers.\nSource: https://facebook.com/100064324317300/posts/1573946311426164",
   "fees": "Applications closed",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -219,28 +131,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "Land of Lakes Christmas Craft Sale",
-  "date": "2026-11-20",
-  "time": "5:30 p.m.–8 p.m.",
-  "location": "Land of Lakes Public School, 92 Ontario St, Burk's Falls, ON",
-  "city": "Burk's Falls",
-  "region": "Rest of Ontario",
-  "description": "Christmas market in Burk's Falls, listed on the Muskoka Markets & Events calendar (Muskoka Mom Market). Organizer: Land of Lakes Public School.\nListing type: Shopper event\nTheme: Christmas\nHours: 5:30 PM - 8:00 PM\nAdmission: Not stated\nSource: https://teamup.com/ksrgf7718yq1ixvhem",
-  "fees": "not published",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Lawfield Home & School Winter Bazaar",
-  "date": "2026-11-20",
-  "time": "4 p.m.–7 p.m.",
-  "location": "Lawfield Elementary School, 45 Berko Ave, Hamilton, ON",
-  "city": "Hamilton",
-  "region": "Hamilton",
-  "description": "Lawfield Home & School Winter Bazaar at Lawfield Elementary School in Hamilton — holiday shopping, unique gifts and local community fun, hosted by the Lawfield Home & School Association.\nListing type: Event\nTheme: Christmas\nHours: 4:00 PM - 7:00 PM\nAdmission: not stated\nAttractions: Gourmet food trucks, live Pokémon trading zone, kids' winter crafts and games, photo booths\nHow-to-apply: https://forms.gle/baj2Htw5SdJXUGXg8\nNote: vendor fee not stated by organizer\nSource: https://www.instagram.com/p/DeKKlfJR6gL/",
-  "fees": "not stated by organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "MacKinnon Brothers Holiday Market",
   "date": "2026-11-20",
   "endDate": "2026-11-22",
@@ -265,17 +155,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "Niemi's Christmas Market",
-  "date": "2026-11-20",
-  "time": "12 p.m.–8 p.m.",
-  "location": "Niemi Family Farm, 18463 Highway 48, Mount Albert, ON",
-  "city": "Mount Albert",
-  "region": "York Region",
-  "description": "Annual Scandinavian-style Christmas market at Niemi Family Farm in Mount Albert, running every Friday and Saturday from Nov 13 to Dec 19, 2026, presented by Niemi Family Farm. Local vendors, the farm's Finnish bakery, food and Christmas trees. Attractions include GnomeVille with farm animals and Santa's Workshop, the GnomeVille Express train ride, and bookable private bonfires; dogs welcome. Admission to the market is free; GnomeVille experiences are ticketed through the farm.\nListing type: Shopper event\nTheme: Christmas\nHours: 12:00 PM - 8:00 PM\nPresented by Niemi Family Farm\nSource: https://www.instagram.com/p/DfAOklakSc9/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Ottawa Christmas Market",
   "date": "2026-11-20",
   "endDate": "2026-11-22",
@@ -285,72 +164,6 @@ window.EVENTS_REFRESH = [
   "region": "Ottawa",
   "description": "Ottawa's big outdoor Christmas market — 60+ local vendors in wooden chalets at Aberdeen Plaza, Lansdowne Park.\nHours: Fri 5:00 PM – 10:00 PM; Sat 10:00 AM – 10:00 PM; Sun 10:00 AM – 8:00 PM\nAdmission: not stated\nAttractions: Twinkle Tunnel light walk, skating rink, Santa's Village, Blitzen's Bar, fire pits, live entertainment on two stages\nNote: vendor fee and application details not published on the organizer's site\nSource: https://ottawachristmasmarket.com/",
   "fees": "not published",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Port Perry Lakefront Farmers' Market Holiday Pop-Up",
-  "date": "2026-11-20",
-  "time": "5 p.m.–8 p.m.",
-  "location": "Latcham Centre, 121 Queen St, Port Perry, ON",
-  "city": "Port Perry",
-  "region": "Durham Region",
-  "description": "A holiday pop-up from the Port Perry Lakefront Farmers' Market at the Latcham Centre: evening shopping with market vendors.\nListing type: Event\nTheme: Christmas\nHours: 5:00 PM - 8:00 PM\nSource: https://www.portperryfarmersmarket.ca/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Port Perry Villa Holiday Market & Art Show",
-  "date": "2026-11-20",
-  "time": "4 p.m.–8 p.m.",
-  "location": "Port Perry Villa Retirement Living, 15987 Simcoe St, Port Perry, ON",
-  "city": "Port Perry",
-  "region": "Durham Region",
-  "description": "Holiday market and art show at Port Perry Villa Retirement Living, with handmade crafts, local artwork and baked goods. Runs two days: Friday November 20, 4:00 PM - 8:00 PM and Saturday November 21, 9:00 AM - 3:00 PM.\nListing type: Event\nTheme: Christmas\nHours: 4:00 PM - 8:00 PM (Friday); 9:00 AM - 3:00 PM (Saturday)\nAdmission: Free\nSource: https://www.facebook.com/groups/404954583291348/permalink/2649327422187375/",
-  "fees": "not published",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Rogers Cove Christmas Bazaar",
-  "date": "2026-11-20",
-  "time": "2 p.m.–4 p.m.",
-  "location": "Rogers Cove Retirement Residence, 4 Coveside Dr, Huntsville, ON",
-  "city": "Huntsville",
-  "region": "Rest of Ontario",
-  "description": "Christmas market in Huntsville, listed on the Muskoka Markets & Events calendar (Muskoka Mom Market). Organizer: Rogers Cove Retirement Residence.\nListing type: Shopper event\nTheme: Christmas\nHours: 2:00 PM - 4:00 PM\nAdmission: Not stated\nSource: https://teamup.com/ksrgf7718yq1ixvhem",
-  "fees": "not published",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "St. Jacobs Holiday Sip & Shop Night Market",
-  "date": "2026-11-20",
-  "time": "5 p.m.–10 p.m.",
-  "location": "St. Jacobs Farmers' Market, 878 Weber St N, Woolwich, ON N2J 4A9",
-  "city": "Woolwich",
-  "region": "Waterloo Region",
-  "description": "Twinkling Nights, Festive Delights: Sip, Shop & Enjoy the Holiday Lights! St. Jacobs Farmers' Market turns into an evening holiday shopping destination for its Holiday Sip & Shop Night Market, with over 100 curated artisans and makers alongside the market's year-round vendors, seasonal drinks to sip while you browse, and festive live music. Vendor call: booths are 10 ft wide spaces, located outside on the market property with limited spaces inside the Market Building; the market is looking for artisans, unique crafters, holiday decor, seasonal treats, Christmas decor, stockings, fandom gifts, hobby enthusiasts, Etsy shop sellers, 3D printers and more. Shopper admission: tickets are $8 plus fees and tax (ages 11+); children 10 and under are free.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 10:00 PM\nApply: https://www.stjacobsmarket.com/event-vendor-application\nSource: https://www.stjacobsmarket.com/event-details-registration/holiday-sip-shop-night-market-2026-11-27-17-00",
-  "fees": "$85",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "St. John XXIII Catholic School Christmas Market",
-  "date": "2026-11-20",
-  "time": "5 p.m.–8 p.m.",
-  "location": "St. John XXIII Catholic School, Oshawa",
-  "city": "Oshawa",
-  "region": "Durham Region",
-  "description": "Theme: Christmas\nFee: not stated by organizer\nHow to apply: see the source post\nHours: 5:00 PM – 8:00 PM\nSource: https://facebook.com/groups/1013767978664673/permalink/39079942611620400/\n\n",
-  "fees": "not stated by organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Starlight Market (Jordan Village)",
-  "date": "2026-11-20",
-  "time": "4 p.m.–9 p.m.",
-  "location": "Lincoln Museum & Cultural Centre, 3800 Main Street, Jordan, ON",
-  "city": "Jordan",
-  "region": "Niagara Region",
-  "description": "Starlight Market in Jordan Village (Town of Lincoln), part of Christmas in the Village — shop the market at the Lincoln Museum & Cultural Centre and enjoy local beverages and craft activities, then watch the lighting of Jordan Village at 6:00 PM on Main Street. Free admission.\nListing type: Shopper event\nTheme: Christmas\nHours: 4:00 PM - 9:00 PM\nSource: https://www.jordanvillage.ca/christmas-in-the-village.html",
-  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
