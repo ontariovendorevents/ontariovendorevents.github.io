@@ -6545,5 +6545,40 @@ window.EVENTS_REFRESH = [
   "description": "Lucky Finds Card & Collectible Expo — a card and collectible show from RJ Vendor Events at the Kingston Shrine Club, a spot to sell sports cards, Pokémon cards and collectibles. Eight vendor tables were left when the vendor call was posted. The vendor fee was not published.\nListing type: Vendor call\nHours: 9:00 AM - 3:00 PM\nTheme: Cards & collectibles\nVendor types wanted: Sports cards, Pokémon cards and collectibles\nHow-to-apply: https://forms.gle/e3gzkCB9AtaAHAdr7\nSource: https://facebook.com/groups/3489789037828435/permalink/3663564240450913/",
   "fees": "Not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "1st Annual Pet Market",
+  "date": "2027-04-11",
+  "time": "10:30 a.m.–3:30 p.m.",
+  "location": "Binbrook Fairgrounds - Main Hall, 2200 Hwy 56, Binbrook, ON",
+  "city": "Binbrook",
+  "region": "Hamilton",
+  "description": "First annual pet market from Cogsworth's Events at Binbrook Fairgrounds. Vendor applications are now open for vendors with pet-themed merchandise, treats, photography, pet rescues and more.\nListing type: Vendor call\nHours: 10:30 AM - 3:30 PM\nTheme: Pets\nVendor types wanted: Pet-themed merchandise, treats, photography, pet rescues and more\nHow-to-apply: Email the organizer (address in the source post), send a message via the source post, or apply online at www.cogsworthscorner.ca (under Planned Events)\nSource: https://facebook.com/groups/524928052267953/permalink/1617596713001076/",
+  "fees": "$70 (8 ft table) / $85 (8x8 booth)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "41st Annual Club Loreley Weihnachtsmarkt",
+  "date": "2026-11-21",
+  "endDate": "2026-11-22",
+  "time": "Time not listed",
+  "location": "Club Loreley, 389 Dean Ave, Oshawa, ON",
+  "city": "Oshawa",
+  "region": "Durham Region",
+  "description": "German-Canadian Christmas market at Club Loreley in Oshawa, now in its 41st year. Last-minute outdoor vendor spots are available in the enclosed backyard (bring your own canopy, or set up under the open sky); vendors can join for one day or both.\nListing type: Vendor call\nHours: 10:30 AM - 3:00 PM\nTheme: Christmas / German Weihnachtsmarkt\nAttractions: Live music, Glühwein and hot drinks, authentic German food (schnitzel, sausage, pretzels, strudel), kids coloring station, photos with Mr & Mrs Claus\nHow-to-apply: Send the organizer a DM via the source post\nSource: https://facebook.com/groups/1013767978664673/permalink/40179243221690328/",
+  "fees": "$40 per day",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "3rd Annual Easter Market @ Niagara Pen Centre",
+  "date": "2027-03-20",
+  "endDate": "2027-03-21",
+  "time": "Time not listed",
+  "location": "Niagara Pen Centre, 221 Glendale Ave, St. Catharines, ON",
+  "city": "St. Catharines",
+  "region": "Niagara Region",
+  "description": "Third annual Easter market from Events Connected Canada, held inside Niagara Pen Centre by the Shoppers Drug Mart during mall hours. Vendor applications are on the organizer's website; the vendor fee was not stated in the post.\nListing type: Vendor call\nHours: During mall hours\nTheme: Easter\nHow-to-apply: https://eventsconnectedcanada.ca/vendors-apply-here\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28956895007314985/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
