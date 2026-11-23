@@ -5853,5 +5853,72 @@ window.EVENTS_REFRESH = [
   "description": "Third annual Easter market from Events Connected Canada, held inside Niagara Pen Centre by the Shoppers Drug Mart during mall hours. Vendor applications are on the organizer's website; the vendor fee was not stated in the post.\nListing type: Vendor call\nHours: During mall hours\nTheme: Easter\nHow-to-apply: https://eventsconnectedcanada.ca/vendors-apply-here\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28956895007314985/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Meraki Christmas Market",
+  "date": "2026-11-16",
+  "endDate": "2026-11-29",
+  "time": "10 a.m.–5 p.m.",
+  "location": "2163 Little Chipmunk Rd, Douro-Dummer, ON",
+  "city": "Douro-Dummer",
+  "region": "Kawarthas and Peterborough",
+  "description": "Two-week Christmas market from Dream It Real in Douro-Dummer, featuring 90+ local makers with artisan displays, plus food and beverage trucks. Already underway — runs daily through Sun Nov 29, 2026.\nListing type: Event\nHours: 10:00 AM - 5:00 PM daily, Mon Nov 16 - Sun Nov 29, 2026\nTheme: Christmas\nAdmission: $2 (donated to charity — Jamie's PIF Project)\nVendors expected: 90+ local makers\nSource: https://www.facebook.com/dreamitreal.biz/posts/pfbid022yDv6bDkvBadkzbFbcsmNERqeCMLnVhXwuKBvN3LLgohVRmJyDTP3HKKRg5k2S3tl",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "The Holiday Edit",
+  "date": "2026-11-25",
+  "time": "5 p.m.–9 p.m.",
+  "location": "Sage & Soul Collective, 4 Union St, Millbrook, ON",
+  "city": "Millbrook",
+  "region": "Kawarthas and Peterborough",
+  "description": "An evening holiday shopping event at Sage & Soul Collective in Millbrook, with local makers featured in-store and on the porch, plus a fashion show at 6:30 PM. VIP entry at 5:00 PM; general admission doors at 6:00 PM. A portion of proceeds supports Help Her Recover programming.\nListing type: Event\nHours: 5:00 PM - 9:00 PM\nTheme: Christmas / holiday shopping night\nAdmission: Free for general admission; VIP experience $30 (tickets on Eventbrite)\nSource: https://www.eventbrite.ca/e/the-holiday-edit-tickets-2002591231281",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "OSM Public Library Christmas Market",
+  "date": "2026-11-28",
+  "time": "10 a.m.–2 p.m.",
+  "location": "Stewart Hall Community Centre, 1480 Matchett Line, Stewart Hall, ON",
+  "city": "Stewart Hall",
+  "region": "Kawarthas and Peterborough",
+  "description": "Christmas market from the Otonabee-South Monaghan Public Library at Stewart Hall Community Centre, with local vendors selling handmade gifts. Raffle tickets $2 each or 3 for $5 in support of the library.\nListing type: Event\nHours: 10:00 AM - 2:00 PM\nTheme: Christmas\nAdmission: Free\nSource: https://osmpl.ca/events/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Christmas at Ken Reid",
+  "date": "2026-12-05",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Ken Reid Conservation Area, 277 Kenrei Rd, Lindsay, ON",
+  "city": "Lindsay",
+  "region": "Kawarthas and Peterborough",
+  "description": "Christmas festival at Ken Reid Conservation Area in Lindsay, including a Vendor's Market. Vendor applications for the market are open through Kawartha Conservation's online vendor form; no vendor fee was stated in the announcement. On-site parking is limited ($20 per car, pre-purchased); free off-site shuttle lots are available.\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM\nTheme: Christmas\nAdmission: Free\nHow-to-apply: Vendor applications are open through Kawartha Conservation's online vendor form — see the application announcement on the Kawartha Conservation website (full link in the List View Apply column)\nSource: Kawartha Conservation festivals page (organizer's website)",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Lindsay Farmers' Christmas Market",
+  "date": "2026-12-12",
+  "time": "9 a.m.–2 p.m.",
+  "location": "Victoria Park Armoury, 210 Kent St W, Lindsay, ON",
+  "city": "Lindsay",
+  "region": "Kawarthas and Peterborough",
+  "description": "The Lindsay Farmers' Market's Christmas market at Victoria Park Armoury, with 35+ vendors offering foods, preserves and gifts. Runs two Saturdays: Dec 12 and Dec 19, 2026 (separate listings).\nListing type: Event\nHours: 9:00 AM - 2:00 PM\nTheme: Christmas\nVendors expected: 35+\nSource: https://www.lindsayfarmersmarket.com/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Lindsay Farmers' Christmas Market",
+  "date": "2026-12-19",
+  "time": "9 a.m.–2 p.m.",
+  "location": "Victoria Park Armoury, 210 Kent St W, Lindsay, ON",
+  "city": "Lindsay",
+  "region": "Kawarthas and Peterborough",
+  "description": "The Lindsay Farmers' Market's Christmas market at Victoria Park Armoury, with 35+ vendors offering foods, preserves and gifts. Runs two Saturdays: Dec 12 and Dec 19, 2026 (separate listings).\nListing type: Event\nHours: 9:00 AM - 2:00 PM\nTheme: Christmas\nVendors expected: 35+\nSource: https://www.lindsayfarmersmarket.com/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
