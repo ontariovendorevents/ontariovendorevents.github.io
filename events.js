@@ -5459,5 +5459,27 @@ window.EVENTS_REFRESH = [
   "description": "The Lindsay Farmers' Market's Christmas market at Victoria Park Armoury, with 35+ vendors offering foods, preserves and gifts. Runs two Saturdays: Dec 12 and Dec 19, 2026 (separate listings).\nListing type: Event\nHours: 9:00 AM - 2:00 PM\nTheme: Christmas\nVendors expected: 35+\nSource: https://www.lindsayfarmersmarket.com/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Queen Victoria Public School Annual Winter Walkthrough",
+  "date": "2026-12-10",
+  "time": "4:30 p.m.–7 p.m.",
+  "location": "Queen Victoria Public School, 1376 Victoria Avenue, Windsor, ON",
+  "city": "Windsor",
+  "region": "Windsor-Essex",
+  "description": "Annual Winter Walkthrough at Queen Victoria Public School in Windsor — an evening of holiday vendors and a bake sale, with performances by the Kindergarten through Grade 5 classes and the school choir.\nListing type: Vendor call\nHours: 4:30 PM - 7:00 PM\nTheme: Christmas / school holiday event\nVendor types wanted: Holiday vendors\nHow-to-apply: Message the organizer on Facebook (see the source post)\nSource: https://facebook.com/groups/2320917288223463/permalink/4579733022341867/",
+  "fees": "$20 per table",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Craft Swap and Shop",
+  "date": "2026-12-05",
+  "time": "11 a.m.–4 p.m.",
+  "location": "Old East Village Vintage Market (lower level), 1100 Dundas St, London, ON",
+  "city": "London",
+  "region": "London & Area",
+  "description": "Craft swap and shop in London's Old East Village — a chance to destash old craft projects, pick up good deals, swap crafts and socialize. Sellers bring their own tables, or set out a blanket yard-sale style.\nListing type: Vendor call\nHours: 11:00 AM - 4:00 PM\nTheme: Craft supply destash / swap\nVendor types wanted: Crafters destashing supplies and projects\nHow-to-apply: Message the organizer on Facebook or see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2763302970778746/",
+  "fees": "$15 per 6-foot space",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
