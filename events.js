@@ -2931,17 +2931,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "Costa Crafted Events: Christmas Market (Trenton)",
-  "date": "2026-12-06",
-  "time": "10 a.m.–4 p.m.",
-  "location": "Trenton, ON (venue TBA)",
-  "city": "Trenton",
-  "region": "Kingston & Area",
-  "description": "Holiday vendor market by Costa Crafted Events. Note: the organizer also advertises a 3rd annual Grinch-mas Market on Sat Dec 5 at Trenton Lions Club (77 Campbell St); the vendor application form lists Sun Dec 6 in Trenton — date may have moved. Vendor fee not published — see application form. Theme: Christmas / holiday season. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
-  "fees": "not published",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Evergreen Winter Market",
   "date": "2026-12-06",
   "time": "11 a.m.–5 p.m.",
@@ -5480,6 +5469,18 @@ window.EVENTS_REFRESH = [
   "region": "London & Area",
   "description": "Craft swap and shop in London's Old East Village — a chance to destash old craft projects, pick up good deals, swap crafts and socialize. Sellers bring their own tables, or set out a blanket yard-sale style.\nListing type: Vendor call\nHours: 11:00 AM - 4:00 PM\nTheme: Craft supply destash / swap\nVendor types wanted: Crafters destashing supplies and projects\nHow-to-apply: Message the organizer on Facebook or see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2763302970778746/",
   "fees": "$15 per 6-foot space",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Costa Crafted Events: The GRINCH-mas Pop-Up Market (Belleville)",
+  "date": "2026-12-05",
+  "endDate": "2026-12-06",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Quinte Mall, 390 N Front St, Belleville, ON",
+  "city": "Belleville",
+  "region": "Kingston & Area",
+  "description": "Costa Crafted Events presents The GRINCH-mas POP-UP Market at Quinte Mall in Belleville, in the former Toys \"R\" Us / Spirit Halloween space. Free entry; non-perishable food and toy donations appreciated. Attractions: meet the Grinch 11 AM-2 PM, a Santa visit 2-3 PM, a colouring contest and an angel tree. Hours not yet published by the organizer — the market is listed at 10 AM-4 PM pending confirmation. Vendor fee not published — see application form. Vendors bring their own table and chair (table rental $10 if needed); a single spot is 8 ft; payment is due 24 hours after acceptance.\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM (hours not yet published by the organizer)\nTheme: Christmas / GRINCH-mas\nAdmission: Free (non-perishable food and toy donations appreciated)\nAttractions: Meet the Grinch 11 AM-2 PM; Santa visit 2-3 PM; colouring contest; angel tree\nHow-to-apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform\nOrganizer: Costa Crafted Events (Amy Costa)\nSource: https://facebook.com/groups/6703732679656668/permalink/30101733106096629/",
+  "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
