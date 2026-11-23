@@ -60,30 +60,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "Snippy Sticky Sisters Old Fashioned Christmas Market",
-  "date": "2026-11-14",
-  "endDate": "2026-11-22",
-  "time": "11 a.m.–5 p.m.",
-  "location": "141 Strickland Street, Lakefield, ON",
-  "city": "Lakefield",
-  "region": "Kawarthas and Peterborough",
-  "description": "The Snippy Sticky Sisters Old Fashioned Christmas Market in Lakefield runs November 14-22: open daily 11:00 AM - 5:00 PM, with late hours on Thursday November 19 until 7:00 PM. Handcrafted, new and reimagined/repurposed items. Cash only.\nListing type: Event\nTheme: Christmas\nHours: 11:00 AM - 5:00 PM\nSource: https://facebook.com/groups/DHMM3.0/permalink/2320741205379867/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Village Noël Temiskaming",
-  "date": "2026-11-19",
-  "endDate": "2026-11-21",
-  "time": "Time not listed",
-  "location": "New Liskeard Fall Fair Grounds, 10 May Street South, New Liskeard, ON",
-  "city": "New Liskeard",
-  "region": "Rest of Ontario",
-  "description": "A 17th-century New France–themed Christmas village in New Liskeard — 32 heated artisan and food kiosks, costumed characters and live entertainment, drawing about 10,000 visitors.\nHours: Thu Nov 19, 5:00 PM – 7:00 PM (opening evening); Fri Nov 20, 9:00 AM – 7:00 PM; Sat Nov 21, 9:00 AM – 6:00 PM\nAdmission: Free\nNote: 2026 artisan registration closed July 31, 2026 — listed for shoppers. The organizer's registration form lists a 4:00 PM Thursday start vs 5:00 PM on its homepage, and notes hours may change\nSource: https://en.villagenoel.com/",
-  "fees": "Applications closed",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Friday Harbour Holiday Market",
   "date": "2026-11-20",
   "endDate": "2026-11-22",
@@ -93,18 +69,6 @@ window.EVENTS_REFRESH = [
   "region": "Simcoe County",
   "description": "Friday Harbour Resort's Holiday Market — a Vendor Village of local makers in chalet-style cabins along the Promenade.\nHours: Fri 5:00 PM – 8:00 PM; Sat 12:00 PM – 8:00 PM; Sun 12:00 PM – 6:00 PM\nAdmission: Free (complimentary admission and parking)\nAttractions: 40-foot Christmas tree (lighting Sat Nov 28 at 5:00 PM with fireworks), Santa's Workshop and meet Santa & the Elves, roaming carolers and elves, Frosty's Food Cabin & Rudolph's Lounge, warming lounges, Holiday Toy Drive through Dec 20\nNote: the resort's 'Join the Holiday Market' call seeks makers and small brands for 2026; vendor fee not published\nHow-to-apply: https://www.fridayharbour.com/events\nSource: https://www.fridayharbour.com/events",
   "fees": "not published",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Holly Jolly Market (Picton)",
-  "date": "2026-11-20",
-  "endDate": "2026-11-22",
-  "time": "12 p.m.–4 p.m.",
-  "location": "Crystal Palace, 375 Main Street, Picton, ON",
-  "city": "Picton",
-  "region": "Rest of Ontario",
-  "description": "Prince Edward County's Holly Jolly Market returns to the historic Crystal Palace in Picton for 2026, with 60+ curated artisans and makers. Santa visits Sat 12-4 PM and Sun 11 AM-3 PM (proceeds to the Storehouse Food Bank); charity gift wrapping on site. Free parking on the fairgrounds.\nListing type: Vendor call + Shopper event\nHours: Fri Nov 20, 12 PM to 6 PM; Sat Nov 21, 10 AM to 5 PM; Sun Nov 22, 10 AM to 4 PM\nAdmission: $5 at the door (cash or card); children 10 and under free\nVendor fee: 6x6 booth $350 + HST; 6x9 booth $425 + HST. Flat rate, vendors keep 100% of sales. Juried - weekly category balancing; no payment required until approved.\nHow to apply: Apply online at https://hollyjollymarket.ca/vendor-signup/\nOrganizer: Prince Edward County Markets Inc. (PECMI). Approvals and invoices come only from pecmi.ca - PECMI never solicits booth fees by phone, e-transfer, or social media DM.\nEvent page: https://hollyjollymarket.ca/\nSource: https://hollyjollymarket.ca/",
-  "fees": "$350 + HST (6x6 booth) / $425 + HST (6x9 booth)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -144,18 +108,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "Stouffville Holiday Market",
-  "date": "2026-11-20",
-  "endDate": "2026-11-21",
-  "time": "Time not listed",
-  "location": "6240 Main St & Civic Square, Stouffville, ON",
-  "city": "Stouffville",
-  "region": "York Region",
-  "description": "The Town of Stouffville's largest winter event, on Main Street: a local artisan vendor marketplace, magical lighting displays, food and beverage, Santa Claus, live musical entertainment throughout the weekend, and free rides. The Town's Christmas tree lighting takes place Fri Nov 20 at 7:00 PM.\n\nHours: Fri 5:00 PM – 9:00 PM; Sat 11:00 AM – 7:00 PM\nAttractions: Artisan vendor marketplace, lighting displays, food trucks and local libations, Santa Claus, main-stage entertainment, free rides\nFee: TBD (2026 vendor applications via the Town of Stouffville; no fee published on the event page)\nSource: https://townofws.ca/play/events/holiday-market/",
-  "fees": "TBD",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Toronto Botanical Garden Holiday EcoMarket (Nov 20–22)",
   "date": "2026-11-20",
   "endDate": "2026-11-22",
@@ -165,53 +117,6 @@ window.EVENTS_REFRESH = [
   "region": "Toronto",
   "description": "Toronto Botanical Garden's annual Holiday EcoMarket — a sustainable, nature-inspired, relaxed shopping experience with 100+ eco-minded local vendors across the Visitor Centre and outdoor courtyards, an indoor food court, outdoor bonfires with free marshmallow roasting, and free drop-in family crafting on Saturday and Sunday. A different mix of vendors each weekend; the market also runs Dec 18–20, 2026 (separate listing). TBG members get early access on Fridays, 12:00 PM – 2:00 PM.\n\nHours: Fri 2:00 PM – 6:00 PM; Sat–Sun 10:00 AM – 4:00 PM\nAdmission: Free\nFee: Indoor 6ft space from $170 + HST (single day) / $485 + HST (full weekend); outdoor 10x10 space $110 + HST (single day) / $305 + HST (full weekend); 15-AMP power +$45 + HST (per the organizer's application form; vendors are accepted for one weekend only)\nSource: https://torontobotanicalgarden.ca/enjoy/events-at-the-garden/",
   "fees": "Indoor 6ft from $170 + HST/day, $485 + HST/weekend; outdoor 10x10 $110 + HST/day, $305 + HST/weekend; power +$45 + HST",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Very Merry Holiday Market",
-  "date": "2026-11-20",
-  "endDate": "2026-11-22",
-  "time": "4 p.m.–3 p.m.",
-  "location": "118-120 Broadway, Downtown Orangeville, Orangeville, ON",
-  "city": "Orangeville",
-  "region": "Rest of Ontario",
-  "description": "Very Merry Holiday Market — the open-air, European-style market at the heart of the Joy + Lights Festival in Downtown Orangeville, with rows of wooden chalets offering handcrafted gifts, holiday decor and festive food and drink. Weekend 1 (Merry & Bright) also features the Christmas Tree Lighting on Fri Nov 20 at about 7 PM and the Santa Claus Parade on Sat Nov 21 at 5 PM. Market hours are the BIA's published times, listed by the BIA as to be confirmed.\nListing type: Vendor call\nTheme: Christmas\nHours: Fri 4:00 PM - 8:30 PM; Sat 11:00 AM - 7:00 PM; Sun 11:00 AM - 3:00 PM\nHow to apply: Vendor information and application on the Downtown Orangeville BIA site: https://downtownorangeville.ca/joy-lights-holiday-market-vendor-information/ First-round acceptances have been sent; later applications join the waitlist.\nSource: https://www.instagram.com/p/De4_fJ_S5du/",
-  "fees": "$45-$95/day or $125-$275/weekend depending on space (hut, canopy or food truck), taxes extra",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Vintage Christmas & Holiday Market",
-  "date": "2026-11-20",
-  "endDate": "2026-11-22",
-  "time": "5 p.m.–5 p.m.",
-  "location": "The Gardens at Pillar and Post, 48 John Street West, Niagara-on-the-Lake, ON L0S 1J0",
-  "city": "Niagara-on-the-Lake",
-  "region": "Niagara Region",
-  "description": "First annual Vintage Christmas & Holiday Market in The Gardens at Pillar and Post — the gardens transform into an enchanting woodland Christmas village with local artisans and vendors, signature culinary experiences, festive workshops, and a visit with Santa. Admission to the outdoor Christmas Market is free. Tickets are required for some experiences, including the Sip & Savour Event, Vintage Holiday Tea, workshops, and the Victorian Nutcracker Feast.\nListing type: Shopper event\nTheme: Christmas\nHours: Fri 5:00 PM - 9:00 PM (Sip & Savour kickoff, ticketed); Sat 11:00 AM - 5:00 PM; Sun 11:00 AM - 5:00 PM\nSource: https://www.instagram.com/p/DecKZU_DYK1/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "4th Annual Christmas Countdown Market",
-  "date": "2026-11-21",
-  "endDate": "2026-11-22",
-  "time": "10 a.m.–4 p.m.",
-  "location": "Masonic Centre of Elgin, 42703 Fruit Ridge Line, St. Thomas, ON",
-  "city": "St. Thomas",
-  "region": "London & Area",
-  "description": "Vendor call from Event Dynamics: come on out to the 4th annual Christmas Countdown Market at the Masonic Centre of Elgin in St. Thomas, running Saturday and Sunday, 10:00 AM – 4:00 PM both days. Vendor applications are open via the Google Forms link below.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 4:00 PM\nApply: https://docs.google.com/forms/d/e/1FAIpQLSfMCYfig3fIrARkjI_7Oe2CvHUolBLFok0GeG7MWbrzmXP7mg/viewform\nSource: https://facebook.com/groups/145130302589219/permalink/2651074948661396/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "All Saints' Annual Bazaar",
-  "date": "2026-11-21",
-  "time": "Time not listed",
-  "location": "All Saints' Anglican Church, 300 Dundas St W, Whitby, ON L1N 2M5",
-  "city": "Whitby",
-  "region": "Durham Region",
-  "description": "All Saints' Annual Bazaar at All Saints' Anglican Church in Whitby - the parish's annual Christmas bazaar, with an online silent auction.\nListing type: Event\nTheme: Christmas\nAttractions: Online silent auction\nSource: https://allsaintswhitby.org/",
-  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -227,73 +132,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "Friends of Roselawn Christmas Makers Market",
-  "date": "2026-11-21",
-  "time": "Time not listed",
-  "location": "Roselawn",
-  "city": "",
-  "region": "Rest of Ontario",
-  "description": "The Friends of Roselawn Christmas Makers Market — a call for new vendors. Interested in showcasing your handmade goods? Email friendsofroselawn for an application, or message in the comments on the source post. Hours and vendor fee were not stated in the flyer.\nTheme: Christmas / holiday season\nVendor types wanted: Handmade goods\nFee: not stated by organizer\nHow to apply: see the source post\nSource: https://facebook.com/groups/971632669514677/permalink/29424788823772348/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Garry's Garden Gallery Christmas Market",
-  "date": "2026-11-21",
-  "time": "Time not listed",
-  "location": "Garry's Garden Gallery, 5 Commerce Rd, Lindsay, ON K9V 5Y3",
-  "city": "Lindsay",
-  "region": "Kawarthas and Peterborough",
-  "description": "Vendor call: Christmas market in Garry's Garden Gallery's covered, heated greenhouse.\n\nTheme: Christmas / holiday season\nTags: holiday, christmas, greenhouse, weekend\nHours: not published (Saturday & Sunday markets)\nFee: not published (TBD)\nVendor types wanted: makers, artisans & local vendors; handcrafted goods\nHow to apply: https://garrysgardengallery.com/pages/christmas-market-vendor-application (also via link in their Instagram bio)\nSource: https://facebook.com/groups/1746193395565570/permalink/3483982515119974/\nNote: Nov 13-15 kickoff weekend is full for vendors.\n\n",
-  "fees": "Not published (TBD)",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Merry Makers Market",
-  "date": "2026-11-21",
-  "time": "Time not listed",
-  "location": "Shanty Bay, ON",
-  "city": "Shanty Bay",
-  "region": "Simcoe County",
-  "description": "Merry Makers Market — an outdoor vendor market in Shanty Bay. The organizer's post noted applications were closing soon and outdoor spaces are limited. Show hours and vendor fee were not published in the post — confirm with the organizer.\nTheme: TBD\nVendor types wanted: TBD\nHow to apply: https://gformsapp.com/f2/Q_qNJPiEfH8pwRlB5B3CJg\nSource: https://facebook.com/groups/168481472256405/permalink/985133980591146/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Northridge P.S. Merry Market",
-  "date": "2026-11-21",
-  "time": "Time not listed",
-  "location": "Northridge Public School, London, ON",
-  "city": "London",
-  "region": "London & Area",
-  "description": "Merry Market at Northridge Public School in London — nearly 30 vendors already confirmed, with a great variety of handmade gifts, jewellery, artwork, Christmas décor, skincare products, sweet treats and more. A few vendor spaces are still available; the organizers are especially looking for woodworking, pottery, specialty foods, ready-to-eat foods, stained glass, leatherwork and sewing/quilting. 100% of vendor registration fees support the school community. Market hours and the vendor fee amount were not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nVendor types wanted: Woodworking, pottery, specialty foods, ready-to-eat foods, stained glass, leatherwork, sewing/quilting\nHow to apply: see the source post\nSource: https://facebook.com/groups/294630007646067/permalink/2739838663125177/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Paris Sip n Shop Holiday Market X Pickle Lovers Pop-Up",
-  "date": "2026-11-21",
-  "endDate": "2026-11-22",
-  "time": "9 a.m.–5 p.m.",
-  "location": "Paris Fairgrounds, 139 Silver St, Paris, ON",
-  "city": "Paris",
-  "region": "Rest of Ontario",
-  "description": "KB Events Canada holiday market plus Pickle Lovers Pop-Up at Paris Fairgrounds. Vendor fee: not published - contact organizer. Hours not published - confirm with organizer. How to apply: https://www.kbeventscanada.com/vendor-portal. Organizer: KB Events Canada.\nSource: https://facebook.com/groups/524928052267953/permalink/1565596764867738/",
-  "fees": "not published - contact organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "St. John's Anglican Snowflake Bazaar",
-  "date": "2026-11-21",
-  "time": "Time not listed",
-  "location": "St. John's Anglican Church, 150 Victoria St E, Whitby, ON",
-  "city": "Whitby",
-  "region": "Durham Region",
-  "description": "Snowflake Bazaar at St. John's Anglican Church in Whitby, held in the Parish Fellowship Hall (entrance on the east side of the building). Baked goods and crafts made by the church craft group, and lunch.\nListing type: Event\nTheme: Christmas\nHours: Starts 10:00 AM; end time not published\nSource: http://stjohnswhitby.ca/",
-  "fees": "not published",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "Swedish Christmas Fair",
   "date": "2026-11-21",
   "endDate": "2026-11-22",
@@ -303,95 +141,6 @@ window.EVENTS_REFRESH = [
   "region": "Toronto",
   "description": "SWEA Toronto's annual Swedish Christmas Fair, running since 1982 — Swedish food at the Café and the 'Taste of Sweden' food hall, the Lucia procession, Swedish folk dancers and choir, a children's crafts loft, a book corner, and a large selection of Swedish-designed products and Christmas foods. Webshop orders can be picked up at the fair (Sat 1:00 PM – 5:00 PM; Sun 1:00 PM – 4:00 PM).\n\nHours: Sat 11:00 AM – 5:00 PM; Sun 11:00 AM – 4:00 PM\nFee: TBD\nSource: https://swedishchristmasfair.ca/",
   "fees": "TBD",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Willowbend Retirement Christmas Bazaar",
-  "date": "2026-11-21",
-  "time": "Time not listed",
-  "location": "Willowbend Retirement Community",
-  "city": "",
-  "region": "Rest of Ontario",
-  "description": "Willowbend Retirement Community Christmas Bazaar - approximately 10 vendor spots left. Vendors bring their own table and set up; a sandwich lunch is included.\nVendor fee: $20 (includes sandwich lunch)\nListing type: Vendor call\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1591365268957554/",
-  "fees": "$20 (incl. lunch; BYO table)",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "WinterFest Hamilton",
-  "date": "2026-11-21",
-  "endDate": "2026-11-22",
-  "time": "12 p.m.–8 p.m.",
-  "location": "Lime Ridge Mall, Hamilton, ON",
-  "city": "Hamilton",
-  "region": "Hamilton",
-  "description": "Winter market run at Lime Ridge Mall in Hamilton by Street Eats Market; runs Saturdays and Sundays, Nov 21 to Dec 20, 2026, 12 to 8 PM.\nListing type: Vendor call\nHow to apply: apply online at www.streeteatsmarket.com; vendor applications end November 1, 2026\nSource: https://www.instagram.com/reel/Dexh6wyRhMO/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Acton District School Christmas Market",
-  "date": "2026-11-22",
-  "time": "10 a.m.–3 p.m.",
-  "location": "Acton District School, Acton, ON",
-  "city": "Acton",
-  "region": "Halton Region",
-  "description": "The Acton District School Christmas Market still has vendor room — the organizer is specifically looking for pottery, stained glass, knitting (no stuffies), woodworking, and other unique items.\nTheme: Christmas / holiday season\nVendor types wanted: Pottery, stained glass, knitting, woodworking, unique handmade items\nFee: not stated by organizer\nApply: https://forms.gle/71VcSDnZwP3QcN7q9\nSource: https://facebook.com/groups/609827307950034/permalink/1442089068057183/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "CFB Kingston Craft Sale",
-  "date": "2026-11-22",
-  "time": "9 a.m.–3 p.m.",
-  "location": "Thompson Drill Hall, CFB Kingston, Kingston, ON",
-  "city": "Kingston",
-  "region": "Kingston & Area",
-  "description": "CFB Kingston Craft Sale at Thompson Drill Hall, CFB Kingston in Kingston — a two-day craft sale running Sat Nov 21 and Sun Nov 22.\nListing type: Vendor call\nTheme: Christmas\nHours: 9:00 AM - 3:00 PM\nAdmission: $3, kids under 12 free\nHow-to-apply: Registration in person at the Kingston Military Sports Centre, 11 Navy Way; details at the source link\nSource: https://cfmws.ca/kingston/craft-sale",
-  "fees": "$60",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Downtown Kingston Holiday Market",
-  "date": "2026-11-22",
-  "time": "10 a.m.–5 p.m.",
-  "location": "261 Princess Street and 181 Sydenham Street, Kingston, ON",
-  "city": "Kingston",
-  "region": "Kingston & Area",
-  "description": "Downtown Kingston's Holiday Market, from the creative team behind Artfest Kingston — shop unique vendors and local artisans for handmade gifts and one-of-a-kind finds at two downtown locations. Part of Downtown Kingston's Embrace the Season holiday lineup.\nAdmission: not stated\nNote: vendor applications closed October 30, 2026 — listed for shoppers.\nSource: https://facebook.com/100064324317300/posts/1573946311426164",
-  "fees": "Applications closed",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Eastdale 39th Annual Craft Show",
-  "date": "2026-11-22",
-  "time": "10 a.m.–3 p.m.",
-  "location": "Eastdale Collegiate, 265 Harmony Rd N, Oshawa, ON",
-  "city": "Oshawa",
-  "region": "Durham Region",
-  "description": "Eastdale Collegiate's 39th annual craft show in Oshawa. Vendor spaces are available; new applications are processed on a first-come basis - apply via the show's vendor page.\nListing type: Vendor call\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nAdmission: $2\nAttractions: Door prizes, Santa photos\nVendors expected: 100+ local vendors\nNote: hours and admission from the show's 2026 poster; the show's website still shows 10:00 AM - 4:30 PM both days\nSource: https://sites.google.com/ddsb.ca/eastdalecraftshow/event-info",
-  "fees": "$130",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Eleven Eleven Holiday Market",
-  "date": "2026-11-22",
-  "time": "10 a.m.–4 p.m.",
-  "location": "Hellenic Community Centre, 133 Southdale Road West, London, ON",
-  "city": "London",
-  "region": "London & Area",
-  "description": "3rd Annual Holiday Market by Eleven Eleven Events. Ballroom 1 vendor spaces are sold out; a few spaces remain — Atrium (only 2 vendor spaces left), Ballroom 2 10' x 10' spaces (vendors must bring their own tables and full setup), and 8-foot table spaces (vendors bring their own 8-foot table).\nTheme: Christmas / holiday season\nApply: https://www.elevenelevenevents.ca\nFee: not stated by organizer\nHours: 10:00 AM – 4:00 PM\nSource: https://facebook.com/groups/145130302589219/permalink/2634499136985644/",
-  "fees": "Not stated by organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Gravenhurst Holiday Market",
-  "date": "2026-11-22",
-  "time": "10 a.m.–3 p.m.",
-  "location": "Gravenhurst Public School, Gravenhurst, ON",
-  "city": "Gravenhurst",
-  "region": "Rest of Ontario",
-  "description": "Christmas market in Gravenhurst, listed on the Muskoka Markets & Events calendar (Muskoka Mom Market). Organizer: Gravenhurst Community Market.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nAdmission: Not stated\nSource: https://teamup.com/ksrgf7718yq1ixvhem",
-  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -414,204 +163,6 @@ window.EVENTS_REFRESH = [
   "region": "Rest of Ontario",
   "description": "A family-friendly Holiday Craft & Artisan Market at Casino Rama Resort, with free admission; donations to the Toy & Food Drive accepted. Market hours were not published.\nListing type: Event\nTheme: Christmas\nHours: Time not listed\nSource: https://facebook.com/groups/DHMM3.0/permalink/2320741205379867/",
   "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Links of Kent Christmas Holiday Market",
-  "date": "2026-11-22",
-  "time": "3 p.m.–7 p.m.",
-  "location": "Links of Kent, 120 Indian Creek Rd W, Chatham, ON",
-  "city": "Chatham",
-  "region": "Rest of Ontario",
-  "description": "Christmas Holiday Market at Links of Kent Golf Club & Event Centre in Chatham. The organizer is looking for vendors, and applications and questions are handled by email only. The vendor fee is not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nHours: 3:00 PM - 7:00 PM\nHow to apply: see the source post\nSource: https://facebook.com/groups/ontariocanadavendorevents/permalink/4472203323090002/",
-  "fees": "Not published - contact organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Little Kickers Winter Wonderland",
-  "date": "2026-11-22",
-  "time": "10 a.m.–4 p.m.",
-  "location": "Radisson Hotel Sudbury, Sudbury, ON",
-  "city": "Sudbury",
-  "region": "Rest of Ontario",
-  "description": "Little Kickers Winter Wonderland — a family holiday event by Little Kickers Northern Ontario at the Radisson Hotel Sudbury, with Santa photos, children's activities, and local vendors & artisans, in support of the Pregnancy Care Centre & Infant Food Bank in Sudbury. Vendors must provide their own liability insurance.\nTheme: Christmas\nVendor types wanted: Crafters; artisans; makers; small businesses; home-based businesses; service providers; holiday vendors\nFee: $75 for 1 table; $140 for 2 tables; $200 for 3 tables\nHow to apply: see the source post\nHours: 10:00 AM – 4:00 PM\nSource: https://facebook.com/groups/693533067412562/permalink/28472280575777771/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Millbrook Holiday Market",
-  "date": "2026-11-22",
-  "time": "10 a.m.–2 p.m.",
-  "location": "Cavan/Millbrook Public School, 47 Tupper Street, Millbrook, ON",
-  "city": "Millbrook",
-  "region": "Kawarthas and Peterborough",
-  "description": "Holiday market from the Millbrook Ontario Farmers' Market, held inside the gym at Cavan/Millbrook Public School, with handmade goods, homemade treats and local vendors.\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 2:00 PM\nAdmission: Not stated\nSource: https://www.facebook.com/story.php?story_fbid=1759611949500418&id=100063548890951",
-  "fees": "not published",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Ottawa Region Holiday Market",
-  "date": "2026-11-22",
-  "time": "10 a.m.–4 p.m.",
-  "location": "Overflow Brewing Company, 2477 Kaladar Ave, Ottawa",
-  "city": "Ottawa",
-  "region": "Ottawa",
-  "description": "Theme: Christmas\nFee: $50/day 8x8 non-corner, $60/day corner (BYO tables/chairs)\nHours: 10 AM – 4 PM\nAttractions: Brewery bar and kitchen open during the market\nSource: https://facebook.com/groups/524928052267953/permalink/1577103060383775/\n",
-  "fees": "$50/day 8x8 non-corner, $60/day corner (BYO tables/chairs)",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Peterborough Sea Cadet Corps Holiday Market (1st Annual)",
-  "date": "2026-11-22",
-  "time": "10 a.m.–3 p.m.",
-  "location": "Peterborough Armoury, 220 Murray Street, Peterborough, ON",
-  "city": "Peterborough",
-  "region": "Kawarthas and Peterborough",
-  "description": "First Annual Holiday Market — fundraiser for the Peterborough Sea Cadet Corps (RCSCC 112 Howe), hosted by the Peterborough Navy League. Registration $45 includes one 6' table; extra tables $20 each, power $20. Vendor setup 7:45-9:45 AM; vendors park offsite after setup. Apply: https://112howe.ca/vendor-app (contacted within 3 business days). Source post: https://facebook.com/groups/524928052267953/permalink/1574725300621551/\nTheme: Christmas/Holiday\nTags: holiday market, christmas, fundraiser, peterborough\nFee: $45\nSource: https://facebook.com/groups/524928052267953/permalink/1574725300621551/",
-  "fees": "$45 (incl. 6ft table)",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Peterborough's 9th Annual Christmas Craft Show",
-  "date": "2026-11-22",
-  "time": "11 a.m.–4 p.m.",
-  "location": "Morrow Building, Peterborough, ON",
-  "city": "Peterborough",
-  "region": "Kawarthas and Peterborough",
-  "description": "Cottage Country presents Peterborough's 9th annual Christmas Craft Show at the Morrow Building: 115+ vendors. Admission is a toonie; kids under 12 are free.\nListing type: Event\nTheme: Christmas\nHours: 11:00 AM - 4:00 PM\nSource: https://facebook.com/groups/DHMM3.0/permalink/2320741205379867/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Port Perry Market",
-  "date": "2026-11-22",
-  "time": "12 p.m.–4 p.m.",
-  "location": "The Latcham Centre, 121 Queen St, Port Perry",
-  "city": "Port Perry",
-  "region": "Durham Region",
-  "description": "Indoor craft sale at the Latcham Centre by the waterfront. Sunday, November 22, 12–4 PM. Tables are $50 for an 8-ft table and $30 for an additional table; table and chairs are provided. Free admission for shoppers. To apply, email the organizer or DM the organizer on Facebook.\nFee: $50 / 8-ft table, +$30 additional table\nHours: 12:00 PM – 4:00 PM\nAdmission: Free\nSource: Organizer's flyer via Paul; details confirmed by the organizer's form submission (Nov 18, 2026)",
-  "fees": "$50–$80 (range — confirm with organizer)",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Red Chevron Club Holiday Bazaar",
-  "date": "2026-11-22",
-  "time": "8 a.m.–4 p.m.",
-  "location": "Red Chevron Club, 34 Elizabeth St, Guelph, ON",
-  "city": "Guelph",
-  "region": "Rest of Ontario",
-  "description": "Holiday bazaar at the Red Chevron Club in Guelph.\nTheme: Christmas\nHours: 8:00 AM - 4:00 PM\nAdmission: Not stated\nSource: https://facebook.com/groups/609827307950034/permalink/1462491826016907/",
-  "fees": "$35 for an 8-ft table / $30 for a 6-ft table",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Scarborough Fall Market 2026",
-  "date": "2026-11-22",
-  "time": "12 p.m.–10 p.m.",
-  "location": "Grand Cinnamon Banquet & Convention, 895 McNicoll Ave, Scarborough, ON",
-  "city": "Scarborough",
-  "region": "Toronto",
-  "description": "Fall market by Durham Divas Events — multicultural vendors, delicious halal food, family entertainment, giveaways and seasonal deals. Vendor & stall booking now open: full booth $250 (includes 1 table and 2 chairs), half booth $125 (shared booth space), food booth $300–$350. Sponsorship packages also available from $300–$500.\nTheme: Fall / autumn\nHow to apply: call (Durham Divas Events)\nFee: $250 full booth / $125 half booth / $300–$350 food booth\nHours: 12:00 PM – 10:00 PM\nAdmission: Free (free parking)\nAttractions: Halal food, face painting, family entertainment, giveaways\nSource: https://facebook.com/groups/1013767978664673/permalink/39203744462573547/",
-  "fees": "$250 full booth / $125 half booth / $300–$350 food booth",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Scents & Stitches Christmas Chaos Maker's Market",
-  "date": "2026-11-22",
-  "time": "10 a.m.–4 p.m.",
-  "location": "Courtyard by Marriott, 1224 Upper James St, Hamilton, ON",
-  "city": "Hamilton",
-  "region": "Hamilton",
-  "description": "Makers market presented by Scents & Stitches. Vendor fee: not published - contact organizer. How to apply: not published - contact organizer. Organizer: Scents & Stitches.\nHours: 10:00 AM – 4:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28170068032664357/",
-  "fees": "not published - contact organizer",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Sheffield Christmas Craft & Vendor Show",
-  "date": "2026-11-22",
-  "time": "9 a.m.–2 p.m.",
-  "location": "Sheffield Community Centre, 2339 5th Concession Rd W, Troy, ON",
-  "city": "Troy",
-  "region": "Hamilton",
-  "description": "Christmas craft and vendor show at the Sheffield Community Centre in Troy, near Hamilton.\nTheme: Christmas\nHours: 9:00 AM - 2:00 PM\nAdmission: Free (food-bank donations appreciated)\nSource: https://facebook.com/groups/524928052267953/permalink/1606924720734942/",
-  "fees": "$20",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "ShoppingItLocal North York Holiday Shopping Experience",
-  "date": "2026-11-22",
-  "time": "12 p.m.–7 p.m.",
-  "location": "Topaz Event Center, 1230 Sheppard Ave W, North York, ON",
-  "city": "North York",
-  "region": "Toronto",
-  "description": "Vendor call: 8th Annual Holiday Pop-Up Marketplace — North York Holiday Shopping Experience (8th annual). Vendor fee: not published — see registration page for vendor details. How to apply: https://shoppingitlocal.com/pages/vendorregistration. Organizer: Shopping It Local.\nHours: 12:00 PM – 7:00 PM\nSource: https://facebook.com/groups/ontariovendorandartisanmarkets/permalink/28210230068648153/",
-  "fees": "not published - see registration page",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "St. John's Merry Market",
-  "date": "2026-11-22",
-  "time": "11 a.m.–3 p.m.",
-  "location": "St. John Catholic Elementary School, 34 Wilson St E, Perth, ON",
-  "city": "Perth",
-  "region": "Rest of Ontario",
-  "description": "St. John's Merry Market at St. John Catholic Elementary School in Perth — a school holiday market with 30+ vendors.\nListing type: Vendor call\nTheme: Christmas\nHours: 11:00 AM - 3:00 PM\nAttractions: Handmade gifts, baked goods, crochet, crafters and direct sellers\nHow-to-apply: Not published\nSource: https://www.perth.ca/visit-us/festivals-and-events/christmas-and-holiday-events/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Tilted Glass Brewing Co. Holiday Market",
-  "date": "2026-11-22",
-  "time": "12 p.m.–4 p.m.",
-  "location": "Tilted Glass Brewing Co., Bowmanville, ON",
-  "city": "Bowmanville",
-  "region": "Durham Region",
-  "description": "A holiday market at Tilted Glass Brewing Co. in Bowmanville, with brews, local art and handmade goods.\nListing type: Event\nTheme: Christmas\nHours: 12:00 PM - 4:00 PM\nSource: https://facebook.com/groups/DHMM3.0/permalink/2320741205379867/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Tindall Farm Christmas Market",
-  "date": "2026-11-22",
-  "time": "10 a.m.–5 p.m.",
-  "location": "Tindall Farm & Market, 15669 Regional Rd 1, Uxbridge, ON",
-  "city": "Uxbridge",
-  "region": "Durham Region",
-  "description": "Tindall Farm & Market's Christmas Market — hand-picked local vendors with all locally made items, plus farm fresh produce at the farm store in Uxbridge. Cash or e-transfer accepted. Vendors are hand-picked by the farm; no public application or vendor fee is posted.\nListing type: Shopper\nTheme: Christmas\nHours: 10:00 AM - 5:00 PM\nAdmission: not stated\nSource: https://facebook.com/Tindallfarm/posts/pfbid02d9wDXSGiWH2uFm9QXHWnom7GxhhccjrjQ4naQHLEUgP4YF536uLJ9CExpGsMVfyGl/",
-  "fees": "not published",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Toploaders Anonymous Card Show",
-  "date": "2026-11-22",
-  "time": "9 a.m.–3 p.m.",
-  "location": "Meridian Community Centre, 100 Meridian Way, Fonthill, ON",
-  "city": "Fonthill",
-  "region": "Niagara Region",
-  "description": "Monthly trading card show — calling all card collectors, Pokemon fans, sports card lovers, and TCG addicts. Buy, sell, trade, hunt for your next big pull, or just talk cards. Organizer: Toploaders Anonymous. Note: submitted on the organizer's behalf.\nFee: $75\nHours: 9:00 AM–3:00 PM\nAdmission: Free entry\nSource: organizer\\'s Facebook post",
-  "fees": "$75",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Uxbridge Holiday Market",
-  "date": "2026-11-22",
-  "time": "10 a.m.–3 p.m.",
-  "location": "Uxbridge Arena & Community Centre, 291 Brock St W, Uxbridge, ON",
-  "city": "Uxbridge",
-  "region": "Durham Region",
-  "description": "Sunday holiday market series at Uxbridge Arena & Community Centre in Uxbridge, presented by Hurt Berry Farm and the Uxbridge Farmers' Market. A local alternative to mall shopping for the holiday season, with unique and handcrafted gift ideas, artisan crafts, seasonal goods and delicious local treats. The series runs six Sundays: Nov 1, 8, 15 and 22, and Dec 6 and 13, 2026 (no market Nov 29).\nListing type: Shopper event\nTheme: Christmas\nHours: 10:00 AM - 3:00 PM\nPresented by Hurt Berry Farm and the Uxbridge Farmers' Market\nSource: https://www.instagram.com/p/DfFN2ShlYup/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Windsor Rock & Mineral Show",
-  "date": "2026-11-22",
-  "time": "10 a.m.–5 p.m.",
-  "location": "Giovanni Caboto Club, 2175 Parent Ave, Windsor, ON",
-  "city": "Windsor",
-  "region": "Windsor-Essex",
-  "description": "Day 2 of 2. Rock and mineral show — crystals, colourful gemstones, fossils, minerals, handcrafted jewellery, polished stones, beads, carvings and unique natural treasures from vendor displays.\nAdmission: $3 single, $5 family; kids under 6 free\nHow to apply: vendor application form — https://form.jotform.com/261745826888274\nSource: https://facebook.com/groups/971632669514677/permalink/29673384865579408/",
-  "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
@@ -5660,18 +5211,6 @@ window.EVENTS_REFRESH = [
   "region": "Rest of Ontario",
   "description": "Second annual Net Cracker Christmas Market from the Shelburne Soccer Club. Two vendor spaces were still available in the organizer's post; the venue, hours and vendor fee were not stated in the post.\nListing type: Vendor call\nTheme: Christmas\nHow-to-apply: Email the organizer (address in the source post)\nSource: https://facebook.com/groups/524928052267953/permalink/1615602529867161/",
   "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Jackson Square Holiday Market",
-  "date": "2026-11-20",
-  "endDate": "2026-11-21",
-  "time": "Time not listed",
-  "location": "Jackson Square, Hamilton, ON",
-  "city": "Hamilton",
-  "region": "Hamilton",
-  "description": "Holiday market at Jackson Square in Hamilton with holiday gifts and decor from local makers. Last-minute vendor spaces opened up after cancellations; the table fee covers both days.\nListing type: Vendor call\nHours: Friday 12:00 PM - 6:00 PM; Saturday 9:30 AM - 3:00 PM\nTheme: Christmas / holiday season\nHow-to-apply: Email the organizer (address in the source post)\nSource: https://facebook.com/groups/1190141658320918/permalink/2011306676204408/",
-  "fees": "$141.25",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
