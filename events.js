@@ -5482,5 +5482,28 @@ window.EVENTS_REFRESH = [
   "description": "Costa Crafted Events presents The GRINCH-mas POP-UP Market at Quinte Mall in Belleville, in the former Toys \"R\" Us / Spirit Halloween space. Free entry; non-perishable food and toy donations appreciated. Attractions: meet the Grinch 11 AM-2 PM, a Santa visit 2-3 PM, a colouring contest and an angel tree. Hours not yet published by the organizer — the market is listed at 10 AM-4 PM pending confirmation. Vendor fee not published — see application form. Vendors bring their own table and chair (table rental $10 if needed); a single spot is 8 ft; payment is due 24 hours after acceptance.\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM (hours not yet published by the organizer)\nTheme: Christmas / GRINCH-mas\nAdmission: Free (non-perishable food and toy donations appreciated)\nAttractions: Meet the Grinch 11 AM-2 PM; Santa visit 2-3 PM; colouring contest; angel tree\nHow-to-apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform\nOrganizer: Costa Crafted Events (Amy Costa)\nSource: https://facebook.com/groups/6703732679656668/permalink/30101733106096629/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "WINTERISTA Christmas Market & Fair (Toronto)",
+  "date": "2026-12-10",
+  "endDate": "2026-12-23",
+  "time": "2 p.m.–12 a.m.",
+  "location": "Motorista Studio, 25 Commercial Road, Unit 9, Toronto, ON M4G 1Z3",
+  "city": "Toronto",
+  "region": "Toronto",
+  "description": "WINTERISTA Christmas Market & Fair returns for its 2nd year at Motorista Studio in Toronto, presented by The Grateful Market in partnership with Motorista Studio. A 14-day Christmas market and fair running daily Thu Dec 10 - Wed Dec 23, 2026, with 50 vendors daily, entertainment and holiday experiences. Vendor booths are approximately 8 x 6 ft (about 45 sq ft); vendors bring their own 6 ft table, chairs and display equipment. Free vendor and attendee parking. Power is available with reservation and premium booth bookings. Multi-day vendors can leave items overnight when staying consecutive days. Organizer flyer lists 2 PM-midnight; registration page lists market hours 2-10 PM.\nListing type: Vendor call\nHours: 2:00 PM - 12:00 AM daily\nTheme: Christmas\nAdmission: Free (family-friendly public event)\nAttractions: Entertainment and holiday experiences\nVendor types wanted: Local makers, creators and small businesses\nHow-to-apply: https://www.eventbrite.com/e/winterista-2026-christmas-market-fair-vendor-registration-tickets-2004249468112 (also winterista.ca)\nOrganizer: The Grateful Market, in partnership with Motorista Studio\nSource: https://www.eventbrite.com/e/winterista-2026-christmas-market-fair-vendor-registration-tickets-2004249468112",
+  "fees": "$75 per day (early-bird rate)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Santa's Workshop Christmas Market (St. Isaac Jogues, Brampton)",
+  "date": "2026-12-10",
+  "time": "5 p.m.–8 p.m.",
+  "location": "St. Isaac Jogues Catholic Elementary School, 300 Great Lakes Dr, Brampton, ON",
+  "city": "Brampton",
+  "region": "Peel Region",
+  "description": "Santa's Workshop Christmas Market at St. Isaac Jogues Catholic Elementary School in Brampton. Jets Council (the school council) runs this evening school Christmas market, open to the public — everyone welcome. Vendor setup is 4:00-5:00 PM. To apply, scan the QR code on the organizer's flyer, or email the organizer (address in the source post).\nListing type: Vendor call\nHours: 5:00 PM - 8:00 PM (vendor setup 4:00-5:00 PM)\nTheme: Christmas\nAttractions: 20+ vendors; $5 Santa photos; gingerbread decorating; free craft stations; face painting and henna (paid tickets); food trucks and treats\nHow-to-apply: Scan the QR code on the organizer's flyer to apply, or email the organizer (address in the source post)\nOrganizer: Jets Council (St. Isaac Jogues school council)\nSource: https://www.instagram.com/p/Df5j01rqHPD/",
+  "fees": "$50 for one table / $90 for two tables",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
