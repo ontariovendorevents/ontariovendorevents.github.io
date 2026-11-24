@@ -5551,5 +5551,53 @@ window.EVENTS_REFRESH = [
   "description": "Holiday vendor market by Costa Crafted Events. Venue and hours not yet published — see application form. Vendor fee not published. How to apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform. Organizer: Costa Crafted Events — Canadian Choice Award 2026, Event Coordinator (Quinte West). Source: organizer vendor application form.",
   "fees": "not published",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "FAF Festival (Owen Sound)",
+  "date": "2027-06-18",
+  "endDate": "2027-06-20",
+  "time": "4 p.m.–6 p.m.",
+  "location": "Kelso Beach at Nawash Park, 2nd Ave West, Owen Sound, ON N4K 2H4",
+  "city": "Owen Sound",
+  "region": "Rest of Ontario",
+  "description": "FAF Festival (Friends & Family Festival Ontario) brings its 1st Annual family festival to Owen Sound — a three-day festival at Kelso Beach at Nawash Park with a curated vendor and artisan marketplace, live music and entertainment, food and beverage options, and kids' zones with activities all day. Vendor, food vendor, entertainer and sponsor applications are open now; early-bird vendor pricing runs until Dec 31, 2026, with savings for booking multiple festival locations. Fraud alert from the organizer: it only uses its official website and email for applications and registrations — other pages or addresses are fraudulent.\nListing type: Vendor call\nHours: Friday 4:00 PM - 10:00 PM; Saturday 12:00 PM - 10:00 PM; Sunday 12:00 PM - 6:00 PM\nAttractions: Live music and entertainment; curated artisan marketplace; food and beverage options; kids' zones with activities all day\nVendor types wanted: Artisans and small businesses, food vendors and food trucks, young entrepreneurs (16 and under), corporate vendors\nHow-to-apply: https://faffestival.com/get-involved/vendor-applications/\nEvent page: https://faffestival.com/events/owen-sound-faf-festival-2027/\nOrganizer: F.A.F Festival Ontario\nSource: https://facebook.com/groups/524928052267953/permalink/1620469762713771/",
+  "fees": "Early bird (to Dec 31, 2026): Small Business 10x10 $275 (reg $350), 10x20 $550 (reg $700); Young Entrepreneur 10x10 $200; Corporate 10x10 $500, 10x20 $1,000; Food Tent 10x10 $450, 10x20 $900; Food Truck/Trailer under 20 ft $1,000 (reg $1,350), over 20 ft $1,200 (reg $1,500); hydro extra (15 amp $30, 30/50 amp $75)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "FAF Festival (Shelburne)",
+  "date": "2027-07-16",
+  "endDate": "2027-07-18",
+  "time": "4 p.m.–6 p.m.",
+  "location": "Fiddle Park, 105 County Rd 11, Shelburne, ON",
+  "city": "Shelburne",
+  "region": "Rest of Ontario",
+  "description": "FAF Festival (Friends & Family Festival Ontario) brings its 1st Annual family festival to Shelburne — a three-day festival at Fiddle Park with a curated vendor and artisan marketplace, live music and entertainment, food and beverage options, and kids' zones with activities all day. Vendor, food vendor, entertainer and sponsor applications are open now; early-bird vendor pricing runs until Dec 31, 2026, with savings for booking multiple festival locations. Fraud alert from the organizer: it only uses its official website and email for applications and registrations — other pages or addresses are fraudulent.\nListing type: Vendor call\nHours: Friday 4:00 PM - 10:00 PM; Saturday 12:00 PM - 10:00 PM; Sunday 12:00 PM - 6:00 PM\nAttractions: Live music and entertainment; curated artisan marketplace; food and beverage options; kids' zones with activities all day\nVendor types wanted: Artisans and small businesses, food vendors and food trucks, young entrepreneurs (16 and under), corporate vendors\nHow-to-apply: https://faffestival.com/get-involved/vendor-applications/\nEvent page: https://faffestival.com/events/shelburne-faf-festival-2027/\nOrganizer: F.A.F Festival Ontario\nSource: https://facebook.com/groups/524928052267953/permalink/1620469762713771/",
+  "fees": "Early bird (to Dec 31, 2026): Small Business 10x10 $275 (reg $350), 10x20 $550 (reg $700); Young Entrepreneur 10x10 $200; Corporate 10x10 $500, 10x20 $1,000; Food Tent 10x10 $450, 10x20 $900; Food Truck/Trailer under 20 ft $1,000 (reg $1,350), over 20 ft $1,200 (reg $1,500); hydro extra (15 amp $30, 30/50 amp $75)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "FAF Festival (Minden)",
+  "date": "2027-07-30",
+  "endDate": "2027-08-01",
+  "time": "4 p.m.–6 p.m.",
+  "location": "Minden Fairgrounds, 2048 Fleming Rd, Minden, ON",
+  "city": "Minden",
+  "region": "Rest of Ontario",
+  "description": "FAF Festival (Friends & Family Festival Ontario) brings its 2nd Annual family festival to Minden — a three-day festival at Minden Fairgrounds with a curated vendor and artisan marketplace, live music and entertainment, food and beverage options, and kids' zones with activities all day. Vendor, food vendor, entertainer and sponsor applications are open now; early-bird vendor pricing runs until Dec 31, 2026, with savings for booking multiple festival locations. Fraud alert from the organizer: it only uses its official website and email for applications and registrations — other pages or addresses are fraudulent.\nListing type: Vendor call\nHours: Friday 4:00 PM - 10:00 PM; Saturday 12:00 PM - 10:00 PM; Sunday 12:00 PM - 6:00 PM\nAttractions: Live music and entertainment; curated artisan marketplace; food and beverage options; kids' zones with activities all day\nVendor types wanted: Artisans and small businesses, food vendors and food trucks, young entrepreneurs (16 and under), corporate vendors\nHow-to-apply: https://faffestival.com/get-involved/vendor-applications/\nEvent page: https://faffestival.com/events/minden-faf-festival-2026/\nOrganizer: F.A.F Festival Ontario\nSource: https://facebook.com/groups/524928052267953/permalink/1620469762713771/",
+  "fees": "Early bird (to Dec 31, 2026): Small Business 10x10 $275 (reg $350), 10x20 $550 (reg $700); Young Entrepreneur 10x10 $200; Corporate 10x10 $500, 10x20 $1,000; Food Tent 10x10 $450, 10x20 $900; Food Truck/Trailer under 20 ft $1,000 (reg $1,350), over 20 ft $1,200 (reg $1,500); hydro extra (15 amp $30, 30/50 amp $75)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "FAF Festival (Saugeen First Nation)",
+  "date": "2027-08-20",
+  "endDate": "2027-08-22",
+  "time": "4 p.m.–6 p.m.",
+  "location": "James Mason Memorial Cultural & Recreation Center, 47 French Bay Rd, Southampton, ON N0H 2L0",
+  "city": "Southampton",
+  "region": "Rest of Ontario",
+  "description": "FAF Festival (Friends & Family Festival Ontario) brings its 1st Annual family festival to Saugeen First Nation (Southampton) — a three-day festival at James Mason Memorial Cultural & Recreation Center with a curated vendor and artisan marketplace, live music and entertainment, food and beverage options, and kids' zones with activities all day. Vendor, food vendor, entertainer and sponsor applications are open now; early-bird vendor pricing runs until Dec 31, 2026, with savings for booking multiple festival locations. Fraud alert from the organizer: it only uses its official website and email for applications and registrations — other pages or addresses are fraudulent.\nListing type: Vendor call\nHours: Friday 4:00 PM - 10:00 PM; Saturday 12:00 PM - 10:00 PM; Sunday 12:00 PM - 6:00 PM\nAttractions: Live music and entertainment; curated artisan marketplace; food and beverage options; kids' zones with activities all day\nVendor types wanted: Artisans and small businesses, food vendors and food trucks, young entrepreneurs (16 and under), corporate vendors\nHow-to-apply: https://faffestival.com/get-involved/vendor-applications/\nEvent page: https://faffestival.com/events/saugeen-first-nation/\nOrganizer: F.A.F Festival Ontario\nSource: https://facebook.com/groups/524928052267953/permalink/1620469762713771/",
+  "fees": "Early bird (to Dec 31, 2026): Small Business 10x10 $275 (reg $350), 10x20 $550 (reg $700); Young Entrepreneur 10x10 $200; Corporate 10x10 $500, 10x20 $1,000; Food Tent 10x10 $450, 10x20 $900; Food Truck/Trailer under 20 ft $1,000 (reg $1,350), over 20 ft $1,200 (reg $1,500); hydro extra (15 amp $30, 30/50 amp $75)",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
