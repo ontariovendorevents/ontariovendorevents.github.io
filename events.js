@@ -5470,5 +5470,17 @@ window.EVENTS_REFRESH = [
   "description": "FAF Festival (Friends & Family Festival Ontario) brings its 1st Annual family festival to Saugeen First Nation (Southampton) — a three-day festival at James Mason Memorial Cultural & Recreation Center with a curated vendor and artisan marketplace, live music and entertainment, food and beverage options, and kids' zones with activities all day. Vendor, food vendor, entertainer and sponsor applications are open now; early-bird vendor pricing runs until Dec 31, 2026, with savings for booking multiple festival locations. Fraud alert from the organizer: it only uses its official website and email for applications and registrations — other pages or addresses are fraudulent.\nListing type: Vendor call\nHours: Friday 4:00 PM - 10:00 PM; Saturday 12:00 PM - 10:00 PM; Sunday 12:00 PM - 6:00 PM\nAttractions: Live music and entertainment; curated artisan marketplace; food and beverage options; kids' zones with activities all day\nVendor types wanted: Artisans and small businesses, food vendors and food trucks, young entrepreneurs (16 and under), corporate vendors\nHow-to-apply: https://faffestival.com/get-involved/vendor-applications/\nEvent page: https://faffestival.com/events/saugeen-first-nation/\nOrganizer: F.A.F Festival Ontario\nSource: https://facebook.com/groups/524928052267953/permalink/1620469762713771/",
   "fees": "Early bird (to Dec 31, 2026): Small Business 10x10 $275 (reg $350), 10x20 $550 (reg $700); Young Entrepreneur 10x10 $200; Corporate 10x10 $500, 10x20 $1,000; Food Tent 10x10 $450, 10x20 $900; Food Truck/Trailer under 20 ft $1,000 (reg $1,350), over 20 ft $1,200 (reg $1,500); hydro extra (15 amp $30, 30/50 amp $75)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Originals Christmas Craft Sale",
+  "date": "2026-12-09",
+  "endDate": "2026-12-13",
+  "time": "10 a.m.–5 p.m.",
+  "location": "Cohere Centre (formerly EY Centre), 4899 Uplands Drive, Ottawa, ON K1V 2N6",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "Booth space for the 2026 show is SOLD OUT — waitlist applications only. Ottawa's juried Christmas craft sale runs five days at the Cohere Centre (formerly EY Centre), with daily hours Wednesday to Friday 10:00 AM - 9:00 PM, Saturday 10:00 AM - 6:00 PM and Sunday 10:00 AM - 5:00 PM. Scam alert from the organizer: applications are accepted only through the organizer's official website (see the Source link below), and official email comes only from a Canadian (.ca) address. Unofficial application forms for this show are circulating and are not legitimate; a fake one was deleted from Paul's Facebook group today.\nListing type: Vendor call\nHours: Wednesday - Friday 10:00 AM - 9:00 PM; Saturday 10:00 AM - 6:00 PM; Sunday 10:00 AM - 5:00 PM\nHow-to-apply: Waitlist applications through the organizer's official website — see the Source link\nOrganizer: Signatures Shows\nSource: https://signatures.ca/market/signatures-originals-craft-sale/",
+  "fees": "Booths $1,320–$3,720 by size and aisle/corner (5x10 to 10x20) — sold out, waitlist only",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
