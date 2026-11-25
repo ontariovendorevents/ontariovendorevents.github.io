@@ -5493,5 +5493,50 @@ window.EVENTS_REFRESH = [
   "description": "The Status of Women Committee of OSSTF District 25 (Ottawa-Carleton) presents its 2nd Annual Women's Day Market in celebration of International Women's Day, at Confederation Education Centre in Ottawa. The market showcases local women-led businesses, with live music; each vendor donates one item to a charity raffle supporting Interval House of Ottawa.\nListing type: Vendor call\nHours: 10:00 AM - 2:00 PM\nTheme: International Women's Day\nVendor types wanted: Local women-led businesses\nNote: Applications are reviewed by the committee; selected vendors will be contacted in January.\nHow-to-apply: https://docs.google.com/forms/d/e/1FAIpQLSfAvhXCZ5KTfmA_FqwnrEYZLH4afDUplPd5OouLiHU7Twh_8Q/viewform\nSource: https://facebook.com/groups/377595892794556/permalink/2279626732591453/",
   "fees": "$25 per table + raffle item donation",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Winter Wonderland Vendor Market (Sinclair Secondary School)",
+  "date": "2026-12-11",
+  "time": "4:30 p.m.–7:30 p.m.",
+  "location": "Sinclair Secondary School, 380 Taunton Rd E, Whitby, ON L1R 2K5",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "A student-organized vendor market at Sinclair Secondary School in Whitby, wrapping up a week-long Business SHSM fundraising campaign (December 7-11) for the John Howard Society — the students aim to raise $3,000 and collect 300 non-perishable food and hygiene items. The market runs alongside the school's Winter Wonderland celebration.\nListing type: Vendor call\nHours: Friday 4:30 PM - 7:30 PM\nTheme: Winter Wonderland\nVendor types wanted: Local makers, small businesses, artists, food vendors and other independent businesses\nHow-to-apply: Reach out to Alice Jackson for more information (see the Source post)\nOrganizer: Sinclair Secondary School Business SHSM students\nSource: https://facebook.com/groups/970891068753301/permalink/1011525051356569/",
+  "fees": "$50 (negotiable) plus 10% of proceeds collected by the class",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Toronto Dark Arts Market: My Bloody Valentine Market",
+  "date": "2027-02-13",
+  "time": "11 a.m.–5 p.m.",
+  "location": "Ground Control, 1279 Queen Street West, Toronto, ON",
+  "city": "Toronto",
+  "region": "Toronto",
+  "description": "The Toronto Dark Arts Market's Valentine's edition — a market for dark, creepy and spooky work of all mediums at Ground Control on Queen Street West. Bonus consideration for work with a Valentine's, love or romance theme. Fully accessible venue with wifi and an ATM on site.\nListing type: Vendor call\nHours: Saturday 11:00 AM - 5:00 PM\nAdmission: Free\nTheme: My Bloody Valentine — dark Valentine's\nVendor types wanted: Artists, artisans and authors of dark, creepy, spooky work — oddities and taxidermy, jewellery and accessories, clothing, decor, literature, art\nHow-to-apply: Apply ONLY through the organizer's website, www.torontodarkartsmarket.com — the organizer never uses Jotform, Google Docs, Gmail or DMs to engage with vendors. Application deadline: Tuesday, December 8, 2026, 1:00 PM; all applicants notified by December 10, 2026\nOrganizer: Toronto Dark Arts Market\nSource: https://facebook.com/groups/524928052267953/permalink/1621462999281114/",
+  "fees": "$40 - $200 depending on size",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Love Bloom Vendor Market",
+  "date": "2027-02-13",
+  "time": "11 a.m.–4 p.m.",
+  "location": "Grantham Optimist Club, 188 Linwell Road, St. Catharines, ON",
+  "city": "St. Catharines",
+  "region": "Niagara Region",
+  "description": "A Valentine's-season vendor market at the Grantham Optimist Club in St. Catharines. Vendor applications are open now through the organizer's Google Form.\nListing type: Vendor call\nHours: Saturday 11:00 AM - 4:00 PM\nTheme: Valentine's\nHow-to-apply: https://docs.google.com/forms/d/1VIQDqeTsZfuXOQ64EUuE1XvQZ4X_7bXykvvA1UzL-O0/viewform\nSource: https://facebook.com/groups/524928052267953/permalink/1620955789331835/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "MHH Mother's Day Weekend Celebration",
+  "date": "2027-05-08",
+  "endDate": "2027-05-09",
+  "time": "10 a.m.–3 p.m.",
+  "location": "Dorchester Community Hall, 2066 Dorchester Rd, Dorchester, ON",
+  "city": "Dorchester",
+  "region": "London & Area",
+  "description": "A Mother's Day weekend celebration in Dorchester — billed on the flyer as 'Blooms, Bites & Beautiful Memories' — with local food and art vendors, live music, flowers and plants, and a High Tea Portrait Experience by Doris Weir Photography. Priority goes to vendors whose products fit the Mother's Day theme, and to vendors who can take part for the full weekend.\nListing type: Vendor call\nHours: Saturday and Sunday 10:00 AM - 3:00 PM\nTheme: Mother's Day\nAttractions: Live music; flowers, food and artisan vendors; High Tea Portrait Experience by Doris Weir Photography\nVendor types wanted: Food vendors and artisans — especially flowers and plants, gardening and outdoor living, food and specialty food products, and thoughtful gifts and experiences for Mom\nHow-to-apply: Apply through the MHH Events Facebook group: facebook.com/groups/mhhevents\nOrganizer: MHH Events & Entertainment\nSource: https://facebook.com/groups/971632669514677/permalink/29967871932797365/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
