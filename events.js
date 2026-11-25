@@ -5482,5 +5482,16 @@ window.EVENTS_REFRESH = [
   "description": "Booth space for the 2026 show is SOLD OUT — waitlist applications only. Ottawa's juried Christmas craft sale runs five days at the Cohere Centre (formerly EY Centre), with daily hours Wednesday to Friday 10:00 AM - 9:00 PM, Saturday 10:00 AM - 6:00 PM and Sunday 10:00 AM - 5:00 PM. Scam alert from the organizer: applications are accepted only through the organizer's official website (see the Source link below), and official email comes only from a Canadian (.ca) address. Unofficial application forms for this show are circulating and are not legitimate; a fake one was deleted from Paul's Facebook group today.\nListing type: Vendor call\nHours: Wednesday - Friday 10:00 AM - 9:00 PM; Saturday 10:00 AM - 6:00 PM; Sunday 10:00 AM - 5:00 PM\nHow-to-apply: Waitlist applications through the organizer's official website — see the Source link\nOrganizer: Signatures Shows\nSource: https://signatures.ca/market/signatures-originals-craft-sale/",
   "fees": "Booths $1,320–$3,720 by size and aisle/corner (5x10 to 10x20) — sold out, waitlist only",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "2nd Annual Women's Day Market",
+  "date": "2027-03-06",
+  "time": "10 a.m.–2 p.m.",
+  "location": "Confederation Education Centre, 1645 Woodroffe Avenue, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "The Status of Women Committee of OSSTF District 25 (Ottawa-Carleton) presents its 2nd Annual Women's Day Market in celebration of International Women's Day, at Confederation Education Centre in Ottawa. The market showcases local women-led businesses, with live music; each vendor donates one item to a charity raffle supporting Interval House of Ottawa.\nListing type: Vendor call\nHours: 10:00 AM - 2:00 PM\nTheme: International Women's Day\nVendor types wanted: Local women-led businesses\nNote: Applications are reviewed by the committee; selected vendors will be contacted in January.\nHow-to-apply: https://docs.google.com/forms/d/e/1FAIpQLSfAvhXCZ5KTfmA_FqwnrEYZLH4afDUplPd5OouLiHU7Twh_8Q/viewform\nSource: https://facebook.com/groups/377595892794556/permalink/2279626732591453/",
+  "fees": "$25 per table + raffle item donation",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
