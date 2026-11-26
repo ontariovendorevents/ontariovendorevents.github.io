@@ -5483,5 +5483,17 @@ window.EVENTS_REFRESH = [
   "description": "A Mother's Day weekend celebration in Dorchester — billed on the flyer as 'Blooms, Bites & Beautiful Memories' — with local food and art vendors, live music, flowers and plants, and a High Tea Portrait Experience by Doris Weir Photography. Priority goes to vendors whose products fit the Mother's Day theme, and to vendors who can take part for the full weekend.\nListing type: Vendor call\nHours: Saturday and Sunday 10:00 AM - 3:00 PM\nTheme: Mother's Day\nAttractions: Live music; flowers, food and artisan vendors; High Tea Portrait Experience by Doris Weir Photography\nVendor types wanted: Food vendors and artisans — especially flowers and plants, gardening and outdoor living, food and specialty food products, and thoughtful gifts and experiences for Mom\nHow-to-apply: Apply through the MHH Events Facebook group: facebook.com/groups/mhhevents\nOrganizer: MHH Events & Entertainment\nSource: https://facebook.com/groups/971632669514677/permalink/29967871932797365/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Chand Raat Fest 2027 (Souq Fest)",
+  "date": "2027-03-08",
+  "endDate": "2027-03-09",
+  "time": "12 p.m.–2 a.m.",
+  "location": "Mississauga Convention Centre, Mississauga, ON",
+  "city": "Mississauga",
+  "region": "Peel Region",
+  "description": "A late-night shopping festival at the Mississauga Convention Centre, presented by Souq Fest. Free entry and free parking for shoppers. The organizing team also runs Hobby Con, bringing years of event experience across Canada and the U.S.\nListing type: Vendor call\nHours: Monday 12:00 PM - 2:00 AM (runs past midnight into Tuesday)\nAdmission: Free\nAttractions: Free parking\nVendor types wanted: Clothing, jewellery, accessories, perfumes, henna, beauty products, gifts, kids' products and activities, and more\nHow-to-apply: Call or WhatsApp the organizer (number in the source post), or email the organizer (address in the source post)\nOrganizer: Souq Fest Events\nSource: https://facebook.com/groups/609827307950034/permalink/1479082614357828/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
