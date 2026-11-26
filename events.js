@@ -72,61 +72,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "General Mercer Junior Public School Holiday Market",
-  "date": "2026-11-25",
-  "time": "6 p.m.–8 p.m.",
-  "location": "General Mercer Junior Public School, 30 Turnberry Ave, Toronto, ON",
-  "city": "Toronto",
-  "region": "Toronto",
-  "description": "Holiday market at General Mercer Junior Public School in Toronto, run by the school council.\nTheme: Christmas\nHours: 6:00 PM - 8:00 PM\nAdmission: Not stated\nSource: https://facebook.com/groups/torontocraftalert/permalink/10164405828683301/",
-  "fees": "$30 bring your own table / $40 with table and chairs provided",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Lakeside Breakers Holiday Vendor & Craft Show",
-  "date": "2026-11-25",
-  "time": "3:30 p.m.–7:30 p.m.",
-  "location": "Lakeside Public School, South Ajax, Ontario",
-  "city": "",
-  "region": "Rest of Ontario",
-  "description": "Lakeside Breakers holiday vendor and craft show at Lakeside Public School. Vendor fee: youth spots $10; general vendor fee not published (early-bird pricing mentioned, amount not published - contact organizer). How to apply: vendor application https://forms.gle/nFvc44sLdEQNRkNB7 ; young entrepreneur application https://forms.gle/YGma7RxN24yLwAYb8. Organizer: see the source post.\nSource: https://facebook.com/groups/524928052267953/permalink/1564579471636134/",
-  "fees": "Youth spots $10; general vendor fee not published (early-bird pricing mentioned, amount not published)",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Lakeside Vendor Market",
-  "date": "2026-11-25",
-  "time": "3:30 p.m.–7:30 p.m.",
-  "location": "Lakeside Public School, 4 Parkes Drive, Ajax",
-  "city": "Ajax",
-  "region": "Durham Region",
-  "description": "Lakeside Winter Market (Lakeside Breakers Holiday Vendor & Craft Show), Wednesday, November 25, 2026, 3:30–7:30 PM. Lakeside Public School gymnasium, 4 Parkes Drive, Ajax, ON. Vendor setup 2:00–3:30 PM. Fees: regular 10x10 space $50; early bird $40 (register and pay before Oct 1); young entrepreneurs (12 & under) $10; table rental $10; chairs free. Payment by cash to the school office (Mon–Fri 9 AM–3 PM). see the source post link for how to apply. Nut-free event. Note: the organizer's Facebook flyer says Nov 26, but the official vendor registration form confirms Wednesday, November 25. As of Oct 1 the market is at capacity and accepting wait-list applications only. Vendor application: https://docs.google.com/forms/d/e/1FAIpQLSczAu6gSNkzIBQEAMYzQD7jHcwY5UQYoldUNEHbjaMJc7XufA/viewform \nFee: $50\nSource: organizer\\'s Facebook post",
-  "fees": "$50 regular 10x10; $40 early bird (before Oct 1); $10 young entrepreneurs; $10 table rental; chairs free",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "The Holiday Edit",
-  "date": "2026-11-25",
-  "time": "5 p.m.–9 p.m.",
-  "location": "Sage & Soul Collective, 4 Union St, Millbrook, ON",
-  "city": "Millbrook",
-  "region": "Kawarthas and Peterborough",
-  "description": "An evening holiday shopping event at Sage & Soul Collective in Millbrook, with local makers featured in-store and on the porch, plus a fashion show at 6:30 PM. VIP entry at 5:00 PM; general admission doors at 6:00 PM. A portion of proceeds supports Help Her Recover programming.\nListing type: Event\nHours: 5:00 PM - 9:00 PM\nTheme: Christmas / holiday shopping night\nAdmission: Free for general admission; VIP experience $30 (tickets on Eventbrite)\nSource: https://www.eventbrite.ca/e/the-holiday-edit-tickets-2002591231281",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Winter Market at Colonel J. E. Farewell PS",
-  "date": "2026-11-25",
-  "time": "5 p.m.–8 p.m.",
-  "location": "Colonel J. E. Farewell PS, 810 McQuay Blvd, Whitby, ON",
-  "city": "Whitby",
-  "region": "Durham Region",
-  "description": "Theme: Christmas\nFee: Adult Makers $40 + $15 door-prize donation; Mini Makers $15\nSource: https://facebook.com/groups/1013767978664673/permalink/39001990579415604/\n\n",
-  "fees": "Adult Makers $40 + $15 door-prize donation; Mini Makers $15",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "First Light",
   "date": "2026-11-26",
   "time": "5 p.m.–9 p.m.",
@@ -611,7 +556,7 @@ window.EVENTS_REFRESH = [
   "location": "Merrickville Community Centre, 106 Read Street, Merrickville, ON",
   "city": "Merrickville",
   "region": "Rest of Ontario",
-  "description": "Christmas Makers Market in Merrickville, run by Merrickville's Makers Market - two days of Christmas shopping with local artisans and makers: jewellery, pottery, wood working, clothing, bath & body, home decor, visual arts, crochet, baked goods and more.\nListing type: Shopper event\nHours: 10:00 AM - 4:00 PM\nWebsite: www.merrickvillesmakersmarkets.ca\nSource: https://facebook.com/100063778351355/posts/pfbid02LE8V9gyD2ofpqVSzhmsSM3s16Y41syDWh5bGYu17cEp5LPv4KwJsKtuoXyCvpzhkl/",
+  "description": "Christmas Makers Market in Merrickville, run by Merrickville's Makers Market - two days of Christmas shopping with local artisans and makers: jewellery, pottery, wood working, clothing, bath & body, home decor, visual arts, crochet, baked goods and more.\nListing type: Shopper event\nHours: 10:00 AM - 4:00 PM\nWebsite: www.merrickvillesmakersmarkets.ca\nSource: organizer\\'s Facebook post",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1552,7 +1497,7 @@ window.EVENTS_REFRESH = [
   "location": "Merrickville Community Centre, 106 Read Street, Merrickville, ON",
   "city": "Merrickville",
   "region": "Rest of Ontario",
-  "description": "Christmas Makers Market in Merrickville, run by Merrickville's Makers Market - two days of Christmas shopping with local artisans and makers: jewellery, pottery, wood working, clothing, bath & body, home decor, visual arts, crochet, baked goods and more.\nListing type: Shopper event\nHours: 10:00 AM - 4:00 PM\nWebsite: www.merrickvillesmakersmarkets.ca\nSource: https://facebook.com/100063778351355/posts/pfbid02LE8V9gyD2ofpqVSzhmsSM3s16Y41syDWh5bGYu17cEp5LPv4KwJsKtuoXyCvpzhkl/",
+  "description": "Christmas Makers Market in Merrickville, run by Merrickville's Makers Market - two days of Christmas shopping with local artisans and makers: jewellery, pottery, wood working, clothing, bath & body, home decor, visual arts, crochet, baked goods and more.\nListing type: Shopper event\nHours: 10:00 AM - 4:00 PM\nWebsite: www.merrickvillesmakersmarkets.ca\nSource: organizer\\'s Facebook post",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -1596,7 +1541,7 @@ window.EVENTS_REFRESH = [
   "location": "Garnet B. Rickard Recreation Complex, Bowmanville, ON",
   "city": "Bowmanville",
   "region": "Durham Region",
-  "description": "Holiday Christmas shopping market in Bowmanville presented by Team Chelsea (Team Chelsea Spin the Wheel) and Little Shoppe Treasures — celebrating local makers, creators and small businesses with unique handmade gifts. Indoor venue with a holiday atmosphere. Vendor spaces are limited and expected to fill quickly.\nTheme: Christmas / holiday season\nVendor types wanted: artists, crafters, candle makers, soap makers, bakers, jewelry designers, boutique owners, home décor creators, authors, toy makers, holiday decor specialists, pet product vendors, gourmet food producers, floral designers, beauty/wellness businesses, non-profits, entrepreneurs\nHow to apply: https://forms.gle/ixzBRiVKSgkJtVSp8\nFee: $100 (includes one 8ft or 6ft table; bring-your-own-tables (2) option also offered; extra table +$50)\nSource: https://www.facebook.com/share/p/19t9D5iPbx/",
+  "description": "Holiday Christmas shopping market in Bowmanville presented by Team Chelsea (Team Chelsea Spin the Wheel) and Little Shoppe Treasures — celebrating local makers, creators and small businesses with unique handmade gifts. Indoor venue with a holiday atmosphere. Vendor spaces are limited and expected to fill quickly.\nTheme: Christmas / holiday season\nVendor types wanted: artists, crafters, candle makers, soap makers, bakers, jewelry designers, boutique owners, home décor creators, authors, toy makers, holiday decor specialists, pet product vendors, gourmet food producers, floral designers, beauty/wellness businesses, non-profits, entrepreneurs\nHow to apply: https://forms.gle/ixzBRiVKSgkJtVSp8\nFee: $100 (includes one 8ft or 6ft table; bring-your-own-tables (2) option also offered; extra table +$50)\nSource: organizer\\'s Facebook post",
   "fees": "$100 (includes one 8ft or 6ft table; bring-your-own-tables (2) option also offered; extra table +$50)",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -2379,7 +2324,7 @@ window.EVENTS_REFRESH = [
   "location": "Quinte Mall, 390 N Front St, Belleville, ON",
   "city": "Belleville",
   "region": "Kingston & Area",
-  "description": "Costa Crafted Events presents The GRINCH-mas POP-UP Market at Quinte Mall in Belleville, in the former Toys \"R\" Us / Spirit Halloween space. Free entry; non-perishable food and toy donations appreciated. Attractions: meet the Grinch 11 AM-2 PM, a Santa visit 2-3 PM, a colouring contest and an angel tree. Hours not yet published by the organizer — the market is listed at 10 AM-4 PM pending confirmation. Vendor fee not published — see application form. Vendors bring their own table and chair (table rental $10 if needed); a single spot is 8 ft; payment is due 24 hours after acceptance.\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM (hours not yet published by the organizer)\nTheme: Christmas / GRINCH-mas\nAdmission: Free (non-perishable food and toy donations appreciated)\nAttractions: Meet the Grinch 11 AM-2 PM; Santa visit 2-3 PM; colouring contest; angel tree\nHow-to-apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform\nOrganizer: Costa Crafted Events (Amy Costa)\nSource: https://facebook.com/groups/6703732679656668/permalink/30101733106096629/",
+  "description": "Costa Crafted Events presents The GRINCH-mas POP-UP Market at Quinte Mall in Belleville, in the former Toys \"R\" Us / Spirit Halloween space. Free entry; non-perishable food and toy donations appreciated. Attractions: meet the Grinch 11 AM-2 PM, a Santa visit 2-3 PM, a colouring contest and an angel tree. Hours not yet published by the organizer — the market is listed at 10 AM-4 PM pending confirmation. Vendor fee not published — see application form. Vendors bring their own table and chair (table rental $10 if needed); a single spot is 8 ft; payment is due 24 hours after acceptance.\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM (hours not yet published by the organizer)\nTheme: Christmas / GRINCH-mas\nAdmission: Free (non-perishable food and toy donations appreciated)\nAttractions: Meet the Grinch 11 AM-2 PM; Santa visit 2-3 PM; colouring contest; angel tree\nHow-to-apply: https://docs.google.com/forms/d/e/1FAIpQLSeHQzcuIWKzMkc3GNXTGAXpJVz92bV3R0HbVfey37jqk-AUaw/viewform\nOrganizer: Costa Crafted Events\nSource: https://facebook.com/groups/6703732679656668/permalink/30101733106096629/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
@@ -5143,7 +5088,7 @@ window.EVENTS_REFRESH = [
   "location": "Wortley Road Public School, 301 Wortley Road, London, ON",
   "city": "London",
   "region": "London & Area",
-  "description": "Old South Artisan & Vendor Market - the 9th Annual Wortley Road School Fundraiser Market in London. Indoor-outdoor pop-up market with 130+ vendors; family event with shopping, food and activities. Admission: Free.\nVendor fee: $40-$70 (space cost)\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM\nHow to apply: Email oldsouthmarketfundraiser@gmail.com\nSource: https://facebook.com/groups/524928052267953/permalink/1592240608870020/",
+  "description": "Old South Artisan & Vendor Market - the 9th Annual Wortley Road School Fundraiser Market in London. Indoor-outdoor pop-up market with 130+ vendors; family event with shopping, food and activities. Admission: Free.\nVendor fee: $40-$70 (space cost)\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM\nHow to apply: Email oldsouthmarketfundraiser\nSource: https://facebook.com/groups/524928052267953/permalink/1592240608870020/",
   "fees": "$40-$70",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
