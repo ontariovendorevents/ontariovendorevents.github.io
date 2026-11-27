@@ -5440,5 +5440,49 @@ window.EVENTS_REFRESH = [
   "description": "A late-night shopping festival at the Mississauga Convention Centre, presented by Souq Fest. Free entry and free parking for shoppers. The organizing team also runs Hobby Con, bringing years of event experience across Canada and the U.S.\nListing type: Vendor call\nHours: Monday 12:00 PM - 2:00 AM (runs past midnight into Tuesday)\nAdmission: Free\nAttractions: Free parking\nVendor types wanted: Clothing, jewellery, accessories, perfumes, henna, beauty products, gifts, kids' products and activities, and more\nHow-to-apply: Call or WhatsApp the organizer (number in the source post), or email the organizer (address in the source post)\nOrganizer: Souq Fest Events\nSource: https://facebook.com/groups/609827307950034/permalink/1479082614357828/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Garden City Comic Con 5",
+  "date": "2026-11-28",
+  "time": "10 a.m.–5 p.m.",
+  "location": "Club Heidelberg, St. Catharines, ON",
+  "city": "St. Catharines",
+  "region": "Niagara Region",
+  "description": "Garden City Comic Con returns to Club Heidelberg in St. Catharines for its fifth show — comics, vendors and creators, with guest of honour Stacie Mistysyn of Degrassi fame. A couple of vendor tables were still open when posted (Nov 25); the organizer offered $10 off the table rate to the first vendors to reach out.\nListing type: Vendor call\nHours: Saturday 10:00 AM - 5:00 PM\nTheme: Comic con / pop culture\nVendor types wanted: Comics vendors and creators\nHow-to-apply: Email the organizer (address in the source post)\nOrganizer: We Got The Geek\nSource: https://facebook.com/groups/647247322686478/permalink/2385323255545534/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Riverside Secondary Winter Market",
+  "date": "2026-12-05",
+  "time": "9 a.m.–4 p.m.",
+  "location": "Riverside Secondary School, 8465 Jerome St, Windsor, ON",
+  "city": "Windsor",
+  "region": "Windsor-Essex",
+  "description": "The 5th annual Winter Market at Riverside Secondary School in Windsor. Vendor spots were still open when posted (10 left, Nov 26). Apply through the school's online form and a staff member will follow up with a secure payment link — the school stresses it will never ask for an e-transfer, so do not send payment any other way.\nListing type: Vendor call\nHours: Saturday 9:00 AM - 4:00 PM\nTheme: Winter / Christmas\nHow-to-apply: https://forms.cloud.microsoft/pages/responsepage.aspx?id=DgHgbDo7FEai29tzsY8hnwk1qnnEPCZMqBlHml5pKq5UQkg4RThETTZHUEpDWDFEUUhNRzIzUjhLOS4u&origin=QRCode&qrcodeorigin=presentation&route=shorturl\nOrganizer: Riverside Secondary School\nSource: https://facebook.com/groups/2320917288223463/permalink/4587611731553996/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Second Annual Sip & Shop Vendor Market",
+  "date": "2026-11-28",
+  "time": "10 a.m.–5 p.m.",
+  "location": "The Moon Cafe, Mattawa, ON",
+  "city": "Mattawa",
+  "region": "Rest of Ontario",
+  "description": "The second annual Sip & Shop Vendor Market at The Moon Cafe in Mattawa. A last-minute vendor opening was posted Nov 26 — several categories are already filled. The market accepts donations for The Women's Resource Centre.\nListing type: Vendor call\nHours: Saturday 10:00 AM - 5:00 PM\nVendor types wanted: Bath and body products, handmade candles, sewing and fabric creations, unique handmade gifts, and other specialty products\nHow-to-apply: Message the organizer on Facebook (see the source post)\nSource: https://facebook.com/groups/928779888431857/permalink/1619673036009202/",
+  "fees": "$30 per table",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Naughty Xmas Market",
+  "date": "2026-12-05",
+  "time": "11 a.m.–2 p.m.",
+  "location": "41 Rosemount Avenue, Ottawa, ON",
+  "city": "Ottawa",
+  "region": "Ottawa",
+  "description": "Ottawa's adults-only Naughty Xmas Market — a cheeky, grown-up Christmas market raising money for the House of Lazarus Kids Backpack Program, which provides weekend food for children facing food insecurity. Organized by Sue McGarvie and the Ducklings social community. One vendor table was still available when posted (Nov 25).\nListing type: Vendor call\nHours: Saturday 11:00 AM - 2:00 PM\nAdmission: $5 at the door (supports the backpack program)\nAttractions: Bad Santa and elves, burlesque and festive entertainment, tarot readings, thrift and costume clothing, homemade soup and treats\nVendor types wanted: Local artisans and vendors with naughty-and-nice gifts and stocking stuffers\nHow-to-apply: Message the organizer on Facebook (see the source post)\nOrganizer: Sue McGarvie and the Ducklings social community\nSource: https://facebook.com/groups/377595892794556/permalink/2280517902502336/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
