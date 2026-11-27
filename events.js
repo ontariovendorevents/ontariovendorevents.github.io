@@ -5506,5 +5506,137 @@ window.EVENTS_REFRESH = [
   "description": "A school Christmas market at Queen Victoria Public School in Lindsay, with a pancake breakfast, raffles and photos with Santa. All proceeds support the school's new playground project.\nListing type: Vendor call\nHours: Saturday 10:00 AM - 2:00 PM\nAttractions: Pancake breakfast ($5 per person), raffles, photos with Santa\nVendor types wanted: Handmade goods, gifts and local finds\nHow-to-apply: Request the vendor form from the organizers via the source post and return it; proof of insurance is required on acceptance, and spaces are confirmed by the organizers\nOrganizer: Queen Victoria Public School\nSource: https://facebook.com/groups/524928052267953/permalink/1622446119182802/",
   "fees": "$40 per 6 ft table",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "North Pole Holiday Market",
+  "date": "2026-11-27",
+  "time": "5 p.m.–8 p.m.",
+  "location": "Brooklin Pub & Grill, 15 Baldwin St, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "All Things Holiday's North Pole Holiday Market returns as '12 Days of Christmas', a boutique outdoor holiday pop-up on the patio at Brooklin Pub & Grill in Brooklin (Whitby). Local vendors sell handcrafted goods and seasonal treats from alpine-style Boutique Maker Huts. The series runs Fridays 5-8 PM and Saturdays & Sundays 12-8 PM, November 27 to December 20, 2026; this entry is one market day.\nListing type: Shopper event\nHours: Friday 5:00 PM - 8:00 PM\nAdmission: Free\nAttractions: The Crystal Capsule (Santa's Snow Globe) heated dome, photos with Santa and a 360 photo booth (a fee applies to the Santa experience), Santa's Cafe with hot chocolate and s'mores kits, cozy fire bowls, Christmas movies on the outdoor screen\nHow-to-apply: No vendor call has been published by the organizer; vendor inquiries go through the organizer's Instagram profile (linked as the source)\nOrganizer: All Things Holiday\nSource: https://www.instagram.com/p/Dfvm2dmDP6v/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "North Pole Holiday Market",
+  "date": "2026-11-28",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Brooklin Pub & Grill, 15 Baldwin St, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "All Things Holiday's North Pole Holiday Market returns as '12 Days of Christmas', a boutique outdoor holiday pop-up on the patio at Brooklin Pub & Grill in Brooklin (Whitby). Local vendors sell handcrafted goods and seasonal treats from alpine-style Boutique Maker Huts. The series runs Fridays 5-8 PM and Saturdays & Sundays 12-8 PM, November 27 to December 20, 2026; this entry is one market day.\nListing type: Shopper event\nHours: Saturday 12:00 PM - 8:00 PM\nAdmission: Free\nAttractions: The Crystal Capsule (Santa's Snow Globe) heated dome, photos with Santa and a 360 photo booth (a fee applies to the Santa experience), Santa's Cafe with hot chocolate and s'mores kits, cozy fire bowls, Christmas movies on the outdoor screen\nHow-to-apply: No vendor call has been published by the organizer; vendor inquiries go through the organizer's Instagram profile (linked as the source)\nOrganizer: All Things Holiday\nSource: https://www.instagram.com/p/Dfvm2dmDP6v/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "North Pole Holiday Market",
+  "date": "2026-11-29",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Brooklin Pub & Grill, 15 Baldwin St, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "All Things Holiday's North Pole Holiday Market returns as '12 Days of Christmas', a boutique outdoor holiday pop-up on the patio at Brooklin Pub & Grill in Brooklin (Whitby). Local vendors sell handcrafted goods and seasonal treats from alpine-style Boutique Maker Huts. The series runs Fridays 5-8 PM and Saturdays & Sundays 12-8 PM, November 27 to December 20, 2026; this entry is one market day.\nListing type: Shopper event\nHours: Sunday 12:00 PM - 8:00 PM\nAdmission: Free\nAttractions: The Crystal Capsule (Santa's Snow Globe) heated dome, photos with Santa and a 360 photo booth (a fee applies to the Santa experience), Santa's Cafe with hot chocolate and s'mores kits, cozy fire bowls, Christmas movies on the outdoor screen\nHow-to-apply: No vendor call has been published by the organizer; vendor inquiries go through the organizer's Instagram profile (linked as the source)\nOrganizer: All Things Holiday\nSource: https://www.instagram.com/p/Dfvm2dmDP6v/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "North Pole Holiday Market",
+  "date": "2026-12-04",
+  "time": "5 p.m.–8 p.m.",
+  "location": "Brooklin Pub & Grill, 15 Baldwin St, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "All Things Holiday's North Pole Holiday Market returns as '12 Days of Christmas', a boutique outdoor holiday pop-up on the patio at Brooklin Pub & Grill in Brooklin (Whitby). Local vendors sell handcrafted goods and seasonal treats from alpine-style Boutique Maker Huts. The series runs Fridays 5-8 PM and Saturdays & Sundays 12-8 PM, November 27 to December 20, 2026; this entry is one market day.\nListing type: Shopper event\nHours: Friday 5:00 PM - 8:00 PM\nAdmission: Free\nAttractions: The Crystal Capsule (Santa's Snow Globe) heated dome, photos with Santa and a 360 photo booth (a fee applies to the Santa experience), Santa's Cafe with hot chocolate and s'mores kits, cozy fire bowls, Christmas movies on the outdoor screen\nHow-to-apply: No vendor call has been published by the organizer; vendor inquiries go through the organizer's Instagram profile (linked as the source)\nOrganizer: All Things Holiday\nSource: https://www.instagram.com/p/Dfvm2dmDP6v/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "North Pole Holiday Market",
+  "date": "2026-12-05",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Brooklin Pub & Grill, 15 Baldwin St, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "All Things Holiday's North Pole Holiday Market returns as '12 Days of Christmas', a boutique outdoor holiday pop-up on the patio at Brooklin Pub & Grill in Brooklin (Whitby). Local vendors sell handcrafted goods and seasonal treats from alpine-style Boutique Maker Huts. The series runs Fridays 5-8 PM and Saturdays & Sundays 12-8 PM, November 27 to December 20, 2026; this entry is one market day.\nListing type: Shopper event\nHours: Saturday 12:00 PM - 8:00 PM\nAdmission: Free\nAttractions: The Crystal Capsule (Santa's Snow Globe) heated dome, photos with Santa and a 360 photo booth (a fee applies to the Santa experience), Santa's Cafe with hot chocolate and s'mores kits, cozy fire bowls, Christmas movies on the outdoor screen\nHow-to-apply: No vendor call has been published by the organizer; vendor inquiries go through the organizer's Instagram profile (linked as the source)\nOrganizer: All Things Holiday\nSource: https://www.instagram.com/p/Dfvm2dmDP6v/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "North Pole Holiday Market",
+  "date": "2026-12-06",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Brooklin Pub & Grill, 15 Baldwin St, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "All Things Holiday's North Pole Holiday Market returns as '12 Days of Christmas', a boutique outdoor holiday pop-up on the patio at Brooklin Pub & Grill in Brooklin (Whitby). Local vendors sell handcrafted goods and seasonal treats from alpine-style Boutique Maker Huts. The series runs Fridays 5-8 PM and Saturdays & Sundays 12-8 PM, November 27 to December 20, 2026; this entry is one market day.\nListing type: Shopper event\nHours: Sunday 12:00 PM - 8:00 PM\nAdmission: Free\nAttractions: The Crystal Capsule (Santa's Snow Globe) heated dome, photos with Santa and a 360 photo booth (a fee applies to the Santa experience), Santa's Cafe with hot chocolate and s'mores kits, cozy fire bowls, Christmas movies on the outdoor screen\nHow-to-apply: No vendor call has been published by the organizer; vendor inquiries go through the organizer's Instagram profile (linked as the source)\nOrganizer: All Things Holiday\nSource: https://www.instagram.com/p/Dfvm2dmDP6v/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "North Pole Holiday Market",
+  "date": "2026-12-11",
+  "time": "5 p.m.–8 p.m.",
+  "location": "Brooklin Pub & Grill, 15 Baldwin St, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "All Things Holiday's North Pole Holiday Market returns as '12 Days of Christmas', a boutique outdoor holiday pop-up on the patio at Brooklin Pub & Grill in Brooklin (Whitby). Local vendors sell handcrafted goods and seasonal treats from alpine-style Boutique Maker Huts. The series runs Fridays 5-8 PM and Saturdays & Sundays 12-8 PM, November 27 to December 20, 2026; this entry is one market day.\nListing type: Shopper event\nHours: Friday 5:00 PM - 8:00 PM\nAdmission: Free\nAttractions: The Crystal Capsule (Santa's Snow Globe) heated dome, photos with Santa and a 360 photo booth (a fee applies to the Santa experience), Santa's Cafe with hot chocolate and s'mores kits, cozy fire bowls, Christmas movies on the outdoor screen\nHow-to-apply: No vendor call has been published by the organizer; vendor inquiries go through the organizer's Instagram profile (linked as the source)\nOrganizer: All Things Holiday\nSource: https://www.instagram.com/p/Dfvm2dmDP6v/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "North Pole Holiday Market",
+  "date": "2026-12-12",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Brooklin Pub & Grill, 15 Baldwin St, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "All Things Holiday's North Pole Holiday Market returns as '12 Days of Christmas', a boutique outdoor holiday pop-up on the patio at Brooklin Pub & Grill in Brooklin (Whitby). Local vendors sell handcrafted goods and seasonal treats from alpine-style Boutique Maker Huts. The series runs Fridays 5-8 PM and Saturdays & Sundays 12-8 PM, November 27 to December 20, 2026; this entry is one market day.\nListing type: Shopper event\nHours: Saturday 12:00 PM - 8:00 PM\nAdmission: Free\nAttractions: The Crystal Capsule (Santa's Snow Globe) heated dome, photos with Santa and a 360 photo booth (a fee applies to the Santa experience), Santa's Cafe with hot chocolate and s'mores kits, cozy fire bowls, Christmas movies on the outdoor screen\nHow-to-apply: No vendor call has been published by the organizer; vendor inquiries go through the organizer's Instagram profile (linked as the source)\nOrganizer: All Things Holiday\nSource: https://www.instagram.com/p/Dfvm2dmDP6v/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "North Pole Holiday Market",
+  "date": "2026-12-13",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Brooklin Pub & Grill, 15 Baldwin St, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "All Things Holiday's North Pole Holiday Market returns as '12 Days of Christmas', a boutique outdoor holiday pop-up on the patio at Brooklin Pub & Grill in Brooklin (Whitby). Local vendors sell handcrafted goods and seasonal treats from alpine-style Boutique Maker Huts. The series runs Fridays 5-8 PM and Saturdays & Sundays 12-8 PM, November 27 to December 20, 2026; this entry is one market day.\nListing type: Shopper event\nHours: Sunday 12:00 PM - 8:00 PM\nAdmission: Free\nAttractions: The Crystal Capsule (Santa's Snow Globe) heated dome, photos with Santa and a 360 photo booth (a fee applies to the Santa experience), Santa's Cafe with hot chocolate and s'mores kits, cozy fire bowls, Christmas movies on the outdoor screen\nHow-to-apply: No vendor call has been published by the organizer; vendor inquiries go through the organizer's Instagram profile (linked as the source)\nOrganizer: All Things Holiday\nSource: https://www.instagram.com/p/Dfvm2dmDP6v/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "North Pole Holiday Market",
+  "date": "2026-12-18",
+  "time": "5 p.m.–8 p.m.",
+  "location": "Brooklin Pub & Grill, 15 Baldwin St, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "All Things Holiday's North Pole Holiday Market returns as '12 Days of Christmas', a boutique outdoor holiday pop-up on the patio at Brooklin Pub & Grill in Brooklin (Whitby). Local vendors sell handcrafted goods and seasonal treats from alpine-style Boutique Maker Huts. The series runs Fridays 5-8 PM and Saturdays & Sundays 12-8 PM, November 27 to December 20, 2026; this entry is one market day.\nListing type: Shopper event\nHours: Friday 5:00 PM - 8:00 PM\nAdmission: Free\nAttractions: The Crystal Capsule (Santa's Snow Globe) heated dome, photos with Santa and a 360 photo booth (a fee applies to the Santa experience), Santa's Cafe with hot chocolate and s'mores kits, cozy fire bowls, Christmas movies on the outdoor screen\nHow-to-apply: No vendor call has been published by the organizer; vendor inquiries go through the organizer's Instagram profile (linked as the source)\nOrganizer: All Things Holiday\nSource: https://www.instagram.com/p/Dfvm2dmDP6v/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "North Pole Holiday Market",
+  "date": "2026-12-19",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Brooklin Pub & Grill, 15 Baldwin St, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "All Things Holiday's North Pole Holiday Market returns as '12 Days of Christmas', a boutique outdoor holiday pop-up on the patio at Brooklin Pub & Grill in Brooklin (Whitby). Local vendors sell handcrafted goods and seasonal treats from alpine-style Boutique Maker Huts. The series runs Fridays 5-8 PM and Saturdays & Sundays 12-8 PM, November 27 to December 20, 2026; this entry is one market day.\nListing type: Shopper event\nHours: Saturday 12:00 PM - 8:00 PM\nAdmission: Free\nAttractions: The Crystal Capsule (Santa's Snow Globe) heated dome, photos with Santa and a 360 photo booth (a fee applies to the Santa experience), Santa's Cafe with hot chocolate and s'mores kits, cozy fire bowls, Christmas movies on the outdoor screen\nHow-to-apply: No vendor call has been published by the organizer; vendor inquiries go through the organizer's Instagram profile (linked as the source)\nOrganizer: All Things Holiday\nSource: https://www.instagram.com/p/Dfvm2dmDP6v/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "North Pole Holiday Market",
+  "date": "2026-12-20",
+  "time": "12 p.m.–8 p.m.",
+  "location": "Brooklin Pub & Grill, 15 Baldwin St, Whitby, ON",
+  "city": "Whitby",
+  "region": "Durham Region",
+  "description": "All Things Holiday's North Pole Holiday Market returns as '12 Days of Christmas', a boutique outdoor holiday pop-up on the patio at Brooklin Pub & Grill in Brooklin (Whitby). Local vendors sell handcrafted goods and seasonal treats from alpine-style Boutique Maker Huts. The series runs Fridays 5-8 PM and Saturdays & Sundays 12-8 PM, November 27 to December 20, 2026; this entry is one market day.\nListing type: Shopper event\nHours: Sunday 12:00 PM - 8:00 PM\nAdmission: Free\nAttractions: The Crystal Capsule (Santa's Snow Globe) heated dome, photos with Santa and a 360 photo booth (a fee applies to the Santa experience), Santa's Cafe with hot chocolate and s'mores kits, cozy fire bowls, Christmas movies on the outdoor screen\nHow-to-apply: No vendor call has been published by the organizer; vendor inquiries go through the organizer's Instagram profile (linked as the source)\nOrganizer: All Things Holiday\nSource: https://www.instagram.com/p/Dfvm2dmDP6v/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
