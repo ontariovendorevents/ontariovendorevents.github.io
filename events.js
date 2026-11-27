@@ -72,61 +72,6 @@ window.EVENTS_REFRESH = [
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  },
  {
-  "title": "First Light",
-  "date": "2026-11-26",
-  "time": "5 p.m.–9 p.m.",
-  "location": "Sainte-Marie among the Hurons, 16164 Highway 12 East, Midland, ON",
-  "city": "Midland",
-  "region": "Rest of Ontario",
-  "description": "First Light at Sainte-Marie among the Hurons in Midland — last call for artisan vendors for the First Light evening event, running two 4-day weekends (Thu Nov 26 to Sun Nov 29 and Thu Dec 3 to Sun Dec 6). Vendors bring their own table(s); proof of insurance is required.\nListing type: Vendor call\nTheme: Christmas\nHours: 5:00 PM - 9:00 PM\nVendor types wanted: Handmade, locally-made and baked-goods vendors\nNote: Applications are accepted only through the organizer's official site or its ontario.ca email — do not send e-transfers to anyone else.\nHow-to-apply: https://saintemarieamongthehurons.on.ca/apply-as-an-artisan-form/\nQuestions: email the organizer (address in the source post)\nSource: https://facebook.com/groups/524928052267953/permalink/1612065263554221/",
-  "fees": "$185 per 4-day weekend",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Holiday Market at Amica Guildwood",
-  "date": "2026-11-26",
-  "time": "1 p.m.–4 p.m.",
-  "location": "Amica Guildwood, Toronto, ON",
-  "city": "Toronto",
-  "region": "Toronto",
-  "description": "Holiday market at Amica Guildwood retirement residence in Toronto — vendors showcase their products for residents, families and team members.\nListing type: Vendor call\nHours: 1:00 PM - 4:00 PM\nHow-to-apply: Message the organizer via the source post\nSource: https://facebook.com/groups/torontovbnetwork/permalink/29311195745180817/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "Sip & Shop — Willow River Public School",
-  "date": "2026-11-26",
-  "time": "6 p.m.–8 p.m.",
-  "location": "Willow River Public School, 670 Thomas Slee Drive, Kitchener",
-  "city": "Kitchener",
-  "region": "Waterloo Region",
-  "description": "Evening sip & shop school fundraiser market in Kitchener.\nListing type: Vendor call\nFee: $50 for a 6-foot space\nHow to apply: see the source post\nSource: https://facebook.com/groups/524928052267953/permalink/1589871089106972/",
-  "fees": "$50 (6-foot space)",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "St. Angela Merici's Christmas Market",
-  "date": "2026-11-26",
-  "time": "5:30 p.m.–8 p.m.",
-  "location": "St. Angela Merici Catholic School, 8881 Martin Grove Rd, Woodbridge",
-  "city": "Woodbridge",
-  "region": "York Region",
-  "description": "Sixth annual Christmas market at St. Angela Merici school in Woodbridge.\nListing type: Vendor call\nHow to apply: message the poster via the source post to be a vendor\nSource: https://facebook.com/groups/524928052267953/permalink/1590058389088242/",
-  "fees": "",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
-  "title": "St. Nicholas Merry Market",
-  "date": "2026-11-26",
-  "time": "4 p.m.–8 p.m.",
-  "location": "1956 Shore Road, London, ON",
-  "city": "London",
-  "region": "London & Area",
-  "description": "Vendor spots available at the St. Nicholas Merry Market in London's West5/Hunt Club area — an evening Christmas market at 1956 Shore Road. Vendor setup runs 1:00 PM - 3:00 PM. The vendor fee is $40.\nListing type: Vendor call\nTheme: Christmas\nHours: 4:00 PM - 8:00 PM (vendor setup 1:00 PM - 3:00 PM)\nVendor types wanted: All vendor types\nHow to apply: Fill out the application form linked in the source post: https://docs.google.com/forms/d/1ut618eUVO7w5ZY_77SXaWXGNWu3TgXjdMtts1uLxH2w/viewform?usp=drivesdk\nSource: https://facebook.com/groups/294630007646067/permalink/2744017269373983/",
-  "fees": "$40",
-  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
- },
- {
   "title": "The Red Barn Christmas Market",
   "date": "2026-11-26",
   "endDate": "2026-11-29",
