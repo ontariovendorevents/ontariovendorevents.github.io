@@ -5484,5 +5484,27 @@ window.EVENTS_REFRESH = [
   "description": "Ottawa's adults-only Naughty Xmas Market — a cheeky, grown-up Christmas market raising money for the House of Lazarus Kids Backpack Program, which provides weekend food for children facing food insecurity. Organized by Sue McGarvie and the Ducklings social community. One vendor table was still available when posted (Nov 25).\nListing type: Vendor call\nHours: Saturday 11:00 AM - 2:00 PM\nAdmission: $5 at the door (supports the backpack program)\nAttractions: Bad Santa and elves, burlesque and festive entertainment, tarot readings, thrift and costume clothing, homemade soup and treats\nVendor types wanted: Local artisans and vendors with naughty-and-nice gifts and stocking stuffers\nHow-to-apply: Message the organizer on Facebook (see the source post)\nOrganizer: Sue McGarvie and the Ducklings social community\nSource: https://facebook.com/groups/377595892794556/permalink/2280517902502336/",
   "fees": "",
   "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Casselman Spring Market and Garage Sale",
+  "date": "2027-05-29",
+  "time": "10 a.m.–4 p.m.",
+  "location": "Casselman Arena, 758 Brébeuf, Casselman, ON",
+  "city": "Casselman",
+  "region": "Rest of Ontario",
+  "description": "Casselman Community Fundraising's yearly spring market and garage sale at the Casselman Arena, with over 100 vendors. Table rentals are available for an extra charge (limited tables). Hours not yet published by the organizer — the market is listed at placeholder hours.\nListing type: Vendor call\nHours: 10:00 AM - 4:00 PM (hours not yet published by the organizer)\nVendors expected: Over 100 vendors\nHow-to-apply: Email the organizer (address in the source post) to register for a spot\nOrganizer: Casselman Community Fundraising\nSource: https://facebook.com/groups/145130302589219/permalink/2683003238801900/",
+  "fees": "",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
+ },
+ {
+  "title": "Pancakes & Flannel Christmas Market",
+  "date": "2026-12-12",
+  "time": "10 a.m.–2 p.m.",
+  "location": "Queen Victoria Public School, 11 John Street, Lindsay, ON",
+  "city": "Lindsay",
+  "region": "Kawarthas and Peterborough",
+  "description": "A school Christmas market at Queen Victoria Public School in Lindsay, with a pancake breakfast, raffles and photos with Santa. All proceeds support the school's new playground project.\nListing type: Vendor call\nHours: Saturday 10:00 AM - 2:00 PM\nAttractions: Pancake breakfast ($5 per person), raffles, photos with Santa\nVendor types wanted: Handmade goods, gifts and local finds\nHow-to-apply: Request the vendor form from the organizers via the source post and return it; proof of insurance is required on acceptance, and spaces are confirmed by the organizers\nOrganizer: Queen Victoria Public School\nSource: https://facebook.com/groups/524928052267953/permalink/1622446119182802/",
+  "fees": "$40 per 6 ft table",
+  "url": "https://calendar.google.com/calendar/embed?src=d6365de3f28fa89dd6015eeb631e49149eabcd5dae8bd1007a9d8991861502d2%40group.calendar.google.com"
  }
 ];
